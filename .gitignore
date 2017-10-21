@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/3rdParty
+/OtherEngTools/Temp
+/src/Pamux.GameDev.Tools/obj/x86/Debug
+/src/Pamux.GameDev.Tools/bin/Debug
+/src/.vs/EngTools/v15
+/OtherEngTools
+/Data/Clipboard.txt

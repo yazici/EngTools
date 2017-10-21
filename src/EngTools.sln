@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pamux.GameDev.Tools", "Pamux.GameDev.Tools\Pamux.GameDev.Tools.csproj", "{80F35D80-EE90-4670-97C1-EE270FA271EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F35D80-EE90-4670-97C1-EE270FA271EE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{80F35D80-EE90-4670-97C1-EE270FA271EE}.Debug|Any CPU.Build.0 = Debug|x86
+		{80F35D80-EE90-4670-97C1-EE270FA271EE}.Release|Any CPU.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCE24B6F-80BB-4D04-8FB2-A67023F48892}
+	EndGlobalSection
+EndGlobal

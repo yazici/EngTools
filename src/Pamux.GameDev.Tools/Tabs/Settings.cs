@@ -6,13 +6,19 @@
 
 namespace Pamux.GameDev.Tools.Tabs
 {
+    using Pamux.GameDev.Tools.Models;
     using System.Windows.Forms;
 
-    public partial class Settings : UserControl
+    public partial class SettingsControl : UserControl
     {
-        public Settings()
+        public SettingsControl()
         {
             InitializeComponent();
+        }
+
+        private void txtVoiceSaveDirectory_TextChanged(object sender, System.EventArgs e)
+        {
+            Settings.Instance.VoiceSaveDirectory = txtVoiceSaveDirectory.Text;
         }
     }
 }

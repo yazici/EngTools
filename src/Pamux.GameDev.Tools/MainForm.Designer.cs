@@ -33,14 +33,18 @@
             this.tabMain = new System.Windows.Forms.TabControl();
             this.tabHome = new System.Windows.Forms.TabPage();
             this.home = new Pamux.GameDev.Tools.Tabs.Home();
-            this.tabSettings = new System.Windows.Forms.TabPage();
-            this.settings = new Pamux.GameDev.Tools.Tabs.Settings();
             this.tabWindowsStore = new System.Windows.Forms.TabPage();
-            this.windowsStore1 = new Pamux.GameDev.Tools.Tabs.WindowsStore();
+            this.windowsStore = new Pamux.GameDev.Tools.Tabs.WindowsStore();
+            this.tabSettings = new System.Windows.Forms.TabPage();
+            this.settings = new Pamux.GameDev.Tools.Tabs.SettingsControl();
+            this.tabText2Speech = new System.Windows.Forms.TabPage();
+            this.text2Speech1 = new Pamux.GameDev.Tools.Tabs.Text2Speech();
+            this.settings1 = new Pamux.GameDev.Tools.Tabs.SettingsControl();
             this.tabMain.SuspendLayout();
             this.tabHome.SuspendLayout();
-            this.tabSettings.SuspendLayout();
             this.tabWindowsStore.SuspendLayout();
+            this.tabSettings.SuspendLayout();
+            this.tabText2Speech.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabMain
@@ -48,6 +52,7 @@
             this.tabMain.Controls.Add(this.tabHome);
             this.tabMain.Controls.Add(this.tabWindowsStore);
             this.tabMain.Controls.Add(this.tabSettings);
+            this.tabMain.Controls.Add(this.tabText2Speech);
             this.tabMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabMain.Location = new System.Drawing.Point(0, 0);
             this.tabMain.Name = "tabMain";
@@ -74,8 +79,28 @@
             this.home.Size = new System.Drawing.Size(840, 468);
             this.home.TabIndex = 0;
             // 
+            // tabWindowsStore
+            // 
+            this.tabWindowsStore.Controls.Add(this.windowsStore);
+            this.tabWindowsStore.Location = new System.Drawing.Point(4, 22);
+            this.tabWindowsStore.Name = "tabWindowsStore";
+            this.tabWindowsStore.Padding = new System.Windows.Forms.Padding(3);
+            this.tabWindowsStore.Size = new System.Drawing.Size(846, 474);
+            this.tabWindowsStore.TabIndex = 2;
+            this.tabWindowsStore.Text = "Windows Store";
+            this.tabWindowsStore.UseVisualStyleBackColor = true;
+            // 
+            // windowsStore
+            // 
+            this.windowsStore.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.windowsStore.Location = new System.Drawing.Point(3, 3);
+            this.windowsStore.Name = "windowsStore";
+            this.windowsStore.Size = new System.Drawing.Size(840, 468);
+            this.windowsStore.TabIndex = 0;
+            // 
             // tabSettings
             // 
+            this.tabSettings.Controls.Add(this.settings1);
             this.tabSettings.Controls.Add(this.settings);
             this.tabSettings.Location = new System.Drawing.Point(4, 22);
             this.tabSettings.Name = "tabSettings";
@@ -93,24 +118,31 @@
             this.settings.Size = new System.Drawing.Size(840, 468);
             this.settings.TabIndex = 0;
             // 
-            // tabWindowsStore
+            // tabText2Speech
             // 
-            this.tabWindowsStore.Controls.Add(this.windowsStore1);
-            this.tabWindowsStore.Location = new System.Drawing.Point(4, 22);
-            this.tabWindowsStore.Name = "tabWindowsStore";
-            this.tabWindowsStore.Padding = new System.Windows.Forms.Padding(3);
-            this.tabWindowsStore.Size = new System.Drawing.Size(846, 474);
-            this.tabWindowsStore.TabIndex = 2;
-            this.tabWindowsStore.Text = "Windows Store";
-            this.tabWindowsStore.UseVisualStyleBackColor = true;
+            this.tabText2Speech.Controls.Add(this.text2Speech1);
+            this.tabText2Speech.Location = new System.Drawing.Point(4, 22);
+            this.tabText2Speech.Name = "tabText2Speech";
+            this.tabText2Speech.Padding = new System.Windows.Forms.Padding(3);
+            this.tabText2Speech.Size = new System.Drawing.Size(846, 474);
+            this.tabText2Speech.TabIndex = 3;
+            this.tabText2Speech.Text = "Text2Speech";
+            this.tabText2Speech.UseVisualStyleBackColor = true;
             // 
-            // windowsStore1
+            // text2Speech1
             // 
-            this.windowsStore1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.windowsStore1.Location = new System.Drawing.Point(3, 3);
-            this.windowsStore1.Name = "windowsStore1";
-            this.windowsStore1.Size = new System.Drawing.Size(840, 468);
-            this.windowsStore1.TabIndex = 0;
+            this.text2Speech1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.text2Speech1.Location = new System.Drawing.Point(3, 3);
+            this.text2Speech1.Name = "text2Speech1";
+            this.text2Speech1.Size = new System.Drawing.Size(840, 468);
+            this.text2Speech1.TabIndex = 0;
+            // 
+            // settings1
+            // 
+            this.settings1.Location = new System.Drawing.Point(0, 0);
+            this.settings1.Name = "settings1";
+            this.settings1.Size = new System.Drawing.Size(800, 535);
+            this.settings1.TabIndex = 1;
             // 
             // MainForm
             // 
@@ -123,8 +155,9 @@
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.tabMain.ResumeLayout(false);
             this.tabHome.ResumeLayout(false);
-            this.tabSettings.ResumeLayout(false);
             this.tabWindowsStore.ResumeLayout(false);
+            this.tabSettings.ResumeLayout(false);
+            this.tabText2Speech.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -134,9 +167,13 @@
         private System.Windows.Forms.TabControl tabMain;
         private System.Windows.Forms.TabPage tabHome;
         private System.Windows.Forms.TabPage tabSettings;
+
         private Home home;
-        private Settings settings;
+        private SettingsControl settings;
         private System.Windows.Forms.TabPage tabWindowsStore;
-        private WindowsStore windowsStore1;
+        private WindowsStore windowsStore;
+        private System.Windows.Forms.TabPage tabText2Speech;
+        private Text2Speech text2Speech1;
+        private SettingsControl settings1;
     }
 }

@@ -1,0 +1,59 @@
+__=Directory Changers
+
+..=cd ..
+...=cd ..\..
+....=cd ..\..\..
+-=popd
+
+tools=pushd $env:TOOLS_ROOT
+unity=pushd $env:UNITY_PROJECTS
+arduino=pushd $env:ARDUINO_PROJECTS
+
+__=App Launchers
+x=explorer .
+u=LaunchUnity
+vs=LaunchVisualStudio
+bl=LaunchBlender
+sk=LaunchSketchup
+p=LaunchPaintNET
+
+__=Alias Helpers
+remac=SetupPowershellAliases
+aliases=EditPowershellAliases
+
+__=Environment
+reenv=. "${env:TOOLS_ROOT}\StartDev_Shooter.ps1"
+reutil=. "${env:TOOLS_ROOT}\StartDev_Shooter.ps1"
+env=dir env:
+
+__=GIT COMMAND ALIASES
+ginit=git init
+glog=git log
+gcom=git commit -a
+gclone=git clone /home/alice/project myrepo
+gfetch=git fetch /home/bob/myrepo master
+gpull=git pull . remotes/bob/master
+gbranches=git branch -r
+gshow=git show c82a22c39cbc32576f64f5c6b3f24b99ea8149c7
+gshowhead=git show HEAD
+gshowbranch=git show experimental 
+gtutorial=& "${env:GIT_ROOT}\doc\git\html\gittutorial.html"
+gignored=LaunchTextEditor ${env:WORKSPACE_ROOT}\.gitignore
+gconfig=LaunchTextEditor ${env:WORKSPACE_ROOT}\.gitconfig
+gcommands=git help -a
+gcheckout=git checkout
+gadd=git add --dry-run 
+gblame=git bisect
+gdiff=git diff
+ggrep=git grep
+gmerge=git merge
+gmove=git mv
+grename=git mv
+gpush=git push
+grebase=git rebase
+greset=git reset
+gremove=git rm
+gdelete=git rm
+gstat=git status
+gtag=git tag
+gcleanup=git gc
