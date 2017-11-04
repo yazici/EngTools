@@ -1,0 +1,35 @@
+Assets/Example/ReadMe.txt
+Assets/Example/Models/GenericDoorFrame_ENV.fbx
+Assets/Example/Models/GenericWall_ENV.fbx
+Assets/Example/Models/FloorTile_ENV.fbx
+Assets/Example/Materials/DoorFrame_MAT.mat
+Assets/Example/Models/Door_ENV.fbx
+Assets/Example/Models/DoorKnob_ENV.fbx
+Assets/Draw Call Minimizer.pdf
+Assets/Scripts/Editor/MeshExporter.cs
+Assets/Scripts/Editor/CombineMeshInEditor.cs
+Assets/Scripts/Editor/RevertFromDevelopmentBake.cs
+Assets/Scripts/Misc/TextureAtlasInfo.cs
+Assets/Scripts/Misc/ShaderProperties.cs
+Assets/Scripts/Runtime/MeshCombineUtility.cs
+Assets/Scripts/Editor/TextureExporter.cs
+Assets/Scripts/Editor/AssetExporter.cs
+Assets/Example/Materials/FloorTile_MAT.mat
+Assets/Example/Materials/DoorKnob_MAT.mat
+Assets/Example/Prefabs/Door.prefab
+Assets/Example/Materials/Wall_MAT.mat
+Assets/Example/Prefabs/Wall.prefab
+Assets/Example/Prefabs/DoorFrame.prefab
+Assets/Example/Prefabs/FloorTile.prefab
+Assets/Example/Materials/New Material.mat
+Assets/Example/Textures/GenericWall3_DIFF.png
+Assets/Example/Textures/GenericDoor1_DIFF.png
+Assets/Materials/Combined_MeshMat.mat
+Assets/Example/Textures/GenericWall1_DIFF.png
+Assets/Scripts/Editor/CombineMeshInEditorWindow.cs
+Assets/Example/Textures/GenericFloorTile_DIFF.png
+Assets/Example/Textures/DoorKnob2_DIFF.png
+Assets/Scripts/Runtime/OptimizedCombineChildren.cs
+Assets/Scripts/Runtime/TextureCombineUtility.cs
+Assets/Example/Materials/Door_MAT.mat
+Assets/Example/Example Level.unity

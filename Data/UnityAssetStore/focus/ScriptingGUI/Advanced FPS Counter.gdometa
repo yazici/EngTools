@@ -1,0 +1,14 @@
+Assets/CodeStage/AdvancedFPSCounter/Scripts/ActionScript/GateFromFlashWorld.as
+Assets/CodeStage/AdvancedFPSCounter/API.txt
+Assets/CodeStage/AdvancedFPSCounter/Scripts/CountersData/FPSCounterData.cs
+Assets/CodeStage/AdvancedFPSCounter/Readme.pdf
+Assets/CodeStage/AdvancedFPSCounter/Changelog.txt
+Assets/CodeStage/AdvancedFPSCounter/Examples/ExampleScene.unity
+Assets/CodeStage/AdvancedFPSCounter/Scripts/CountersData/DeviceInfoCounterData.cs
+Assets/CodeStage/AdvancedFPSCounter/Scripts/Label/LabelAnchor.cs
+Assets/CodeStage/AdvancedFPSCounter/Scripts/Label/DrawableLabel.cs
+Assets/CodeStage/AdvancedFPSCounter/Scripts/Editor/AFPSCounterEditor.cs
+Assets/CodeStage/AdvancedFPSCounter/Scripts/CountersData/MemoryCounterData.cs
+Assets/CodeStage/AdvancedFPSCounter/Scripts/AFPSCounter.cs
+Assets/CodeStage/AdvancedFPSCounter/Examples/APITester.cs
+Assets/CodeStage/AdvancedFPSCounter/Prefabs/Advanced FPS Counter.prefab

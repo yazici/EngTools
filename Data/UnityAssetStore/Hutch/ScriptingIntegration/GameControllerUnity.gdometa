@@ -1,0 +1,9 @@
+Assets/Plugins/GameController/README.txt
+Assets/Editor/PostprocessBuildPlayer
+Assets/Plugins/GameController/GameControllerGUI.cs
+Assets/Plugins/GameController/GameControllerGUI.prefab
+Assets/Editor/PostprocessBuildPlayer_GameControllerUnity
+Assets/Plugins/GameController/GameControllerGUI.unity
+Assets/Plugins/GameController/GameController_Snaphots.cs
+Assets/Plugins/iOS/libGameControllerUnity.a
+Assets/Plugins/GameController/GameController.cs

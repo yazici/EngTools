@@ -1,0 +1,178 @@
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/DLAA.shader
+Assets/Gui/Custom/ZoomActive.png
+Assets/Scripts/Idle.cs
+Assets/Standard Assets/Image Effects (Pro Only)/CameraInfo.js
+Assets/Reflection/MirrorReflection.cs
+Assets/Standard Assets/Image Effects (Pro Only)/Crease.js
+Assets/Standard Assets/Image Effects (Pro Only)/GlowEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/EdgeDetectNormals.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseEffectShaderYUV.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ConvertDepth.shader
+Assets/Gui/Custom/box2.tga
+Assets/SubstancesSources/Resources/Logos/2968.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader
+Assets/SubstancesSources/Resources/Logos/yankees-logo-baseball.png
+Assets/Character_Meshes/Materials/chara-Material #1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/SunShafts.js
+Assets/Gui/Custom/TurnLHover.png
+Assets/Props/stadium-night-sm 1.jpg
+Assets/Custom.unity
+Assets/Standard Assets/Image Effects (Pro Only)/DepthOfField34.js
+Assets/Standard Assets/Image Effects (Pro Only)/GrayscaleEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Adaptation.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ContrastComposite.shader
+Assets/Standard Assets/Scripts/Camera Scripts/MouseOrbit.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ChromaticAberrationShader.shader
+Assets/Scripts/Customize.cs
+Assets/Materials/chara@crossarms-Material #1.mat
+Assets/Standard Assets/Scripts/Utility Scripts/CombineChildren.cs
+Assets/Props/Modern_Concrete_02.sbsar
+Assets/Gui/Custom/TurnActive.png
+Assets/Standard Assets/Image Effects (Pro Only)/BlurEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/GlobalFog.js
+Assets/Standard Assets/Editor/Image Effects/AntialiasingAsPostEffectEditor.js
+Assets/Materials/chara@crossarms-Material #14.mat
+Assets/Gui/Custom/TurnL.png
+Assets/Materials/chara@idle-Material #14.mat
+Assets/Standard Assets/Editor/Image Effects/SunShaftsEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/Triangles.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/EdgeDetectX.shader
+Assets/Reflection/MirrorReflection.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionCurvesSimple.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SSAOShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/LensFlareCreate.shader
+Assets/Standard Assets/Image Effects (Pro Only)/MotionBlur.cs
+Assets/Materials/chara-Material #1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/frag_ao.cginc
+Assets/Props/concrete_049.sbsar
+Assets/Materials/charaOLD-Material #1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/Blend.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/VignetteShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffectNormals.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/MinMaxReduction.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/Bokeh34.shader
+Assets/Props/Materials/Can.mat
+Assets/Standard Assets/Image Effects (Pro Only)/PostEffectsHelper.js
+Assets/Materials/chara@fists-Material #1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseEffectShaderRGB.shader
+Assets/Gui/Custom/TweaksButtons.png
+Assets/Reflection/MirrorReflection.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseEffectScratch.png
+Assets/Gui/Custom/ZoomHover.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VignettingShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionCurves.shader
+Assets/Gui/Custom/Turn.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/TwirlEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionEffect.shader
+Assets/Character_Meshes/chara@idle.FBX
+Assets/Materials/stadium-night2.mat
+Assets/Gui/Custom/TweaksPanel.png
+Assets/Gui/TAHOMA.TTF
+Assets/Materials/chara@idle-Material #1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAAPreset2.shader
+Assets/Gui/Text.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VortexEffect.shader
+Assets/Character_Meshes/chara@crossarms.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlobalFog.shader
+Assets/Materials/chara-Material #14.mat
+Assets/Standard Assets/Editor/Image Effects/DepthOfField34Editor.js
+Assets/Character_Meshes/Materials/chara@scratch-Material #14.mat
+Assets/Gui/Custom/Zoom.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/sphereShape.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/hexShape.png
+Assets/Standard Assets/Image Effects (Pro Only)/Fisheye.js
+Assets/Standard Assets/Image Effects (Pro Only)/ColorCorrectionCurves.js
+Assets/Gui/GUISkin.guiskin
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/FisheyeShader.shader
+Assets/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js
+Assets/Standard Assets/Image Effects (Pro Only)/ImageEffects.cs
+Assets/Gui/Custom/toggleUnselected.png
+Assets/Standard Assets/Scripts/Camera Scripts/SmoothLookAt.js
+Assets/Materials/chara-Torus002Mat.mat
+Assets/Standard Assets/Scripts/Utility Scripts/MeshCombineUtility.cs
+Assets/Animation/Zoom.anim
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/TiltShift.shader
+Assets/Gui/Custom/TurnHover.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowCompose.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/DepthOfField34.shader
+Assets/Gui/Custom/TurnLActive.png
+Assets/Materials/stadium-night1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/PrepareSunShaftsBlur.shader
+Assets/SubstancesSources/CharaDesigner2.sbs
+Assets/Gui/Custom/TweaksButtonsHover.png
+Assets/Materials/stadium.mat
+Assets/Standard Assets/Image Effects (Pro Only)/SepiaToneEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/RandomVectors.png
+Assets/Props/Can.tga
+Assets/Character_Meshes/chara.FBX
+Assets/Character_Meshes/Materials/chara-Material #14.mat
+Assets/Standard Assets/Image Effects (Pro Only)/NoiseEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/VortexEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/AntialiasingAsPostEffect.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/Character_Meshes/Materials/chara@crossarms-Material #14.mat
+Assets/Materials/chara@neckcrack-Material #14.mat
+Assets/Character_Meshes/Materials/chara@idle-Material #1.mat
+Assets/Character_Meshes/chara@neckcrack.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/SSAOEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowEffectDownsample.shader
+Assets/Character_Meshes/Materials/chara@crossarms-Material #1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/SSAA.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/CreaseApply.shader
+Assets/Materials/chara@fists-Material #14.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SepiaToneEffect.shader
+Assets/Character_Meshes/Materials/chara@neckcrack-Material #1.mat
+Assets/Gui/Custom/toggleSelected.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader
+Assets/Standard Assets/Image Effects (Pro Only)/TwirlEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/Vignetting.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Luminance.shader
+Assets/SubstancesSources/Resources/Logos/milwaukee_brewers_logo-19565.png
+Assets/SubstancesSources/Resources/GuyHead.tga
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAAPreset3.shader
+Assets/Gui/ColorPicker.png
+Assets/Standard Assets/Scripts/General Scripts/ActivateTrigger.cs
+Assets/Standard Assets/Scripts/General Scripts/DragRigidbody.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAA2.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/NFAA.shader
+Assets/Character_Meshes/Materials/chara@scratch-Material #1.mat
+Assets/Character_Meshes/Materials/chara@idle-Material #14.mat
+Assets/Standard Assets/Image Effects (Pro Only)/BloomAndLensFlares.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SunShaftsComposite.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/color correction ramp.png
+Assets/Standard Assets/Image Effects (Pro Only)/PostEffectsBase.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ShowAlphaChannel.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GrayscaleEffect.shader
+Assets/Materials/charaOLD-Material #14.mat
+Assets/Standard Assets/Image Effects (Pro Only)/TiltShift.js
+Assets/Standard Assets/Editor/Image Effects/EdgeDetectEffectNormalsEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+Assets/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffect.cs
+Assets/Props/Can.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionSelective.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ContrastEnhance.js
+Assets/Character_Meshes/Materials/chara@neckcrack-Material #14.mat
+Assets/Standard Assets/Editor/Image Effects/TiltShiftEditor.js
+Assets/SubstancesSources/CharaHeadDesigner2.sbs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/SeparableBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/grayscale ramp.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/MotionBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ColorCorrectionEffect.cs
+Assets/Materials/chara@neckcrack-Material #1.mat
+Assets/Props/Concrete_Barrier.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/ContrastStretchEffect.cs
+Assets/Character_Textures/CharaHeadDesigner2.sbsar
+Assets/Standard Assets/Editor/Image Effects/ColorCorrectionCurvesEditor.js
+Assets/Gui/Custom/TweaksButtonsActive.png
+Assets/Character_Textures/CharaDesigner2.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/Quads.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Apply.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/RadialBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ImageEffectBase.cs
+Assets/Character_Meshes/chara@scratch.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SimpleClear.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BlendOneOne.shader
+Assets/SubstancesSources/Resources/JockGuy.tga
+Assets/Standard Assets/Editor/Image Effects/BloomAndLensFlaresEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowConeTap.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseEffectGrain.png

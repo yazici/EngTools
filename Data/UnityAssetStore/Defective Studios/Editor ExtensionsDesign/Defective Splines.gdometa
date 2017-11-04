@@ -1,0 +1,32 @@
+Assets/Splines/main.unity
+Assets/Splines/Scripts/Editor/SplineNodeInspector.cs
+Assets/Splines/Resources/Arrow.fbx
+Assets/Splines/Resources/Materials/Rotation Handles-lambert1.mat
+Assets/Splines/Resources/Rotation Handle Texture.psd
+Assets/Splines/Resources/Reset Texture.png
+Assets/Splines/Scripts/HelperClasses/Set.cs
+Assets/Splines/Spline System.prefab
+Assets/Splines/Resources/Materials/4108-enemy_pause_mat.mat
+Assets/Splines/Resources/Pause.fbx
+Assets/Splines/Resources/Materials/4105-lambert1.mat
+Assets/Splines/Resources/Materials/Pause-lambert1.mat
+Assets/Splines/Scripts/SplineClasses/SplineController.cs
+Assets/Splines/Resources/Materials/Reset_Stop-lambert1.mat
+Assets/Splines/Resources/Continue.fbx
+Assets/Splines/Scripts/SplineClasses/SplineColliderDraw.cs
+Assets/Splines/Scripts/HelperClasses/Utility.cs
+Assets/Splines/Resources/Materials/4107-lambert1.mat
+Assets/Splines/Resources/Materials/Continue-lambert1.mat
+Assets/Splines/Scripts/SplineClasses/SplineTester.cs
+Assets/Splines/Scripts/SplineClasses/Spline.cs
+Assets/Splines/Resources/Materials/4130-enemy_main_handle_mat.mat
+Assets/Splines/Resources/Handle.fbx
+Assets/Splines/Resources/Materials/4109-lambert1.mat
+Assets/Splines/Resources/Materials/4106-lambert1.mat
+Assets/Splines/Resources/Reset_Stop.fbx
+Assets/Splines/Resources/Materials/Handle-enemy_main_handle_mat.mat
+Assets/Splines/Resources/Rotation Handles.fbx
+Assets/Splines/Scripts/Editor/SplineControllerInspector.cs
+Assets/Splines/Resources/Materials/Arrow-enemy_pause_mat.mat
+Assets/Splines/Scripts/SplineClasses/SplineNode.cs
+Assets/Splines/Scripts/Editor/SplineInspector.cs

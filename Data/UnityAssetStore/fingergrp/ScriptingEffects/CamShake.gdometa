@@ -1,0 +1,33 @@
+Assets/CamShake/Resource/Materials/Ball_yellow.mat
+Assets/CamShake/Resource/Floor/Materials/Wood Floor - MAT.mat
+Assets/CamShake/Resource/Materials/Ball_red.mat
+Assets/CamShake/Resource/Floor/Prefabs/Floor - Wood.prefab
+Assets/CamShake/Scripts/Game.cs
+Assets/CamShake/Resource/Sky/Day Sun Mid HighColdCirrus.png
+Assets/CamShake/Resource/Floor/Models/Wood Floor - MDL.fbx
+Assets/CamShake/Resource/Textures/jelly_n.tga
+Assets/CamShake/Resource/Sky/AllSky_SkyboxCubed.mat
+Assets/CamShake/Resource/Floor/Textures/Wood Floor - TEX.tif
+Assets/CamShake/Resource/Textures/jelly_red.tga
+Assets/CamShake/Scripts/cmn/WHCameraRandomShaker.cs
+Assets/CamShake/Resource/Textures/jelly_green.tga
+Assets/CamShake/Resource/Materials/Ball_green.mat
+Assets/CamShake/Resource/Sky/Day Sun Mid HorizonRich.png
+Assets/CamShake/Resource/Textures/jelly_yellow.tga
+Assets/CamShake/docs/tutorial1.html
+Assets/CamShake/docs/tutorial0.html
+Assets/CamShake/docs/pic1.3_set_rot_damping.png
+Assets/CamShake/docs/pic1.1_set_rot_speed.png
+Assets/CamShake/docs/index.html
+Assets/CamShake/Scene/Tst1.unity
+Assets/CamShake/Scene/Tst0.unity
+Assets/CamShake/docs/pic3_another_shake_script.png
+Assets/CamShake/docs/pic2_root_scripts.png
+Assets/CamShake/Scene/TstFinal.unity
+Assets/CamShake/docs/bg.jpg
+Assets/CamShake/Scripts/tst0.cs
+Assets/CamShake/readme.txt
+Assets/CamShake/docs/pic1.2_set_hooke_rot.png
+Assets/CamShake/Scripts/cmn/WHCameraShake.cs
+Assets/CamShake/docs/pic4_delay.png
+Assets/CamShake/docs/pic1_first_try.png

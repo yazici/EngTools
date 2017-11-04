@@ -1,0 +1,34 @@
+Assets/InputVCR/ExampleScene/Terrain/Cliff (Layered Rock).psd
+Assets/InputVCR/ExampleScene/Materials/vcrPanel.psd
+Assets/InputVCR/ExampleScene/Scripts/Player/CharacterMotorCS.cs
+Assets/InputVCR/ExampleScene/Materials/PrototypeCharacter/Constructor.FBX
+Assets/InputVCR/ExampleScene/Materials/PrototypeCharacter/Textures/constructor_normals.png
+Assets/InputVCR/ExampleScene/Terrain/New Terrain.asset
+Assets/InputVCR/ExampleScene/Materials/vcrRecordButton.psd
+Assets/InputVCR/ExampleScene/Scripts/Player/FPSInput.cs
+Assets/InputVCR/ExampleScene/Scripts/Player/MouseLook.cs
+Assets/InputVCR/ExampleScene/Materials/vcrStopButton.psd
+Assets/InputVCR/ExampleScene/Materials/PrototypeCharacter/Textures/constructor_diffuse.png
+Assets/InputVCR/ExampleScene/Materials/vcrPlayButton.psd
+Assets/InputVCR/ExampleScene/Terrain/Grass (Hill).psd
+Assets/InputVCR/ExampleScene/Materials/PrototypeCharacter/Materials/constructor_done.mat
+Assets/InputVCR/ExampleScene/Terrain/Grass2.psd
+Assets/InputVCR/ExampleScene/Materials/vcrPauseButton.psd
+Assets/InputVCR/Scripts/LitJSON/COPYING
+Assets/InputVCR/Scripts/readme.txt
+Assets/InputVCR/ExampleScene/Scripts/PositionSmoother.cs
+Assets/InputVCR/Scripts/LitJSON/JsonData.cs
+Assets/InputVCR/ExampleScene/Scripts/RecordButton.cs
+Assets/InputVCR/Scripts/LitJSON/JsonException.cs
+Assets/InputVCR/Scripts/LitJSON/JsonReader.cs
+Assets/InputVCR/ExampleScene/Scripts/PlayButton.cs
+Assets/InputVCR/Scripts/LitJSON/ParserToken.cs
+Assets/InputVCR/Scripts/Recording.cs
+Assets/InputVCR/Scripts/LitJSON/Lexer.cs
+Assets/InputVCR/ExampleScene/Prefabs/RecordedPlayer.prefab
+Assets/InputVCR/Scripts/LitJSON/JsonWriter.cs
+Assets/InputVCR/ExampleScene/Prefabs/FPSPlayer.prefab
+Assets/InputVCR/ExampleScene/exampleScene.unity
+Assets/InputVCR/Scripts/LitJSON/JsonMapper.cs
+Assets/InputVCR/Scripts/LitJSON/IJsonWrapper.cs
+Assets/InputVCR/Scripts/InputVCR.cs

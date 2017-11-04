@@ -1,0 +1,44 @@
+ProjectSettings/InputManager.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/NavMeshLayers.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+Assets/FollowMeAssets/Scenes/FollowMe.unity
+Assets/FollowMeAssets/PreFabs/Offline/User.prefab
+Assets/FollowMeAssets/Visuals/Spawn.mat
+Assets/FollowMeAssets/Scripts/Network/NetworkManager.js
+Assets/FollowMeAssets/Scripts/Network/NetworkRigidbody.cs
+Assets/FollowMeAssets/Visuals/User.mat
+Assets/FollowMeAssets/Documentation/FollowMeKit_1.7.docx
+Assets/FollowMeAssets/Visuals/Floor.mat
+Assets/FollowMeAssets/Scripts/Offline/ViralCamera.js
+Assets/FollowMeAssets/Scripts/Network/ViralFollowerNetwork.js
+Assets/FollowMeAssets/Scripts/Network/NetworkGameManager.js
+Assets/FollowMeAssets/Visuals/User 3.mat
+Assets/FollowMeAssets/PreFabs/Network/UserNet.prefab
+Assets/FollowMeAssets/Visuals/Breaker.mat
+Assets/FollowMeAssets/PreFabs/Offline/Follower.prefab
+Assets/FollowMeAssets/Scripts/Offline/SettingsHUD.js
+Assets/FollowMeAssets/Scripts/Network/NetworkUtilities.js
+Assets/FollowMeAssets/Scripts/Offline/ViralLeader.js
+Assets/FollowMeAssets/Scripts/Network/NetworkMenu.js
+Assets/FollowMeAssets/Visuals/Last.mat
+Assets/FollowMeAssets/Scripts/Network/ViralBreakingForceNetwork.js
+Assets/FollowMeAssets/Scripts/Network/ViralCameraNetwork.js
+Assets/FollowMeAssets/Scripts/Offline/ViralSpawner.js
+Assets/FollowMeAssets/Scenes/FollowMeNET.unity
+Assets/FollowMeAssets/Visuals/MapBm.png
+Assets/FollowMeAssets/Scripts/Offline/ViralBreakingForce.js
+Assets/FollowMeAssets/Scripts/Network/ViralLeaderNetwork.js
+Assets/FollowMeAssets/Visuals/User 1.mat
+Assets/FollowMeAssets/Visuals/Follower.mat
+Assets/FollowMeAssets/PreFabs/Network/FollowerNet.prefab
+Assets/FollowMeAssets/Visuals/User 2.mat
+Assets/FollowMeAssets/Scripts/Offline/ViralFollower.js
+Assets/FollowMeAssets/Scripts/Network/NetworkController.js

@@ -1,0 +1,243 @@
+Assets/Orthello/Standard Assets/OT/_Base/OTMaterial-solid.mat
+Assets/Orthello/Examples/4 - Follow Target View/-orthello-config.xml
+Assets/Orthello/Examples/5 - Creating At Runtime/Blue-Colored.mat
+Assets/Orthello/Objects/Sprites/SpriteAtlas/SpriteAtlas-Cocos2D-fnt.prefab
+Assets/Orthello/Standard Assets/OT/_Base/OTMatRef.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseElasticInOut.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseElasticIn.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTTimeCycle.cs
+Assets/Orthello/Examples/8 - Prefab-Support/test8.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTAnimationFrameset.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTMaterial-additive.mat
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/Atlases/chalk.xml
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseBounceOut.cs
+Assets/Orthello/Examples/3 - Shooting Asteroids/asteroid-2-96.png
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseExpoIn.cs
+Assets/Orthello/Examples/2 - Moving collidable sprites/CStar2.cs
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/Atlases/img.png
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseCubicInOut.cs
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/atlas.xml
+Assets/Orthello/Examples/7 - Tweening/JSStar7_2.js
+Assets/Orthello/Examples/8 - Prefab-Support/asteroid.prefab
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseQuadIn.cs
+Assets/Orthello/Examples/8 - Prefab-Support/asteroid animation.prefab
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseExpoOut.cs
+Assets/Orthello/Examples/0 - Simple Examples/3D integration/cubemat.physicMaterial
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseLinear.cs
+Assets/Orthello/Examples/8 - Prefab-Support/CExample8.unity
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseQuartIn.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTDevTrace.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTController.cs
+Assets/Orthello/Examples/4 - Follow Target View/font black.mat
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/Atlases/russian.png
+Assets/Orthello/Examples/0 - Simple Examples/3D integration/Cube.mat
+Assets/Orthello/Examples/0 - Simple Examples/RotateTowards/-read-me.txt
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseBackInOut.cs
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/Atlases/russian.txt
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseCircInOut.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseBounceInOut.cs
+Assets/Orthello/Examples/1 - Paralax scrolling FilledSprite/JSExample1.unity
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseSineOut.cs
+Assets/Orthello/Examples/0 - Simple Examples/(Unity Pro) NavMesh Pathfinding/Navmesh.unity
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseElasticOut.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseCubicOut.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseBackIn.cs
+Assets/Orthello/Examples/0 - Simple Examples/Persistance/-read-me.txt
+Assets/Orthello/Examples/8 - Prefab-Support/asteroid container.prefab
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseBackOut.cs
+Assets/Orthello/Objects/Sprites/SpriteAtlas/SpriteAtlas-BMFont-xml.prefab
+Assets/Orthello/Examples/3 - Shooting Asteroids/cannon-bullet.png
+Assets/Orthello/Objects/Sprites/SpriteSheet.prefab
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/Atlases/img.xml
+Assets/Orthello/Examples/8 - Prefab-Support/gun container.prefab
+Assets/Orthello/Examples/0 - Simple Examples/3D integration/App.cs
+Assets/Orthello/Examples/7 - Tweening/CStar7_1.cs
+Assets/Orthello/Objects/Sprites/FilledSprite.prefab
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseBounceIn.cs
+Assets/Orthello/Examples/0 - Simple Examples/Persistance/level-1.unity
+Assets/Orthello/Examples/4 - Follow Target View/Materials/mover.mat
+Assets/Orthello/Standard Assets/OT/_Base/OTPB.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseCircIn.cs
+Assets/Orthello/Examples/1 - Paralax scrolling FilledSprite/CExample1.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseQuadOut.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTAtlasData.cs
+Assets/Orthello/Standard Assets/OT/_Base/TintedAlpha.shader
+Assets/Orthello/Examples/0 - Simple Examples/Persistance/PersistentSprite.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseQuartOut.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseQuadInOut.cs
+Assets/Orthello/Objects/Sprites/SpriteAtlas/SpriteAtlas-OGRE.prefab
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseStrongOut.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseSineIn.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseCircOut.cs
+Assets/Orthello/Examples/7 - Tweening/CStar7_2.cs
+Assets/Orthello/Examples/0 - Simple Examples/(Unity Pro) NavMesh Pathfinding/Agent.cs
+Assets/Orthello/Objects/Sprites/SpriteAtlas/SpriteAtlas-Zwoptex.prefab
+Assets/Orthello/Examples/8 - Prefab-Support/gun animation.prefab
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseStrongIn.cs
+Assets/Orthello/Examples/8 - Prefab-Support/gun.prefab
+Assets/Orthello/Objects/Sprites/SpriteAtlas/SpriteAtlas-Base.prefab
+Assets/Orthello/Examples/animeace2_reg.ttf
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseQuintIn.cs
+Assets/Orthello/Examples/3 - Shooting Asteroids/space-turret.png
+Assets/Orthello/Examples/0 - Simple Examples/Persistance/level-0.unity
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/OTTextImages.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseQuintOut.cs
+Assets/Orthello/Examples/0 - Simple Examples/3D integration/Arrow.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseQuintInOut.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseQuartInOut.cs
+Assets/Orthello/Examples/4 - Follow Target View/CMover4.cs
+Assets/Orthello/Examples/7 - Tweening/JSStar7_1.js
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/lorem-rus-utf8.txt
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/ninepatch.png
+Assets/Orthello/Objects/Sprites/Animation.prefab
+Assets/Orthello/Objects/Sprites/SpriteAtlas/SpriteAtlas-Sparrow.prefab
+Assets/Orthello/Examples/5 - Creating At Runtime/walking blue man.png
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseCubicIn.cs
+Assets/Orthello/Examples/3 - Shooting Asteroids/CBullet3.cs
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/OTTextPortago.cs
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/Atlases/chalk.png
+Assets/Orthello/Standard Assets/OT/Tweening/OTEase.cs
+Assets/Orthello/Objects/Sprites/Sprite.prefab
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/Atlases/glyph.xml
+Assets/Orthello/Examples/0 - Simple Examples/3D integration/arrow.png
+Assets/Orthello/Examples/2 - Moving collidable sprites/block.png
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/OTTextChalc.cs
+Assets/Orthello/Examples/5 - Creating At Runtime/Green-Colored.mat
+Assets/Orthello/Examples/0 - Simple Examples/(Unity Pro) NavMesh Pathfinding/Navmesh/NavMesh.asset
+Assets/Orthello/Examples/3 - Shooting Asteroids/asteroid-3-96.png
+Assets/Orthello/Standard Assets/OT/Tweening/OTEasing.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTMaterial-transparent.mat
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseSineInOut.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseStrongInOut.cs
+Assets/Orthello/Standard Assets/OT/Tweening/OTEaseExpoInOut.cs
+Assets/Orthello/Standard Assets/Editor/OTPrefabBreaker.cs
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/Atlases/glyph.png
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTFilledSprite.cs
+Assets/Orthello/Objects/Sprites/GradientSprite.prefab
+Assets/Orthello/Examples/4 - Follow Target View/mover.png
+Assets/Orthello/Objects/Sprites/TextSprite.prefab
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/orthello-font-30.png
+Assets/Orthello/Objects/OT-3D.prefab
+Assets/Orthello/Objects/Sprites/AnimatingSprite.prefab
+Assets/Orthello/Examples/4 - Follow Target View/whiteboard.png
+Assets/Orthello/Examples/2 - Moving collidable sprites/CExample2.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTScale9Sprite.cs
+Assets/Orthello/Examples/0 - Simple Examples/3D integration/white-normal.png
+Assets/Orthello/Examples/3 - Shooting Asteroids/asteroid-1-96.png
+Assets/Orthello/Examples/5 - Creating At Runtime/stars-green.png
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/orthello-font-30.txt
+Assets/Orthello/Examples/4 - Follow Target View/mover-small.png
+Assets/Orthello/Objects/Sprites/Scale9Sprite.prefab
+Assets/Orthello/Examples/5 - Creating At Runtime/white.png
+Assets/Orthello/Examples/0 - Simple Examples/RotateTowards/TestRotateTowards.cs
+Assets/Orthello/Examples/0 - Simple Examples/Clipping/move.png
+Assets/Orthello/Objects/Sprites/ClipSprite.prefab
+Assets/Orthello/Objects/OT.prefab
+Assets/Orthello/Examples/0 - Simple Examples/Clipping/ClipSprites.cs
+Assets/Orthello/Objects/Sprites/ClippingAreaSprite.prefab
+Assets/Orthello/Standard Assets/OT/_Base/OTObjectType.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTClipSprite.cs
+Assets/Orthello/Examples/7 - Tweening/JSExample7.js
+Assets/Orthello/Standard Assets/OT/_Base/OTTouch.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTAnimatingSprite.cs
+Assets/Orthello/Examples/7 - Tweening/JSExample7.unity
+Assets/Orthello/Examples/3 - Shooting Asteroids/JSAsteroid3.js
+Assets/Orthello/Examples/1 - Paralax scrolling FilledSprite/star-gray.png
+Assets/Orthello/Examples/0 - Simple Examples/3D integration/3DScene.unity
+Assets/Orthello/Examples/6 - Physics/CExample6.cs
+Assets/Orthello/Examples/3 - Shooting Asteroids/JSExample3.js
+Assets/Orthello/Examples/5 - Creating At Runtime/CExample5.cs
+Assets/Orthello/Examples/2 - Moving collidable sprites/CBlock2.cs
+Assets/Orthello/Examples/1 - Paralax scrolling FilledSprite/CExample1.unity
+Assets/Orthello/Examples/2 - Moving collidable sprites/JSBlock2.js
+Assets/Orthello/Standard Assets/OT/_Base/OTMaterial-tintedAlpha (ruach-mobile's conflicted copy 2013-01-14).mat
+Assets/Orthello/Examples/1 - Paralax scrolling FilledSprite/JSExample1.js
+Assets/Orthello/Examples/5 - Creating At Runtime/JSExample5.unity
+Assets/Orthello/Examples/3 - Shooting Asteroids/JSBullet3.js
+Assets/Orthello/Examples/0 - Simple Examples/RotateTowards/RotateTowards.unity
+Assets/Orthello/Examples/6 - Physics/JSExample6.unity
+Assets/Orthello/Examples/2 - Moving collidable sprites/JSExample2.js
+Assets/Orthello/Examples/4 - Follow Target View/CExample4.unity
+Assets/Orthello/Examples/4 - Follow Target View/JSExample4.unity
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTSpriteSheet.cs
+Assets/Orthello/Examples/4 - Follow Target View/JSExample4.js
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlas.cs
+Assets/Orthello/Examples/3 - Shooting Asteroids/CAsteroid3.cs
+Assets/Orthello/Examples/2 - Moving collidable sprites/JSexample2.unity
+Assets/Orthello/Examples/4 - Follow Target View/JSMover4.js
+Assets/Orthello/Examples/6 - Physics/CExample6.unity
+Assets/Orthello/Examples/2 - Moving collidable sprites/JSStar2.js
+Assets/Orthello/Examples/6 - Physics/JSExample6.js
+Assets/Orthello/Examples/5 - Creating At Runtime/JSExample5.js
+Assets/Orthello/Examples/5 - Creating At Runtime/CExample5.unity
+Assets/Orthello/Standard Assets/Editor/OTAssetPostProcessor.cs
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/TextSprites.unity
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasImportText.cs
+Assets/Orthello/Examples/0 - Simple Examples/DragTest/DragTest.cs
+Assets/Orthello/Examples/3 - Shooting Asteroids/JSExample3.unity
+Assets/Orthello/Examples/4 - Follow Target View/CExample4.cs
+Assets/Orthello/Examples/2 - Moving collidable sprites/CExample2.unity
+Assets/Orthello/Objects/Sprites/PolygonSprite.prefab
+Assets/Orthello/Objects/Sprites/CircleSprite.prefab
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTGridSprite.cs
+Assets/Orthello/Examples/0 - Simple Examples/Clipping/ClipSprites.unity
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTGradientSprite.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTCircleSprite.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTClippingAreaSprite.cs
+Assets/Orthello/Examples/0 - Simple Examples/DragTest/DragTestMain.cs
+Assets/Orthello/Objects/Sprites/CircleGradientSprite.prefab
+Assets/Orthello/Objects/Sprites/GridSprite.prefab
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTAnimatingSpritePassive.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTAnimation.cs
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/Resources/small/sheet-mech.png
+Assets/Orthello/Examples/7 - Tweening/CExample7.cs
+Assets/Orthello/Examples/3 - Shooting Asteroids/CExample3.unity
+Assets/Orthello/Examples/0 - Simple Examples/TextSprites/lorem-ascii.txt
+Assets/Orthello/Standard Assets/OT/Tweening/OTTween.cs
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/DemoMultiResolution.unity
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/Resources/small/atlas.png
+Assets/Orthello/Examples/0 - Simple Examples/DragTest/DragTest.unity
+Assets/Orthello/Standard Assets/OT/Tweening/OTTweenController.cs
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/MultiResolution.cs
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/sheet-mech-small.png
+Assets/Orthello/Examples/7 - Tweening/CExample7.unity
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/atlas-small.png
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/atlas-big.png
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/DemoMultiResolution-Using-Resources.unity
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/Resources/big/sheet-mech.png
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/atlas.png
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/sheet-mech.png
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/sheet-mech-big.png
+Assets/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/Resources/big/atlas.png
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTPolygonSprite.cs
+Assets/Orthello/Examples/3 - Shooting Asteroids/CExample3.cs
+Assets/Orthello/Objects/Font Orthello Font 30-20.prefab
+Assets/Orthello/Standard Assets/OT/Animation/OTMovementController.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasImportXML.cs
+Assets/Orthello/Standard Assets/OT/Data/OTTextDataReader.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTContainer.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTTextSprite.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasOGRE.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasSparrow.cs
+Assets/Orthello/Objects/Sprites/SpriteAtlas/SpriteAtlas-Cocos2D.prefab
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasCocos2DFnt.cs
+Assets/Orthello/Standard Assets/OT/Graphics/OTView.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTHelper.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasZwoptex.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasCocos2D.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasBMFontXml.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasImport.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTMaterial-tintedAlpha.mat
+Assets/Orthello/Examples/2 - Moving collidable sprites/Tinted.mat
+Assets/Orthello/Standard Assets/OT/Data/OTDataReader.cs
+Assets/Orthello/-Read-Me.txt
+Assets/Orthello/Standard Assets/OT/_Base/OTExtensions.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTSounds.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTMaterial-tinted.mat
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTUnitySprite.cs
+Assets/Orthello/Objects/Sprites/UnitySprite.prefab
+Assets/Orthello/Standard Assets/OT/Data/OTXMLDataReader.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTMaterial-tintedAlpha (Ruach-Martijn2's conflicted copy 2013-12-10).mat
+Assets/Orthello/Standard Assets/OT/_Base/OT.cs
+Assets/Orthello/Standard Assets/OT/_Base/OTObject.cs
+Assets/Orthello/Standard Assets/OT/Graphics/Sprites/OTSprite.cs

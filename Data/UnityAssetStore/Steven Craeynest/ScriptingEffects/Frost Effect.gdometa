@@ -1,0 +1,10 @@
+Assets/Frost/Ice.tga
+Assets/Frost/Ice_N.tga
+Assets/Frost/FrostExampleCamera_sharp_OpaqueDistortion.prefab
+Assets/Frost/FrostExampleCamera_sharp.prefab
+Assets/Frost/FrostExampleCamera_smooth_subtleDistortion.prefab
+Assets/Frost/FrostExampleCamera_sharp_TransparentDistortion.prefab
+Assets/Frost/FrostEffect.cs
+Assets/Frost/HowToUse.txt
+Assets/Frost/FrostExampleCamera_smooth.prefab
+Assets/Frost/ImageBlendEffect.shader

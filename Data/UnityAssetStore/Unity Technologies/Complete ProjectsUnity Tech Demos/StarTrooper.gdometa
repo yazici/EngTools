@@ -1,0 +1,85 @@
+ProjectSettings/InputManager.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/NavMeshLayers.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+Assets/_Objects/SpaceCraftFBX.fbx
+Assets/Skyboxes/Source Images/Sunset Front.jpg
+Assets/Shaders/LightmapOnlyShader.shader
+Assets/_Objects/Materials/arenatexture 2.mat
+Assets/_Objects/Textures/shipTexture.tif
+Assets/_Objects/Materials/arenatexture 1.mat
+Assets/_Objects/Textures/pyramidTexture.psd
+Assets/_Objects/Materials/arena-arenatexture1.mat
+Assets/_Objects/sunRingFBX.fbx
+Assets/_Scripts/SmoothFollow.js
+Assets/_Objects/Materials/arena-floortexture.mat
+Assets/_Scripts/ConstrainMotion.js
+Assets/Skyboxes/Blue sky.mat
+Assets/_Objects/arenaFBX.fbx
+Assets/_Prefabs/explosion.prefab
+Assets/_Objects/Materials/columnsquare-lambert1.mat
+Assets/_Scripts/PlayerControls.js
+Assets/_Prefabs/missilePrefab.prefab
+Assets/Standard Assets/Particles/Sources/smoketest2.psd
+Assets/_Scripts/RingRotate.js
+Assets/_Objects/Materials/spikeballrounded-spikeballtexture.mat
+Assets/_Objects/Materials/pyramidtexture.mat
+Assets/_Objects/Materials/sunringtexture.mat
+Assets/_Objects/Materials/floortexture 1.mat
+Assets/_Objects/Materials/arena-arenatexture.mat
+Assets/_Objects/Textures/arenaTexture.psd
+Assets/_Objects/Textures/spikeBallRoundedTexture.psd
+Assets/_Objects/Textures/floorTexture.tga
+Assets/_Objects/columnOneFBX.fbx
+Assets/_Objects/Materials/spikeballroundedtexture.mat
+Assets/Skyboxes/Source Images/Sunset Left.jpg
+Assets/_Objects/Textures/columnSquareTexture.psd
+Assets/_Prefabs/SunRing.prefab
+Assets/_Objects/arenaLitFBX.fbx
+Assets/_Objects/sunRotation.fbx
+Assets/Skyboxes/Source Images/Sunset Up.jpg
+Assets/_Objects/Materials/columntexture 1.mat
+Assets/_Objects/Textures/FuzzK.png
+Assets/_Objects/Materials/floortexture 2.mat
+Assets/Skyboxes/Source Images/Sunset Right.jpg
+Assets/_Objects/Textures/sunRingTexture.psd
+Assets/_Objects/Materials/columnone-lambert5.mat
+Assets/Standard Assets/Particles/Sources/fire4.psd
+Assets/_Prefabs/allColliders.prefab
+Assets/_Objects/Materials/floortexture 3.mat
+Assets/_Objects/Materials/pyramid-lambert1.mat
+Assets/_Objects/Materials/pickUpParticle.mat
+Assets/_Objects/Materials/arena-no name.mat
+Assets/_Scripts/MissileLauncher.js
+Assets/_Objects/Materials/arenatexture.mat
+Assets/_Objects/Materials/columnsquare-columnsquaretexture.mat
+Assets/Standard Assets/Particles/Sources/fire smoke.mat
+Assets/_Objects/Materials/space craft-lambert1.mat
+Assets/_Objects/missileFBX.fbx
+Assets/Skyboxes/Sunset.mat
+Assets/_Objects/Textures/ArenaLightmap.psd
+Assets/_Objects/Materials/untitled-1.mat
+Assets/_Objects/Materials/floortexture.mat
+Assets/_Objects/Materials/spikeballrounded-lambert1.mat
+Assets/_Objects/Materials/columntexture.mat
+Assets/_Objects/Textures/speedArrow.psd
+Assets/_Objects/Materials/columnsquaretexture.mat
+Assets/_Objects/Materials/pyramid-lambert5.mat
+Assets/_Scripts/MissileTrajectory.js
+Assets/_Prefabs/sunlight.prefab
+Assets/StarTrooper.unity
+Assets/Skyboxes/Source Images/Sunset Down.jpg
+Assets/_Objects/Materials/shiptexture.mat
+Assets/_Objects/Textures/columnTexture.psd
+Assets/_Objects/pyramidFBX.fbx
+Assets/_Objects/Materials/missileTracer.mat
+Assets/_Prefabs/explosionPrefab.prefab
+Assets/Skyboxes/Source Images/Sunset Back.jpg

@@ -1,0 +1,1096 @@
+Assets/Materials/Trees/bark_1.mat
+Assets/Prefabs/assets/guard_rail_small.prefab
+Assets/Standard Assets/Water/Sources/nightgradient cubemap.psd
+Assets/Prefabs/assets/concrete_wall_a.prefab
+Assets/Scripts/weapons/GunManager.js
+Assets/Standard Assets/Particles/small flames.prefab
+Assets/Scripts/soldier/Footsteps.js
+Assets/Prefabs/particles/paper_explosion_2.prefab
+Assets/Meshes/Soldier/Walk_Anims/Soldier@WalkFire.FBX
+Assets/Scripts/misc/SoundObject.js
+Assets/Standard Assets/Water/Sources/oceangradient.psd
+Assets/Prefabs/assets/rock_tiny_a.prefab
+Assets/Textures/hud/common/checkboxFalse.png
+Assets/Pro Standard Assets/Samples.unity
+Assets/Prefabs/assets/concrete_beam_medium_c.prefab
+Assets/Materials/particles/dirt_explosion_2.mat
+Assets/Materials/Trees/branches_5.mat
+Assets/Sounds/Environment/water_jump_2D.mp3
+Assets/Prefabs/buildings/building_c.prefab
+Assets/Textures/Trees/bark4.jpg
+Assets/Materials/Trees/branches_4.mat
+Assets/Locomotion System/LegController.cs
+Assets/Prefabs/assets/rock_medium_c.prefab
+Assets/Textures/hud/weapons/gun_ammo.png
+Assets/Textures/weapons/bullet_marks/metal_mp_1.png
+Assets/Sounds/Environment/forest_ambiance.wav
+Assets/Materials/particles/bullet_trace.mat
+Assets/Textures/grass/grass8.psd
+Assets/Materials/particles/water_splash.mat
+Assets/Terrains/far_terrain/base_map.jpg
+Assets/Scripts/misc/DistanceFade.js
+Assets/Prefabs/Trees/tree_small_d.prefab
+Assets/Standard Assets/Light Flares/Sun.flare
+Assets/Scripts/misc/UVScroller_simple.js
+Assets/Materials/particles/faisca2.mat
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Crease.js
+Assets/Textures/soldier/Unity_soldier_Head_DIF_01.tga
+Assets/Meshes/Soldier/Idle_Standing_Anims/Soldier@StandingReloadM4.FBX
+Assets/Textures/assets/barrel_c_bump.jpg
+Assets/Scripts/huds/sarge/SargeManager.js
+Assets/Materials/particles/faisca1.mat
+Assets/Textures/hud/main_menu/graphics.png
+Assets/Scripts/soldier/CutsceneFoot.js
+Assets/Meshes/Soldier/Aim_Anims/Soldier@CrouchAimUp.FBX
+Assets/Materials/Misc/radar_map_arrow.mat
+Assets/Pro Standard Assets/Image Based/GlowEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/EdgeDetectNormals.shader
+Assets/Standard Assets/Water/Sources/WaterSimple.cs
+Assets/Materials/assets/pipes.mat
+Assets/Meshes/assets/objects 1.FBX
+Assets/Locomotion System/AlignmentTracker.cs
+Assets/Materials/assets/static_objects.mat
+Assets/Meshes/Soldier/Idle_Standing_Anims/Soldier@StandingFireRPG.FBX
+Assets/Pro Standard Assets/Image Based/NoiseEffectShaderYUV.shader
+Assets/Standard Assets/Blob-Shadow/Shadow.psd
+Assets/Textures/Misc/foam2.jpg
+Assets/Materials/particles/fumaca 3.mat
+Assets/Textures/Particles/leaves.png
+Assets/Textures/Terrains/forest3.jpg
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeWalkLeft.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/PoissonBlur.shader
+Assets/Prefabs/particles/water_splash_cont_small.prefab
+Assets/Prefabs/dynamic_assets/wire_low_c.prefab
+Assets/Standard Assets/Light Cookies/Hard.psd
+Assets/Meshes/Misc/light_shafts.FBX
+Assets/Textures/Misc/glass/broken_glass1.png
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchWalk.FBX
+Assets/Textures/assets/ink_can_bump.jpg
+Assets/Shaders/Glass.shader
+Assets/Scripts/weapons/BulletMarkManager.js
+Assets/Scripts/misc/FriendlyChopper.js
+Assets/Standard Assets/Editor/Image Effects/DepthOfFieldEditor.js
+Assets/Prefabs/assets/platform_medium_a.prefab
+Assets/Textures/assets/black_board_bump.jpg
+Assets/Materials/particles/concreto_5.mat
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/ConvertDepth.shader
+Assets/Materials/assets/barrel_c.mat
+Assets/Materials/Misc/alpha_cancel.mat
+Assets/Sounds/Sarge/other/ropes.mp3
+Assets/Prefabs/assets/rock_tiny_c.prefab
+Assets/Sounds/SFx/soldier/wood_footsteps_2.wav
+Assets/Meshes/assets/plaques.FBX
+Assets/Scripts/weapons/Destructable.js
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/DepthRecord.shader
+Assets/Sounds/SFx/soldier/hit/breathing.mp3
+Assets/Textures/Particles/bullets.png
+Assets/Materials/Trees/bark_3.mat
+Assets/Textures/assets/door_b_bump.jpg
+Assets/Sounds/SFx/generic/NearExplosionA.ogg
+Assets/Sounds/SFx/generic/metal_impacto_fraco_0525.mp3
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader
+Assets/Standard Assets/Blob-Shadow/blob shadow projector.prefab
+Assets/Prefabs/assets/concrete_wall_b.prefab
+Assets/Textures/skybox_forest/forest_sky_top.psd
+Assets/Pro Standard Assets/Glass Refraction/glass.tif
+Assets/Textures/hud/common/helpOff.png
+Assets/Scripts/misc/AutoDestroy.js
+Assets/Prefabs/dynamic_assets/concrete_brick.prefab
+Assets/Prefabs/pipes/pipe_white_90.prefab
+Assets/Scripts/weapons/GunKeyBinder.js
+Assets/Meshes/Soldier/Run_Anims/Soldier@RunFireRPG.FBX
+Assets/Bootcamp/LightmapFar-1.exr
+Assets/Scripts/glass/GlassScript.cs
+Assets/Meshes/Soldier/Materials/soldier-head.mat
+Assets/Textures/Buildings/buildings_a.tga
+Assets/Sounds/SFx/weapons/m4/m4_shoot.wav
+Assets/Textures/weapons/bullet_marks/wood_mp_2.png
+Assets/Textures/hud/weapons/gun.png
+Assets/Locomotion System/GhostOriginal.cs
+Assets/Standard Assets/Blob-Shadow/ProjectorAdditive.shader
+Assets/Textures/assets/door_b.tga
+Assets/Pro Standard Assets/Water/Sources/FX-Water.shader
+Assets/Prefabs/dynamic_assets/cardboard_box_a.prefab
+Assets/Prefabs/dynamic_assets/cardboard_box_c.prefab
+Assets/Materials/assets/concrete_brick.mat
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/SunShafts.js
+Assets/Materials/particles/bright_fire.mat
+Assets/Prefabs/weapons/BulletMark.prefab
+Assets/Materials/Misc/radar_map_forest.mat
+Assets/Standard Assets/Decal System/DecalPolygon.cs
+Assets/Prefabs/buildings/building_d2.prefab
+Assets/Prefabs/dynamic_assets/pole.prefab
+Assets/Textures/assets/archive_d_dif.tga
+Assets/Prefabs/assets/concrete_wall_d.prefab
+Assets/Prefabs/Misc/lightFlare.prefab
+Assets/Scripts/birds/SeagullSoundHeat.js
+Assets/Scripts/misc/DistanceFadeObject.js
+Assets/Scripts/graphics/WatterPuddle.cs
+Assets/Prefabs/particles/glass_particles.prefab
+Assets/Prefabs/assets/scissor_beam_a.prefab
+Assets/Bootcamp/LightmapNear-4.exr
+Assets/Prefabs/Trees/tree_high_d_Textures/normal_specular.png
+Assets/Meshes/Soldier/Run_Anims/Soldier@RunBackwardsAim.FBX
+Assets/Sounds/Sarge/forest/instructions_aim.mp3
+Assets/Sounds/SFx/hits/water_shot.wav
+Assets/Textures/assets/wood_frame_dif.tga
+Assets/Scripts/soldier/CharacterPusher.js
+Assets/Textures/Trees/bark1.jpg
+Assets/Prefabs/assets/rock_medium_e.prefab
+Assets/Sounds/Sarge/forest/instruction_ammo_01.mp3
+Assets/Standard Assets/Light Flares/Sources/50mmflare.psd
+Assets/Textures/hud/main_menu/play_over.png
+Assets/Textures/assets/static_objects_bump.jpg
+Assets/Prefabs/assets/railing_a_small_b.prefab
+Assets/Prefabs/assets/post_a.prefab
+Assets/Prefabs/assets/lamp_g.prefab
+Assets/Pro Standard Assets/Image Based/GrayscaleEffect.cs
+Assets/Textures/assets/barrel_d_bump.jpg
+Assets/Textures/Misc/target.png
+Assets/Prefabs/particles/water_soldier_impact.prefab
+Assets/Prefabs/buildings/building_d1.prefab
+Assets/Prefabs/pipes/duct_b_T.prefab
+Assets/Pro Standard Assets/Image Based/Contrast Stretch/Adaptation.shader
+Assets/Standard Assets/Prefabs/First Person Controller.prefab
+Assets/Materials/particles/smoke_dirt.mat
+Assets/Prefabs/dynamic_assets/wood_plank_e.prefab
+Assets/Materials/Buildings/alphas_2-sided.mat
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchRunBackwards.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/ContrastComposite.shader
+Assets/Materials/Trees/bark_5.mat
+Assets/Standard Assets/Camera Scripts/MouseOrbit.js
+Assets/Textures/soldier/Unity_Soldier_Body_NMM_01.jpg
+Assets/Prefabs/Trees/pine1_Textures/translucency_gloss.png
+Assets/Materials/particles/granade_smoke.mat
+Assets/Materials/decals/decalsB_cutout.mat
+Assets/Prefabs/particles/leaves.prefab
+Assets/Textures/hud/main_menu/graphicsover.png
+Assets/Scripts/Unity/WaterShaderHelper.js
+Assets/Scripts/huds/SoldierTarget.js
+Assets/Editor/TransformCopier.cs
+Assets/Standard Assets/Particles/Sources/smoketest2.psd
+Assets/Textures/assets/black_board_dif.tga
+Assets/Prefabs/assets/rock_medium_f.prefab
+Assets/Materials/assets/wood_crate.mat
+Assets/Textures/Particles/water_foam.psd
+Assets/Textures/Trees/branches3.psd
+Assets/Textures/assets/tire_a_bump.jpg
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/ChromaticAberrationShader.shader
+Assets/Prefabs/assets/window_wood_b.prefab
+Assets/Prefabs/plaque/plaque-a.prefab
+Assets/Sounds/Sarge/other/turrets_01.mp3
+Assets/Textures/assets/cardboard_box_a_dif.tga
+Assets/Meshes/Maps/buildings2.FBX
+Assets/Textures/hud/common/sliderEmpty.png
+Assets/Prefabs/assets/broken_wall_b.prefab
+Assets/Scripts/soldier/HeadLookController.js
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_DepthOfField/CopyDepthToRGBA.shader
+Assets/Prefabs/Trees/tree_small_d_Textures/translucency_gloss.png
+Assets/Scripts/graphics/SimpleRotation.js
+Assets/Textures/weapons/bullet_marks/glass_mp_2.png
+Assets/Prefabs/particles/paper_explosion.prefab
+Assets/Meshes/Soldier/Soldier.fbx
+Assets/Textures/hud/weapons/grenade.png
+Assets/Standard Assets/Trees Ambient-Occlusion/pine1/pine_leaves1.mat
+Assets/Textures/hud/sarge/sarge.png
+Assets/Materials/particles/faisca3.mat
+Assets/Prefabs/dynamic_assets/cardboard_box_c1.prefab
+Assets/Prefabs/assets/concrete_beam_small_a.prefab
+Assets/Standard Assets/Scripts/CombineChildren.cs
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeRunRightAim.FBX
+Assets/Standard Assets/Blob-Shadow/ShadowProjection.shader
+Assets/Sounds/SFx/hits/wood.WAV
+Assets/Meshes/Soldier/Aim_Anims/Soldier@StandingAimUp.FBX
+Assets/Prefabs/Trees/tree_high_d_Textures/shadow.png
+Assets/Textures/Misc/lightFlare1.psd
+Assets/Scripts/graphics/SuperWater.js
+Assets/Standard Assets/Particles/Sources/Stop Emitting ,5 sec.anim
+Assets/Materials/decals/decalsB.mat
+Assets/Prefabs/dynamic_assets/desk_b.prefab
+Assets/Textures/Misc/glass/broken_glass2.png
+Assets/Materials/Misc/waterfall.mat
+Assets/Scripts/misc/EaglesEye.js
+Assets/Sounds/SFx/generic/FarExplosionB.ogg
+Assets/Pro Standard Assets/Image Based/BlurEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_DepthOfField/PreDepthOfFieldZRead.shader
+Assets/Scripts/soldier/SoldierDamageControl.js
+Assets/Textures/Misc/lightFlare.psd
+Assets/Meshes/Soldier/Walk_Anims/Soldier@StrafeWalkLeft.FBX
+Assets/Prefabs/Misc/light_glow_2.prefab
+Assets/Standard Assets/Blob-Shadow/concret_1.png
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeWalkRight.FBX
+Assets/Materials/assets/cardboard_box_b.mat
+Assets/Bootcamp/LightmapFar-4.exr
+Assets/Sounds/SFx/soldier/concrete_footsteps_1.wav
+Assets/Textures/Trees/branches4.psd
+Assets/Materials/decals/decalsA.mat
+Assets/Scripts/huds/sarge/Editor/SargeHelper.js
+Assets/Prefabs/assets/broken_wall_a.prefab
+Assets/Bootcamp/LightmapNear-0.exr
+Assets/Materials/assets/cardboard_box_a.mat
+Assets/Standard Assets/Trees Ambient-Occlusion/yellow_tree1/yellow_tree1.prefab
+Assets/Textures/grass/grass6.psd
+Assets/Prefabs/huds/MainMenuScreen.prefab
+Assets/Shaders/Resources/FastTreeCreatorLeaves.shader
+Assets/Prefabs/assets/rock_small_e.prefab
+Assets/Prefabs/plaque/plaque-l.prefab
+Assets/Prefabs/plaque/plaque-e.prefab
+Assets/Scripts/misc/FogAnimationHelper.js
+Assets/Materials/particles/leaves.mat
+Assets/Textures/hud/common/sliderFull.png
+Assets/Scripts/weapons/BulletMarks.js
+Assets/Standard Assets/Trees Ambient-Occlusion/yellow_tree1/yellow_leaves_1.mat
+Assets/Meshes/Soldier/Idle_Standing_Anims/Soldier@Standing.FBX
+Assets/Prefabs/buildings/building_b.prefab
+Assets/Prefabs/assets/railing_a_exlarge.prefab
+Assets/Textures/hud/HudSkin.GUISkin
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/RadialBlur.shader
+Assets/Textures/grass/grass3.psd
+Assets/Standard Assets/Editor/Image Effects/SunShaftsEditor.js
+Assets/Textures/vehicles/uh-1n/uh-1n_inside_nor.jpg
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchFireRPG.FBX
+Assets/Textures/hud/common/fundo_principal.png
+Assets/Locomotion System/IKSimple.cs
+Assets/Textures/hud/soldier/target.png
+Assets/Materials/particles/concreto_1.mat
+Assets/Standard Assets/Particles/Sources/Stop Emitting 2 sec.anim
+Assets/Prefabs/dynamic_assets/wood_plank_c.prefab
+Assets/Prefabs/assets/rock_medium_g.prefab
+Assets/Prefabs/particles/ending point.prefab
+Assets/Textures/soldier/Unity_Soldier_Head_NMM_01.jpg
+Assets/Textures/Particles/concreto_6.png
+Assets/Scripts/soldier/CharacterMotor.js
+Assets/Prefabs/Misc/bird.prefab
+Assets/Pro Standard Assets/Image Based/EdgeDetectX.shader
+Assets/Textures/weapons/bullet_marks/concret_2.png
+Assets/Locomotion System/LegAnimator.cs
+Assets/Materials/particles/stone_1.mat
+Assets/Prefabs/assets/iron_beam_b.prefab
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/BrightPassReplacement.shader
+Assets/Pro Standard Assets/Glass Refraction/Glass-Stained-BumpSpecDistort.shader
+Assets/Prefabs/assets/wood_floor_a.prefab
+Assets/Prefabs/plaque/plaque-b.prefab
+Assets/Textures/hud/sarge/fundo_comando.png
+Assets/Meshes/Soldier/Aim_Anims/Soldier@StandingAimDown.FBX
+Assets/Materials/particles/dirt_explosion.mat
+Assets/Prefabs/assets/wood_railing_d.prefab
+Assets/Textures/Particles/fire_fire2.psd
+Assets/Textures/Trees/bark3_bump.jpg
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/ColorCorrectionCurvesSimple.shader
+Assets/Pro Standard Assets/Image Based/SSAOShader.shader
+Assets/Textures/hud/common/helpOn.png
+Assets/Standard Assets/Trees Ambient-Occlusion/pine1/pine_bark.jpg
+Assets/Prefabs/dynamic_assets/lamp.prefab
+Assets/Prefabs/Trees/tree_high_b_Textures/normal_specular.png
+Assets/Sounds/SFx/hits/metal.mp3
+Assets/Textures/weapons/bullet_marks/generic_mp_1.png
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_BloomAndFlares/LensFlareCreate.shader
+Assets/Textures/Particles/glass_particle.png
+Assets/Prefabs/assets/platform_small_a.prefab
+Assets/Meshes/Misc/GlassPlane.FBX
+Assets/Materials/particles/faisca4.mat
+Assets/Scripts/misc/FadeOnVisible.js
+Assets/Textures/vehicles/uh-1n/uh-1n_body_dif.tga
+Assets/Pro Standard Assets/Image Based/MotionBlur.cs
+Assets/Textures/hud/sarge/instructions.png
+Assets/Standard Assets/Scripts/FPSWalker.js
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchRunFire.FBX
+Assets/Materials/Buildings/alphas.mat
+Assets/Materials/Misc/radar_map_point.mat
+Assets/Scripts/huds/GameQualitySettings.js
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/EdgeDetectNormalsHQ.shader
+Assets/Textures/hud/achievments/box_01.png
+Assets/Locomotion System/IMotionAnalyzer.cs
+Assets/Materials/Trees/far_trees.mat
+Assets/Meshes/Soldier/Cutscenes/Soldier@CS_Idle.FBX
+Assets/Gizmos/decal_icon.png
+Assets/Prefabs/huds/SoundManager.prefab
+Assets/Sounds/Environment/Waterfall.prefab
+Assets/Scripts/soldier/SoldierAnimations.js
+Assets/Textures/Trees/bark5.jpg
+Assets/Shaders/BillboardTree.shader
+Assets/Scripts/cutscenes/CutsceneManager.js
+Assets/Prefabs/plaque/house_new.prefab
+Assets/Materials/Trees/leaves_5.mat
+Assets/Pro Standard Assets/Glass Refraction/glassbump.tif
+Assets/Meshes/Soldier/Run_Anims/Soldier@Run.FBX
+Assets/Sounds/SFx/generic/glass_destruction.mp3
+Assets/Textures/assets/ink_can_dif.tga
+Assets/Prefabs/dynamic_assets/archive_d.prefab
+Assets/Sounds/SFx/soldier/concrete_footsteps_2.wav
+Assets/Textures/Trees/branches5.psd
+Assets/Prefabs/assets/interlaced_wood_a.prefab
+Assets/Sounds/Sarge/other/helicopter_instructions.mp3
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/EdgeBlurApply.shader
+Assets/Meshes/Soldier/Run_Anims/Soldier@StrafeRunRight.FBX
+Assets/Textures/grass/grass2.psd
+Assets/Prefabs/Trees/tree_small_d_Textures/normal_specular.png
+Assets/Standard Assets/Trees Ambient-Occlusion/yellow_tree1/yellow_bark.mat
+Assets/Scripts/graphics/CullLayers.js
+Assets/Fonts/Robustik/Robustik-Regular_9.otf
+Assets/Textures/hud/common/panel_right.png
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/EdgeBlurEffectNormals.js
+Assets/Prefabs/assets/rock_big_b.prefab
+Assets/Prefabs/pipes/pipe_white_big.prefab
+Assets/Pro Standard Assets/Image Based/frag_ao.cginc
+Assets/Prefabs/plaque/plaque-c.prefab
+Assets/Meshes/Soldier/Run_Anims/Soldier@RunFire.FBX
+Assets/Standard Assets/Light Flares/Sources/starflare.psd
+Assets/Prefabs/plaque/plaque-m.prefab
+Assets/Meshes/vehicles/Materials/uh-1n-inside_dif.mat
+Assets/Sounds/SFx/soldier/hit/soldier_hit02.mp3
+Assets/Scripts/huds/sarge/SargeInstruction.js
+Assets/Standard Assets/Water/Sources/Daylight Simple Water.mat
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_BloomAndFlares/HollywoodFlareStretch.shader
+Assets/Sounds/Environment/water_waterfall.wav
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchRunFireBackwards.FBX
+Assets/Standard Assets/Physic Materials/Ice.physicmaterial
+Assets/Textures/Misc/glass/glassAlpha.png
+Assets/Meshes/Soldier/Run_Anims/Soldier@StrafeRunLeft.FBX
+Assets/Prefabs/plaque/plaque-i.prefab
+Assets/Textures/assets/boot_dif.tga
+Assets/Textures/assets/wood_frame_bump.jpg
+Assets/Standard Assets/Light Flares/50mm Zoom.flare
+Assets/Textures/assets/desk_b_dif.tga
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchFire.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_BloomAndFlares/VignetteShader.shader
+Assets/Scripts/weapons/GunParticles.js
+Assets/Prefabs/dynamic_assets/garbage_bag_black.prefab
+Assets/Standard Assets/Blob-Shadow/Falloff4.psd
+Assets/Prefabs/assets/railing_a_medium.prefab
+Assets/Textures/Misc/radar_point.psd
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/EdgeDetectEffectNormals.js
+Assets/Scripts/cutscenes/ForestCutscenePlayer.js
+Assets/Pro Standard Assets/Image Based/Contrast Stretch/MinMaxReduction.shader
+Assets/Materials/decals/decalsA_cutout.mat
+Assets/Scripts/enemies/turret/TurretPiston.js
+Assets/Textures/Particles/paper_3.png
+Assets/Textures/Trees/leaves6.psd
+Assets/Textures/assets/barrel_a_bump.jpg
+Assets/Standard Assets/Trees Ambient-Occlusion/pine1/pine_leaves2.mat
+Assets/Meshes/weapons/M4/Materials/m4-lambert2.mat
+Assets/Standard Assets/Scripts/TimedObjectDestructor.js
+Assets/Prefabs/particles/particle_wood.prefab
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/PostEffectsHelper.js
+Assets/Sounds/Sarge/forest/instructions_mouse.mp3
+Assets/Textures/hud/common/aba_primaria.png
+Assets/Sounds/SFx/generic/concrete_strong.mp3
+Assets/Textures/assets/barrel_b_dif.tga
+Assets/Pro Standard Assets/Water/Sources/Water Fresnel.psd
+Assets/Materials/particles/bullets.mat
+Assets/Textures/Trees/leaves5.psd
+Assets/Sounds/Sarge/other/friendly_fire1.mp3
+Assets/Prefabs/dynamic_assets/boot.prefab
+Assets/Pro Standard Assets/Image Based/NoiseEffectShaderRGB.shader
+Assets/Prefabs/dynamic_assets/wire_high_a.prefab
+Assets/Meshes/Misc/Materials/radar_occluder-no name.mat
+Assets/Prefabs/Trees/tree_small_d_Textures/diffuse.png
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/SkyboxToRGBADepth.shader
+Assets/Prefabs/pipes/pipe_white_cross.prefab
+Assets/Meshes/vehicles/Materials/uh-1n-body_dif.mat
+Assets/Scripts/misc/BlueLeafSound.js
+Assets/Prefabs/assets/old_roof_a.prefab
+Assets/Materials/Trees/leaves_10.mat
+Assets/Meshes/Soldier/Idle_Standing_Anims/Soldier@Idle.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/BrightPass.shader
+Assets/Textures/hud/options/dontReceiveDamageOn.png
+Assets/Locomotion System/Editor/LocomotionEditorClass.cs
+Assets/Prefabs/assets/concrete_beam_medium_a.prefab
+Assets/Prefabs/plaque/plaque-f.prefab
+Assets/Sounds/Environment/forest_wind.wav
+Assets/Materials/assets/porta_b.mat
+Assets/Meshes/vehicles/Materials/uh-1n-helix.mat
+Assets/Prefabs/weapons/ammunition/Grenade.prefab
+Assets/Pro Standard Assets/Image Based/NoiseEffectScratch.png
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeRunLeftFire.FBX
+Assets/Standard Assets/Blob-Shadow/Falloff 1.psd
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/VignettingShader.shader
+Assets/Scripts/Unity/ShowFps.js
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/ColorCorrectionCurves.shader
+Assets/Materials/Misc/plastic_a.mat
+Assets/Prefabs/assets/concrete_beam_large.prefab
+Assets/Prefabs/assets/wood_stair_a.prefab
+Assets/Textures/assets/rope.jpg
+Assets/Prefabs/dynamic_assets/barrel_a.prefab
+Assets/Textures/assets/pipes.tga
+Assets/Locomotion System/MotionAnalyzerBackwards.cs
+Assets/Materials/assets/barrel_d.mat
+Assets/Prefabs/assets/broken_wall_c.prefab
+Assets/Pro Standard Assets/Image Based/TwirlEffect.shader
+Assets/Prefabs/dynamic_assets/barrel_d.prefab
+Assets/Prefabs/assets/wood_railing_a.prefab
+Assets/Meshes/Soldier/Walk_Anims/Soldier@WalkBackwardsFire.FBX
+Assets/Materials/assets/boot.mat
+Assets/Textures/Buildings/buildings_e.tga
+Assets/Scripts/graphics/DistanceDisable.js
+Assets/Materials/Buildings/buildings_a.mat
+Assets/Scripts/misc/streaming/IndustryLoader.js
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeWalkRightFire.FBX
+Assets/Scripts/graphics/ShotLight.js
+Assets/Prefabs/assets/bricks_a.prefab
+Assets/Materials/assets/tire_b.mat
+Assets/Prefabs/assets/wood_passage_a.prefab
+Assets/Textures/Particles/water_splash.png
+Assets/Standard Assets/Physic Materials/Metal.physicmaterial
+Assets/Scripts/enemies/dummy/TrainingDummyPartHelper.js
+Assets/Pro Standard Assets/Image Based/ColorCorrectionEffect.shader
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeRunLeft.FBX
+Assets/Scripts/misc/StartGameTrigger.js
+Assets/Textures/Misc/radar_map_forest.jpg
+Assets/Prefabs/assets/bricks_b.prefab
+Assets/Textures/grass/grass1.psd
+Assets/Scripts/huds/Achievment.js
+Assets/Standard Assets/Camera Scripts/MouseLook.cs
+Assets/Textures/hud/common/aquiris_logo.png
+Assets/Shaders/Resources/FastTreeCreatorLeavesOptimized.shader
+Assets/Standard Assets/Light Cookies/square.psd
+Assets/Sounds/Sarge/other/doors_01.mp3
+Assets/Textures/Cubemaps/ambient_cube.jpg
+Assets/Meshes/assets/pipes.FBX
+Assets/Materials/particles/faisca5.mat
+Assets/Prefabs/soldier/Soldier_Locomotion.prefab
+Assets/Meshes/Misc/mesh_terrain.fbx
+Assets/Prefabs/particles/particle_dirt.prefab
+Assets/Materials/Soldier/unity_pilot_head_01_dif.mat
+Assets/Prefabs/dynamic_assets/chair.prefab
+Assets/Prefabs/plaque/plaque-g.prefab
+Assets/Sounds/SFx/generic/generic_impact_strong.mp3
+Assets/Prefabs/assets/power_terminal.prefab
+Assets/Standard Assets/Water/Nighttime Simple Water.prefab
+Assets/Prefabs/Trees/tree_high_b_Textures/diffuse.png
+Assets/Materials/assets/wood_frame.mat
+Assets/Prefabs/pipes/pipe_white_S.prefab
+Assets/Textures/decals/decals_package_a.psd
+Assets/Textures/assets/static_objects_dif.tga
+Assets/Materials/particles/breaking_glass.mat
+Assets/Sounds/SFx/hits/concrete.mp3
+Assets/Locomotion System/Interpolator.cs
+Assets/Prefabs/plaque/plaque-h.prefab
+Assets/Textures/hud/common/blackDot.png
+Assets/Textures/weapons/bullet_marks/concret_1.png
+Assets/Meshes/Soldier/Walk_Anims/Soldier@StrafeWalkLeftFire.FBX
+Assets/Bootcamp.unity
+Assets/Scripts/Unity/ImageEffectsOrder.js
+Assets/Standard Assets/Particles/Sources/smokepuff1.psd
+Assets/Textures/assets/concrete_brick_bump.jpg
+Assets/Textures/Buildings/building_b_bump.jpg
+Assets/Prefabs/assets/chimney_a.prefab
+Assets/Prefabs/particles/particle_concrete.prefab
+Assets/Prefabs/pipes/pipe_black_90.prefab
+Assets/Pro Standard Assets/Image Based/VortexEffect.shader
+Assets/Textures/skybox_forest/forest_sky_left.psd
+Assets/Textures/hud/weapons/grenade_background.png
+Assets/Textures/Terrains/forest1.jpg
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeWalkLeftFire.FBX
+Assets/Scripts/birds/SeagullFlightPath.js
+Assets/Textures/assets/desk_b_bump.jpg
+Assets/Scripts/graphics/AssignSkybox.js
+Assets/Fonts/Robustik/Robustik-Regular_10.otf
+Assets/Bootcamp/LightmapFar-3.exr
+Assets/Sounds/SFx/soldier/water_footsteps.wav
+Assets/Meshes/weapons/M4/M4.fbx
+Assets/Scripts/cutscenes/ForestCutscene.js
+Assets/Prefabs/huds/SargeManager.prefab
+Assets/Meshes/Crow/CrowPSD.psd
+Assets/Scripts/enemies/turret/TurretPart.js
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchWalkBackwardsAim.FBX
+Assets/Textures/hud/options/receiveDamageOn.png
+Assets/Textures/hud/main_menu/about.png
+Assets/Prefabs/assets/concrete_beam_medium_b.prefab
+Assets/Textures/Terrains/forest2.jpg
+Assets/Meshes/Soldier/Cutscenes/Soldier@CS_Rope.FBX
+Assets/Prefabs/assets/barbed_wire.prefab
+Assets/Meshes/Soldier/Walk_Anims/Soldier@RelaxedWalk.FBX
+Assets/Prefabs/assets/wood_railing_stair_d.prefab
+Assets/Prefabs/assets/iron_stair_a.prefab
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_BloomAndFlares/HollywoodFlareBlur.shader
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeRunRight.FBX
+Assets/Prefabs/assets/rock_tiny_d.prefab
+Assets/Meshes/Soldier/Walk_Anims/Soldier@StrafeWalkRightAim.FBX
+Assets/Scripts/enemies/turret/Turret.js
+Assets/Meshes/Soldier/Walk_Anims/Soldier@StrafeWalkLeftAim.FBX
+Assets/Prefabs/plaque/gate.prefab
+Assets/Materials/assets/black_board.mat
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchWalkAim.FBX
+Assets/Prefabs/plaque/post_card.prefab
+Assets/Locomotion System/TrajectoryVisualizer.cs
+Assets/Pro Standard Assets/Water/Daylight Water.prefab
+Assets/Fonts/Robustik/Robustik-Regular_12.otf
+Assets/Sounds/SFx/soldier/wood_footsteps_1.wav
+Assets/Meshes/Misc/radar_occluder.FBX
+Assets/Materials/particles/spark.mat
+Assets/Standard Assets/Blob-Shadow/shadow material.mat
+Assets/Materials/Trees/leaves_6.mat
+Assets/Fonts/Robustik/Robustik-Bold.otf
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_DepthOfField/SeparableWeightedBlur.shader
+Assets/Scripts/misc/SoundObjectManager.js
+Assets/Textures/grass/grass4.psd
+Assets/Materials/assets/tire_a.mat
+Assets/Meshes/characters/unity_pilot_01BC.FBX
+Assets/Standard Assets/Trees Ambient-Occlusion/yellow_tree1/yellow_leaves_2.mat
+Assets/Prefabs/assets/broken_tiles_a.prefab
+Assets/Materials/particles/waterfall.mat
+Assets/Textures/weapons/bullet_marks/glass_mp_1.png
+Assets/Standard Assets/Particles/large flames.prefab
+Assets/Textures/hud/weapons/gun_background.png
+Assets/Prefabs/assets/plastic_window.prefab
+Assets/Standard Assets/Trees Ambient-Occlusion/pine1/pine_leaves2.png
+Assets/Prefabs/dynamic_assets/wire_high_b.prefab
+Assets/Textures/vehicles/uh-1n/uh-1n_steel_dif.tga
+Assets/Scripts/misc/UnderwaterCamera.js
+Assets/Materials/particles/water_foam.mat
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Fisheye.js
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_DepthOfField/SeparableRGBADepthBlur.shader
+Assets/Textures/Particles/faisca_1.png
+Assets/Meshes/vehicles/Materials/uh-1n-glass.mat
+Assets/Textures/hud/achievments/box_02.png
+Assets/Scripts/misc/UVScroller_water.js
+Assets/Meshes/Maps/buildings3.FBX
+Assets/Materials/Trees/bark_4.mat
+Assets/Textures/assets/garbage_bag_black.tga
+Assets/Textures/Buildings/buildings_e_bump.jpg
+Assets/Prefabs/dynamic_assets/tire_a.prefab
+Assets/Scripts/glass/GlassManager.cs
+Assets/Scripts/enemies/dummy/TrainingDummyPart.js
+Assets/Terrains/far_terrain/far_terrain_splat.psd
+Assets/Meshes/Soldier/Materials/soldier-body.mat
+Assets/Textures/Misc/glass/glass1.tga
+Assets/Locomotion System/MotionAnalyzer.cs
+Assets/Textures/weapons/bullet_marks/old_metal_mp_3.png
+Assets/Prefabs/particles/water_splash_cont_med.prefab
+Assets/Shaders/Resources/Tree.cginc
+Assets/Prefabs/assets/iron_column_a.prefab
+Assets/Scripts/soldier/WaterInteractions.js
+Assets/Prefabs/dynamic_assets/tire_b.prefab
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/ColorCorrectionCurves.js
+Assets/Textures/hud/common/whiteMarker.png
+Assets/Prefabs/dynamic_assets/wood_crate.prefab
+Assets/Standard Assets/Water/Sources/nightgradient.psd
+Assets/Prefabs/pipes/duct_b_90.prefab
+Assets/Scripts/soldier/SoldierCamera.js
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchWalkBackwardsFire.FBX
+Assets/Bootcamp/LightmapFar-2.exr
+Assets/Pro Standard Assets/Glass Refraction/FX-Refractive.mat
+Assets/Scripts/misc/UVScroller_clouds.js
+Assets/Prefabs/dynamic_assets/door_a.prefab
+Assets/Materials/assets/desk_b.mat
+Assets/Sounds/Sarge/other/dummy_01.mp3
+Assets/Prefabs/dynamic_assets/wood_plank_b.prefab
+Assets/Textures/Trees/far_trees.psd
+Assets/Scripts/misc/GameManager.js
+Assets/Prefabs/assets/wood_railing_c.prefab
+Assets/Textures/Particles/paper_1.png
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/FisheyeShader.shader
+Assets/Prefabs/assets/rock_medium_b.prefab
+Assets/Standard Assets/Camera Scripts/SmoothFollow.js
+Assets/Sounds/Environment/water_stream.wav
+Assets/Textures/hud/weapons/grenade_ammo.png
+Assets/Textures/Particles/bright.jpg
+Assets/Terrains/forest_terrain.asset
+Assets/Pro Standard Assets/Image Based/ImageEffects.cs
+Assets/Textures/hud/main_menu/resume.png
+Assets/Prefabs/assets/broken_tiles_b.prefab
+Assets/Standard Assets/Camera Scripts/SmoothLookAt.js
+Assets/Prefabs/Misc/boundary.prefab
+Assets/Scripts/huds/GUIOptimizer.js
+Assets/Meshes/Soldier/Aim_Anims/Soldier@CrouchAimDown.FBX
+Assets/Textures/Particles/madeira_7.png
+Assets/Textures/Misc/arrow.png
+Assets/Standard Assets/Scripts/MeshCombineUtility.cs
+Assets/Textures/weapons/m4/M4_DIF_01.tga
+Assets/Prefabs/assets/platform_medium_b.prefab
+Assets/Textures/Cubemaps/water_ref.jpg
+Assets/Standard Assets/Trees Ambient-Occlusion/pine1/branch2.mat
+Assets/Prefabs/Trees/tree_small_e.prefab
+Assets/Textures/Misc/water1_bump.jpg
+Assets/Textures/Trees/branches1.psd
+Assets/Textures/Misc/glass/broken_glass.tga
+Assets/Scripts/misc/EndGameTrigger.js
+Assets/Textures/Particles/faisca_5.png
+Assets/Prefabs/plaque/lookout_post.prefab
+Assets/Prefabs/buildings/facade_a.prefab
+Assets/Textures/soldier/Unity_soldier_Body_DIF_wip.tga
+Assets/Materials/assets/pole.mat
+Assets/Textures/decals/decals_package_b.psd
+Assets/Prefabs/assets/rock_wall_a.prefab
+Assets/Prefabs/assets/window_small_b.prefab
+Assets/Standard Assets/Particles/Sources/fire4.psd
+Assets/Scripts/cutscenes/HelicopterCutscene.js
+Assets/Shaders/Vegetation-TwoPassUnlit.shader
+Assets/Sounds/SFx/generic/FarExplosionA.ogg
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeWalkLeftAim.FBX
+Assets/Materials/Buildings/buildings_b.mat
+Assets/Prefabs/assets/fire_stair_a.prefab
+Assets/Prefabs/Trees/pine1_Textures/shadow.png
+Assets/Materials/assets/ink_can.mat
+Assets/Textures/soldier/unity_pilot_head_01_dif.tga
+Assets/Prefabs/dynamic_assets/door_b.prefab
+Assets/Prefabs/assets/terminal_box_f.prefab
+Assets/Sounds/Sarge/forest/instructions_basic.mp3
+Assets/Prefabs/Trees/tree_high_d_Textures/translucency_gloss.png
+Assets/Scripts/misc/AxisVariation.js
+Assets/Sounds/SFx/weapons/generic/out_of_ammo.mp3
+Assets/Textures/skybox_forest/forest_sky_bottom.JPG
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/addbrightstuff.shader
+Assets/Materials/assets/barrel_a.mat
+Assets/Scripts/huds/SoundObjectAux.js
+Assets/Textures/hud/main_menu/options.png
+Assets/Scripts/cutscenes/DownChoperCutscene.js
+Assets/Standard Assets/Water/Daylight Simple Water.prefab
+Assets/Prefabs/Trees/tree_high_b.prefab
+Assets/Textures/hud/options/dontReceiveDamageOff.png
+Assets/Meshes/Soldier/Jump_Anims/new/Soldier@RunJump.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_DepthOfField/DofForegroundBlur.shader
+Assets/Sounds/SFx/soldier/dirt_footsteps_1.wav
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/Helpers.cginc
+Assets/Textures/Misc/water.jpg
+Assets/Standard Assets/Editor/Image Effects/BloomAndFlaresEditor.js
+Assets/Pro Standard Assets/Glass Refraction/Glass-Stained-BumpDistort.shader
+Assets/Sounds/SFx/screens/mouse_over.wav
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/GlowCompose.shader
+Assets/Prefabs/assets/rock_tiny_e.prefab
+Assets/Textures/Trees/bark4_bump.jpg
+Assets/Prefabs/dynamic_assets/wood_frame.prefab
+Assets/Materials/particles/target.mat
+Assets/Meshes/Soldier/Walk_Anims/Soldier@StrafeWalkRightFire.FBX
+Assets/Standard Assets/Water/Sources/oceangradientcube.psd
+Assets/Prefabs/assets/broken_tiles_c.prefab
+Assets/Textures/assets/wood_crate_bump.jpg
+Assets/Standard Assets/Physic Materials/Bouncy.physicmaterial
+Assets/Textures/assets/fence.psd
+Assets/Materials/particles/BulletMarks.mat
+Assets/Meshes/Maps/buildings6.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/ClearExceptSkyboxShader.shader
+Assets/Textures/assets/archive_d_bump.jpg
+Assets/Textures/assets/barrel_a_dif.tga
+Assets/Scripts/graphics/UVScroller.js
+Assets/Meshes/Crow/Crow.fbx
+Assets/Prefabs/pipes/duct_a_short.prefab
+Assets/Sounds/SFx/soldier/hit/soldier_hit01_2.mp3
+Assets/Materials/Trees/branches_3.mat
+Assets/Sounds/Sarge/forest/game_end_1.mp3
+Assets/Prefabs/Trees/tree_high_b_Textures/shadow.png
+Assets/Meshes/Soldier/Walk_Anims/Soldier@WalkBackwards.FBX
+Assets/Standard Assets/Light Flares/Small Flare.flare
+Assets/Meshes/Soldier/Walk_Anims/Soldier@StrafeWalkRight.FBX
+Assets/Standard Assets/Particles/Sources/Light explosion.anim
+Assets/Prefabs/Trees/tree_small_e_Textures/shadow.png
+Assets/Materials/Buildings/alphas_2-industry_far_view.mat
+Assets/Textures/soldier/unity_pilot_body_01_dif.tga
+Assets/Meshes/Soldier/Idle_Standing_Anims/Soldier@StandingAim.FBX
+Assets/Scripts/weapons/Gun.js
+Assets/Prefabs/dynamic_assets/barrel_b.prefab
+Assets/Standard Assets/Water/Sources/FX-Water Simple.shader
+Assets/Locomotion System/Util.cs
+Assets/Meshes/assets/wire_low_c.FBX
+Assets/Textures/assets/cardboard_box_a_bump.jpg
+Assets/Prefabs/assets/rock_small_a.prefab
+Assets/Prefabs/assets/wood_railing_stair_a.prefab
+Assets/Prefabs/pipes/support_a.prefab
+Assets/Textures/Particles/fire_006.png
+Assets/Scripts/misc/FadeLight.js
+Assets/Textures/hud/common/menu.png
+Assets/Textures/Particles/faisca_2.png
+Assets/Pro Standard Assets/Image Based/SepiaToneEffect.cs
+Assets/Prefabs/buildings/wood_house.prefab
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/RadialBlurDepth.shader
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/DepthOfField.js
+Assets/Bootcamp/LightmapNear-1.exr
+Assets/Pro Standard Assets/Image Based/RandomVectors.png
+Assets/Textures/weapons/bullet_marks/metal_mp_3.png
+Assets/Textures/Particles/stone_1.png
+Assets/Sounds/Sarge/other/old_mfda.mp3
+Assets/Prefabs/assets/concrete_wall_c.prefab
+Assets/Prefabs/pipes/pipe_white_huge.prefab
+Assets/Bootcamp/LightmapFar-0.exr
+Assets/Pro Standard Assets/Water/Sources/Water.cs
+Assets/Meshes/characters/Materials/unity_pilot_01bc-lambert2.mat
+Assets/Standard Assets/Water/Sources/Waterbump.jpg
+Assets/Textures/hud/main_menu/aboutover.png
+Assets/Meshes/Soldier/Run_Anims/Soldier@StrafeRunLeftFire.FBX
+Assets/Meshes/Soldier/Cutscenes/Soldier@CS_Pilot1.FBX
+Assets/Scripts/enemies/dummy/TrainingDummyPartDestructor.js
+Assets/Standard Assets/Light Flares/Sources/flare mat.mat
+Assets/Prefabs/assets/interlaced_wood_b.prefab
+Assets/Textures/assets/pole_dif.tga
+Assets/Materials/particles/concreto_2.mat
+Assets/Scripts/weapons/Grenade.js
+Assets/Prefabs/assets/fence_fixed.prefab
+Assets/Prefabs/Trees/pine1_Textures/normal_specular.png
+Assets/Bootcamp/LightmapNear-2.exr
+Assets/Scripts/huds/HudWeapons.js
+Assets/Pro Standard Assets/Image Based/NoiseEffect.cs
+Assets/Prefabs/particles/water_splash_cont.prefab
+Assets/Textures/grass/grass5.psd
+Assets/Pro Standard Assets/Image Based/VortexEffect.cs
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchRunAimBackwards.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/Prefabs/assets/lamp_e.prefab
+Assets/Prefabs/assets/railing_a_large.prefab
+Assets/Sounds/SFx/soldier/dirt_footsteps_2.wav
+Assets/Prefabs/plaque/plaque-j.prefab
+Assets/Sounds/Sarge/other/friendly_fire2.mp3
+Assets/Meshes/Soldier/Idle_Standing_Anims/Soldier@StandingFire.FBX
+Assets/Sounds/SFx/generic/glass_hit.mp3
+Assets/Textures/hud/common/panel_left.png
+Assets/Sounds/SFx/generic/concrete_weak.mp3
+Assets/Standard Assets/Particles/Sources/fire3.psd
+Assets/Prefabs/huds/SoundObjectManager.prefab
+Assets/Textures/Particles/concreto_5.png
+Assets/Materials/particles/flying_paper.mat
+Assets/Prefabs/assets/rock_tiny_f.prefab
+Assets/Pro Standard Assets/Water/Sources/Daylight Water.mat
+Assets/Sounds/Environment/water_river.wav
+Assets/Standard Assets/Trees Ambient-Occlusion/pine1/pine1.prefab
+Assets/Standard Assets/Particles/Sources/Stop Emitting 1 sec.anim
+Assets/Prefabs/assets/roofing_a.prefab
+Assets/Pro Standard Assets/Image Based/SSAOEffect.cs
+Assets/Scripts/glass/GlassStruct.cs
+Assets/Prefabs/pipes/pipe_white_med.prefab
+Assets/Prefabs/assets/fence_fixed_b.prefab
+Assets/Prefabs/plaque/grid.prefab
+Assets/Textures/Trees/bark5_bump.jpg
+Assets/Pro Standard Assets/Image Based/GlowEffectDownsample.shader
+Assets/Standard Assets/Water/Sources/Materials/water plane-lambert1.mat
+Assets/Meshes/characters/Materials/unity_pilot_01bc-unity_pilot_body_01.mat
+Assets/Textures/weapons/bullet_marks/old_metal_mp_1.png
+Assets/Textures/Particles/smoke.png
+Assets/Textures/weapons/bullet_marks/wood_mp_1.png
+Assets/Prefabs/dynamic_assets/wood_plank_d.prefab
+Assets/Textures/vehicles/uh-1n/uh-1n_helix.jpg
+Assets/Scripts/birds/Seagull.js
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeRunRightFire.FBX
+Assets/Textures/Terrains/black_rock.jpg
+Assets/Meshes/assets/lamp.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/BloomAndFlares.js
+Assets/Sounds/SFx/soldier/hit/soldier_hit02_2.mp3
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchRun.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/LightShafts.shader
+Assets/Materials/particles/flying_paper 3.mat
+Assets/Textures/weapons/m4/M4_NMM_01.jpg
+Assets/Prefabs/assets/lamp_d.prefab
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/CreaseApply.shader
+Assets/Textures/weapons/bullet_marks/metal_mp_2.png
+Assets/Materials/assets/archive_a.mat
+Assets/Sounds/Environment/cut_scene_music.mp3
+Assets/Sounds/SFx/weapons/generic/m4_reload.mp3
+Assets/Materials/particles/water_splash2.mat
+Assets/Pro Standard Assets/Image Based/SepiaToneEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_BloomAndFlares/AddAlphaHack.shader
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchWalkFire.FBX
+Assets/Textures/hud/common/checkboxTrue.png
+Assets/Prefabs/assets/guard_rail_medium.prefab
+Assets/Materials/particles/smoke_explosion.mat
+Assets/Meshes/Soldier/Walk_Anims/Soldier@Walk.FBX
+Assets/Shaders/alpha_2sided.shader
+Assets/Textures/vehicles/uh-1n/uh-1n_inside_dif.tga
+Assets/Prefabs/dynamic_assets/black_board.prefab
+Assets/Materials/particles/fumaca.mat
+Assets/Standard Assets/Particles/Sources/fire smoke.mat
+Assets/Prefabs/plaque/plaque-d.prefab
+Assets/Textures/Trees/leaves10.psd
+Assets/Prefabs/assets/railing_a_small_a.prefab
+Assets/Textures/hud/common/rolagem.png
+Assets/Sounds/Environment/cut_scene_sfx.wav
+Assets/Prefabs/buildings/bridge.prefab
+Assets/Materials/particles/smoke.mat
+Assets/Textures/Terrains/rock1.jpg
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchRunAim.FBX
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeRunLeftAim.FBX
+Assets/Meshes/Soldier/Run_Anims/Soldier@StrafeRunRightAim.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/RecordCenterDepth.shader
+Assets/Shaders/WaterShader.shader
+Assets/Textures/assets/barrel_d_dif.tga
+Assets/Textures/skybox_forest/forest_sky_back.psd
+Assets/Scripts/weapons/SetChildrenTag.js
+Assets/Pro Standard Assets/Water/Nighttime Water.prefab
+Assets/Meshes/Soldier/Cutscenes/Rope@RopeAnimation.FBX
+Assets/Standard Assets/Particles/Small explosion.prefab
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchWalkBackwards.FBX
+Assets/Pro Standard Assets/Image Based/TwirlEffect.cs
+Assets/Textures/Particles/water_splash2.psd
+Assets/Materials/assets/garbage_bag_blue.mat
+Assets/Scripts/physics/IgnoreCollider.cs
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Vignetting.js
+Assets/Pro Standard Assets/Image Based/Contrast Stretch/Luminance.shader
+Assets/Meshes/Soldier/Cutscenes/Null_For_M4_Rope.FBX
+Assets/Bootcamp/LightmapNear-5.exr
+Assets/Materials/particles/particula_madeira 1.mat
+Assets/Textures/assets/garbage_bag_blue.tga
+Assets/Prefabs/dynamic_assets/wood_plank_a.prefab
+Assets/Bootcamp/LightmapFar-5.exr
+Assets/Standard Assets/Light Flares/Sun_flare.flare
+Assets/Materials/particles/madeira_3.mat
+Assets/Scripts/huds/MainMenuScreen.js
+Assets/Sounds/Environment/water_impact_2D.wav
+Assets/Bootcamp/LightmapFar-7.exr
+Assets/Meshes/assets/wire_high_b.FBX
+Assets/Materials/assets/chair.mat
+Assets/Standard Assets/Decal System/DecalMode.cs
+Assets/Textures/weapons/bullet_marks/glass_mp_3.png
+Assets/Meshes/Soldier/Cutscenes/Soldier@CS_ColeagueIdle.FBX
+Assets/Materials/Buildings/buildings_e.mat
+Assets/Editor/DecalUVEditorWindow.cs
+Assets/Prefabs/plaque/plaque-n.prefab
+Assets/Prefabs/pipes/duct_a_45.prefab
+Assets/Textures/weapons/bullet_marks/generic_mp_3.png
+Assets/Prefabs/cutscenes/helicopter_cutscene2.prefab
+Assets/Standard Assets/Water/Sources/Water fallback.jpg
+Assets/Meshes/Soldier/Cutscenes/Soldier@CS_Pointing.FBX
+Assets/Meshes/Soldier/Run_Anims/Soldier@RunAim.FBX
+Assets/Prefabs/assets/sill_medium_b.prefab
+Assets/Shaders/MeshTerrain4Splats.shader
+Assets/Materials/particles/fumaca 2.mat
+Assets/Materials/Soldier/unity_soldier_head_dif_01.mat
+Assets/Prefabs/Trees/tree_high_d_Textures/diffuse.png
+Assets/Sounds/Sarge/forest/instructions_shot.mp3
+Assets/Standard Assets/Water/Sources/Nighttime Simple Water.mat
+Assets/Prefabs/assets/High_voltage_tower.prefab
+Assets/Standard Assets/Trees Ambient-Occlusion/pine1/pine_bark.mat
+Assets/Textures/hud/options/receiveDamageOff.png
+Assets/Textures/assets/concrete_brick_dif.tga
+Assets/Meshes/Soldier/Idle_Standing_Anims/Soldier@StandingReloadRPG1.FBX
+Assets/Textures/assets/archive_a_bump.jpg
+Assets/Prefabs/particles/dust.prefab
+Assets/Materials/Soldier/unity_soldier_body_dif_wip.mat
+Assets/Textures/skybox_forest/forest_sky_front.psd
+Assets/Editor/DecalEditor.cs
+Assets/Meshes/Maps/buildings1.FBX
+Assets/Prefabs/assets/rock_big_a.prefab
+Assets/Prefabs/assets/rusted_beam_a.prefab
+Assets/Standard Assets/Scripts/ActivateTrigger.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/PreDepthOfFieldZRead.shader
+Assets/Scripts/misc/streaming/StreamingController.js
+Assets/Prefabs/buildings/building_d3.prefab
+Assets/Materials/Trees/branches_1.mat
+Assets/Shaders/Alpha-Cancel.shader
+Assets/Prefabs/assets/wood_railing_stair_b.prefab
+Assets/Standard Assets/Particles/Sparks.prefab
+Assets/Prefabs/assets/railing_a_tiny.prefab
+Assets/Locomotion System/PolarGradientBandInterpolator.cs
+Assets/Sounds/SFx/soldier/hit/soldier_hit01.mp3
+Assets/Prefabs/assets/rock_tiny_g.prefab
+Assets/Materials/particles/explosion.mat
+Assets/Standard Assets/Scripts/DragRigidbody.js
+Assets/Textures/vehicles/uh-1n/uh-1n_body_nor.jpg
+Assets/Sounds/SFx/soldier/hit/soldier_hit03.mp3
+Assets/Prefabs/pipes/pipe_black_short.prefab
+Assets/Prefabs/Trees/tree_high_d.prefab
+Assets/Textures/assets/door_a.tga
+Assets/Standard Assets/Blob-Shadow/ProjectorDecal.shader
+Assets/Textures/hud/main_menu/resumeover.png
+Assets/Prefabs/particles/particle_metal.prefab
+Assets/Standard Assets/Blob-Shadow/Falloff.psd
+Assets/Sounds/Environment/water_impact_3D.mp3
+Assets/Prefabs/Trees/tree_small_d_Textures/shadow.png
+Assets/Textures/assets/tire_b_dif.tga
+Assets/Standard Assets/Physic Materials/Wood.physicmaterial
+Assets/Meshes/Misc/water_collider.FBX
+Assets/Standard Assets/Water/Sources/water plane.fbx
+Assets/Materials/skybox/forest_skybox.mat
+Assets/Prefabs/dynamic_assets/garbage_bag_blue.prefab
+Assets/Materials/particles/concreto_4.mat
+Assets/Materials/assets/archive_d.mat
+Assets/Textures/Misc/water_bump.jpg
+Assets/Meshes/Soldier/Run_Anims/Soldier@RunBackwards.FBX
+Assets/Materials/Misc/glassMaterial.mat
+Assets/Standard Assets/Blob-Shadow/Falloff5.psd
+Assets/Prefabs/assets/rock_small_b.prefab
+Assets/Textures/assets/door_a_bump.jpg
+Assets/Textures/Trees/bark3.jpg
+Assets/Fonts/Robustik/Robustik-Regular_14.otf
+Assets/Scripts/misc/SyncAudioListener.js
+Assets/Prefabs/pipes/pipe_black_S.prefab
+Assets/Prefabs/assets/wood_railing_b.prefab
+Assets/Scripts/misc/BlueLeaf.js
+Assets/Prefabs/assets/window_small_a.prefab
+Assets/Scripts/huds/AchievmentScreen.js
+Assets/Meshes/Soldier/Walk_Anims/Soldier@WalkAim.FBX
+Assets/Bootcamp/LightmapNear-3.exr
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/SunShafts.shader
+Assets/Prefabs/pipes/duct_a_big.prefab
+Assets/Textures/assets/pole_bump.jpg
+Assets/Pro Standard Assets/Image Based/color correction ramp.png
+Assets/Textures/assets/barrel_c_dif.tga
+Assets/Scripts/soldier/SoldierController.js
+Assets/Textures/weapons/bullet_marks/generic_mp_4.png
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/RadialBlurDepthWeighted.shader
+Assets/Textures/weapons/bullet_marks/concret_3.png
+Assets/Shaders/Particle Alpha Blend.shader
+Assets/Sounds/SFx/generic/wood_impact_weak.mp3
+Assets/Prefabs/particles/water_splash_waterfall.prefab
+Assets/Textures/assets/archive_a_dif.tga
+Assets/Prefabs/assets/concrete_wall_g.prefab
+Assets/Pro Standard Assets/Glass Refraction/Particle Add.shader
+Assets/Scripts/misc/GameSoundManager.cs
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/DepthDownsample.shader
+Assets/Textures/Particles/spark.jpg
+Assets/Prefabs/assets/rock_small_c.prefab
+Assets/Textures/hud/soldier/target_over.png
+Assets/Pro Standard Assets/Glass Refraction/Glass-Stained-BumpDistort 1.shader
+Assets/Textures/Trees/bark1_bump.jpg
+Assets/Meshes/characters/Materials/unity_pilot_01bc-unity_pilot_head_01.mat
+Assets/Prefabs/particles/water_soldier_movement.prefab
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/PostEffectsBase.js
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/ShowAlphaChannel.shader
+Assets/Prefabs/Trees/tree_small_e_Textures/translucency_gloss.png
+Assets/Prefabs/assets/window_wood_a.prefab
+Assets/Prefabs/dynamic_assets/ink_can.prefab
+Assets/Prefabs/Trees/pine1_Textures/diffuse.png
+Assets/Pro Standard Assets/Image Based/GrayscaleEffect.shader
+Assets/Materials/Misc/grenade.mat
+Assets/Shaders/Resources/TreeVertexLit.cginc
+Assets/Sounds/Sarge/other/preparing_bots.mp3
+Assets/Shaders/Particle Multiply.shader
+Assets/Prefabs/assets/rock_small_d.prefab
+Assets/Textures/assets/wood_crate_dif.tga
+Assets/Prefabs/pipes/pipe_black_big.prefab
+Assets/Textures/hud/streaming/loading.psd
+Assets/Prefabs/assets/window_small_c.prefab
+Assets/Textures/skybox_forest/forest_sky_right.psd
+Assets/Textures/hud/main_menu/play.png
+Assets/Meshes/Soldier/Run_Anims/Soldier@StrafeRunRightFire.FBX
+Assets/Scripts/glass/GlassMark.cs
+Assets/Meshes/assets/wire_high_a.FBX
+Assets/Meshes/vehicles/Materials/uh-1n-inside_steel_dif.mat
+Assets/Standard Assets/Trees Ambient-Occlusion/pine1/branch2.png
+Assets/Sounds/SFx/soldier/hit/soldier_hit_03_2.mp3
+Assets/Prefabs/particles/water_soldier_standing.prefab
+Assets/Prefabs/assets/rock_medium_d.prefab
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchAim.FBX
+Assets/Scripts/cutscenes/StartCutscene.js
+Assets/Bootcamp/LightmapNear-6.exr
+Assets/Locomotion System/IK1JointAnalytic.cs
+Assets/Prefabs/assets/iron_beam_c.prefab
+Assets/Prefabs/dynamic_assets/barrel_c.prefab
+Assets/Prefabs/pipes/duct_a_S.prefab
+Assets/Sounds/SFx/generic/wood_01.mp3
+Assets/Scripts/huds/TrainingStatistics.js
+Assets/Standard Assets/Editor/Image Effects/EdgeDetectEffectNormalsEditor.js
+Assets/Materials/particles/particula_madeira.mat
+Assets/Prefabs/Trees/tree_small_e_Textures/diffuse.png
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/LensFlareComposite.shader
+Assets/Materials/Soldier/unity_pilot_body_01_dif.mat
+Assets/Meshes/Soldier/Run_Anims/Soldier@RunBackwardsFire.FBX
+Assets/Scripts/misc/UVScroller_waterfall.js
+Assets/Textures/assets/garbage_bag.jpg
+Assets/CutsceneAnimations/heli_rapel_cutscene.anim
+Assets/Meshes/Soldier/Walk_Anims/Soldier@WalkBackwardsAim.FBX
+Assets/Sounds/SFx/generic/wood_impact_strong.mp3
+Assets/Textures/Particles/faisca_4.png
+Assets/Sounds/SFx/vehicles/helicopter/helicopter_fx.wav
+Assets/Scripts/enemies/dummy/TrainingDummy.js
+Assets/Pro Standard Assets/Image Based/EdgeDetectEffect.cs
+Assets/Textures/hud/soldier/hit.png
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/ExtractSkyboxShader.shader
+Assets/Textures/Misc/grenade.jpg
+Assets/Materials/particles/madeira_5.mat
+Assets/Textures/weapons/bullet_marks/generic_mp_2.png
+Assets/Textures/assets/boot_bump.jpg
+Assets/Textures/grass/grass7.psd
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/ColorCorrectionSelective.shader
+Assets/Textures/Trees/leaves9.psd
+Assets/Scripts/misc/PauseSound.js
+Assets/Materials/weapons/m4/m4_dif_01.mat
+Assets/Prefabs/assets/wood_plank_block_a.prefab
+Assets/Pro Standard Assets/Water/Sources/Nighttime Water.mat
+Assets/Textures/assets/chair_bump.jpg
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/ContrastEnhance.js
+Assets/Textures/assets/barrel_b_bump.jpg
+Assets/Standard Assets/Particles/Sources/fire add.mat
+Assets/Terrains/far_terrain/far_terrain.mat
+Assets/Meshes/vehicles/UH-1N.fbx
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_DepthOfField/DepthOfField.shader
+Assets/Prefabs/Trees/pine1.prefab
+Assets/Meshes/Soldier/Jump_Anims/new/Soldier@StandingJump.FBX
+Assets/Standard Assets/Blob-Shadow/ProjectorMultiply.shader
+Assets/Textures/Particles/trace.jpg
+Assets/Prefabs/assets/rock_tiny_b.prefab
+Assets/Prefabs/assets/rock_medium_a.prefab
+Assets/Editor/SoundObjectEditor.js
+Assets/Textures/hud/common/sliderButton.png
+Assets/Textures/vehicles/uh-1n/uh-1n_steel_nor.jpg
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_DepthOfField/SeparableBlur.shader
+Assets/Prefabs/particles/water_bullet_impact.prefab
+Assets/Pro Standard Assets/Image Based/grayscale ramp.png
+Assets/Pro Standard Assets/Image Based/MotionBlur.shader
+Assets/Textures/assets/cardboard_box_b_dif.tga
+Assets/Pro Standard Assets/Image Based/ColorCorrectionEffect.cs
+Assets/Meshes/Soldier/Walk_Anims/Soldier@WalkFireRPG.FBX
+Assets/Textures/vehicles/uh-1n/uh-1n_glass.psd
+Assets/Textures/Buildings/buildings_b.tga
+Assets/Prefabs/dynamic_assets/archive_a.prefab
+Assets/Textures/hud/common/scrolling_background.png
+Assets/Materials/assets/garbage_bag_black.mat
+Assets/Pro Standard Assets/Image Based/Contrast Stretch/ContrastStretchEffect.cs
+Assets/Materials/particles/fumaca 1.mat
+Assets/Standard Assets/Decal System/Decal.cs
+Assets/Standard Assets/Editor/Image Effects/ColorCorrectionCurvesEditor.js
+Assets/Scripts/misc/MainMenuEffects.js
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/EdgeApply.shader
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@Crouch.FBX
+Assets/Prefabs/assets/wood_floor_b.prefab
+Assets/Standard Assets/Fonts/Courier.dfont
+Assets/Materials/Misc/light_glow.mat
+Assets/Textures/Particles/explosion.png
+Assets/Textures/assets/tire_a_dif.tga
+Assets/Textures/hud/main_menu/optionsover.png
+Assets/Meshes/assets/grenade.FBX
+Assets/Sounds/SFx/generic/generic_impact_weak.mp3
+Assets/Scripts/birds/CutsceneBirds.js
+Assets/Textures/weapons/bullet_marks/wood_mp_3.png
+Assets/Textures/Particles/madeira_3.png
+Assets/Sounds/SFx/screens/mouse_click.wav
+Assets/Meshes/Misc/water.FBX
+Assets/Sounds/Sarge/forest/instructions_run_crouch.mp3
+Assets/Scripts/huds/HudSpeedometer.js
+Assets/Prefabs/Trees/tree_small_e_Textures/normal_specular.png
+Assets/Pro Standard Assets/Image Based/Contrast Stretch/Apply.shader
+Assets/Prefabs/assets/platform_small_b.prefab
+Assets/Editor/CutsceneBirdsEditor.js
+Assets/Prefabs/Trees/tree_high_b_Textures/translucency_gloss.png
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/DepthRGBA8RadialBlur.shader
+Assets/Textures/Buildings/alphas1.tga
+Assets/Pro Standard Assets/Image Based/ImageEffectBase.cs
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/SimpleClear.shader
+Assets/Scripts/misc/DestroyOnHit.js
+Assets/Prefabs/weapons/ammunition/explosion.prefab
+Assets/Pro Standard Assets/Glass Refraction/Glass-Stained-BumpDistort 2.shader
+Assets/Standard Assets/Trees Ambient-Occlusion/pine1/pine_leaves1.png
+Assets/Sounds/Sarge/other/game_end_2.mp3
+Assets/Bootcamp/LightmapNear-7.exr
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_BloomAndFlares/AddStuff.shader
+Assets/Locomotion System/IKSolver.cs
+Assets/Textures/assets/chair_dif.tga
+Assets/Standard Assets/Particles/Sources/smoke.mat
+Assets/Prefabs/assets/wood_railing_stair_c.prefab
+Assets/Materials/assets/porta_a.mat
+Assets/Scripts/huds/TrainingStat.js
+Assets/Meshes/Soldier/Crouch_Anims/Soldier@CrouchStrafeWalkRightAim.FBX
+Assets/Sounds/SFx/weapons/m203/granade_explosion.mp3
+Assets/Sounds/Sarge/other/wait_command.mp3
+Assets/Scripts/misc/UVScroller_simple 1.js
+Assets/Standard Assets/Physic Materials/Rubber.physicmaterial
+Assets/Materials/Misc/rope-07 - default.mat
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_DepthOfField/RecordCenterDepth.shader
+Assets/Meshes/Soldier/Cutscenes/Soldier@CS_Pilot2.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/GlowConeTap.shader
+Assets/Materials/assets/barrel_b.mat
+Assets/Standard Assets/Image Effects (Pro Only)/Image Based/Sources/Shaders/_DepthOfField/PreDepthOfField.shader
+Assets/Meshes/Soldier/Run_Anims/Soldier@StrafeRunLeftAim.FBX
+Assets/Bootcamp/LightmapFar-6.exr
+Assets/Materials/particles/fogo.mat
+Assets/Textures/Misc/dust.jpg
+Assets/Scripts/huds/sarge/SpeakOnTrigger.js
+Assets/Textures/assets/pipes_bump.jpg
+Assets/Prefabs/assets/lamp_c.prefab
+Assets/Sounds/SFx/generic/metal_impacto_forte_0525.mp3
+Assets/Materials/Trees/leaves_9.mat
+Assets/Textures/weapons/bullet_marks/old_metal_mp_2.png
+Assets/Textures/Particles/faisca_6.png
+Assets/Textures/Particles/madeira_8.png
+Assets/Textures/Buildings/building_a_bump.jpg
+Assets/Meshes/Crow/Materials/crowpsd.mat
+Assets/Pro Standard Assets/Image Based/NoiseEffectGrain.png
+Assets/Sounds/Sarge/other/chimney.mp3
+Assets/Materials/assets/fence.mat

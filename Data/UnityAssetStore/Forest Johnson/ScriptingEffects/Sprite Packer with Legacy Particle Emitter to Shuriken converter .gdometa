@@ -1,0 +1,51 @@
+Assets/Scripts/SpritePacker/SpritePackerAnimation.cs
+Assets/Scripts/SpritePacker/Shaders/PackedCutout.shader
+Assets/Scripts/SpritePacker/Shaders/AddSmooth+1.shader
+Assets/Scripts/SpritePacker/Shaders/BlendAlpha.shader
+Assets/Scripts/SpritePacker/Rotator.cs
+Assets/Scripts/SpritePacker/Shaders/AddAlpha.shader
+Assets/Scripts/SpritePacker/LegacyToShurikenConverter.cs
+Assets/Scripts/SpritePacker/Shaders/Add+1.shader
+Assets/Scripts/SpritePacker/HSBColor.cs
+Assets/Scripts/SpritePacker/Shaders/SolidAlpha.shader
+Assets/Scripts/SpritePacker/SpritePacker.cs
+Assets/Scripts/SpritePacker/CoinPartyExample/Coin Object/Materials/CoinSide.mat
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/ExplosionStreamer.js
+Assets/Scripts/SpritePacker/CoinPartyExample/CoinBake.png
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/fire.psd
+Assets/Scripts/SpritePacker/CoinPartyExample/CoinPacked.psd
+Assets/Scripts/SpritePacker/ExplosionExample/ExplosionAnimator.cs
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/Spark.mat
+Assets/Scripts/SpritePacker/Shaders/PackedAdd.shader
+Assets/Scripts/SpritePacker/CoinPartyExample/Coin Object/Coin Model.obj
+Assets/Scripts/SpritePacker/CoinPartyExample/CoinParty.cs
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/Explosion.js
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/RocketExplosionStreamer.prefab
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/SmokeBaked.psd
+Assets/Scripts/SpritePacker/CoinPartyExample/glow.psd
+Assets/Scripts/SpritePacker/CoinPartyExample/Light Flares/starflare.psd
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/Fire-HotYellow.mat
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/RocketLauncherImpact.aif
+Assets/Scripts/SpritePacker/CoinPartyExample/Add+1.shader
+Assets/Scripts/SpritePacker/CoinPartyExample/Glows.mat
+Assets/Scripts/SpritePacker/CoinPartyExample/COINPARTY README.txt
+Assets/Scripts/SpritePacker/README.txt
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/Fire-FlameOrange.mat
+Assets/Scripts/SpritePacker/CoinPartyExample/CoinEdgeBake.png
+Assets/Scripts/SpritePacker/ExplosionExample/StreamerAnimation 1.anim
+Assets/Scripts/SpritePacker/CoinPartyExample/Coin Object/StarCoin.psd
+Assets/Scripts/SpritePacker/CoinPartyExample/Light Flares/Small Flare.flare
+Assets/Scripts/SpritePacker/CoinPartyExample/Example.unity
+Assets/Scripts/SpritePacker/CoinPartyExample/Light Flares/flare mat.mat
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/Smoke.mat
+Assets/Scripts/SpritePacker/ExplosionExample/Explosion_Packed.png
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/Emit.js
+Assets/Scripts/SpritePacker/CoinPartyExample/Coins.mat
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/RocketExplosion.prefab
+Assets/Scripts/SpritePacker/ExplosionExample/ExampleScene.unity
+Assets/Scripts/SpritePacker/CoinPartyExample/Coin Object/CoinSide.psd
+Assets/Scripts/SpritePacker/CoinPartyExample/Coin Object/Materials/defaultMat.mat
+Assets/Scripts/SpritePacker/Shaders/PackedBlend.shader
+Assets/Scripts/SpritePacker/ExplosionExample/Old Assets/Spark.psd
+Assets/Scripts/SpritePacker/ExplosionExample/StreamerAnimation.anim
+Assets/Scripts/SpritePacker/CoinPartyExample/CoinShader.shader

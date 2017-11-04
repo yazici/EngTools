@@ -1,0 +1,14 @@
+Assets/ColorPicker/Particle_Material.mat
+Assets/ColorPicker/DrawColorPickers.prefab
+Assets/ColorPicker/ObjectColor.cs
+Assets/ColorPicker/hsv_space.png
+Assets/ColorPicker/alpha_gradient.png
+Assets/ColorPicker/PSColor.cs
+Assets/ColorPicker/ColorPicker.prefab
+Assets/ColorPicker/CameraBgColor.cs
+Assets/ColorPicker/color_piker_demo.unity
+Assets/ColorPicker/DemoGUI_ColorPickerDemo.cs
+Assets/ColorPicker/DrawGUIOrderColorPicker.cs
+Assets/ColorPicker/ColorPicker.cs
+Assets/ColorPicker/license.txt
+Assets/ColorPicker/DemoMaterial.mat

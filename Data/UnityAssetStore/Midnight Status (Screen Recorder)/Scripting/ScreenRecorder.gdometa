@@ -1,0 +1,32 @@
+Assets/ScreenRecorder/Examples/Images/stop.png
+Assets/Editor/configure_xcode_fixup.py
+Assets/Editor/FixupXcodeProject.py
+Assets/ScreenRecorder/Prefabs/ScreenRecorder.prefab
+Assets/ScreenRecorder/Examples/Scenes/Example 2 - CustomInitScreenRecorderExample.unity
+Assets/ScreenRecorder/Examples/Images/rec.png
+Assets/ScreenRecorder/Examples/Terrain/Terrain Assets/Textures/Forest Floor.jpg
+Assets/ScreenRecorder/Examples/Terrain/Terrain Assets/Textures/Cliff (Grassy).jpg
+Assets/ScreenRecorder/Examples/Animation/Rotation.anim
+Assets/ScreenRecorder/Examples/Scripts/LookAround.cs
+Assets/ScreenRecorder/Examples/Scenes/Example 1 - SimpleScreenRecorderExample.unity
+Assets/ScreenRecorder/Examples/Scripts/ScreenRecorderDelegate.cs
+Assets/ScreenRecorder/Scripts/ScreenRecorderCommon.cs
+Assets/ScreenRecorder/Tests/ScreenRecorderTest.unity
+Assets/Editor/params.py
+Assets/ScreenRecorder/Tests/ScreenRecorderTest.cs
+Assets/ScreenRecorder/Examples/Materials/MapMarker.mat
+Assets/ScreenRecorder/Scripts/RenderingTarget.cs
+Assets/ScreenRecorder/Scripts/ScreenRecorderVersionControl .cs
+Assets/Plugins/ScreenRecorder.bundle/Contents/Resources/en.lproj/InfoPlist.strings
+Assets/ScreenRecorder/Examples/Terrain/Terrain Assets/Textures/Snow.jpg
+Assets/ScreenRecorder/Examples/Scripts/TargetTextureBlitter.cs
+Assets/ScreenRecorder/Examples/Scripts/TheRedButton.cs
+Assets/ScreenRecorder/Examples/Terrain/Terrain Assets/Textures/Cliff (Layered Rock).jpg
+Assets/ScreenRecorder/Examples/Scripts/RandomMoveCharacter.cs
+Assets/ScreenRecorder/readme.txt
+Assets/ScreenRecorder/Examples/Terrain/Terrain.asset
+Assets/Editor/PostprocessBuildPlayer
+Assets/ScreenRecorder/Scripts/ScreenRecorder.cs
+Assets/Plugins/iOS/libScreenRecorder.a
+Assets/Plugins/ScreenRecorder.bundle/Contents/Info.plist
+Assets/Plugins/ScreenRecorder.bundle/Contents/MacOS/ScreenRecorder

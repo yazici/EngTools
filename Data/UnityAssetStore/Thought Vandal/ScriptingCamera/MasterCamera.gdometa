@@ -1,0 +1,45 @@
+Assets/ADemoSceneFiles/Stuff/SemiTransparent.mat
+Assets/ADemoSceneFiles/Stuff/New Terrain.asset
+Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js
+Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonCamera.js
+Assets/MasterCamera/MC Xtra Files/RTSController.js
+Assets/MasterCamera/MC Addons/MCZoomPan.js
+Assets/MasterCamera/MC Presets/MCIsoCamera.js
+Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js
+Assets/Standard Assets/Character Controllers/3rd Person Controller.prefab
+Assets/-RTSDemo.unity
+Assets/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_diffuse.tif
+Assets/MasterCamera/MC Xtra Files/MultiplayerTracker.prefab
+Assets/-FightingDemo.unity
+Assets/Standard Assets/Terrain Assets/Terrain Textures/Grass&Rock.psd
+Assets/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Constructor.FBX
+Assets/MasterCamera/MC Presets/MCRTS.js
+Assets/MasterCamera/MasterCameraRig.prefab
+Assets/MasterCamera/MC Xtra Files/MultiplayerTracker.js
+Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js
+Assets/ADemoSceneFiles/Terrain.prefab
+Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs
+Assets/zLayerTest.js
+Assets/MasterCamera/MC Xtra Files/RTS Setup.prefab
+Assets/MasterCamera/MC Addons/MCSetView.js
+Assets/MasterCamera/MC Xtra Files/MasterCamera.js
+Assets/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_normals.tif
+Assets/MasterCamera/MC Addons/MCMouseDampened.js
+Assets/MasterCamera/MC Presets/MC3PPlatformer.js
+Assets/ADemoSceneFiles/Stuff/Grey.mat
+Assets/MasterCamera/MC Addons/MCLOSFade.js
+Assets/MasterCamera/MC Addons/MCCursorLock.js
+Assets/MasterCamera/MC Xtra Files/MCLOSFadeOthers.js
+Assets/-3PSDemo.unity
+Assets/MasterCamera/MC Addons/MCStrafe.js
+Assets/--MasterCamera2-2Manualv1.pdf
+Assets/Standard Assets/Terrain Assets/Terrain Textures/Grass (Hill).psd
+Assets/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Materials/constructor_done.mat
+Assets/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Materials/constructordummy-09 - default.mat
+Assets/MasterCamera/MC Presets/MC3PShooter.js
+Assets/Standard Assets/Character Controllers/Sources/Scripts/PlatformInputController.js
+Assets/MasterCamera/MC Addons/MCButtonLook.js
+Assets/MasterCamera/MC Addons/MCScroll.js
+Assets/MasterCamera/MC Addons/MCKeyToZoom.js
+Assets/--2.5.12.js
+Assets/MasterCamera/MC Addons/MCFOVZoom.js

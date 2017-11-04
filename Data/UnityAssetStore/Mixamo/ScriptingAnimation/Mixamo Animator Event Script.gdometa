@@ -1,0 +1,6 @@
+Assets/MixamoAnimatorEvents/README.txt
+Assets/MixamoAnimatorEvents/AnimEvent.cs
+Assets/MixamoAnimatorEvents/Editor/EventsInspector.cs
+Assets/MixamoAnimatorEvents/Editor/AnimEventInspector.cs
+Assets/MixamoAnimatorEvents/AnimatorEvents.cs
+Assets/MixamoAnimatorEvents/Example.unitypackage

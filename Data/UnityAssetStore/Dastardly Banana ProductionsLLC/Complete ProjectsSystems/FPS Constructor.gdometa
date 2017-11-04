@@ -1,0 +1,753 @@
+Assets/Standard Assets/Particles/Sources/Textures/Fireball.psd
+Assets/Standard Assets/Particles/Sources/Materials/FlameE.mat
+Assets/Standard Assets/Particles/Sources/Textures/flameE.tif
+Assets/Standard Assets/Particles/Sources/Textures/SteamBlur.png
+Assets/Standard Assets/Particles/Sources/Textures/smoke2.tif
+Assets/Standard Assets/Particles/Sources/Materials/FlameB.mat
+Assets/Standard Assets/Particles/Sources/Textures/flameA.tif
+Assets/Standard Assets/Particles/Sources/Textures/flameB.tif
+Assets/Standard Assets/Particles/Sources/Materials/FlameA.mat
+Assets/Standard Assets/Particles/Sources/Materials/FlameC.mat
+Assets/Standard Assets/Particles/Sources/Textures/DustPoof.psd
+Assets/Standard Assets/Particles/Sources/Materials/Fairy Dust.mat
+Assets/Standard Assets/Particles/Sources/Materials/Smoke Trail.mat
+Assets/Standard Assets/Particles/Sources/Textures/fairydust.tif
+Assets/Standard Assets/Particles/Sources/Textures/flameC.tif
+Assets/Standard Assets/Particles/Sources/Materials/Dust Material 1.mat
+Assets/Standard Assets/Particles/Sources/Materials/Spark.mat
+Assets/Standard Assets/Particles/Sources/Textures/spark.tif
+Assets/Standard Assets/Particles/Sources/Materials/Poof1.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36jas-Material.3.4.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Concrete.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/paper_explosion_2.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Animations/Sprint.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/metal_mp_1.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/dirt_explosion_2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36-Material.7.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/metal_mp_1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Tracer.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/bullet_trace.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/water_splash.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Materials/Spas-12new-Material.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36-Material.3.4.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36-Material.2.4.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/copyright.txt.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/faisca2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/Reload.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Animations/PutAway.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Materials/BeardedAxe-Material.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/faisca1.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/Click.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/wood_mp_3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/fumaca 3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/leaves.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Mas-36.fbx
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Animations/Walk.anim
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/water_splash_cont_small.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/ScreenRed.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/ClipInsert.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/beep-3.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/Materials/glass1.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/concreto_5.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/wood_footsteps_2.wav
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/hit/breathing.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/PlasmaCannon/ChargeTest.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/NearExplosionA.ogg
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/metal_impacto_fraco_0525.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Reused Animations/Die.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/hits/glass_hit.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Spas12_Pump 1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/wood_mp_2.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Animations/Idle.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Animations/Walk.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Crosshair/Crosshair.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36jas-Material.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Material.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Materials/FN FAL-Material.7.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/glass_particles.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/planeSimple-PlaneMat.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Explosions/LargeEnergyExplosion.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/FN FAL.fbx
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/hits/water_shot.wav
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser/Laser.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Materials/FN FAL-Grenade.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Materials/BeardedAxe-Material.2.4.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/water_soldier_impact.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/smoke_dirt.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Materials/BeardedAxe-CylinderMat.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/leaves.prefab
+Assets/Plugins/Editor/TransformCopier.cs
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Wood.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Animations/Sprint.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/water_foam.psd
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Dead.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/glass_mp_2.png
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/paper_explosion.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/MouseButton.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/RocketLauncherImpact.aif
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/Key.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/faisca3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/Reticle.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/pumpOut.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Tracer.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/EjectMag.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/hits/wood.WAV
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/FarExplosionB.ogg
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Reused Animations/Null.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Spas-12_Body 1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/concrete_footsteps_1.wav
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/glass_mp_1.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/leaves.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/Rustle1.mp3
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/SelectNumKeys.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Plasma Beam/Sources/Lightning Mat.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/ClipRemove 1.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Animations/Sprint.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/concreto_1.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/ending point.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/concreto_6.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/concret_2.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/stone_1.mat
+Assets/Plugins/FPS Constructor V1/Docs/FPS_Package_1_0_Documentation 1.pdf
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/dirt_explosion.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Materials/FN FAL-Material.3.4.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/ReloadAlt.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/fire_fire2.psd
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Editable/SprintDisplay.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/MuzzleFlash.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/hits/metal.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/generic_mp_1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/BoltClose.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/glass_particle.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Material.3.4.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Floor.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/faisca4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Materials/Spas-12new-Material.3.4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/glass_destruction.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Spas12_Pump.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Crosshair/CrosshairFriend.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/concrete_footsteps_2.wav
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser/Laser.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Pupil.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/M203Fire.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Ammo/Yellow.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser/LaserDeep.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/hit/soldier_hit02.mp3
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Explosions/MediumEnergyExplosion.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Bullethole.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Crosshair/CrosshairTest.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/concret_1.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Metal.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/paper_3.png
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/Tilt.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Target/Materials/Target-Metal.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/particle_wood.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36-Material.3.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/InputItem.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/concrete_strong.mp3
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Projectiles/Source/Materials/Grenade.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/LockOn.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Animations/Sprint.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Animations/Reload.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/planeSimple-lambert1.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/FadeLightInstant.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser/Laser.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36jas-Material.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/InsertMag.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Target/EnemySilhouette.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/30Cal.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/water_splash.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/ReloadDualMag.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/Fire.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/faisca5.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/particle_dirt.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/generic_impact_strong.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Animations/TakeOut.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/generic_mp_2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Target/Target.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/breaking_glass.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/hits/concrete.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/concret_1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser/Laser1.mp3
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/FPSInputControllerDB.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/particle_concrete.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Materials/BeardedAxe-Material.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/water_footsteps.wav
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/MuzzleFlash.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Animations/Reload2.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Target/Materials/enemysilhouette.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/planeSimple.fbx
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/wood_footsteps_1.wav
+Assets/Plugins/FPS Constructor V1/ScriptsDB/ProjectileScripts/Missile.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/ReloadSounds.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/M203Switch.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/waterfall.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Crosshair/CrosshairFoe.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/glass_mp_1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Animations/Reload.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Animations/Walk.anim
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Editable/HealthDisplay.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/water_foam.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/faisca_1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Target/Materials/Target-Target.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Animations/Null.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Crosshair/CrosshairOther.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/old_metal_mp_3.png
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/water_splash_cont_med.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/ProjectileScripts/GrenadeCharged.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/UseEffects.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/generic_mp_4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/BeardedAxe.fbx
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/paper_1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/M203Idle.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Materials/Spas-12new-Material.2.4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Materials/BeardedAxe-Box.1Mat.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/M203Walk.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/Rustle3.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Animations/TakeOut.anim
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Projectiles/Source/Materials/Missile-CylinderMat.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/madeira_7.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/faisca_5.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Seeker Launcher/LockPlane.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/Slide.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Animations/Idle.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/FarExplosionA.ogg
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/Slide2.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Materials/Spas-12new-Material.7.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/RedDot.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/Pinstripe.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Target/Materials/Target-Material.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/dirt_footsteps_1.wav
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Reused Animations/TakeOut.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/Walk.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/BoltOpen.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Wall.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/ClipRemove.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/target.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper_jas-40mmGrenadeMat.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Shell.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper-40mmGrenadeMat.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/hit/soldier_hit01_2.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/generic_mp_1.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Plasma Beam/Sources/Lightning.psd
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/InsertShell.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Materials/Spas-12new-Material.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Materials/Spas-12new-Material.4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Thumper.fbx
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/Materials/lockon.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/faisca_2.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/M203Reload.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/BulletsClink.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/metal_mp_3.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/stone_1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/bullethole2.tga
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Extra/Source/Barrel.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Animations/PutAway.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Materials/Spas-12new-Material.3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/concreto_2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Material.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/water_splash_cont.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/dirt_footsteps_2.wav
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/glass_mp_3.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/TimedObjectDestructorDB.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/glass_hit.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/concrete_weak.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/concreto_5.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/flying_paper.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/Managers/AmmoManager.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/old_metal_mp_1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/smoke.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/wood_mp_1.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/hit/soldier_hit02_2.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/flying_paper 3.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/Managers/EffectsAndPenetrationWizard.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/metal_mp_2.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/water_splash2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Designator.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Materials/BeardedAxe-BoxMat.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/smoke_explosion.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/wood_mp_1.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/concret_2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Materials/Spas-12new-Material.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/beep-6.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/water_splash2.psd
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/particula_madeira 1.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Materials/Spas-12new-Material.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Extra/Source/BarrelDead.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/madeira_3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser/Laser2.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Materials/BeardedAxe-Material.7.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/glass_mp_3.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/M203Sprint.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/generic_mp_3.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Flamer/Spray Object.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Materials/Spas-12new-Material.2.4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/fumaca 2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Impact.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Spas12_Stock.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Lens.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36jas-Material.7.2.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/dust.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/hit/soldier_hit01.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/ClipInsert 1.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/explosion.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Materials/Spas-12new-Material.7.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Spas-12_Body.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/hit/soldier_hit03.mp3
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/particle_metal.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/bullethole1.tga
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/metal_mp_3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Animations/Null.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/concreto_4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Reload/pumpIn.mp3
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/BulletPenetration.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Health/Red.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/generic_mp_4.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36jas-Material.2.4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Animations/Reload.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/concret_3.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/wood_impact_weak.mp3
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/water_splash_waterfall.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/water_soldier_movement.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/CrosshairColor.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Materials/FN FAL-Material.2.4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Animations/Null.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Materials/Spas-12new-Material.5.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/hit/soldier_hit_03_2.mp3
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/water_soldier_standing.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/wood_01.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Materials/Spas-12new-Material.4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/particula_madeira.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/hits/metal_impacto_forte_0525.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/wood_impact_strong.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/faisca_4.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Plasma Beam/LightningBolt.cs
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/grenade.jpg
+Assets/Plugins/Editor/UseEffectsEditor.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/madeira_5.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/generic_mp_2.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/glass_mp_2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36jas-Material.3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Tritium.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/Sprint.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Animations/Walk.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Target/Target.fbx
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/trace.jpg
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Materials/Spas-12new-Material.3.4.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/particles/water_bullet_impact.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Animations/Null.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/particles/fumaca 1.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Animations/TakeOut.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Materials/Spas-12new-Material.3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/concret_3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/M203PutAway.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Materials/FN FAL-Material.3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Plasma Beam/Perlin.cs
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/explosion.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Animations/Charge.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/generic_impact_weak.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Animations/Fire.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/wood_mp_3.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser/LaserLoop.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/madeira_3.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Animations/Fire.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/Idle.anim
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/WeaponLocking.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Materials/BeardedAxe-pinstripe.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Material.2.4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/generic_mp_3.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Textures/Materials/Spas-12new-Material.5.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Editable/WeaponDisplay.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Explosions/explosion.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/ProjectileScripts/Grenade.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/granade_explosion.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser/LaserInner.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/M203Null.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Ammo/Green.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/wood_mp_2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/generic/metal_impacto_forte_0525.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/old_metal_mp_2.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/glass1.tga
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/bullet_marks/Materials/metal_mp_2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/faisca_6.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Particles/madeira_8.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/50Cal.mp3
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Editable/DeathEffects.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/Drag.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Scopes/Scope4-3.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Scopes/Scope16-10.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Scopes/Scope16-9.png
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Projectiles/EnergyGrenade.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/SprintCam.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser/OrbitalDesignator.png
+Assets/Plugins/Editor/EffectsManagerEditor.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/WalkCam.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/JoystickThumb.psd
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Projectiles/Grenade.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Scopes/Scope5-4.png
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/EffectSet.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/Materials/hitTextureDirectional.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/CamSway.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/Null.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/ThumperDrop.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Concrete/ConcreteDecal2.prefab
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/SpreadDecreaseRate.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/InputManager.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/HitBox.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Thumper.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/SelectTouch.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-32.exr
+Assets/Plugins/DB Upgrades_Store/Store/Images/Opaque2.png
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-2.exr
+Assets/Plugins/FPS Constructor V1/Release Notes
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Plasma Beam/Plasma Beam.prefab
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-1.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/ProjectileScripts/DontGoThroughThings.js
+Assets/Plugins/Editor/SmartCrosshairEditor.js
+Assets/Plugins/Editor/WizardEditor.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/JoystickDB.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Scripts/FadeLight.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/PlasmaCannon/Plasma Cannon.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Melee/Enemy.mat
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-30.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/EmptyReloadAnim.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-4.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Editable/SprintDisplayPlayer.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/FALDrop.prefab
+Assets/Plugins/Editor/WeaponClassIconsEditor.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Colt M1911.fbx
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-33.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/m4_shoot.wav
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-11.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-21.exr
+Assets/Plugins/DB Upgrades_Store/Store/Images/Locked.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Ranged/Shooter.mat
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-24.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/Ladder.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/SecondaryReloadAnim.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/ReloadOutTime.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/Avoidance.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/FAL.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Health/Health.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Generic/BulletDecal1.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/MouseLookDBJS.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-27.exr
+Assets/Plugins/DB Upgrades_Store/Store/StoreController.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/InputDB.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Animations/Fire.anim
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Other/Projectile.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Frame.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/OrbitalDesignator_Weapon.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Wood/WoodDecal2.prefab
+Assets/Plugins/DB Upgrades_Store/Upgrades/Upgrade.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/CharacterMotorDB.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/General Scripts/EnemyShootProjectile.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Slide.mat
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/Zoom.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-30.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-29.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper_jas-Material.2.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Editable/HighlightWeapon.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/Source/Texture/Materials/Dollar Back.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper_jas-Material.7.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper-Material.2.4.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/Source/Dollar Stack wild.obj
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/SMG.mp3
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/CameraShake.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/Lean.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/MoneyDrop_50.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/GunChildAnimation.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-2.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/LockCursor.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-3.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/PlayAnim.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/PlasmaCannon/PlasmaCannonDrop.prefab
+Assets/Plugins/DB Upgrades_Store/Store/Scripts/DBStoreController.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Boolean/ProgressiveReload.js
+Assets/Plugins/DB Upgrades_Store/Store/Images/twisty-do-hidden.gif
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Grip.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Ranged/Artillery.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/HitDirectional.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Spas-12new.fbx
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/General Scripts/EnemyAttack.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-22.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/FlameThrowerOff.mp3
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-22.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Editable/HighlightFX.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/StandardSpreadRate.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Seeker Launcher/LockOnMissile.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/SceneFloor.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/FlameThrowerLoop.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Flamer/Flamer.prefab
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-31.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/KickbackZ.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/AxeDrop.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/Source/Texture/Dollar Front.JPG
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/ReloadAnim.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Animations/PutAway.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Mas-36Drop.prefab
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-7.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/General Scripts/Attack.anim
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/AimSpreadRate.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Explosions/Med Explosion.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/Source/Materials/Front.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Extra/ExplodingBarrel.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/DrawRay.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper-Material.7.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Bearded Axe.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/out_of_ammo.mp3
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Setup/Manager.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Metal/MetalDecal3.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Extra/ExplodedBarrel.prefab
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Boolean/AutoFire.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/ReloadInTime.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser.prefab
+Assets/Plugins/DB Upgrades_Store/Store/Images/StoreHeader.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/crosshairtest.mat
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/KickbackAngle.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Scripts/CubeSet.js
+Assets/Plugins/DB Upgrades_Store/Store/Images/Weapons/FAL.png
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Integer/ShotCount.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-6.exr
+Assets/Plugins/DB Upgrades_Store/Store/Images/twisty-down.gif
+Assets/Plugins/DB Upgrades_Store/Store/Images/OpaqueBlue.png
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/EnemyDamageReceiver.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/FireRate.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Integer/PenetrateVal.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/FireAnim.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Glass/GlassDecal3.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/Source/Texture/Dollar Back.JPG
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-0.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/ReloadOutAnim.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/ConstantShake.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Animations/Fire2.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Mas-36.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper-Material.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/Source/Materials/Back.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Explosions/Large Explosion.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Glass/GlassDecal1.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Shotgun.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Reload.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Ladder.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/Axis.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/Pitch.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Editable/AmmoDisplay.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-17.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/NullAnim.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Concrete/ConcreteDecal1.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Animations/Reload.anim
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Vector3/AimPosition.js
+Assets/Plugins/DB Upgrades_Store/Store/Images/OpaqueWhite.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/M1911Drop.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Ranged/GrenadeEnemy.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Extra/Shell.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Light.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Metal/MetalDecal2.prefab
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/GlobalUpgrade.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/TakeOut.anim
+Assets/Plugins/DB Upgrades_Store/Store/Scripts/SlotInfo.js
+Assets/Plugins/DB Upgrades_Store/Store/Images/previous.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Spas-12.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Wood/WoodDecal1.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Glass/GlassDecal2.prefab
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Concrete/ConcreteDecal3.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper_jas-Material.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Generic/BulletDecal3.prefab
+Assets/Plugins/DB Upgrades_Store/Store/Images/buy.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Seeker Launcher/Seeker Launcher.prefab
+Assets/Plugins/DB Upgrades_Store/Upgrades/GlobalUpgrade.prefab
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-5.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/General Scripts/EnemyShoot.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Setup/Player.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/machineGunSingleShotLoopable.aif
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-8.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/MoneyDrop_25.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Flamer/FlamerDrop.prefab
+Assets/Plugins/FPS Constructor V1/Scenes/MobileDemoJoystick.unity
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-32.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Plasma Beam/Overheat.prefab
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/MaxKickbackZ.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-8.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/TapToInteract.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/WalkAnim.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/Force.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper_jas-Material.2.4.mat
+Assets/Plugins/Editor/GunScriptEditor.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Plasma Beam/LaserWeapon.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Integer/AmmoPerClip.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Animations/ReloadIn.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/BeardedAxe/Source/Animations/Fire.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Materials/FN FAL-Material.4.mat
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-20.exr
+Assets/Plugins/DB Upgrades_Store/Store/Images/Opaque.png
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/FPSWalkerDB.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/PutAway.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/LaserDrop.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Pistol.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper-Material.2.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/PlayerSprint.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/AimMode.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Seeker Launcher/SeekerLauncherDrop.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/ProjectileScripts/Explosion-Other.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/M1911.prefab
+Assets/Plugins/Editor/MovementValuesEditor.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/HitIndicator.png
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-0.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/MaxKickback.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-34.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/StandardSpread.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-25.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Other/MaterialChange.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/Pinstripe.mat
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/ReloadTime.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/ReloadInAnim.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36-Material.mat
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/Damage.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-31.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/PickupWeapon.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Scripts/Spawner.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/MovementValues.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-18.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-24.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Crosshair/LauncherCrosshair.png
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-33.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-26.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-23.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/Volume.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Reused Animations/EjectedShell.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Plasma Beam/Plasma Drop.prefab
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/AimSpread.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-20.exr
+Assets/Plugins/FPS Constructor V1/Scenes/MobileDemo.unity
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/WeaponInfo.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Projectiles/TargetedMissile.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/SceneColumn.mat
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Float(Multiplier)/BurstTime.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/DeadEnemy.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/SceneOrange.mat
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-5.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Boolean/BurstFire.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Animations/TakeOut.anim
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-12.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Ammo/AmmoPickup.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Animations/ReloadOut.anim
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/GunLook.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Explosions/Med ExplosionEnemy.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Animations/TakeOut.anim
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Extra/HitDirectional.prefab
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Other/SecondaryWeapon.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Materials/FN FAL-Material.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Worn Stucco.jpeg
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Wood/WoodDecal3.prefab
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-15.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/player/Grunt.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/FAL/Source/Materials/FN FAL-Material.2.mat
+Assets/Plugins/DB Upgrades_Store/Store/Images/next.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper_jas-Material.3.4.2.mat
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-26.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-9.exr
+Assets/Plugins/DB Upgrades_Store/Store/Images/Weapons/locked.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Scripts/Wave.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/Thumper.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/SceneWall.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Explosions/Small Explosion.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/FootStep.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Materials/Colt M1911-Material.7.2.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/Source/Texture/Materials/Dollar Front.mat
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/General Scripts/EnemyDrop.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-29.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Ammo/Ammo.prefab
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-1.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/SmartCrosshair.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Orbital Laser/Laser/OrbitalDesignator.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-7.exr
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Metal/MetalDecal1.prefab
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-3.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-4.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Health/HealthPickup.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/M1911/Source/Null.anim
+Assets/Plugins/Editor/CamSwayEditor.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-19.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-17.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Core/PlayerHealth.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-16.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/GunScript.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-16.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-13.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/ProjectileScripts/explosion-player.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/FireSelector.js
+Assets/Plugins/DB Upgrades_Store/Store/Scripts/WeaponClassIcons.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Boolean/Scoped.js
+Assets/Plugins/DB Upgrades_Store/Store/Images/check.png
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-19.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-6.exr
+Assets/Plugins/Editor/GlobalUpgradeEditor.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-28.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-34.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Spas-12Drop.prefab
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/SecondaryReloadEmptyAnim.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/TouchButton.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Thumper/Source/Materials/Thumper-Material.3.4.2.mat
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/SecondaryFireAnim.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-21.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-10.exr
+Assets/Plugins/Editor/SlotInfoEditor.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Integer/AmmoSet.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-18.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-10.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-15.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/Input/WeaponSelector.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-11.exr
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Other/GraphicsObject.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-12.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScene.unity
+Assets/Plugins/Editor/GunLookEditor.js
+Assets/Plugins/DB Upgrades_Store/Store/Images/WeaponClasses/AssaultRifle.png
+Assets/Plugins/FPS Constructor V1/Demo Assets/Target/target.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-27.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Melee/EnemyFast.mat
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Integer/BurstCount.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/SprayScript.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Setup/Weapon.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/Spas-12/Source/Animations/Idle.anim
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/MoneyPickup.js
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/Fire.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Generic/BulletDecal2.prefab
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-25.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/Source/Dollar Stack Neat.obj
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-14.exr
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Projectiles/Source/grenade.FBX
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Materials/launchercrosshair.mat
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Setup/StoreController.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Weapons/MAS_36/Source/Materials/Mas-36-Material.2.mat
+Assets/Plugins/Editor/AimModeEditor.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Animation/SecondaryNullAnim.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-9.exr
+Assets/Plugins/FPS Constructor V1/PrefabsDB/ImpactFX/Decals/Generic/BulletDecal4.prefab
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-14.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/AUG.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Money/Source/Materials/defaultMat.mat
+Assets/Plugins/FPS Constructor V1/ScriptsDB/CommonlyUsed/Managers/EffectsManager.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapFar-28.exr
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-13.exr
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/SelectableWeapon.js
+Assets/Plugins/DB Upgrades_Store/Store/Scripts/DBStoreGUI.js
+Assets/Plugins/FPS Constructor V1/Scenes/DemoScenelm/LightmapNear-23.exr
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Sounds/SFx/GunSounds/FlameThrowerOn.mp3
+Assets/Plugins/FPS Constructor V1/Demo Assets/Source/Textures/Misc/hitTextureDirectional.png
+Assets/Plugins/Editor/GunChildAnimationEditor.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Upgrade.js
+Assets/Plugins/DB Upgrades_Store/Store/Images/Info.png
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Integer/MaxClips.js
+Assets/Plugins/DB Upgrades_Store/Upgrades/Components/Boolean/InfiniteAmmo.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Pickups/Upgrade/UpgradePickup.js
+Assets/Plugins/FPS Constructor V1/PrefabsDB/Explosions/littleExplosion.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/JumpCrouchEffects.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Melee/EnemyFast.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Ranged/Shooter.prefab
+Assets/Plugins/FPS Constructor V1/ScriptsDB/WeaponScripts/PlayerWeapons.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Ranged/Artillery.prefab
+Assets/Plugins/FPS Constructor V1/Demo Assets/Scripts/Waypoint.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/General Scripts/EnemyMovement.js
+Assets/Plugins/FPS Constructor V1/Demo Assets/Enemy/Melee/Enemy.prefab
+Assets/Plugins/FPS Constructor V1/VersionInfo

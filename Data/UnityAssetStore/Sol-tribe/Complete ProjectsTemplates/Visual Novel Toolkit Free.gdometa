@@ -1,0 +1,381 @@
+ProjectSettings/InputManager.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/NavMeshLayers.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+Assets/VisualNovelToolkit/Scripts/Sample/Example Scenario Structures/TestScenarioSelector.cs
+Assets/VisualNovelToolkit/Templates/Objects/Parts/bg_sublayer.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/ContinueEvent.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Materials/MenuButtonMat.mat
+Assets/VisualNovelToolkit/Actors and Scenes/Scenes/Scenes/TitleScene.asset
+Assets/VisualNovelToolkit/Resources/character/sachi/smile1.png
+Assets/VisualNovelToolkit/Examples/Example UI/Materials/ButtonMat1.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/EventTriggerNode.cs
+Assets/VisualNovelToolkit/Materials/BackLog/BackLogButtonInMenuMat.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Data/ScenarioFinishEventData.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Engine/ViNoInspector.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/QuickStartDemo.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/UI/SimpleButton.cs
+Assets/VisualNovelToolkit/Textures/TextBox/textwindow.png
+Assets/VisualNovelToolkit/Scripts/Editor/Window/DrawScenarioTab.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/Textures/Step2_2_Slide2_1.png
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/Textures/Step2_2_Slide2_3.png
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Objects/Image/Image.prefab
+Assets/VisualNovelToolkit/Examples/Example Dialog/Scripts/SampleScenarioEvent.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Effects/OnEnablePlayAnimations.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUITransformEditable/TransformGUILabel.cs
+Assets/VisualNovelToolkit/Materials/BackLog/BackLogReturnButtonTexturedMat.mat
+Assets/VisualNovelToolkit/Resources/Effects/TileFade.prefab
+Assets/VisualNovelToolkit/Scripts/Editor/Window/DrawTemplatesTab.cs
+Assets/VisualNovelToolkit/Examples/Example Visual Novel/GameStateData/DialogScene Flags.asset
+Assets/VisualNovelToolkit/Materials/BackLog/VoiceButtonMat.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/API/ViNo.cs
+Assets/VisualNovelToolkit/Examples/Example Dialog/Materials/yoshino.mat
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Objects/Image/layer1.mat
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Nodes/PlaySoundNodeInspector.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Window/ViNoToolbar.cs
+Assets/VisualNovelToolkit/iTween/Sample/Sample.unity
+Assets/VisualNovelToolkit/Resources/character/yoshino/body2.png
+Assets/VisualNovelToolkit/Textures/TextBox/G_textwindow_icon.png
+Assets/VisualNovelToolkit/Actors and Scenes/Actors/Actors/Sachi.asset
+Assets/VisualNovelToolkit/Materials/TextBox/TextBoxMat.mat
+Assets/VisualNovelToolkit/Templates/Utility/ViNoSoundPlayer.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/Util/ViNoFPS.cs
+Assets/VisualNovelToolkit/Resources/BGM/ReadMe.txt
+Assets/VisualNovelToolkit/Scripts/Internal/DefaultScriptBinder.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/FadeOutSoundNode.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Util/FlagTable.cs
+Assets/VisualNovelToolkit/Textures/TextBox/arrow.png
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/Textures/Title.jpg
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Util/ViNoSaveInfoInspector.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/UI/TransformGUIButtonInspector.cs
+Assets/VisualNovelToolkit/Editor Icons/animationicon.png
+Assets/VisualNovelToolkit/Scripts/ViNo/Util/ResourceMetaData.cs
+Assets/VisualNovelToolkit/Examples/Example Visual Novel/Example Visual Novel.unity
+Assets/VisualNovelToolkit/Textures/System/G_b_auto_font.png
+Assets/VisualNovelToolkit/Scripts/ViNo/Util/ViNoBackLog.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Window/DrawSamplesTab.cs
+Assets/VisualNovelToolkit/Examples/Example Dialog/Resources/SachiTalks.prefab
+Assets/VisualNovelToolkit/Examples/Example Visual Novel/Presets/ScenarioCtrl.prefab
+Assets/VisualNovelToolkit/Templates/AnimationNode.prefab
+Assets/VisualNovelToolkit/Editor Icons/dialogicon.png
+Assets/VisualNovelToolkit/Scripts/ViNo/Util/TargetFPS.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Util/SystemUIEventInspector.cs
+Assets/VisualNovelToolkit/Templates/Materials/ButtonMat.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/ViNoGOEvent.cs
+Assets/VisualNovelToolkit/Scripts/Internal/VM.cs
+Assets/VisualNovelToolkit/Templates/ViNoSceneTemplate.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/AnimationNode.cs
+Assets/VisualNovelToolkit/Textures/System/menubutton.png
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Materials/MessagePromptMat.mat
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Nodes/SelectionsNodeInspector.cs
+Assets/VisualNovelToolkit/Materials/System/QLoadButtonTexturedMat.mat
+Assets/VisualNovelToolkit/Templates/ConversationSceneTempl.prefab
+Assets/VisualNovelToolkit/GUISkin/Config/GUIConfig.guiskin
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/SystemUIEvent.cs
+Assets/VisualNovelToolkit/Textures/Config/configtext_min.png
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Objects/ADVScene.prefab
+Assets/VisualNovelToolkit/Resources/character/maiko/normal.png
+Assets/VisualNovelToolkit/Scripts/ViNo/Data/SceneLibrary.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/OnActiveSaveLoadPanel.cs
+Assets/VisualNovelToolkit/Textures/System/G_b_back_bg.png
+Assets/VisualNovelToolkit/Scripts/ViNo/Ctrl/SelectionsCtrl.cs
+Assets/VisualNovelToolkit/Materials/System/SaveButtonTexturedMat.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/ClearMessageNode.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/characters/Sachi.prefab
+Assets/VisualNovelToolkit/GUISkin/BackLog/BackLogName.guiskin
+Assets/VisualNovelToolkit/Resources/character/yuki/smile.png
+Assets/VisualNovelToolkit/ReadMe_Japanese.txt
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/DialogPartNode.cs
+Assets/VisualNovelToolkit/Scripts/Internal/MessagingHandler.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Window/DrawObjectsTab.cs
+Assets/VisualNovelToolkit/Actors and Scenes/Actors/ActorLibrary.prefab
+Assets/VisualNovelToolkit/Examples/Example Scenario Structures/Resources/SIMPLE ORDER.prefab
+Assets/VisualNovelToolkit/Examples/Example Dialog/Example Dialog.unity
+Assets/VisualNovelToolkit/Examples/Example Dialog/Objects/Scene/BG.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/ViNoEventManager.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/WaitNode.cs
+Assets/VisualNovelToolkit/Examples/Example UI/Example UI.unity
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUISkip.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/SaveLoad/ViNoGameSaveLoad.cs
+Assets/VisualNovelToolkit/Textures/System/G_page_b_03.png
+Assets/VisualNovelToolkit/Scripts/Editor/Wizard/SceneCreateWizard.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/UI/ViNoTextMeshEventListenerInspector.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Objects/TextButton5SelectionsCtrl.prefab
+Assets/VisualNovelToolkit/Examples/Example Transitions/Resources/BlindDemo.prefab
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/UI/ViNoTextBoxInspector.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/LoadSceneNode.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/API/ViNoAPI.cs
+Assets/VisualNovelToolkit/Examples/Example Visual Novel/Resources/DialogScene1.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/Data/ViNoFlagType.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Data/Scene.cs
+Assets/VisualNovelToolkit/Resources/character/sachi/smile2.png
+Assets/VisualNovelToolkit/Examples/Example Visual Novel/GameStateData/QuickSaveSlot.asset
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUIConfig.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/ViNode.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUIBase.cs
+Assets/VisualNovelToolkit/Examples/Example UI/BG/BG.prefab
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/characters/sachi_body.mat
+Assets/VisualNovelToolkit/Textures/System/G_b_menu_bg.png
+Assets/VisualNovelToolkit/Scripts/ViNo/Effects/GUIFadeTransition.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUITransformEditable/TransformGUITextField.cs
+Assets/VisualNovelToolkit/Presets/Private/SystemUI.prefab
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Materials/SelectionButtonMat.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/SelectionsNode.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/SampleGUICtrl.cs
+Assets/VisualNovelToolkit/Textures/Config/rim.png
+Assets/VisualNovelToolkit/Materials/System/QSaveButton.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Util/ViNoSceneUtil.cs
+Assets/VisualNovelToolkit/iTween/Plugins/iTween.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/UI/TouchScreen.cs
+Assets/VisualNovelToolkit/iTween/Sample/SampleInfo.cs
+Assets/VisualNovelToolkit/Examples/Example Dialog/Resources/Sachi.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/SetTextNode.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUIInputHelp.cs
+Assets/VisualNovelToolkit/Examples/Example Scenario Structures/Resources/LOOP.prefab
+Assets/VisualNovelToolkit/Templates/Utility/DummySoundMetaResource.asset
+Assets/VisualNovelToolkit/Scripts/ViNo/Ctrl/GUISelectionsCtrl.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/UI/TextButton.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Materials/SkipButtonMat.mat
+Assets/VisualNovelToolkit/Materials/Selections/SelectionButtonMat.mat
+Assets/VisualNovelToolkit/Scripts/Sample/Event/SampleFadeEventReceiver.cs
+Assets/VisualNovelToolkit/Templates/Utility/ViNoSceneNodeFactory.prefab
+Assets/VisualNovelToolkit/Scripts/Internal/ScriptBinder.cs
+Assets/VisualNovelToolkit/Editor Icons/folder.png
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Nodes/ScenarioNodeInspector.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/LoadLevelNode.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUIAutoMode.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/ViNoDialogPartEnterListener.cs
+Assets/VisualNovelToolkit/Resources/character/sachi/angry.png
+Assets/VisualNovelToolkit/Presets/Private/ViNoLayerFactory.prefab
+Assets/VisualNovelToolkit/Materials/TextBox/TextBoxDarkMat.mat
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/Textures/Button.png
+Assets/VisualNovelToolkit/Scripts/ViNo/Sound/ViNoSoundPlayer.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/SaveLoad/ExternalAccessor.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/SaveLoad/SceneCreator.cs
+Assets/VisualNovelToolkit/Examples/Example Scenario Structures/Resources/NESTED 2.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/SaveLoad/CheckQuickSaveData.cs
+Assets/VisualNovelToolkit/Actors and Scenes/Scenes/SceneLibrary.prefab
+Assets/VisualNovelToolkit/Scripts/Sample/GUITransformEditable/TransformGUIToggle.cs
+Assets/VisualNovelToolkit/Examples/Example UI/Materials/ButtonMat4.mat
+Assets/VisualNovelToolkit/Templates/ConversationScene with SimpleUI.prefab
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Sound/ViNoSoundPlayerInspector.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Util/ViNoEditorUtil.cs
+Assets/VisualNovelToolkit/Resources/character/yuki/body.png
+Assets/VisualNovelToolkit/Scripts/Editor/Window/DialogItemInspector.cs
+Assets/VisualNovelToolkit/Resources/character/maiko/body.png
+Assets/VisualNovelToolkit/Materials/System/AutoButtonTexturedMat.mat
+Assets/VisualNovelToolkit/Scripts/Editor/Util/ScriptableObjectUtility.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/ClickAction.cs
+Assets/VisualNovelToolkit/Resources/character/sachi/normal.png
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUIQuickMenu.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Ctrl/TextButtonSelectionsCtrl.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUITransformEditable/TransformGUIToolbar.cs
+Assets/VisualNovelToolkit/Examples/Example UI/Materials/ButtonMat2.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/DestroyObjectNode.cs
+Assets/VisualNovelToolkit/Resources/BG/street2.jpg
+Assets/VisualNovelToolkit/Presets/Camera.prefab
+Assets/VisualNovelToolkit/Resources/BG/classroom.jpg
+Assets/VisualNovelToolkit/Textures/Config/configtext_max.png
+Assets/VisualNovelToolkit/Templates/Utility/TextButtonSelectionsCtrl.prefab
+Assets/VisualNovelToolkit/Examples/Example Dialog/ReadMe.txt
+Assets/VisualNovelToolkit/Actors and Scenes/Actors/Actors/Yoshino.asset
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/WaitClickNode.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Ctrl/ScenarioCtrl.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/SceneEvent.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Nodes/JumpTargetNodeInspector.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/TitleMenuEvent.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Effects/GUISceneFade.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Materials/LogMat.mat
+Assets/VisualNovelToolkit/Templates/SimpleSoundPlayer.prefab
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Nodes/DialogPartNodeInspector.cs
+Assets/VisualNovelToolkit/Textures/Config/knob.png
+Assets/VisualNovelToolkit/Resources/character/maiko/surprise.png
+Assets/VisualNovelToolkit/Examples/Example Dialog/Materials/sachi_face.mat
+Assets/VisualNovelToolkit/Textures/System/G_close.png
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/Textures/RightArrow.png
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/ViNoDialogEventData.cs
+Assets/VisualNovelToolkit/DLLs/DLL.dll
+Assets/VisualNovelToolkit/Materials/System/MenuBackgroundUpperMat.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Data/ActorInfo.cs
+Assets/VisualNovelToolkit/Scripts/Sample/Event/ClickAndLoadLevel.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/QuickStart Demo.unity
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Objects/TextBoxes.prefab
+Assets/VisualNovelToolkit/Materials/System/QSaveButtonTexturedMat.mat
+Assets/VisualNovelToolkit/Materials/TextBox/TextBoxTransparentMat .mat
+Assets/VisualNovelToolkit/Materials/System/CloseButton.mat
+Assets/VisualNovelToolkit/Resources/character/sachi/body.png
+Assets/VisualNovelToolkit/GUISkin/Menu.guiskin
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/GUISkin/BackLogName.guiskin
+Assets/VisualNovelToolkit/Examples/Example Dialog/Resources/Yoshino.prefab
+Assets/VisualNovelToolkit/Textures/System/G_b_yes_bg.png
+Assets/VisualNovelToolkit/Examples/Example Scenario Structures/Scenario Structure Patterns.unity
+Assets/VisualNovelToolkit/Templates/Materials/Layer2.mat
+Assets/VisualNovelToolkit/Resources/ViNoSimplePlaneMeshRevUV.asset
+Assets/VisualNovelToolkit/Examples/Example Visual Novel/Resources/Title.prefab
+Assets/VisualNovelToolkit/Examples/Example Visual Novel/Presets/Camera.prefab
+Assets/VisualNovelToolkit/Scripts/Sample/Event/ToggleActivate.cs
+Assets/VisualNovelToolkit/Materials/System/SaveButtonMat.mat
+Assets/VisualNovelToolkit/Resources/Effects/subtile_Blind.prefab
+Assets/VisualNovelToolkit/iTween/Sample/MoveSample.cs
+Assets/VisualNovelToolkit/Presets/Visual Novel Scene.prefab
+Assets/VisualNovelToolkit/Materials/TextBox/NameTextMat.mat
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Util/DialogPartNodeUtility.cs
+Assets/VisualNovelToolkit/Resources/character/yoshino/body1.png
+Assets/VisualNovelToolkit/Materials/System/SkipButtonTexturedMat.mat
+Assets/VisualNovelToolkit/Editor Icons/menu_item.png
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUIBackLog.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/JumpTargetNode.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/ViNoAnimationListener.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/PlaySoundNode.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/characters/sachi_normal.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Data/ActorLibrary.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/GameStateData/A SaveData.asset
+Assets/VisualNovelToolkit/Examples/Example Dialog/Resources/YoshinoTalks.prefab
+Assets/VisualNovelToolkit/Scripts/Editor/Wizard/ActorCreateWizard.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/SaveLoad/ViNoSceneManager.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/MessageEvent.cs
+Assets/VisualNovelToolkit/Examples/Example Visual Novel/Resources/DialogScene2.prefab
+Assets/VisualNovelToolkit/Templates/Materials/Layer3.mat
+Assets/VisualNovelToolkit/Materials/System/LogButtonTexturedMat.mat
+Assets/VisualNovelToolkit/Materials/BackLog/BackLogButtonMat.mat
+Assets/VisualNovelToolkit/Templates/SceneLibrary.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/Sound/SimpleSoundPlayer.cs
+Assets/VisualNovelToolkit/GUISkin/BackLog/BackLog.guiskin
+Assets/VisualNovelToolkit/Textures/TextBox/namewindow.png
+Assets/VisualNovelToolkit/Templates/Objects/BG/SimpleBG.prefab
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Nodes/ViNodeInspector.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/ClearSceneNode.cs
+Assets/VisualNovelToolkit/Resources/BG/schoolgate.jpg
+Assets/VisualNovelToolkit/Textures/System/G_b_menu_font.png
+Assets/VisualNovelToolkit/Templates/Utility/GUISelectionsCtrl.prefab
+Assets/VisualNovelToolkit/Textures/System/G_b_no_bg.png
+Assets/VisualNovelToolkit/Templates/Objects/Parts/BGTop.prefab
+Assets/VisualNovelToolkit/Resources/Shader/Unlit Alpha.shader
+Assets/VisualNovelToolkit/Scripts/Editor/Window/DrawViNodesTab.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/MessageEventData.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/OnEnableAndHideSystemUI.cs
+Assets/VisualNovelToolkit/Scripts/Internal/CodeGenerator.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Data/FlagTableData.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/UI/SimpleButtonInspector.cs
+Assets/VisualNovelToolkit/Templates/Objects/CrossFadeTypeCharacter/CrossFadeTypeCharacter.prefab
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUISelection.cs
+Assets/VisualNovelToolkit/Examples/Example Dialog/Objects/Scene/BG layer1 Material.mat
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/UI/ColorPanelInspector.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Util/ScenarioCtrlInspector.cs
+Assets/VisualNovelToolkit/Examples/Example Visual Novel/GameStateData/NewGameEntry.asset
+Assets/VisualNovelToolkit/Templates/Objects/BG/BG.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/Util/ViNoSaveInfo.cs
+Assets/VisualNovelToolkit/Templates/ActorLibrary.prefab
+Assets/VisualNovelToolkit/Examples/Example Scenario Structures/Resources/DIALOG.prefab
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/GUISkin/BackLogText.guiskin
+Assets/VisualNovelToolkit/Fonts/mplus-2c-medium.ttf
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/Textures/Step2_2_Slide2_2.png
+Assets/VisualNovelToolkit/Examples/Example Dialog/Objects/TextBox.prefab
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Util/FlagTableInspector.cs
+Assets/VisualNovelToolkit/Presets/GUIFadeTransition.prefab
+Assets/VisualNovelToolkit/iTween/ReadMe!/ReadMe!.txt
+Assets/VisualNovelToolkit/Scripts/Editor/Window/ObjectCreateTool.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/LoadImageNode.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Resources/Textures/BG.jpg
+Assets/VisualNovelToolkit/Templates/Objects/SimpleCharacter2/SimpleCharacter2.prefab
+Assets/VisualNovelToolkit/Examples/Example Transitions/Resources/TileFadeDemo.prefab
+Assets/VisualNovelToolkit/Scripts/Sample/Editor/CreateSampleGUI.cs
+Assets/VisualNovelToolkit/Docs/UserGuide(English).pdf
+Assets/VisualNovelToolkit/Examples/Example Transitions/Transition Demo.unity
+Assets/VisualNovelToolkit/Scripts/ViNo/API/SystemUtility.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Util/ActorUtility.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Data/DialogPartData.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Util/SceneInspector.cs
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/GameStateData/A FlagTableData.asset
+Assets/VisualNovelToolkit/Examples/Example Scenario Structures/Resources/GOTO.prefab
+Assets/VisualNovelToolkit/Materials/BackLog/BackLogIconMat.mat
+Assets/VisualNovelToolkit/Textures/System/G_page_b.png
+Assets/VisualNovelToolkit/Presets/TextButton4SelectionsCtrl.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/Data/SoundDataEntry.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Util/ViNoScenarioDataUtil.cs
+Assets/VisualNovelToolkit/GUISkin/BackLog/BackLogText.guiskin
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/CreateObjectNode.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUINextMessage.cs
+Assets/VisualNovelToolkit/Templates/Materials/Layer1.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/ViNoTextMeshEventListener.cs
+Assets/VisualNovelToolkit/Textures/Config/bar.png
+Assets/VisualNovelToolkit/Resources/Effects/BlindUnitMat.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/Effects/Blink.cs
+Assets/VisualNovelToolkit/Examples/Example Dialog/BGM.asset
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Sound/SimpleSoundPlayerInspector.cs
+Assets/VisualNovelToolkit/Resources/character/yuki/normal.png
+Assets/VisualNovelToolkit/Resources/character/yuki/surprise.png
+Assets/VisualNovelToolkit/Resources/ViNoSimplePlaneMesh.asset
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Materials/TextBoxMat.mat
+Assets/VisualNovelToolkit/iTween/Sample/RotateSample.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Nodes/AnimationNodeInspector.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Util/ViNoToolUtil.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/ScenarioNode.cs
+Assets/VisualNovelToolkit/Materials/TextBox/ArrowMat.mat
+Assets/VisualNovelToolkit/Scripts/ViNo/UI/ViNoTextBox.cs
+Assets/VisualNovelToolkit/Materials/System/SaveLoadButtonItemMat.mat
+Assets/VisualNovelToolkit/Templates/ViNoSceneTempl.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/UI/ColorPanel.cs
+Assets/VisualNovelToolkit/Presets/ViNo.prefab
+Assets/VisualNovelToolkit/Resources/Effects/Blind.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/UI/ViNoGrid.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUITransformEditable/TransformGUIButton.cs
+Assets/VisualNovelToolkit/Examples/Example UI/Materials/ButtonMat3.mat
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUIInput.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Nodes/LoadScenarioNode.cs
+Assets/VisualNovelToolkit/Editor Icons/iconbase.png
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Objects/BG/BG.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/ViNoEventData.cs
+Assets/VisualNovelToolkit/Docs/UserGuide(Japanese).pdf
+Assets/VisualNovelToolkit/Resources/Effects/TileFadeUnitMat.mat
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Objects/BG/bgmat.mat
+Assets/VisualNovelToolkit/Materials/System/MenuButtonMat.mat
+Assets/VisualNovelToolkit/Templates/Objects/TextBox/TextBox.prefab
+Assets/VisualNovelToolkit/Scripts/Sample/Example Transitions/SelectTransition.cs
+Assets/VisualNovelToolkit/Resources/Effects/ReadMe.txt
+Assets/VisualNovelToolkit/Textures/System/G_page_b_05.png
+Assets/VisualNovelToolkit/Examples/Example Scene/Scene Demo.unity
+Assets/VisualNovelToolkit/Examples/QuickStart Demo/Materials/AutoButtonMat.mat
+Assets/VisualNovelToolkit/Scripts/Editor/Util/ViNoEditorResources.cs
+Assets/VisualNovelToolkit/Templates/DialogPartNode.prefab
+Assets/VisualNovelToolkit/Resources/BGM/second-street-walk.mp3
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Nodes/GUICommon.cs
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Nodes/NodeGUI.cs
+Assets/VisualNovelToolkit/Textures/System/G_page_b_04.png
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUIText_LevelName.cs
+Assets/VisualNovelToolkit/ReadMe.txt
+Assets/VisualNovelToolkit/Templates/Objects/UI/SystemUI.prefab
+Assets/VisualNovelToolkit/Templates/GUISelection.prefab
+Assets/VisualNovelToolkit/Scripts/ViNo/SaveLoad/ViNoSceneSaveUtil.cs
+Assets/VisualNovelToolkit/Examples/Example Visual Novel/GameStateData/TitleFlags.asset
+Assets/VisualNovelToolkit/Examples/Example UI/BG/layer1.mat
+Assets/VisualNovelToolkit/Resources/BG/titlebg.png
+Assets/VisualNovelToolkit/Textures/System/G_page_b_02.png
+Assets/VisualNovelToolkit/Actors and Scenes/Scenes/Scenes/Scene1.asset
+Assets/VisualNovelToolkit/Scripts/Sample/Example UI/SampleButtonEvent.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/ObjectFactory/ViNoLayerFactory.cs
+Assets/VisualNovelToolkit/Actors and Scenes/Scenes/Scenes/Scene2.asset
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/UI/ViNoTextEventListenerInspector.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/GUISaveLoad.cs
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/BackLogEvent.cs
+Assets/VisualNovelToolkit/Scripts/Sample/GUI/SampleGUI.cs
+Assets/VisualNovelToolkit/Examples/Example Dialog/Objects/character.prefab
+Assets/VisualNovelToolkit/Examples/Example Scenario Structures/Resources/NESTED 1.prefab
+Assets/VisualNovelToolkit/Templates/Objects/2D Camera.prefab
+Assets/VisualNovelToolkit/Examples/Example Scenario Structures/Resources/SELECTIONS.prefab
+Assets/VisualNovelToolkit/Actors and Scenes/Actors/Actors/Maiko.asset
+Assets/VisualNovelToolkit/Resources/BGM/komorebi-no-kaze.mp3
+Assets/VisualNovelToolkit/Scripts/ViNo/Event/ViNoEventListener.cs
+Assets/VisualNovelToolkit/Templates/Objects/UI/Button.prefab
+Assets/VisualNovelToolkit/Examples/Example Dialog/Materials/sachi_body.mat
+Assets/VisualNovelToolkit/Templates/Objects/SimpleCharacter/SimpleCharacter.prefab
+Assets/VisualNovelToolkit/Materials/System/SaveLoadPanelBackground.mat
+Assets/VisualNovelToolkit/Templates/Utility/ViNoSceneManager.prefab
+Assets/VisualNovelToolkit/Scripts/Editor/Inspector/Util/SceneCreatorInspector.cs

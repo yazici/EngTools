@@ -1,0 +1,11 @@
+Assets/IK/Prefabs/ikLimb.prefab
+Assets/IK/Materials/red.mat
+Assets/IK/Readme.txt
+Assets/IK/Materials/blue.mat
+Assets/IK/Scenes/ik Bruno Ferreira.unity
+Assets/IK/Scenes/Inverse Kinematics Setup Example.unity
+Assets/IK/Scenes/Old Scenes (Outdated)/ik arm.unity
+Assets/IK/Scenes/Old Scenes (Outdated)/ik uneven arm.unity
+Assets/IK/Scripts/ik/IKLimb_BrunoFerreira.cs
+Assets/IK/Scripts/ik/IKControl.js
+Assets/IK/Scripts/ik/Old Scripts (Outdated)/ikLimb.js

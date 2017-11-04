@@ -1,0 +1,16 @@
+Assets/Editor/Moga_Setup.cs
+Assets/MOGA/Scripts/RotateCube.cs
+Assets/Plugins/winphone8/ARM/Moga.Windows.Phone.winmd
+Assets/Standard Assets/Scripts/Moga_Controller.cs
+Assets/Plugins/winphone8/ARM/Moga.Windows.Phone.dll
+Assets/MOGA/ReadMe.pdf
+Assets/Plugins/winphone8/x86/Moga.Windows.Phone.dll
+Assets/Editor/Moga_Mapping.cs
+Assets/Editor/Texture_EditorHeader.psd
+Assets/Plugins/winphone8/Controller.UnityPlugin.cs
+Assets/Plugins/winphone8/x86/Moga.Windows.Phone.winmd
+Assets/Editor/PostProcessBuildPlayer_Moga.cs
+Assets/Plugins/Android/com.bda.controller.jar
+Assets/Standard Assets/Scripts/Moga_ControllerManager.cs
+Assets/MOGA/exampleScene.unity
+Assets/Standard Assets/Scripts/Moga_Input.cs

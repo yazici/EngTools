@@ -1,0 +1,59 @@
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/AnyExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/ArrayExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Android/AndroidView.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Functional/Unit.cs
+Assets/Community Assets/tlplib/Code/Code.csproj.user
+Assets/Community Assets/tlplib/Code/TLPLib/Concurrent/Future.cs
+Assets/Community Assets/tlplib/Libraries/GoKit.dll
+Assets/Community Assets/tlplib/README.md
+Assets/Community Assets/tlplib/Code/TLPLib/Data/Range.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Data/ValueWithStorage.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Components/Forwarders/TriggerEnter2DForwarder.cs
+Assets/uRX/Scripts/Runtime/com/rmc/projects/uRX/mouse_double_click/MouseDoubleClickComponent_RX.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/TransformExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/FuncExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Concurrent/CoroutineHelperBehaviour.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/IListExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Concurrent/ASync.cs
+Assets/uRX/Documentation/README.md
+Assets/uRX/Scripts/Runtime/com/rmc/projects/uRX/mouse_double_click/MouseDoubleClickComponent_NonRX.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Data/Point2D.cs
+Assets/uRX/Scenes/MouseDoubleClick_RX.unity
+Assets/Community Assets/tlplib/Code/TLPLib/Utilities/MathUtils.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/ComponentExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Reactive/Subscription.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Collection/BiMap.cs
+Assets/Community Assets/tlplib/Documentation/README.md
+Assets/Community Assets/tlplib/Code/TLPLib/Reactive/Observable.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Utilities/Base36.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Tween/GoF.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Functional/Option.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Binding/DFBind.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Functional/Matching/Match.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Reactive/RxList.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Collection/ILinkedList.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/GameObjectExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Collection/ReadOnlyLinkedList.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Formats/SimpleJSON.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Functional/F.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Tween/FuncTween.cs
+Assets/Community Assets/tlplib/Code/TLPLib/IllegalStateException.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/IDictionaryExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/AndroidExts.cs
+Assets/Community Assets/tlplib/LICENSE
+Assets/uRX/Scenes/MouseDoubleClick_NonRX.unity
+Assets/Community Assets/tlplib/Code/Code.csproj
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/ColorExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Android/AndroidActivity.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/IEnumerableExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Reactive/RxRef.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Reactive/RxListView.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/TimeSpanExts.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Functional/Lazy.cs
+Assets/Community Assets/tlplib/TLPLib.sln
+Assets/Community Assets/tlplib/Code/TLPLib/Data/PointBounds.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Functional/Tuple.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Collection/ReadOnlyException.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Functional/Functions.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Utilities/Rng.cs
+Assets/Community Assets/tlplib/Code/TLPLib/Extensions/BoolExts.cs

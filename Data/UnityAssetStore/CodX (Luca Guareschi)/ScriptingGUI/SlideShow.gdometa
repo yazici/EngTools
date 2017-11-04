@@ -1,0 +1,13 @@
+Assets/LogosSlideshow/Textures/GUI/Dolby Digital.png
+Assets/LogosSlideshow/Prefab/GUI Overlays/FadeBlack.prefab
+Assets/LogosSlideshow/Scripts/GUI/TextureFullScreen.cs
+Assets/LogosSlideshow/Prefab/SlideShow.prefab
+Assets/LogosSlideshow/Animations/FadeIn.anim
+Assets/LogosSlideshow/Animations/FadeOut.anim
+Assets/LogosSlideshow/Scripts/GUI/SlideShow.cs
+Assets/LogosSlideshow/Scenes/Slideshow Example.unity
+Assets/LogosSlideshow/Textures/GUI/SlideShow.PNG
+Assets/LogosSlideshow/Textures/GUI/COD X Sketch Logo.png
+Assets/LogosSlideshow/Textures/GUI/FadeBlack.png
+Assets/LogosSlideshow/Textures/GUI/Blu-ray_3D.png
+Assets/LogosSlideshow/Scenes/GameMenu.unity

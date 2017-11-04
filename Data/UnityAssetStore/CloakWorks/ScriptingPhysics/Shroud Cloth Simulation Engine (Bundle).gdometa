@@ -1,0 +1,33 @@
+Assets/ShroudPlugin/Samples/Shroud Files/PerfTest_Orig.cwf
+Assets/ShroudPlugin/Samples/Materials/DefaultMaterial.mat
+Assets/ShroudPlugin/Samples/FBX/PerfTest.FBX
+Assets/ShroudPlugin/Documentation.html
+Assets/ShroudPlugin/Samples/Shroud Files/HairBall_Orig.cwf
+Assets/ShroudPlugin/Samples/Textures/Blonde2_Diffuse.jpg
+Assets/ShroudPlugin/Samples/Shroud Files/Flag_Orig.cwf
+Assets/ShroudPlugin/Samples/Scenes/HairBall.unity
+Assets/ShroudPlugin/Samples/Scenes/FlagTest.unity
+Assets/ShroudPlugin/Samples/Shaders/Two Sided/Mobile-Diffuse.shader
+Assets/ShroudPlugin/Samples/FBX/FlagPole.FBX
+Assets/ShroudPlugin/Samples/Shaders/Two Sided/Mobile-BumpSpec.shader
+Assets/ShroudPlugin/Samples/FBX/Materials/No Name.mat
+Assets/ShroudPlugin/Samples/Textures/Shroud_Logo.png
+Assets/ShroudPlugin/Samples/Shroud Files/Flag_Export.cwf.txt
+Assets/ShroudPlugin/Readme.txt
+Assets/ShroudPlugin/Samples/Shroud Files/HairBall_Export.cwf.txt
+Assets/ShroudPlugin/Samples/FBX/SpinningBall.FBX
+Assets/ShroudPlugin/UnityExportSettings.cfg
+Assets/ShroudPlugin/Samples/Shaders/Two Sided/Mobile-Bumped.shader
+Assets/ShroudPlugin/Samples/Shroud Files/PerfTest_Export.cwf.txt
+Assets/ShroudPlugin/Scripts/ShroudInstance.cs
+Assets/ShroudPlugin/Scripts/ShroudObjectManager.cs
+Assets/ShroudPlugin/Samples/Materials/ShroudLogoMaterial.mat
+Assets/ShroudPlugin/Samples/Scenes/PerfTest.unity
+Assets/ShroudPlugin/Samples/Materials/HairStrandMaterial.mat
+Assets/ShroudPlugin/Plugins/ShroudUnityPlugin.dll
+Assets/ShroudPlugin/Plugins/ShroudUnityPlugin.bundle/Contents/Info.plist
+Assets/ShroudPlugin/Plugins/ShroudUnityPlugin.bundle/Contents/MacOS/ShroudUnityPlugin
+Assets/ShroudPlugin/Plugins/Android/libShroudUnityPlugin.so
+Assets/ShroudPlugin/Plugins/iOS_Simulator/libShroudUnityPlugin.a
+Assets/ShroudPlugin/Plugins/ShroudUnityPlugin.bundle/Contents/Resources/en.lproj/InfoPlist.strings
+Assets/ShroudPlugin/Plugins/iOS/libShroudUnityPlugin.a

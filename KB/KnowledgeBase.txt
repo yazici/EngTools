@@ -1,0 +1,35 @@
+#$MyInvocation.ScriptName
+#Split-Path $MyInvocation.PSCommandPath -Leaf
+
+
+MEDIALINK http://192.168.8.1/advance.asp admin/o2
+
+
+INSTALL RDP SERVER # sudo apt-get install xrdp
+
+Raspberry PI : pi/raspberry
+
+
+Procedural Animal Walk Cycles 
+http://funkboxing.com/wordpress/?p=866
+	
+
+https://unity3d.com/learn/tutorials/topics/best-practices/guide-assetbundles-and-resources
+
+https://github.com/anchan828/property-drawer-collection
+http://gamenotgame.blogspot.kr/2013/12/non-trivial-property-drawers-in-unity.html
+https://github.com/minhhh/unity-editorextension-manual
+https://unity3d.com/learn/tutorials/topics/interface-essentials/building-custom-inspector
+https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity
+https://forum.unity.com/threads/adding-unknow-gameobjects-to-a-list-or-array.360662/
+https://forum.unity.com/threads/drag-and-drop-in-the-editor-explanation.223242/
+
+https://feedback.unity3d.com/suggestions/list-assets-in-resources-folder
+https://docs.unity3d.com/ScriptReference/AssetDatabase.html
+
+
+https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html
+https://docs.unity3d.com/ScriptReference/30_search.html?q=Input
+https://forum.unity.com/threads/standard-shader-with-vertex-colors.316529/page-4
+https://docs.unity3d.com/Manual/SL-BuiltinFunctions.html
+

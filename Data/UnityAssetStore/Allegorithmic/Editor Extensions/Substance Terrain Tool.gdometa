@@ -1,0 +1,13 @@
+Assets/SubTerrain/Editor/Materials/diffuse.mat
+Assets/SubTerrain/Terrain_Tool_manual.pdf
+Assets/SubTerrain/Resources/RTTSubTerrain.prefab
+Assets/SubTerrain/SampleSubstances/Desert_Sand_01.sbsar
+Assets/SubTerrain/SubTerrain.cs
+Assets/SubTerrain/Editor/diffuse.mat
+Assets/SubTerrain/TerrainReplacement.shader
+Assets/SubTerrain/SampleSubstances/Stones_01.sbsar
+Assets/SubTerrain/Editor/SubTerrainEditor.cs
+Assets/SubTerrain/Resources/TerrainTest_splat1.png
+Assets/SubTerrain/Resources/TerrainTest_splat2.png
+Assets/SubTerrain/Resources/TerrainTest_splat0.png
+Assets/SubTerrain/Resources/TerrainTest_splat3.png

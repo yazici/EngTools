@@ -1,0 +1,25 @@
+ProjectSettings/InputManager.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/NavMeshLayers.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+Assets/Trait System/_TSPrefabs/GameController.prefab
+Assets/Trait System/_TSPrefabs/TraitGUI.prefab
+Assets/Trait System/ReadMe.txt
+Assets/Trait System/_TSPrefabs/FloorGray.mat
+Assets/Trait System/_TSScripts/TS_TraitSystem.js
+Assets/Trait System/_TSScripts/TS_GameController.js
+Assets/Trait System/_TSPrefabs/Player.prefab
+Assets/Trait System/_TSPrefabs/WorldVars.prefab
+Assets/Trait System/_TSScripts/TS_TraitGUI.js
+Assets/Trait System/_TSScripts/TS_ModifiedFPSController.js
+Assets/Trait System/_TSScenes/TestScene.unity
+Assets/Trait System/_TSScripts/TS_WorldVars.js
+Assets/Trait System/_TSPrefabs/Trait System.prefab

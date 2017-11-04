@@ -1,0 +1,6 @@
+Assets/Electricity/Shaders/lightning.shader
+Assets/Electricity/Scripts/LightningBolt.cs
+Assets/Electricity/Materials/Lightining_Bar.psd
+Assets/Electricity/SparkScene.unity
+Assets/Electricity/Materials/Lightning.mat
+Assets/Electricity/Materials/noise_tex.png

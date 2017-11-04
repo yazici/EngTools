@@ -1,0 +1,177 @@
+Assets/GDG_Assets/Breakable Egg/Prefabs/LowerLevels_Don'tTouch/Egg_DL2_Master1.prefab
+Assets/GDG_Assets/Breakable Cube01/Materials/Cube01_Inside.mat
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master4.prefab
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Camo_Fracture.mat
+Assets/GDG_Assets/Breakable Egg/Prefabs/Egg_Controller.prefab
+Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Type3_Ouside.mat
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master0.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master15.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master14.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master11.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master9.prefab
+Assets/GDG_Assets/Sky/Sky.mat
+Assets/GDG_Assets/Sounds/rocks1.mp3
+Assets/Standard Assets/Tessellation Shaders/_Example/CliffRock_DISP.png
+Assets/Standard Assets/DemoScenes/Terrain Assets/Terrain Textures/Cliff (Layered Rock).psd
+Assets/GDG_Assets/Breakable Barrel/Scripts/Barrel_DL2_Master.cs
+Assets/GDG_Assets/Projectiles/Projectile.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master7.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master19.prefab
+Assets/GDG_Assets/Breakable Egg/Scripts/Egg_DL1_Master.cs
+Assets/GDG_Assets/!Instructions/Cube.fbx
+Assets/GDG_Assets/Scripts/Physics/PhysicsController/FPSController_Singleton_Extended.cs
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master17.prefab
+Assets/GDG_Assets/Cargo/Cargo.prefab
+Assets/GDG_Assets/Breakable Egg/Prefabs/LowerLevels_Don'tTouch/Egg_DL1_Master0.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master13.prefab
+Assets/GDG_Assets/Sounds/crack02.wav
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Smooth_Fracture.mat
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master3.prefab
+Assets/GDG_Assets/Scripts/Other/BreakTrigger.cs
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master18.prefab
+Assets/GDG_Assets/Breakable Barrel/Materials/Barrel_Bands.mat
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg_UVMap.png
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master1.prefab
+Assets/GDG_Assets/Projectiles/Projectile.mat
+Assets/GDG_Assets/!Instructions/Materials/Cube_Outside.mat
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Smooth_Ouside.mat
+Assets/GDG_Assets/Resources/ExplosionSphere.prefab
+Assets/GDG_Assets/Scripts/Physics/PhysicsController/DLL/GDGPhysicsDllV1_1.dll
+Assets/GDG_Assets/Cargo/Cargo_ExplosiveShot.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master19.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master18.prefab
+Assets/GDG_Assets/BreakTrigger/BreakTrigger.mat
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Type4_Ouside.mat
+Assets/GDG_Assets/Breakable Egg/Prefabs/LowerLevels_Don'tTouch/Egg_DL1_Master1.prefab
+Assets/GDG_Assets/Breakable Egg/Scripts/Egg_Controller.cs
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master1.prefab
+Assets/GDG_Assets/Breakable Cube01/Scripts/Cube01_DL1.cs
+Assets/GDG_Assets/Sounds/crack01.wav
+Assets/GDG_Assets/Breakable Cube01/Prefabs/LowerLevels_Don'tTouch/Cube01_DL1_Master3.prefab
+Assets/GDG_Assets/Breakable Barrel/Scripts/Barrel_DL1_Master.cs
+Assets/GDG_Assets/Sky/SkyGradient.png
+Assets/GDG_Assets/BreakTrigger/BreakTrigger.prefab
+Assets/GDG_Assets/Cargo/Sphere.prefab
+Assets/GDG_Assets/Sounds/crack04.wav
+Assets/GDG_Assets/Sounds/Sounds.txt
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master11.prefab
+Assets/GDG_Assets/Breakable Egg/Scripts/Egg_DL2.cs
+Assets/GDG_Assets/Breakable Cube01/Scripts/Cube01_Controller.cs
+Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master8.prefab
+Assets/Standard Assets/DemoScenes/CharacterControllers/First Person Controller.prefab
+Assets/GDG_Assets/Sounds/rockbreak.wav
+Assets/GDG_Assets/Breakable Egg/Scripts/Egg_DL3.cs
+Assets/GDG_Assets/Particles/Sources/Textures/DustPoof.psd
+Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs
+Assets/GDG_Assets/Projectiles/Projectile_Explosive.prefab
+Assets/GDG_Assets/Cargo/Cargo_ExplosiveShot.mat
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master3.prefab
+Assets/GDG_Assets/Scripts/Other/Projectile.cs
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master0.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master9.prefab
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Noisy_Fracture.mat
+Assets/GDG_Assets/Projectiles/Projectile_Explosive.mat
+Assets/GDG_Assets/Sky/SkyTop_Grey.png
+Assets/GDG_Assets/Breakable Barrel/Scripts/Editor/Barrel_Controller_Editor.cs
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master12.prefab
+Assets/GDG_Assets/Breakable Egg/Prefabs/LowerLevels_Don'tTouch/Egg_DL2_Master0.prefab
+Assets/GDG_Assets/Breakable Cube01/Prefabs/LowerLevels_Don'tTouch/Cube01_DL1_Master9.prefab
+Assets/GDG_Assets/Breakable Cube01/Prefabs/Cube01_Controller.prefab
+Assets/GDG_Assets/Breakable Cube01/Prefabs/LowerLevels_Don'tTouch/Cube01_DL1_Master6.prefab
+Assets/GDG_Assets/Breakable Barrel/Scripts/Barrel_DL0.cs
+Assets/GDG_Assets/Breakable Barrel/ImportedMeshes_Don'tTouch/Barrel.fbx
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Noisy_Ouside.mat
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master10.prefab
+Assets/GDG_Assets/Scripts/Physics/PhysicsController/ExplosionSphereController_Extended.cs
+Assets/GDG_Assets/Breakable Cube01/Prefabs/LowerLevels_Don'tTouch/Cube01_DL1_Master7.prefab
+Assets/GDG_Assets/Breakable Egg/Scripts/Egg_DL1.cs
+Assets/GDG_Assets/Breakable Egg/Scripts/Egg_DL2_Master.cs
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Type2_Fracture.mat
+Assets/GDG_Assets/Breakable Barrel/Scripts/Barrel_DL2.cs
+Assets/GDG_Assets/Cargo/Null.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master17.prefab
+Assets/GDG_Assets/Breakable Egg/Scripts/Egg_DL0.cs
+Assets/GDG_Assets/Breakable Barrel/Scripts/Barrel_Controller.cs
+Assets/GDG_Assets/Breakable Barrel/Materials/Barrel_Inside.mat
+Assets/GDG_Assets/Scenes/DemoScene.unity
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master8.prefab
+Assets/GDG_Assets/Breakable Cube01/Prefabs/LowerLevels_Don'tTouch/Cube01_DL1_Master4.prefab
+Assets/GDG_Assets/Sounds/crack03.wav
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master2.prefab
+Assets/GDG_Assets/Cargo/Cargo Time.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master16.prefab
+Assets/GDG_Assets/Scenes/Instructions.unity
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master4.prefab
+Assets/GDG_Assets/Breakable Egg/Scripts/Editor/Egg_Controller_Editor.cs
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master10.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master13.prefab
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Type3_Fracture.mat
+Assets/Standard Assets/Toon Shading/Sources/Textures/toony lighting.psd
+Assets/GDG_Assets/Breakable Barrel/ImportedMeshes_Don'tTouch/Barrel_Collider.fbx
+Assets/GDG_Assets/Floor/Floor.mat
+Assets/GDG_Assets/Particles/Sources/Materials/Dust Material 1.mat
+Assets/GDG_Assets/Breakable Cube01/Scripts/Cube01_DL1_Master.cs
+Assets/GDG_Assets/Breakable Barrel/Scripts/Barrel_DL3.cs
+Assets/GDG_Assets/Scripts/Other/Launcher.cs
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master15.prefab
+Assets/GDG_Assets/Sounds/rocks2.mp3
+Assets/GDG_Assets/!Instructions/BlendFiles.zip
+Assets/GDG_Assets/Particles/Dust.prefab
+Assets/GDG_Assets/Cargo/Cargo_Time.mat
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Fracture.mat
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master2.prefab
+Assets/GDG_Assets/Breakable Cube01/Materials/Cube01_Outside.mat
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master6.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master7.prefab
+Assets/Standard Assets/Physic Materials/Wood.physicmaterial
+Assets/GDG_Assets/Breakable Cube01/Prefabs/LowerLevels_Don'tTouch/Cube01_DL1_Master0.prefab
+Assets/GDG_Assets/Breakable Cube01/Prefabs/LowerLevels_Don'tTouch/Cube01_DL1_Master2.prefab
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Type4_Fracture.mat
+Assets/GDG_Assets/Breakable Cube01/ImportedMeshes_Don'tTouch/Cube01.fbx
+Assets/GDG_Assets/Sky/SkyGradient_Grey.png
+Assets/GDG_Assets/Breakable Barrel/Scripts/Barrel_DL1.cs
+Assets/GDG_Assets/Breakable Barrel/Prefabs/Barrel_Controller.prefab
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master5.prefab
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Type2_Ouside.mat
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master16.prefab
+Assets/Standard Assets/Tessellation Shaders/_Example/CliffRock_NRM.png
+Assets/GDG_Assets/!Instructions/ReadMeBreakableObjects.pdf
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master12.prefab
+Assets/GDG_Assets/Particles/Sources/Shaders/Particle Alpha Blend (Queue +100).shader
+Assets/GDG_Assets/!Instructions/Materials/Cube_Inside.mat
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Ouside.mat
+Assets/GDG_Assets/Breakable Cube01/Prefabs/LowerLevels_Don'tTouch/Cube01_DL1_Master1.prefab
+Assets/GDG_Assets/Scripts/Editor/GDG_Breakable_Editor_Dll.dll
+Assets/GDG_Assets/Breakable Cube01/Scripts/Cube01_DL0.cs
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master6.prefab
+Assets/GDG_Assets/Scripts/Other/Cargo.cs
+Assets/GDG_Assets/Scripts/Other/projectile_Explosive.cs
+Assets/GDG_Assets/Breakable Egg/ImportedMeshes_Don'tTouch/Egg__Unity_Colliders 1.fbx
+Assets/GDG_Assets/Breakable Barrel/Materials/Barrel_Outside.mat
+Assets/GDG_Assets/Breakable Egg/Materials/Egg_Camo_Ouside.mat
+Assets/GDG_Assets/Sky/SkyTop.png
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL2_Master14.prefab
+Assets/GDG_Assets/Breakable Cube01/Scripts/Editor/Cube01_Controller_Editor.cs
+Assets/GDG_Assets/Breakable Cube01/Prefabs/LowerLevels_Don'tTouch/Cube01_DL1_Master5.prefab
+Assets/GDG_Assets/Breakable Egg/ImportedMeshes_Don'tTouch/Egg.fbx
+Assets/GDG_Assets/Breakable Barrel/Prefabs/LowerLevels_Don'tTouch/Barrel_DL1_Master5.prefab
+Assets/GDG_Assets/Breakable Cube01/Prefabs/LowerLevels_Don'tTouch/Cube01_DL1_Master8.prefab
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Type3-TM_u0_v0.tif
+Assets/GDG_Assets/Floor/Floor1_NM.png
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Type2-NM_u0_v0.tif
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Noisy-NM_u0_v0.tif
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Type4-TM_u0_v0.tif
+Assets/GDG_Assets/Breakable Barrel/Materials/Textures/Barrel_vcols_Inside 1.png
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Camo-NM_u0_v0.tif
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Noisy-TM_u0_v0.tif
+Assets/GDG_Assets/Breakable Barrel/Materials/Textures/Barrel_normals_InvertedGreen.png
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Type4-NM_u0_v0.tif
+Assets/GDG_Assets/Floor/Floor1_TM.png
+Assets/GDG_Assets/Breakable Barrel/Materials/Textures/Barrel_vcols.png
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Camo-TM_u0_v0.tif
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Type2-TM_u0_v0.tif
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Smooth-NM_u0_v0.tif
+Assets/GDG_Assets/Breakable Egg/Materials/Textures/Egg-Type3-NM_u0_v0.tif
+Assets/GDG_Assets/Breakable Barrel/Materials/Textures/Barrel_vcols_Inside.png

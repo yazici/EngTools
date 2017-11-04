@@ -1,0 +1,50 @@
+Assets/SceneMate/Icons/Flip X.psd
+Assets/SceneMate/Icons/Match Rot Tgt.psd
+Assets/SceneMate/Icons/Snap to Center.psd
+Assets/SceneMate/Icons/Snap Drag.psd
+Assets/SceneMate/Editor/SceneMateOnSceneGUI.cs
+Assets/SceneMate/Icons/Offset Selected.psd
+Assets/SceneMate/Icons/Match Scale Tgt.psd
+Assets/SceneMate/Icons/Cycle Rotation Axis.psd
+Assets/SceneMate/Editor/ColorSwatchesGroupWindow.cs
+Assets/SceneMate/Icons/Align To Normal.psd
+Assets/SceneMate/Icons/Snap to Surface.psd
+Assets/SceneMate/Icons/Replace Selection.psd
+Assets/SceneMate/Icons/Fit Collider.psd
+Assets/SceneMate/Editor/SceneMate.cs
+Assets/SceneMate/Editor/SceneMateFullBar.cs
+Assets/SceneMate/Editor/ObjectPainterGroupWindow.cs
+Assets/SceneMate/Icons/Flip Z.psd
+Assets/SceneMate/Editor/RotationGroupWindow.cs
+Assets/SceneMate/Icons/By Size.psd
+Assets/SceneMate/Icons/Rotate Right.psd
+Assets/SceneMate/Editor/ImportOptionsGroupWindow.cs
+Assets/SceneMate/Icons/Randomize Position.psd
+Assets/SceneMate/Icons/Align Low.psd
+Assets/SceneMate/Editor/SceneMateGUI.cs
+Assets/SceneMate/Editor/OffsetGroupWindow.cs
+Assets/SceneMate/Icons/Snap to Wall.psd
+Assets/SceneMate/Icons/Align High.psd
+Assets/SceneMate/Icons/Snap to Ground.psd
+Assets/SceneMate/Icons/Randomize Rotation.psd
+Assets/SceneMate/Icons/Object Painter.psd
+Assets/SceneMate/Editor/AssignHotKeysGroupWindow.cs
+Assets/SceneMate/Editor/AdvObjPOptionsWindow.cs
+Assets/SceneMate/Icons/Randomize Scale.psd
+Assets/SceneMate/Icons/Assign Hot Keys.psd
+Assets/SceneMate/Icons/Set Spacing.psd
+Assets/SceneMate/Icons/Color Swatches.psd
+Assets/SceneMate/Icons/Snap Rotation 90.psd
+Assets/SceneMate/Icons/Bounds Snap.psd
+Assets/SceneMate/Editor/SnapGroupWindow.cs
+Assets/SceneMate/Editor/MatchFlipGroupWindow.cs
+Assets/SceneMate/Icons/Distribute.psd
+Assets/SceneMate/Icons/Flip Y.psd
+Assets/SceneMate/Icons/Rotate Left.psd
+Assets/SceneMate/Readme.txt
+Assets/SceneMate/Icons/Import Options.psd
+Assets/SceneMate/Icons/Selected Objs Amt.psd
+Assets/SceneMate/Editor/RandomizeColFitGroupWindow.cs
+Assets/SceneMate/Editor/AlignDistributeGroupWindow.cs
+Assets/SceneMate/Icons/Match Pos Tgt.psd
+Assets/SceneMate/Icons/Reset Objects.psd

@@ -36,7 +36,7 @@ namespace Pamux.GameDev.Tools.Tabs
             reader.SelectVoice("Microsoft " + voiceName + " Desktop");
             foreach (var word in words.Split(','))
             {
-                reader.SetOutputToWaveFile(string.Format($@"{Settings.Instance.VoiceSaveDirectory}\{0}\{1}.wav", voiceName, RemoveWhitespace(word)));
+                reader.SetOutputToWaveFile(string.Format($@"{Settings.VoiceSaveDirectory}\{0}\{1}.wav", voiceName, RemoveWhitespace(word)));
                 reader.Speak(word);
             }
         }

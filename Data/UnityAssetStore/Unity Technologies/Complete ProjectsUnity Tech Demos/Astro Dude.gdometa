@@ -1,0 +1,111 @@
+Assets/Art/Graphics/Models/Props/Materials/crystals_enriched-02 - Default.mat
+Assets/Art/Graphics/Materials/meteor_hit_warning.mat
+Assets/Art/Graphics/Textures/flag.png
+Assets/Art/Graphics/Textures/rocks_normals.tif
+Assets/Art/Graphics/Animations/player@land.FBX
+Assets/Prefabs/MeteoriteHitGround.prefab
+Assets/Art/Graphics/Textures/astrod00d_diffuse.tif
+Assets/Scripts/Items/Button.cs
+Assets/Art/Graphics/Animations/player@strafeleft.FBX
+Assets/Art/Graphics/Textures/GUI/pause.png
+Assets/Art/Graphics/Materials/rock_seamless_256.mat
+Assets/Prefabs/Meteorite.prefab
+Assets/Art/Graphics/Models/Props/rockB.FBX
+Assets/Art/Graphics/Textures/GUI/AstroCREDSCORE.png
+Assets/Art/Graphics/Models/Player/player.FBX
+Assets/Scripts/GUI/GameGUI.cs
+Assets/Art/Graphics/Models/Props/Materials/crystals_enriched-07 - Default.mat
+Assets/Art/Graphics/Materials/crystals.mat
+Assets/Art/Graphics/Models/Props/crystals_enriched.FBX
+Assets/Scripts/Items/Crystal.cs
+Assets/Art/Graphics/Textures/rock.tif
+Assets/Art/Graphics/Textures/lunar_lander.tif
+Assets/Art/Graphics/Models/Props/rockD.FBX
+Assets/Art/Graphics/Models/Props/rock.FBX
+Assets/Art/Graphics/Models/Props/meteor_hit_warning.FBX
+Assets/Scripts/GUI/SetupGUI.cs
+Assets/Art/Graphics/Materials/plasmabeam.mat
+Assets/Scripts/Character/CameraController.cs
+Assets/Scenes/Endgame.unity
+Assets/Scripts/Items/ActiveObject.cs
+Assets/Art/Graphics/Models/Environment/moon_surface.FBX
+Assets/Scripts/Items/Spaceship.cs
+Assets/Art/Graphics/Textures/GUI/speaker.png
+Assets/Art/Graphics/Models/Player/Materials/player-Material #25.mat
+Assets/Art/Graphics/Textures/astrod00d_selfillum.tif
+Assets/Art/Graphics/Materials/rock.mat
+Assets/Art/Graphics/Materials/MeteorParticleSmoke.mat
+Assets/Art/Graphics/Models/Props/meteorite.FBX
+Assets/Art/Spazzmatica Polka.mp3
+Assets/Scenes/LostInSpace.unity
+Assets/Art/Graphics/Textures/crystals.tif
+Assets/Art/Graphics/Textures/rock_seamless_256_normals.tif
+Assets/Art/Graphics/Materials/flag.mat
+Assets/Scripts/Utility/ZeusInput.cs
+Assets/Art/Graphics/Textures/flare.tif
+Assets/Art/Graphics/Models/Props/Materials/crystals_enriched-crystals.mat
+Assets/Art/Graphics/Textures/stars.tif
+Assets/Art/Graphics/Models/Props/lunar_lander.FBX
+Assets/Art/Graphics/Textures/stars_w_earth.tif
+Assets/Art/Graphics/Materials/MeteorParticleDebris.mat
+Assets/Art/Graphics/Textures/moonsurface_normals.tif
+Assets/Art/Graphics/Textures/meteorite_normal.tif
+Assets/Art/Graphics/por2 - small.ttf
+Assets/Scripts/GUI/CreditsGUI.cs
+Assets/Scripts/GUI/MenuGUI.cs
+Assets/Scripts/Items/Meteorite.cs
+Assets/Scenes/InputDemo.unity
+Assets/Art/Graphics/Textures/GUI/PressX.png
+Assets/Art/Graphics/Textures/meteor_hit_warning.tif
+Assets/Art/Graphics/Textures/GUI/Astro Front.png
+Assets/Scenes/LostInSpace/LightmapFar-0.exr
+Assets/Art/Graphics/Models/Props/rockA.FBX
+Assets/Art/Skyboxes/StarryNight.mat
+Assets/Art/Graphics/Textures/meteorite_diffuse.tif
+Assets/Art/Graphics/Animations/player@runforward.FBX
+Assets/Art/Graphics/Textures/meteorite_billboard.png
+Assets/Art/Graphics/Animations/player@idle.FBX
+Assets/Art/Graphics/Textures/lunar_lander_normals.TIF
+Assets/Scripts/Character/ActionController.cs
+Assets/Art/Graphics/Models/Props/rockE.FBX
+Assets/Scripts/Utility/Label.cs
+Assets/Art/Graphics/Animations/player@hover.FBX
+Assets/Art/Graphics/Animations/player@straferight.FBX
+Assets/Art/Graphics/por2 - big.ttf
+Assets/Scripts/GUI/ScoreboardGUI.cs
+Assets/Art/Graphics/Models/Props/Materials/lunar_lander-lunar_lander.mat
+Assets/Scripts/Character/AnimationController.cs
+Assets/Art/Graphics/Textures/plasmabeam.tif
+Assets/Art/Graphics/Materials/meteorite_diffuse.mat
+Assets/Art/Graphics/Models/Props/Materials/crystals_depleted-crystals.mat
+Assets/Art/Graphics/Materials/lunar_lander.mat
+Assets/Art/Graphics/Materials/astrod00d_diffuse.mat
+Assets/Art/Graphics/Textures/moonsurface.tif
+Assets/Art/Graphics/Models/Props/Materials/lunar_lander-No Name.mat
+Assets/Scripts/Character/MovementController.cs
+Assets/Art/Graphics/Textures/particlesmoke.tif
+Assets/Art/Graphics/Animations/player@jump.FBX
+Assets/Scripts/DemoControl.cs
+Assets/Art/Graphics/Models/Props/Materials/rock-02 - Default.mat
+Assets/Art/Graphics/Materials/moonsurface.mat
+Assets/Art/Graphics/Animations/player@die.FBX
+Assets/Art/Graphics/Textures/GUI/gui_crystal_uncollected.png
+Assets/Art/Graphics/Models/Props/Materials/crystals_depleted-02 - Default.mat
+Assets/Art/Graphics/Models/Props/crystals_depleted.FBX
+Assets/Art/Graphics/Animations/player@runbackwards.FBX
+Assets/Art/Skyboxes/MoonReflection.cubemap
+Assets/Art/Graphics/Models/Props/rockC.FBX
+Assets/Scripts/Utility/Radar.cs
+Assets/Scripts/Items/ImpactWarning.cs
+Assets/Scripts/AstroDude.shader
+Assets/Art/Graphics/Animations/player@fall.FBX
+Assets/Art/Graphics/Materials/crystal.mat
+Assets/Prefabs/Crystal.prefab
+Assets/Art/Graphics/Materials/flare.mat
+Assets/Art/Graphics/Textures/rock_seamless_256.tif
+Assets/Scripts/Player.cs
+Assets/Prefabs/ImpactWarning.prefab
+Assets/Art/Graphics/Textures/particledebris.png
+Assets/Art/Graphics/Textures/GUI/gui_crystal_collected.png
+Assets/Art/Graphics/Models/Props/flag.FBX
+Assets/Scripts/Utility/XperiaInput.cs

@@ -1,0 +1,32 @@
+Assets/Meshinator/Example Scenes/Prefabs/turquoise diamond.prefab
+Assets/Meshinator/Scripts/Core/Meshinator.cs
+Assets/Meshinator/Example Scenes/Prefabs/Materials/turquoise diamond.mat
+Assets/Meshinator/Example Scenes/Prefabs/Materials/gray diamond.mat
+Assets/Meshinator/Example Scenes/Prefabs/Sphere.prefab
+Assets/Meshinator/Example Scenes/Skybox/SpaceSkybox.mat
+Assets/Meshinator/Example Scenes/Skybox/PurpleNebula_right1.png
+Assets/Meshinator/Example Scenes/Prefabs/Materials/light reflection cubemap.cubemap
+Assets/Meshinator/Example Scenes/SphereDent.unity
+Assets/Meshinator/Example Scenes/Prefabs/sourceMeshes.dae
+Assets/Meshinator/Example Scenes/Skybox/PurpleNebula_back6.png
+Assets/Meshinator/Example Scenes/Prefabs/Materials/Grass&Rock.psd
+Assets/Meshinator/Example Scenes/Prefabs/Materials/diamond shader.shader
+Assets/Meshinator/Example Scenes/GemFracture.unity
+Assets/Meshinator/Scripts/Utility/Multithreading/ThreadManager.cs
+Assets/Meshinator/Example Scenes/Prefabs/Materials/refractions.cubemap
+Assets/Meshinator/Example Scenes/Skybox/PurpleNebula_front5.png
+Assets/Meshinator/Example Scenes/Prefabs/Materials/purple diamond.mat
+Assets/Meshinator/Example Scenes/Prefabs/Materials/DirtSphere.mat
+Assets/Meshinator/Example Scenes/Skybox/PurpleNebula_bottom4.png
+Assets/Meshinator/Example Scenes/Prefabs/Materials/sourceMeshes-No Name.mat
+Assets/Meshinator/Example Scenes/Prefabs/lavendar diamond.prefab
+Assets/Meshinator/Example Scenes/Prefabs/gray diamond.prefab
+Assets/Meshinator/Documentation/ReadMe.txt
+Assets/Meshinator/Scripts/Utility/Camera/MainCamera.cs
+Assets/Meshinator/Example Scenes/Prefabs/PhysicMaterials/BouncySphere.physicMaterial
+Assets/Meshinator/Scripts/Core/HelperScripts/Hull.cs
+Assets/Meshinator/Example Scenes/Skybox/PurpleNebula_top3.png
+Assets/Meshinator/Example Scenes/Skybox/PurpleNebula_left2.png
+Assets/Meshinator/Scripts/Core/HelperScripts/SubHull.cs
+Assets/Meshinator/Example Scenes/Prefabs/Materials/lavendar diamond.mat
+Assets/Meshinator/Example Scenes/Prefabs/purple diamond.prefab

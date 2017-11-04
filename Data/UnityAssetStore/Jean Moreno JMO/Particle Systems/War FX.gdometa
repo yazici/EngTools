@@ -1,0 +1,475 @@
+Assets/JMO Assets/WarFX/Mobile/Textures/Smoke/WFXM_T_SmokeLoopAlpha.tga
+Assets/JMO Assets/WarFX/Mobile/Materials/Bullet Holes/WFXM_BulletHole Concrete.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Bullet Holes/WFX_BulletHole Metal.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Impacts/WFX_M_Impact WoodDebris.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/MuzzleFlashes/WFX_M_MF Side RIFLE3.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Smoke/WFX_M_SmokeScroll Add.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/MuzzleFlashes/WFXM_T_MF Side RIFLE3 A8.png
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_T_Wood.tga
+Assets/JMO Assets/WarFX/Desktop/Textures/Bullet Holes/WFX_T_BulletHoles Generic.tga
+Assets/JMO Assets/WarFX/Shaders/WFX_S AlphaBlend Scroll.shader
+Assets/JMO Assets/WarFX/Mobile/Materials/Misc/WFXM_M_SmallDots Add.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Smoke/WFX_M_SmokeNoise.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/MuzzleFlashes/WFX_T_MF Side RIFLE3 A8.png
+Assets/JMO Assets/WarFX/Desktop/Textures/MuzzleFlashes/WFX_T_MF Sparks RIFLE3 A8.tga
+Assets/JMO Assets/WarFX/Desktop/Textures/Misc/WFX_T_SmallDots A8.png
+Assets/JMO Assets/WarFX/Desktop/Textures/Smoke/WFX_T_SmokeSpikeStretched A8.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Misc/WFX_M_GlowPalet Add.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Misc/WFX_T_Sparks Metal A8.png
+Assets/JMO Assets/WarFX/Mobile/Materials/Bullet Holes/WFXM_BulletHole Generic Dirt.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Flames/WFX_M_FlameThrower Stream.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Misc/WFX_T_StretchPalet A8.png
+Assets/JMO Assets/WarFX/Desktop/Textures/Smoke/WFX_T_SmokeLoopAlpha Average.tga
+Assets/JMO Assets/WarFX/Shaders/WFX_S Smoke Scroll.shader
+Assets/JMO Assets/WarFX/Mobile/Materials/Smoke/WFXM_M_SmokeGrenade AB.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Flames/WFX_M_StarFlames.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/MuzzleFlashes/WFX_T_MF FrontRear RIFLE1 A8.png
+Assets/JMO Assets/WarFX/Mobile/Textures/Bullet Holes/WFXM_T_BulletHoles Wood.tga
+Assets/JMO Assets/WarFX/Mobile/Materials/Bullet Holes/WFXM_BulletHole Wood Lighted.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Smoke/WFX_T_SmokeNoise.tga
+Assets/JMO Assets/WarFX/Demo/WarFX Demo.unity
+Assets/JMO Assets/WarFX/Mobile/Materials/Flames/WFXM_M_NukeFlames ScrollAdd.mat
+Assets/JMO Assets/WarFX/Shaders/WFX_S Particle Multiply A8.shader
+Assets/JMO Assets/WarFX/Desktop/Materials/MuzzleFlashes/WFX_M_MF FrontRear RIFLE3.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Flames/WFXM_M_FlameMine Add.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Flames/WFXM_T_FlamesSmallLoopAlpha.tga
+Assets/JMO Assets/WarFX/Mobile/Textures/Bullet Holes/WFXM_T_BulletHoles Generic.tga
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M_Wood Wall.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/MuzzleFlashes/WFX_M_MF Side RIFLE2.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Flames/WFXM_T_FlameThrower Stream.tga
+Assets/JMO Assets/WarFX/Mobile/Materials/Misc/WFXM_M_GlowPalet Add.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/MuzzleFlashes/WFX_T_MF Sparks RIFLE2 A8.tga
+Assets/JMO Assets/WarFX/Mobile/Textures/Flames/WFXM_T_FlamesSmall 4frm.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Smoke/WFX_M_SmokeGrenade AB.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Flames/WFX_T_DoubleFlames A8.tga
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_T_Cobblestone.tga
+Assets/JMO Assets/WarFX/Mobile/Materials/Misc/WFXM_M_GlowCircle Add.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Bullet Holes/WFX_BulletHole Generic.mat
+Assets/JMO Assets/WarFX/Scripts/WFX_BulletHoleDecal.cs
+Assets/JMO Assets/WarFX/Desktop/Textures/Misc/WFX_T_GroundGlow A8.tga
+Assets/JMO Assets/WarFX/Mobile/Textures/Smoke/WFXM_T_SmokeSpikeStretched A8.tga
+Assets/JMO Assets/WarFX/Mobile/Textures/Flames/WFXM_T_FlameMine A8.tga
+Assets/JMO Assets/WarFX/Mobile/Textures/MuzzleFlashes/WFXM_T_MF Sparks RIFLE1 A8.tga
+Assets/JMO Assets/WarFX/Desktop/Textures/MuzzleFlashes/WFX_T_MF Side RIFLE1 A8.png
+Assets/JMO Assets/WarFX/Desktop/Textures/Bullet Holes/WFX_T_BulletHoles Metal.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Impacts/WFX_M_Impact Smoke.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Smoke/WFXM_M_SmokeGrenadeWhite.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Bullet Holes/WFX_BulletHole Metal Lighted.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Smoke/WFXM_M_SmokeNoise.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Flames/WFXM_M_ExplosionFlames Add.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Misc/WFXM_T_SmallDots A8.png
+Assets/JMO Assets/WarFX/Mobile/Materials/Flames/WFXM_M_FlameBig Add.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Misc/WFX_M_SmallDotsInv Mult.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Bullet Holes/WFXM_BulletHole Generic.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/MuzzleFlashes/WFXM_M_MF Sparks RIFLE2.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Bullet Holes/WFXM_BulletHole Metal.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Flames/WFX_T_FlamesBig A8.tga
+Assets/JMO Assets/WarFX/Editor/WFX_ParticleMeshBillboardEditor.cs
+Assets/JMO Assets/WarFX/Desktop/Materials/Bullet Holes/WFX_BulletHole Concrete Lighted.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Impacts/WFXM_M_Impact WoodDebris.mat
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_T_Checker.tga
+Assets/JMO Assets/WarFX/Mobile/Materials/MuzzleFlashes/WFXM_M_MF Side RIFLE1.mat
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M_M4.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/MuzzleFlashes/WFX_T_MF FrontRear RIFLE2 A8.png
+Assets/JMO Assets/WarFX/Desktop/Materials/Flames/WFX_M_FlameBig Add.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Flames/WFX_M_FlameMine Add.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Smoke/WFX_M_SmokeSpikeStretched.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/MuzzleFlashes/WFXM_M_MF Glow.mat
+Assets/JMO Assets/WarFX/Shaders/WFX_S Multiply Soft.shader
+Assets/JMO Assets/WarFX/Desktop/Textures/Flames/WFX_T_FlamesBig.tga
+Assets/JMO Assets/WarFX/Desktop/Textures/Misc/WFX_T_Debris Wood.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Flames/WFX_M_FlameSmall ScrollAdd.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Flames/WFXM_T_DoubleFlames A8.tga
+Assets/JMO Assets/WarFX/Mobile/Textures/Misc/WFXM_T_GlowPalet A8.png
+Assets/JMO Assets/WarFX/Mobile/Textures/Misc/WFXM_T_Sparks Metal A8.png
+Assets/JMO Assets/WarFX/Mobile/Materials/MuzzleFlashes/WFXM_M_MF Sparks RIFLE1.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Flames/WFX_T_FlameMine A8.tga
+Assets/JMO Assets/WarFX/Mobile/Materials/MuzzleFlashes/WFXM_M_MF Side RIFLE2.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/MuzzleFlashes/WFX_T_MF FrontRear RIFLE3 A8.png
+Assets/JMO Assets/WarFX/Mobile/Materials/Flames/WFXM_M_FlameSmall ScrollAdd.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Flames/WFX_T_StarFlames A8.tga
+Assets/JMO Assets/WarFX/Mobile/Textures/Flames/WFXM_T_StarFlames A8.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Bullet Holes/WFX_BulletHole Concrete.mat
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M4.fbx
+Assets/JMO Assets/WarFX/Shaders/WFX_S Add Scroll.shader
+Assets/JMO Assets/WarFX/Shaders/WFX_S Particle Add A8.shader
+Assets/JMO Assets/WarFX/Mobile/Textures/Misc/WFXM_T_GlowCircle A8.png
+Assets/JMO Assets/WarFX/Desktop/Materials/Smoke/WFX_M_SmokeScroll SoftMult.mat
+Assets/JMO Assets/WarFX/Shaders/WFX_S Particle AddSoft A8.shader
+Assets/JMO Assets/WarFX/Mobile/Materials/MuzzleFlashes/WFXM_M_MF FrontRear RIFLE1.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Smoke/WFX_M_SmokeGrenadeWhite.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Smoke/WFXM_M_SmokeScroll SoftMult.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/MuzzleFlashes/WFX_M_MF Sparks RIFLE1.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Flames/WFXM_M_FlameSmall 4F Add.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Bullet Holes/WFX_T_BulletHoles Wood.tga
+Assets/JMO Assets/WarFX/Mobile/Materials/MuzzleFlashes/WFXM_M_MF FrontRear RIFLE2.mat
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_T_M4.tga
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_RandomDir.cs
+Assets/JMO Assets/WarFX/Mobile/Materials/Smoke/WFXM_M_SmokeSpikeStretched.mat
+Assets/JMO Assets/WarFX/Scripts/WFX_AutoDestructShuriken.cs
+Assets/JMO Assets/WarFX/Scripts/WFX_LightFlicker.cs
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M_Metal Wall.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/MuzzleFlashes/WFX_M_MF Glow.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Misc/WFXM_T_SmallDots Inversed A8.png
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_T_Cobblestone Normal.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/MuzzleFlashes/WFX_M_MF Sparks RIFLE2.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/MuzzleFlashes/WFX_T_MF Sparks RIFLE1 A8.tga
+Assets/JMO Assets/WarFX/Mobile/Materials/Smoke/WFXM_M_SmokeScroll SoftMult Average.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Flames/WFX_T_FlamesSmall 4frm.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Flames/WFX_M_NukeFlames ScrollAdd.mat
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_Wall.cs
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_T_Metal.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Bullet Holes/WFX_BulletHole Wood Lighted.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Smoke/WFX_T_SmokeLoopAlpha.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/MuzzleFlashes/WFX_M_MF Sparks RIFLE3.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Impacts/WFXM_M_Sparks Metal.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/MuzzleFlashes/WFXM_T_MF FrontRear RIFLE2 A8.png
+Assets/JMO Assets/WarFX/Mobile/Materials/Impacts/WFXM_M_Impact Smoke.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Flames/WFX_T_FlamesSmallLoopAlpha.tga
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M_Concrete Wall.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Smoke/WFXM_M_SmokeScroll Add.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Bullet Holes/WFXM_BulletHole Metal Lighted.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Misc/WFXM_M_StretchPalet.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/MuzzleFlashes/WFXM_T_MF FrontRear RIFLE3 A8.png
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M_Checker Wall.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/MuzzleFlashes/WFXM_T_MF Side RIFLE1 A8.png
+Assets/JMO Assets/WarFX/Mobile/Materials/Misc/WFXM_M_SmallDotsInv Mult.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Misc/WFX_M_StretchPalet.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Flames/WFXM_T_NukeFlames.tga
+Assets/JMO Assets/WarFX/Desktop/Textures/Misc/WFX_T_Debris Generic.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Flames/WFX_M_FlameSmall 4F Add.mat
+Assets/JMO Assets/WarFX/Shaders/WFX_S Alpha-Specular TintColor.shader
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_T_M4 Normal.jpg
+Assets/JMO Assets/WarFX/Mobile/Materials/MuzzleFlashes/WFXM_M_MF Side RIFLE3.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Flames/WFXM_T_FlamesBig A8.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Bullet Holes/WFX_BulletHole Generic Sand.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Misc/WFXM_T_StretchPalet A8.png
+Assets/JMO Assets/WarFX/Mobile/Materials/Impacts/WFXM_M_Impact Debris.mat
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M_Concrete.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/MuzzleFlashes/WFXM_T_MF Sparks RIFLE3 A8.tga
+Assets/JMO Assets/WarFX/Mobile/Textures/Misc/WFXM_T_Debris Wood.tga
+Assets/JMO Assets/WarFX/Desktop/Textures/Flames/WFX_T_NukeFlames.tga
+Assets/JMO Assets/WarFX/Mobile/Textures/MuzzleFlashes/WFXM_T_MF Side RIFLE2 A8.png
+Assets/JMO Assets/WarFX/Desktop/Materials/Bullet Holes/WFX_BulletHole Wood.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/MuzzleFlashes/WFXM_T_MF FrontRear RIFLE1 A8.png
+Assets/JMO Assets/WarFX/Desktop/Materials/Smoke/WFX_M_ExplosiveSmoke.mat
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M_Wood.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Flames/WFXM_T_FlamesBig.tga
+Assets/JMO Assets/WarFX/Desktop/Textures/MuzzleFlashes/WFX_T_MF Side RIFLE2 A8.png
+Assets/JMO Assets/WarFX/Mobile/Materials/Smoke/WFXM_M_Smoke.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Flames/WFXM_M_StarFlames.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/MuzzleFlashes/WFXM_M_MF FrontRear RIFLE3.mat
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_DeleteAfterDelay.cs
+Assets/JMO Assets/WarFX/Desktop/Materials/Misc/WFX_M_GlowCircle Add.mat
+Assets/JMO Assets/Editor/JMOAssets.dll
+Assets/JMO Assets/WarFX/Desktop/Materials/MuzzleFlashes/WFX_M_MF Side RIFLE1.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Misc/WFXM_T_GroundGlow A8.tga
+Assets/JMO Assets/WarFX/Shaders/WFX_S Multiply Soft Scroll.shader
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M_Metal.mat
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M_M4 Normal.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Bullet Holes/WFX_BulletHole Generic Dirt.mat
+Assets/JMO Assets/WarFX/Scripts/WFX_ParticleMeshBillboard.cs
+Assets/JMO Assets/WarFX/Desktop/Materials/Flames/WFX_M_ExplosionFlames Add.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Smoke/WFXM_T_SmokeLoopAlpha Average.tga
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_T_Wood Normal.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/MuzzleFlashes/WFX_M_MF FrontRear RIFLE2.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Misc/WFXM_M_GroundGlow Add.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Bullet Holes/WFXM_T_BulletHoles Metal.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Smoke/WFX_M_Smoke.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Bullet Holes/WFXM_BulletHole Generic Sand.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Smoke/WFXM_T_SmokeNoise.tga
+Assets/JMO Assets/WarFX/Mobile/Materials/Bullet Holes/WFXM_BulletHole Wood.mat
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_M_Checker.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Impacts/WFX_M_Impact Debris.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Misc/WFX_T_GlowCircle A8.png
+Assets/JMO Assets/WarFX/Mobile/Materials/Smoke/WFXM_M_ExplosiveSmoke.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Flames/WFX_T_FlameThrower Stream.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Misc/WFX_M_GroundGlow Add.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/MuzzleFlashes/WFXM_M_MF Sparks RIFLE3.mat
+Assets/JMO Assets/WarFX/Desktop/Textures/Misc/WFX_T_SmallDots Inversed A8.png
+Assets/JMO Assets/WarFX/Desktop/Materials/Misc/WFX_M_SmallDots Add.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/MuzzleFlashes/WFXM_T_MF Sparks RIFLE2 A8.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/Smoke/WFX_M_SmokeScroll SoftMult Average.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Misc/WFXM_T_Debris Generic.tga
+Assets/JMO Assets/WarFX/Desktop/Textures/Misc/WFX_T_GlowPalet A8.png
+Assets/JMO Assets/WarFX/Desktop/Materials/Flames/WFX_M_FlameSmall Add.mat
+Assets/JMO Assets/WarFX/Desktop/Materials/Smoke/WFX_M_Smoke SoftMult.mat
+Assets/JMO Assets/WarFX/Spawn System/CFX_SpawnSystem.cs
+Assets/JMO Assets/WarFX/Desktop/Textures/Bullet Holes/WFX_T_BulletHoles Concrete.tga
+Assets/JMO Assets/WarFX/Shaders/WFX_S Alpha-Diffuse TintColor.shader
+Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo.cs
+Assets/JMO Assets/WarFX/Mobile/Materials/Flames/WFXM_M_FlameSmall Add.mat
+Assets/JMO Assets/WarFX/Demo/Demo Notes.txt
+Assets/JMO Assets/WarFX/Desktop/Materials/Impacts/WFX_M_Sparks Metal.mat
+Assets/JMO Assets/WarFX/Mobile/Textures/Bullet Holes/WFXM_T_BulletHoles Concrete.tga
+Assets/JMO Assets/WarFX/Desktop/Materials/MuzzleFlashes/WFX_M_MF FrontRear RIFLE1.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Flames/WFXM_M_FlameThrower Stream.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Bullet Holes/WFXM_BulletHole Concrete Lighted.mat
+Assets/JMO Assets/WarFX/Mobile/Materials/Smoke/WFXM_M_Smoke SoftMult.mat
+Assets/JMO Assets/Cartoon FX Easy Editor/CartoonFX Easy Editor Readme.txt
+Assets/JMO Assets/!JMO Assets Readme.txt
+Assets/JMO Assets/WarFX/_Effects/Fire/Black Smoke/WFX_Fire Natural Broad (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/WFX_BImpact Metal.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/WFXM_FlameThrower Big Looped.prefab
+Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/FPS/WFX_MF FPS RIFLE2.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/WFXMR_SmokeGrenade Black.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/Unlit/WFX_BImpact Wood + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/WFXM_SmokeGrenade Gray.prefab
+Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/Sprites/WFX_MF Spr RIFLE3.prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround Big.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Black Smoke/WFX_Fire Natural Circle (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/WFXM_GazFireBig (Blue).prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/WFX_FlameThrower Big Alt Looped.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Black Smoke/WFXM_GazFireBig (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/Unlit/WFXMR_BImpact Metal + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_Explosion.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/!Mobile differences.txt
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_ExplosiveSmokeGround.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/WFX_BImpact Sand + Hole.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/MuzzleFlashes/Sprites/WFXM_MF Spr RIFLE2.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Gray Smoke/WFXMR_GazFireBig (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/No Smoke/WFXM_GazFire (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/WFXM_BImpact Concrete NoCollision.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/Lit/WFXMR_BImpact Wood NoCollision + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/Lit/WFXM_BImpact Metal + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/Color Variants/WFXM_SmokeGrenade Blue.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/Color Variants/WFXM_SmokeGrenade Green.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/No Smoke/WFXMR_Fire SmallFlame (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/MuzzleFlashes/!MuzzleFlash Differences.txt
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/No Smoke/WFXMR_Fire Natural Circle (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/Lit/WFXMR_BImpact Concrete + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Black Smoke/WFXMR_GazFire (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/WFXM_BImpact Wood.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/Color Variants/WFXM_SmokeGrenade Red.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_ExplosiveSmoke Big.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/Color Variants/WFXMR_SmokeGrenade AlphaBlend Green.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Gray Smoke/WFXM_Fire Natural Circle (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke Big.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/WFX_BImpact Concrete NoCollision.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/No Smoke/WFXM_Fire SmallFlame (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/MuzzleFlashes/FPS/WFXM_MF FPS RIFLE3.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/Unlit/WFXM_BImpact Wood + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_Explosion StarSmoke.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/WFX_FlameThrower Looped.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/WFXM_FlameThrower.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/MuzzleFlashes/FPS/WFXMR_MF FPS RIFLE1.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Black Smoke/WFXMR_GazFireBig (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_Explosion StarSmoke.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_ExplosiveSmoke Small.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/Color Variants/WFX_SmokeGrenade Green.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/Color Variants/WFXMR_SmokeGrenade AlphaBlend Purple.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/Unlit/WFXMR_BImpact Concrete NoCollision + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/WFXMR_SmokeGrenade Gray.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/WFXMR_BImpact Wood NoCollision.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/No Smoke/WFXM_Fire Natural Circle (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/WFXM_SmokeGrenade White.prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke Small.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/MuzzleFlashes/Sprites/WFXMR_MF Spr RIFLE1.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/WFX_BImpact Dirt + Hole.prefab
+Assets/JMO Assets/WarFX/Mesh/icosphere.fbx
+Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/FPS/WFX_MF FPS RIFLE1.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/MuzzleFlashes/Sprites/WFXMR_MF Spr RIFLE3.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/WFXMR_SmokeGrenade White.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Black Smoke/WFXM_Fire SmallFlame (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround Big Alt.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/Unlit/WFXMR_BImpact Wood + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/No Smoke/WFXMR_Fire Natural Broad (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/WFXMR_FlameThrower Big Looped.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/Unlit/WFXMR_BImpact Concrete + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/WFX_BImpact SoftBody.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/WFXMR_BImpact Sand.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_ExplosiveSmoke.prefab
+Assets/JMO Assets/WarFX/Mesh/CirclePlane12v.FBX
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/Lit/WFXMR_BImpact Metal + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/No Smoke/WFXMR_GazFire (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/MuzzleFlashes/4Planes/WFXM_MF 4P RIFLE1.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/WFXMR_FlameThrower Big.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/!Mobile differences.txt
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/MuzzleFlashes/4Planes/WFXMR_MF 4P RIFLE2.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/WFXM_BImpact SoftBody.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/WFX_GazFireBig (Green).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_ExplosiveSmoke Small.prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Gray Smoke/WFX_Fire Natural Broad (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/MuzzleFlashes/Sprites/WFXM_MF Spr RIFLE1.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Black Smoke/WFXMR_Fire Natural Circle (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/WFXMR_FlameThrower Big Alt Looped.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/WFXM_FlameThrower Big.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_Nuke.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Gray Smoke/WFXMR_GazFire (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_Explosion Small.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/WFX_SmokeGrenade Additive.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/Color Variants/WFX_SmokeGrenade AlphaBlend Red.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/Color Variants/WFXM_SmokeGrenade AlphaBlend Blue.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/Color Variants/WFXM_SmokeGrenade Yellow.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/MuzzleFlashes/4Planes/WFXMR_MF 4P RIFLE1.prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion Small.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/Color Variants/WFXM_SmokeGrenade AlphaBlend Purple.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Gray Smoke/WFXM_Fire Natural Broad (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/No Smoke/WFX_Fire Natural Circle (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/WFXMR_BImpact Concrete.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/WFXMR_GazFireBig (Blue).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/WFXM_BImpact Sand.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/WFX_BImpact Dirt.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/MuzzleFlashes/4Planes/WFXM_MF 4P RIFLE2.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/WFXM_SmokeGrenade AlphaBlend Gray.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/WFXMR_SmokeGrenade Additive.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Black Smoke/WFX_Fire SmallFlame (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Black Smoke/WFXMR_Fire SmallFlame (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/WFXM_GazFireBig (Purple).prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/Lit/WFX_BImpact Wood + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/No Smoke/WFXM_Fire Natural (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/Unlit/WFX_BImpact Metal + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_Explosion Simple.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/WFXM_BImpact Concrete.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Gray Smoke/WFXMR_Fire Natural Broad (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/WFXM_BImpact Sand + Hole.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/WFXM_SmokeGrenade Black.prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion LandMine.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/WFX_SmokeGrenade Black.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_ExplosiveSmokeGround Big.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/Color Variants/WFX_SmokeGrenade AlphaBlend Green.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/Color Variants/WFX_SmokeGrenade Red.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/WFXMR_BImpact Dirt + Hole.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/Lit/WFXM_BImpact Concrete + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Nuke.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/WFX_SmokeGrenade AlphaBlend Black.prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion Simple.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Gray Smoke/WFXMR_Fire Natural (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Gray Smoke/WFX_Fire Natural (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Gray Smoke/WFXM_Fire SmallFlame (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/No Smoke/WFXM_GazFireBig (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/Lit/WFXMR_BImpact Wood + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/WFXM_FlameThrower Big Alt Looped.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/MuzzleFlashes/FPS/WFXM_MF FPS RIFLE1.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Gray Smoke/WFXM_GazFire (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround Small.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/Color Variants/WFX_SmokeGrenade AlphaBlend Purple.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/Unlit/WFXM_BImpact Concrete + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/Sprites/WFX_MF Spr RIFLE1.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_Explosion LandMine.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_ExplosiveSmokeGround.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/WFXMR_GazFireBig (Green).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/WFXMR_BImpact Wood.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/Color Variants/WFXM_SmokeGrenade AlphaBlend Red.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_Explosion LandMine.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Black Smoke/WFXM_Fire Natural Broad (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/WFXM_BImpact Dirt.prefab
+Assets/JMO Assets/WarFX/!WarFX Readme.txt
+Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/FPS/WFX_MF FPS RIFLE3.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Gray Smoke/WFX_GazFire (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_Explosion Simple.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/Color Variants/WFX_SmokeGrenade Yellow.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/WFXMR_SmokeGrenade AlphaBlend Gray.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Black Smoke/WFXM_Fire Natural Circle (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/WFXM_BImpact SoftBody + Hole.prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/Unlit/WFX_BImpact Concrete + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/WFX_BImpact SoftBody + Hole.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Black Smoke/WFX_GazFireBig (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_ExplosiveSmokeGround Big Alt.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/WFXMR_GazFireBig (Purple).prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/WFX_BImpact Concrete.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/Unlit/WFX_BImpact Wood NoCollision + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/WFXMR_FlameThrower.prefab
+Assets/JMO Assets/WarFX/Mesh/Plane1x1.FBX
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/WFXMR_FlameThrower Looped.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/Lit/WFX_BImpact Concrete + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/WFXM_FlameThrower Looped.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/No Smoke/WFX_Fire SmallFlame (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/WFX_SmokeGrenade Gray.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_ExplosiveSmokeGround Small.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/Lit/WFXMR_BImpact Concrete NoCollision + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/MuzzleFlashes/!MuzzleFlash Differences.txt
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion StarSmoke.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_Explosion Small.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/MuzzleFlashes/FPS/WFXM_MF FPS RIFLE2.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Black Smoke/WFX_Fire Natural (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Gray Smoke/WFXM_Fire Natural (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Black Smoke/WFX_GazFire (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/Color Variants/WFXM_SmokeGrenade AlphaBlend Green.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/WFX_BImpact Wood.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/MuzzleFlashes/Sprites/WFXMR_MF Spr RIFLE2.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/Unlit/WFXMR_BImpact Wood NoCollision + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/WFX_FlameThrower Big Alt.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_Explosion.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Black Smoke/WFXM_Fire Natural (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/4Planes/WFX_MF 4P RIFLE2.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Gray Smoke/WFX_GazFireBig (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/WFXM_FlameThrower Big Alt.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/WFXMR_BImpact Sand + Hole.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/WFX_FlameThrower Big Looped.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/No Smoke/WFX_Fire Natural (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/WFXM_SmokeGrenade Additive.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/Color Variants/WFXMR_SmokeGrenade Yellow.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/WFX_SmokeGrenade White.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/WFX_FlameThrower.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/+ Bullet Hole/WFXMR_BImpact SoftBody + Hole.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/Color Variants/WFX_SmokeGrenade AlphaBlend Blue.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/WFXMR_BImpact Dirt.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/Lit/WFX_BImpact Wood NoCollision + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/Lit/WFXM_BImpact Concrete NoCollision + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/Color Variants/WFXMR_SmokeGrenade AlphaBlend Blue.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/WFXMR_SmokeGrenade AlphaBlend Black.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Gray Smoke/WFXMR_Fire Natural Circle (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/MuzzleFlashes/4Planes/WFXMR_MF 4P RIFLE3.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/Color Variants/WFXMR_SmokeGrenade Blue.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/WFXM_BImpact Metal.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/MuzzleFlashes/Sprites/WFXM_MF Spr RIFLE3.prefab
+Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/4Planes/WFX_MF 4P RIFLE1.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/Unlit/WFXM_BImpact Wood NoCollision + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_ExplosiveSmokeGround Big Alt.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/Color Variants/WFXMR_SmokeGrenade Red.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/Lit/WFX_BImpact Metal + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/No Smoke/WFXMR_Fire Natural (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_ExplosiveSmoke Big.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/WFXM_BImpact Dirt + Hole.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/WFX_GazFireBig (Blue).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/MuzzleFlashes/FPS/WFXMR_MF FPS RIFLE2.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/No Smoke/WFX_GazFire (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/No Smoke/WFX_Fire Natural Broad (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/Unlit/WFX_BImpact Concrete NoCollision + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/WFXM_GazFireBig (Green).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/Lit/WFXM_BImpact Wood NoCollision + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_Nuke.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/WFX_BImpact Wood NoCollision.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_ExplosiveSmokeGround Small.prefab
+Assets/JMO Assets/Cartoon FX Easy Editor/Editor/CFXEasyEditor.cs
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_ExplosiveSmoke Big Alt.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Gray Smoke/WFXM_GazFireBig (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Gray Smoke/WFX_Fire Natural Circle (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/Unlit/WFXM_BImpact Metal + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke Big Alt.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/WFX_GazFireBig (Purple).prefab
+Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/!MuzzleFlash Differences.txt
+Assets/JMO Assets/WarFX/_Effects/Smoke/WFX_SmokeGrenade AlphaBlend Gray.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/WFX_FlameThrower Big.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_ExplosiveSmoke.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/WFXMR_BImpact Metal.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/WFXMR_FlameThrower Big Alt.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/WFXM_BImpact Wood NoCollision.prefab
+Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/Sprites/WFX_MF Spr RIFLE2.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/Color Variants/WFXMR_SmokeGrenade AlphaBlend Red.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/MuzzleFlashes/FPS/WFXMR_MF FPS RIFLE3.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/No Smoke/WFX_GazFireBig (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/No Smoke/WFXM_Fire Natural Broad (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Fire/Black Smoke/WFXM_GazFire (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Explosions/WFXM_ExplosiveSmoke Big Alt.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/WFXMR_BImpact Concrete NoCollision.prefab
+Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/4Planes/WFX_MF 4P RIFLE3.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Black Smoke/WFXMR_Fire Natural (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/No Smoke/WFXMR_GazFireBig (No Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/MuzzleFlashes/4Planes/WFXM_MF 4P RIFLE3.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/Lit/WFXM_BImpact Wood + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Bullet Impacts/WFXMR_BImpact SoftBody.prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/+ Bullet Hole/Lit/WFX_BImpact Concrete NoCollision + Hole Lit.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Smoke/Color Variants/WFXMR_SmokeGrenade Green.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Smoke/WFXM_SmokeGrenade AlphaBlend Black.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Explosions/WFXMR_ExplosiveSmokeGround Big.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Black Smoke/WFXMR_Fire Natural Broad (Black Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects/Bullet Impacts/WFX_BImpact Sand.prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Reduced Overdraw)/Bullet Impacts/+ Bullet Hole/Unlit/WFXM_BImpact Concrete NoCollision + Hole Unlit.prefab
+Assets/JMO Assets/WarFX/_Effects/Smoke/Color Variants/WFX_SmokeGrenade Blue.prefab
+Assets/JMO Assets/WarFX/_Effects/Fire/Gray Smoke/WFX_Fire SmallFlame (Gray Smoke).prefab
+Assets/JMO Assets/WarFX/_Effects (Mobile, Regular Mesh)/Fire/Gray Smoke/WFXMR_Fire SmallFlame (Gray Smoke).prefab

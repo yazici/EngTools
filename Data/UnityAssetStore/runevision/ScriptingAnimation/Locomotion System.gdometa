@@ -1,0 +1,125 @@
+Assets/Locomotion System Files/Demo Scenes/Things/PlanetStructure.prefab
+Assets/Locomotion System Files/Demo Scenes/Demo Scene Scripts/SmoothFollowCamera.cs
+Assets/Locomotion System Files/Character Controller Scripts/CharacterMotor.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Textures/normalmap_2.tga
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@IdleAim.fbx
+Assets/Locomotion System Files/Characters/Hero Artwork/Textures/diffuse_1.tga
+Assets/Locomotion System Files/Characters/Heron Artwork/Materials/heroncolor3.mat
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@AimRight.fbx
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@WalkForward.fbx
+Assets/Locomotion System Files/Locomotion System/MotionAnalyzerBackwards.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@AimDown.fbx
+Assets/Locomotion System Files/Locomotion System/IKSimple.cs
+Assets/Locomotion System Files/Demo Scenes/Things/Skyboxes/Source Images/Skybox setup0005.pct
+Assets/Locomotion System Files/Demo Scenes/Things/Skyboxes/Source Images/Skybox setup0004.pct
+Assets/Locomotion System Files/Demo Scenes/Things/Skyboxes/Tropical.mat
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@WalkBackward.fbx
+Assets/Locomotion System Files/Locomotion System/HeadLookController.cs
+Assets/Locomotion System Files/Documentation/images/ground_hugging.png
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@Idle1.fbx
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@ShootDown.fbx
+Assets/Locomotion System Files/Characters/Heron Artwork/HeronFBX/Heron@FishingWalk.fbx
+Assets/Locomotion System Files/Demo Scenes/Scenes/Crate Climbing.unity
+Assets/Locomotion System Files/Demo Scenes/Things/Materials/cliff (layered rock).mat
+Assets/Locomotion System Files/Locomotion System/Editor/LocomotionEditorClass.cs
+Assets/Locomotion System Files/Locomotion System/IKSolver.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Materials/diffuse_2.mat
+Assets/Locomotion System Files/Demo Scenes/Things/Textures/Cliff (Layered Rock).psd
+Assets/Locomotion System Files/Characters/Heron Artwork/HeronPrefab.prefab
+Assets/Locomotion System Files/Demo Scenes/Things/Fonts/Calibri.ttf
+Assets/Locomotion System Files/Demo Scenes/Character Prefabs/Heron.prefab
+Assets/Locomotion System Files/Characters/Hero Artwork/Materials/diffuse_1.mat
+Assets/Locomotion System Files/Demo Scenes/Scenes/Planet Walk.unity
+Assets/Locomotion System Files/Documentation/images/ground_plane_height.png
+Assets/Locomotion System Files/Character Controller Scripts/MouseLookCharacterController.cs
+Assets/Locomotion System Files/Demo Scenes/Demo Scene Scripts/FramesPerSecond.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero.fbx
+Assets/Locomotion System Files/Locomotion System/LegController.cs
+Assets/Locomotion System Files/Character Controller Scripts/JumpAndIdle.cs
+Assets/Locomotion System Files/Demo Scenes/Things/Materials/grass (forest floor).mat
+Assets/Locomotion System Files/Demo Scenes/Scenes/Motion Analysis.unity
+Assets/Locomotion System Files/Demo Scenes/Demo Scene Scripts/TimeController.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@Idle2.fbx
+Assets/Locomotion System Files/Documentation/images/feet_dimensions.png
+Assets/Locomotion System Files/Demo Scenes/Demo Scene Scripts/StepWalkSwitcher.cs
+Assets/Locomotion System Files/Characters/Heron Artwork/HeronFBX/Heron@IdleHold.fbx
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@RunIdle.fbx
+Assets/Locomotion System Files/Characters/Hero Artwork/Textures/hair512.tga
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@RunWalk.fbx
+Assets/Locomotion System Files/Demo Scenes/Things/Materials/Floor Tiles Material 1.mat
+Assets/Locomotion System Files/Locomotion System/Interpolator.cs
+Assets/Locomotion System Files/Demo Scenes/Scenes/Step Walk.unity
+Assets/Locomotion System Files/Demo Scenes/Things/Materials/Crate Material.mat
+Assets/Locomotion System Files/Demo Scenes/Character Prefabs/Coyote.prefab
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@RunStrafeRight.fbx
+Assets/Locomotion System Files/Demo Scenes/Things/Textures/Grass (Forest Floor).psd
+Assets/Locomotion System Files/Demo Scenes/Demo Scene Scripts/StepController.cs
+Assets/Locomotion System Files/Documentation/images/character_controller.png
+Assets/Locomotion System Files/Locomotion System/GhostOriginal.cs
+Assets/Locomotion System Files/Locomotion System/Util.cs
+Assets/Locomotion System Files/Demo Scenes/Things/Textures/tiles.png
+Assets/Locomotion System Files/Characters/Hero Artwork/Textures/diffuse_2.tga
+Assets/Locomotion System Files/Demo Scenes/Demo Scene Scripts/PlanetCamera.cs
+Assets/Locomotion System Files/Character Controller Scripts/PhysicsCharacterMotor.cs
+Assets/Locomotion System Files/Demo Scenes/Things/Materials/Floor Tiles Material.mat
+Assets/Locomotion System Files/Characters/Heron Artwork/HeronFBX/Heron@IdleFishing.fbx
+Assets/Locomotion System Files/Characters/Heron Artwork/HeronFBX/Heron@Run.fbx
+Assets/Locomotion System Files/Character Controller Scripts/PlatformCharacterController.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Materials/hair512.mat
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@Idle.fbx
+Assets/Locomotion System Files/Demo Scenes/Demo Scene Scripts/SmoothFollowCamera2.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@IdleRun.fbx
+Assets/Locomotion System Files/Documentation/images/source_animations.png
+Assets/Locomotion System Files/Demo Scenes/Things/Skyboxes/Source Images/Skybox setup0002.pct
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@WalkRun.fbx
+Assets/Locomotion System Files/Demo Scenes/Character Prefabs/Human.prefab
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@RunStrafeLeft.fbx
+Assets/Locomotion System Files/Characters/Heron Artwork/HeronColor3.psd
+Assets/Locomotion System Files/Locomotion System/MotionAnalyzer.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@AimStraight.fbx
+Assets/Locomotion System Files/Character Controller Scripts/WanderingAICharacterController.cs
+Assets/Locomotion System Files/Characters/Heron Artwork/HeronFBX/Heron@IdleFishingSpread.fbx
+Assets/Locomotion System Files/Documentation/images/acceleration_tilt.png
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@RunBackward.fbx
+Assets/Locomotion System Files/Demo Scenes/Things/Skyboxes/Source Images/Skybox setup0003.pct
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@ShootStraight.fbx
+Assets/Locomotion System Files/Documentation/images/climb_tilt.png
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@WalkStrafeLeft.fbx
+Assets/Locomotion System Files/Locomotion System/PolarGradientBandInterpolator.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@IdleWalk.fbx
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@AimUp.fbx
+Assets/Locomotion System Files/Characters/Heron Artwork/HeronFBX/Heron@Walk.fbx
+Assets/Locomotion System Files/Demo Scenes/Things/Skyboxes/Source Images/Skybox setup0000.pct
+Assets/Locomotion System Files/Documentation/images/leg_properties.png
+Assets/Locomotion System Files/Demo Scenes/Things/Step.prefab
+Assets/Locomotion System Files/Demo Scenes/Scenes/Crate Climbing/LightmapNear-0.exr
+Assets/Locomotion System Files/Documentation/documentation.html
+Assets/Locomotion System Files/Character Controller Scripts/AccelerationCharacterController.cs
+Assets/Locomotion System Files/Demo Scenes/Scenes/Planet Walk/LightmapNear-0.exr
+Assets/Locomotion System Files/Demo Scenes/Things/Skyboxes/Source Images/Skybox setup0001.pct
+Assets/Locomotion System Files/Locomotion System/LegAnimator.cs
+Assets/Locomotion System Files/Locomotion System/IMotionAnalyzer.cs
+Assets/Locomotion System Files/Character Controller Scripts/AimLookCharacterController.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@WalkIdle.fbx
+Assets/Locomotion System Files/Demo Scenes/Things/Textures/GoodDirt.psd
+Assets/Locomotion System Files/Character Controller Scripts/NormalCharacterMotor.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@ShootLeft.fbx
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@AimLeft.fbx
+Assets/Locomotion System Files/Demo Scenes/Scenes/Planet Walk/LightmapFar-0.exr
+Assets/Locomotion System Files/Character Controller Scripts/Follower.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@ShootRight.fbx
+Assets/Locomotion System Files/Characters/Heron Artwork/HeronFBX/Heron@IdleStrechNeck.fbx
+Assets/Locomotion System Files/Locomotion System/IK1JointAnalytic.cs
+Assets/Locomotion System Files/Characters/Heron Artwork/Vegetation-TwoPass.shader
+Assets/Locomotion System Files/Demo Scenes/Scenes/Crate Climbing/LightmapFar-0.exr
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@AimIdle.fbx
+Assets/Locomotion System Files/Characters/Hero Artwork/Textures/normalmap_1.tga
+Assets/Locomotion System Files/Locomotion System/TrajectoryVisualizer.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@ShootUp.fbx
+Assets/Locomotion System Files/Documentation/images/crate_pose.png
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@RunForward.fbx
+Assets/Locomotion System Files/Documentation/images/native_speed.png
+Assets/Locomotion System Files/Demo Scenes/Demo Scene Scripts/TestSwitcher.cs
+Assets/Locomotion System Files/Characters/Hero Artwork/Hero@WalkStrafeRight.fbx
+Assets/Locomotion System Files/Character Controller Scripts/FPSCharacterController.cs
+Assets/Locomotion System Files/Locomotion System/AlignmentTracker.cs

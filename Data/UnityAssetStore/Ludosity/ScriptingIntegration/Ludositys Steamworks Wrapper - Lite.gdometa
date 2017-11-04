@@ -1,0 +1,10 @@
+Assets/Plugins/Steamworks/Steamworks.cs
+Assets/Plugins/SteamworksNative.dll
+Assets/Plugins/SteamworksNative.bundle/Contents/MacOS/SteamAPIWrap
+Assets/Plugins/Steamworks/SteamworksManaged.dll
+Assets/Plugins/Steamworks/Stats.cs
+Assets/Plugins/SteamworksNative.bundle/Contents/Info.plist
+Assets/Plugins/Linux/libSteamworksNative.so
+Assets/Plugins/Steamworks/Readme.txt
+Assets/Plugins/Linux/SteamworksManaged.dll
+Assets/Plugins/Ludosity's Steamworks Wrapper Lite.pdf

@@ -1,0 +1,8 @@
+Assets/ExtendedInspector/Editor/ExtendedInspector.cs
+Assets/ExtendedInspector/Editor/InspectorInfo.cs
+Assets/ExtendedInspector/Editor/EIOptions.cs
+Assets/ExtendedInspector/readme.txt
+Assets/ExtendedInspector/Editor/ArrayTool.cs
+Assets/ExtendedInspector/Editor/SpecialCases.cs
+Assets/ExtendedInspector/Editor/ExtensionMethods.cs
+Assets/ExtendedInspector/Editor/PivotTool.cs

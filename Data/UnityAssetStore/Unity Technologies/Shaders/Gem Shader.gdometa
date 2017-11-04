@@ -1,0 +1,16 @@
+Assets/Gem Shader/Example/Sources/turquoise diamond.prefab
+Assets/Gem Shader/Example/GemSpawner.cs
+Assets/Gem Shader/Example/Sources/Materials/turquoise diamond.mat
+Assets/Gem Shader/Example/Sources/Materials/gray diamond.mat
+Assets/Gem Shader/Example/Sources/light reflection cubemap.cubemap
+Assets/Gem Shader/Example/Sources/sourceMeshes.dae
+Assets/Gem Shader/diamond shader.shader
+Assets/Gem Shader/Example/refractions.cubemap
+Assets/Gem Shader/Example/Sources/Materials/purple diamond.mat
+Assets/Gem Shader/Example/Sources/lavendar diamond.prefab
+Assets/Gem Shader/Example/Sources/gray diamond.prefab
+Assets/Gem Shader/Example/Sources/Materials/floorMat.mat
+Assets/Gem Shader/Example/Sources/Materials/lavendar diamond.mat
+Assets/Gem Shader/Example/Sources/Materials/sourcemeshes-no name.mat
+Assets/Gem Shader/GemPile Example.unity
+Assets/Gem Shader/Example/Sources/purple diamond.prefab

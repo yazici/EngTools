@@ -1,0 +1,59 @@
+Assets/Standard Assets/Particles/small flames.prefab
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Front.jpg
+Assets/Common Assets/MatTransparent.mat
+Assets/Show RenderTypes/ShowRenderTypes.js
+Assets/Common Assets/RenderNormalsAndDepth.shader
+Assets/Glowing Things/FunkyThingsComposite.shader
+Assets/Glowing Things/RenderFunkyThings.shader
+Assets/Standard Assets/Terrain Textures/Cliff (Layered Rock).psd
+Assets/Show RenderTypes/Metal Alpha Gloss.psd
+Assets/Glowing Things/FunkyVertexLit.mat
+Assets/Common Assets/SimpleTerrain.asset
+Assets/Edge Detection/EdgeDetectNormals.shader
+Assets/Standard Assets/Terrain Grass/Grass.psd
+Assets/Edge Detection/EdgeDetectEffectNormals.js
+Assets/Standard Assets/Trees Ambient-Occlusion/Palm/Materials/palmbranch.mat
+Assets/Standard Assets/Terrain Textures/Grass&Rock.psd
+Assets/Standard Assets/Scripts/FPSWalker.js
+Assets/Standard Assets/Trees Ambient-Occlusion/Palm/Palm.fbx
+Assets/Standard Assets/Trees Ambient-Occlusion/Palm/PalmBranch.psd
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Left.jpg
+Assets/Glowing Things/FunkyGlowingThingsEffect.js
+Assets/Show UV Mapping/ShowUVMapping.shader
+Assets/Glowing Things/FunkyVertexLit.shader
+Assets/Standard Assets/Camera Scripts/MouseLook.cs
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Up.jpg
+Assets/Common Assets/MatTransparentCutout.mat
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Right.jpg
+Assets/Show Overdraw/RenderOverdraw.shader
+Assets/Common Assets/Rotate.js
+Assets/Pro Standard Assets/Image Based/ImageEffects.cs
+Assets/Standard Assets/Particles/Sources/fire4.psd
+Assets/Show Overdraw/RenderOverdrawZ.shader
+Assets/Glowing Things/AlphaEdge.png
+Assets/Show RenderTypes.unity
+Assets/Standard Assets/Skyboxes/Sunset.mat
+Assets/Common Assets/RenderDepth.shader
+Assets/Show Overdraw.unity
+Assets/Show UV Mapping.unity
+Assets/Glowing Things.unity
+Assets/Show RenderTypes/ShowRenderTypes.shader
+Assets/Standard Assets/Prefabs/First Person Controller.prefab
+Assets/Common Assets/MatDiffuse.mat
+Assets/Edge Detection.unity
+Assets/Standard Assets/Particles/Sources/fire smoke.mat
+Assets/Standard Assets/Particles/Small explosion.prefab
+Assets/Standard Assets/Terrain Textures/GoodDirt.psd
+Assets/Common Assets/SimpleScene.prefab
+Assets/Standard Assets/Terrain Textures/Grass (Hill).psd
+Assets/Show UV Mapping/ShowUVMapping.js
+Assets/Show Overdraw/ShowOverdraw.js
+Assets/Show Overdraw/ShowOverdrawToggle.js
+Assets/Standard Assets/Trees Ambient-Occlusion/Palm/Materials/palmbark.mat
+Assets/Standard Assets/Particles/Sources/fire add.mat
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Down.jpg
+Assets/Pro Standard Assets/Image Based/ImageEffectBase.cs
+Assets/Standard Assets/Trees Ambient-Occlusion/Palm/PalmBark.psd
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Back.jpg
+Assets/Common Assets/RenderDepth.js
+Assets/Glowing Things/ColorRamp.png

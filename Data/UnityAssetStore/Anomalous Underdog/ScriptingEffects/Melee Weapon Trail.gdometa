@@ -1,0 +1,15 @@
+Assets/MeleeWeaponTrail/Example/Textures/Swoosh01.png
+Assets/MeleeWeaponTrail/README.txt
+Assets/MeleeWeaponTrail/Example/Scripts/LookAtTarget.cs
+Assets/MeleeWeaponTrail/Example/Prefabs/SwooshStandard.prefab
+Assets/MeleeWeaponTrail/Example/Textures/Swoosh01.mat
+Assets/MeleeWeaponTrail/Example/Scripts/SwooshTest.cs
+Assets/MeleeWeaponTrail/Example/Prefabs/SwooshColorChange.prefab
+Assets/MeleeWeaponTrail/Example/Models/BlockyMelee/BlockyMeleeFbx.fbx
+Assets/MeleeWeaponTrail/Example/Scenes/Example.unity
+Assets/MeleeWeaponTrail/Example/Scripts/MouseMove.cs
+Assets/MeleeWeaponTrail/Example/Models/BlockyMelee/Materials/BlockyMeleeFbx-red.mat
+Assets/MeleeWeaponTrail/Example/Prefabs/SmoothOrbitCam.prefab
+Assets/MeleeWeaponTrail/Scripts/Interpolate.cs
+Assets/MeleeWeaponTrail/Scripts/MeleeWeaponTrail.cs
+Assets/MeleeWeaponTrail/Example/Prefabs/SwooshSizeChange.prefab

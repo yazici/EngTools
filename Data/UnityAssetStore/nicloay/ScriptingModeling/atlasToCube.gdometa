@@ -1,0 +1,9 @@
+Assets/Assets/Demo/Prefab/Cube.prefab
+Assets/Assets/Demo/Material/CubeMaterial.mat
+Assets/Assets/Demo/Texture/Fish.png
+Assets/Assets/Resources/Scripts/Util/Mesh/UVPosition.cs
+Assets/Assets/Demo/Script/Controller/SpawnPrefabController.cs
+Assets/Assets/Demo/Scene/spawn.random.faces.unity
+Assets/Assets/Editor/CubeAtlasUVEditor.cs
+Assets/Assets/Resources/Scripts/Util/Mesh/CubeAtlasUVManager.cs
+Assets/Assets/Demo/Scene/face.config.editor.unity

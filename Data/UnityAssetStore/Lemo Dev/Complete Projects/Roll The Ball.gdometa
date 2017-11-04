@@ -1,0 +1,73 @@
+Assets/Material/Coin/Coin.mat
+Assets/Material/Color/Green.mat
+Assets/Audio/Pickup_Coin.wav
+Assets/Prefabs/Coin/Coin.prefab
+Assets/Texture/Player/Player_Normal.png
+Assets/Prefabs/Booster/Jump Booster.prefab
+Assets/Audio/Music.mp3
+Assets/cubemap/Coin/light reflection cubemap.cubemap
+Assets/Fonts/Courier 2.dfont
+Assets/Script/Door/Door.cs
+Assets/Script/Teleporter/Teleporter.cs
+Assets/Script/Booster/JumpBooster.cs
+Assets/Script/Other/LevelName.cs
+Assets/cubemap/Coin/diamond shader.shader
+Assets/Prefabs/Teleporter/Teleporter.prefab
+Assets/Prefabs/Booster/Speed Booster.prefab
+Assets/Material/Player/Player.mat
+Assets/cubemap/Coin/refractions.cubemap
+Assets/Prefabs/Camera/Main Camera.prefab
+Assets/Audio/Teleporter.wav
+Assets/Prefabs/Other/_Destroy.prefab
+Assets/Texture/Color/Black.png
+Assets/Prefabs/Platform/Moving Platform.prefab
+Assets/Audio/Destroy.wav
+Assets/Prefabs/GameManager/_GameManager.prefab
+Assets/Prefabs/Player/Player.prefab
+Assets/Script/Coins/Coins.cs
+Assets/Texture/Color/Red_Normal.png
+Assets/Texture/Color/Blue.png
+Assets/Material/Color/Blue.mat
+Assets/Audio/Booster/Speed Booster.wav
+Assets/Prefabs/Other/Directional light.prefab
+Assets/Texture/Color/Red.png
+Assets/Prefabs/Door/Door.prefab
+Assets/Audio/hit ground.wav
+Assets/Script/Booster/SpeedBooster.cs
+Assets/Audio/Booster/Jump Booster.wav
+Assets/Script/GameManager/GameManager.cs
+Assets/Texture/Color/Blue_Normal.png
+Assets/Script/Camare/SmoothLookAt.cs
+Assets/Texture/Player/Player.png
+Assets/Script/Platform/MovingPlatform.cs
+Assets/Texture/Color/Green.png
+Assets/Texture/Color/Black_Normal.png
+Assets/Material/Color/Red.mat
+Assets/Audio/Menu/SelectDown.wav
+Assets/Prefabs/Other/Level Name.prefab
+Assets/Fonts/Courier.dfont
+Assets/Audio/Won.wav
+Assets/Audio/Menu/Select.wav
+Assets/Script/Menu/Lemodev.cs
+Assets/Material/Color/Black.mat
+Assets/Audio/Jump.wav
+Assets/Standard Assets/Joystick.js
+Assets/Scene/Level 3.unity
+Assets/Prefabs/Android/LeftJoystick.prefab
+Assets/Scene/Level 4.unity
+Assets/Read if on android.txt
+Assets/Scene/Level 6.unity
+Assets/Script/Menu/Menu.cs
+Assets/Scene/Level 2.unity
+Assets/Script/Menu/ChooseLevel.cs
+Assets/Script/Player/PlayerControl.cs
+Assets/Script/Menu/BackToMenu.cs
+Assets/Scene/Level 5.unity
+Assets/Standard Assets/MouseOrbit.js
+Assets/Texture/JoystickThumb.psd
+Assets/Standard Assets/FollowTransform.js
+Assets/Standard Assets/RotationConstraint.js
+Assets/Scene/Main_Menu.unity
+Assets/Prefabs/Android/RightJoystick.prefab
+Assets/Script/Android/ApplicationPlatform.cs
+Assets/Scene/Level 1.unity

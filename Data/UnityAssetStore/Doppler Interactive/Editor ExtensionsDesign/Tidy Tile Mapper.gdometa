@@ -1,0 +1,356 @@
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Upper_Left_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/Editor/Utilities/unitygems.com/whydoidoit.com/FixMissingScripts.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Centre_Vertical_Surrounded.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Bottom_Right_Inner_Corner_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/EmptyBlock.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Right_Diagonal.png
+Assets/Tidy Tile Mapper/API Examples/LevelGeneration/Runtime_Demo.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Right_Inner_Corner.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Top_Left_Inner_Corner.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Left_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Bottom_Right_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Lower_Right_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Controllers/EntityController.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Left_Inner_Corner_Extra_1.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Top_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Lower_Right_Filled_Diagonal_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Bottom_Left_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Bottom_Right.png
+Assets/Tidy Tile Mapper/Mapping/FunctionalOverlay/CustomFunctionFields/TidyTarget.cs
+Assets/Tidy Tile Mapper/Mapping/Block.cs
+Assets/Tidy Tile Mapper/Mapping/Utility/Pathing/IPathMap.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Top_Alone.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Top_Right_Inner_Corner_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Bottom_Left_Inner_Corner.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Top_Right_Inner_Corner_Extra_1.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Game_Prefabs/Mister_Tidy_Pathing.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Bottom_Right_Inner_Corner.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/Editor/ColorProfileEditor.cs
+Assets/Tidy Tile Mapper/Tidy Controllers/Textures/BlockBody_BlueGrey.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/Default Prefab Assets/Materials/Detail_Plane_4.mat
+Assets/Tidy Tile Mapper/Blocks/CoreBlocks/EmptyBlock.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Bottom_Surrounded.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Left.prefab
+Assets/Tidy Tile Mapper/API Examples/LevelGeneration/LevelGenerators/PerlinGenerator.cs
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_Paint.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/Default Prefab Assets/Materials/Chunk_Glass.mat
+Assets/Tidy Tile Mapper/Tidy Controllers/Textures/BlockBody_Purple.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Controllers/EntityTemplates/PatrollingEntity.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Centre_Surrounded.prefab
+Assets/Tidy Tile Mapper/Editor/Editor Logic/TidyMessages.cs
+Assets/Tidy Tile Mapper/Editor/Editor Windows/MapCreatorWindow.cs
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Lower_Left_Filled_Diagonal_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Centre_Horizontal_Surrounded.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_BlackRule.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Top_Right_Inner_Corner.png
+Assets/Tidy Tile Mapper/Editor/Editor Logic/TextureManagement/PreviewDictionary.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Bottom_Right_Inner_Corner_Extra_1.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Controllers/EntityTypes/RandomPathingEntity.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Alone.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Centre_Vertical_Surrounded.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Right_Inner_Corner_Extra_1.prefab
+Assets/Tidy Tile Mapper/Tidy Controllers/Controllers/EntityTypes/OCDPatrollingEntity.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Top_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/API Examples/LevelGeneration/LevelGenerators/PerlinGenerator_Demo.unity
+Assets/Tidy Tile Mapper/Tidy Controllers/Textures/BlockBody_Black.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Materials/BlockBody_Purple.mat
+Assets/Tidy Tile Mapper/Mapping/FunctionalOverlay/TidyFunctionalOverlay.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Right_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Lower_Left_Filled_Diagonal_Extra_1.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Upper_Left_Filled_Diagonal.prefab
+Assets/Tidy Tile Mapper/Tidy Controllers/Controllers/EntityTypes/FreeRoamPlatformEntity.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Centre_Horizontal_Surrounded_Extra_1.prefab
+Assets/Tidy Tile Mapper/Tidy Controllers/Game_Prefabs/Mister_Tidy_Platformer.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/Default Prefab Assets/Textures/TT_RoundedCube_Unwrap.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Right_Surrounded.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_MoveBlock.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Centre_Horizontal_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Animations/Idle.anim
+Assets/Tidy Tile Mapper/Mapping/ExpandingMap.cs
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Mister_Tidy_Pathing.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Centre_Vertical_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Top_Left_Inner_Corner.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Top_Left_Inner_Corner_Extra_1.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/UITheme/TidyTileMapper_EditorTheme.guiskin
+Assets/Tidy Tile Mapper/Tidy Controllers/Game_Prefabs/Mister_Tidy_Horizontal_Patrolling.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Surrounded.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Right_Surrounded.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/Default Prefab Assets/Materials/Detail_Plane_1.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Centre_Vertical_Surrounded_Extra_1.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Top_Right_Inner_Corner.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Top_Surrounded_Extra_1.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Lower_Left_Filled_Diagonal.prefab
+Assets/Tidy Tile Mapper/Editor/Editor Logic/TidyTooltips.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Top_Right_Inner_Corner.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Bottom_Right.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Right_Surrounded_Extra_1.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Right_Alone.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/Editor/StreamingEditor.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Left_Inner_Corner.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Left_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Top_Right.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Mister_Tidy_Platformer.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_DeleteChunk.png
+Assets/Tidy Tile Mapper/Blocks/Vertical_Patrolling_Controller.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Left_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/Default Prefab Assets/Materials/Detail_Plane_2.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Bottom_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Right_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Bottom_Left_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Upper_Right_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Materials/BlockBody_Red.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Top_Surrounded.png
+Assets/Tidy Tile Mapper/Editor/Utilities/unitygems.com/whydoidoit.com/FindAndFixBrokenScripts.cs
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Bottom_Surrounded.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Lower_Left_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Textures/BlockBody_Red.png
+Assets/Tidy Tile Mapper/Mapping/Utility/Pathing/PathNode.cs
+Assets/Tidy Tile Mapper/Tidy Controllers/Raw_Prefabs/Mister_Tidy_BlueGrey.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Bottom_Right_Inner_Corner.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Editor Logic/Plugins/ITTMPlugin.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Right_Surrounded.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Left_Extra_1.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Bottom_Left_Inner_Corner_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Editor Windows/BlockEditorWindow.cs
+Assets/Tidy Tile Mapper/Mapping/MapChunk.cs
+Assets/Tidy Tile Mapper/Editor/Visual Assets/Default Prefab Assets/Materials/Detail_Plane_3.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_Cycle.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Bottom_Left_Inner_Corner_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Left_Diagonal.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Right.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Centre_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_AddLayerUp.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_ItemSelected.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Left_Alone.prefab
+Assets/Tidy Tile Mapper/Editor/Editor Logic/TidyAssetPoolMonitor.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/Default Prefab Assets/Primitives/Materials/UpwardPlane-No Name.mat
+Assets/Tidy Tile Mapper/Tidy Controllers/Textures/BlockBody_Grey.png
+Assets/Tidy Tile Mapper/Mapping/Utility/Pathing/Pathfinding.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Centre_Alone.prefab
+Assets/Tidy Tile Mapper/HelpfulPrimitives/UpwardPlane.FBX
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Lower_Left_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Lower_Right_Filled_Diagonal_Extra_1.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Centre_Surrounded_Extra_1.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Mister_Tidy_Player_Controller.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_PaintBackground.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Textures/BlockHead.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_Disable.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/Default Prefab Assets/TT_RoundedCube.FBX
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Left_Surrounded.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Bottom_Left_Inner_Corner.png
+Assets/Tidy Tile Mapper/Blocks/Platform_Controller.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_DrawPath.png
+Assets/Tidy Tile Mapper/Editor/Editor Logic/TidyEditorUtility.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Top_Surrounded.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_Delete.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Left_Surrounded.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Right_Alone.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Controllers/AnimationHandling/AnimationPackage.cs
+Assets/Tidy Tile Mapper/Blocks/Horizontal_Patrolling_Controller.prefab
+Assets/Tidy Tile Mapper/Mapping/Map.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Top_Left.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Right_Diagonal.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Top_Right.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/TT_AddLayerDown.png
+Assets/Tidy Tile Mapper/Mapping/Layering/ChunkSet.cs
+Assets/Tidy Tile Mapper/Editor/Editor Prefabs/MapChunkPrefab.prefab
+Assets/Tidy Tile Mapper/Tidy Controllers/Materials/BlockBody_BlueGrey.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Mister_Tidy_Vertical_Patrolling.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Top_Right.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Right_Extra_1.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Bottom_Left.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Upper_Left_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Controllers/EntityTemplates/PlatformerEntity.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Bottom_Right_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Top_Left_Inner_Corner.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Surrounded_Extra_1.prefab
+Assets/Tidy Tile Mapper/Tidy Controllers/Animations/Walk.anim
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Bottom_Alone.png
+Assets/Tidy Tile Mapper/Editor/Editor Windows/AssetPoolWindow.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Top_Left_Inner_Corner_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Editor Logic/TidyFileNames.cs
+Assets/Tidy Tile Mapper/Tidy Controllers/Materials/BlockBody_Black.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Top_Left.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Top_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Bottom_Alone_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Top_Left.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Lower_Right_Filled_Diagonal.prefab
+Assets/Tidy Tile Mapper/Blocks/Pathfinding_Controller.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Bottom_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Bottom_Alone_Extra_1.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Upper_Right_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Top_Left_Inner_Corner_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Centre_Surrounded_Extra_1.png
+Assets/Tidy Tile Mapper/HelpfulPrimitives/Materials/No Name.mat
+Assets/Tidy Tile Mapper/Mapping/FunctionalOverlay/TidyFunctionalObject.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Left_Surrounded.png
+Assets/Tidy Tile Mapper/Editor/Editor Logic/TextureManagement/TextureDictionary.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Left_Diagonal.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Top_Surrounded.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Controllers/EntityTemplates/PathingEntity.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Centre_Horizontal_Surrounded.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Left_Alone.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Lower_Left_Filled_Diagonal_Extra_1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Variants/Standard_Lower_Right_Filled_Diagonal_Extra_1.png
+Assets/Tidy Tile Mapper/Editor/Editor Prefabs/EmptyCube.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Left_Surrounded_Extra_1.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Mister_Tidy_Horizontal_Patrolling.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Upper_Right_Filled_Diagonal.prefab
+Assets/Tidy Tile Mapper/API Examples/LevelGeneration/LevelGenerator.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Lower_Right_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/API Examples/LevelGeneration/RuntimeAPI_Demo.unity
+Assets/Tidy Tile Mapper/Editor/Editor Logic/WindowHandling/IEditorWindow.cs
+Assets/Tidy Tile Mapper/Tidy Controllers/Game_Prefabs/Mister_Tidy_Vertical_Patrolling.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Right_Alone.prefab
+Assets/Tidy Tile Mapper/Editor/Visual Assets/Default Prefab Assets/Materials/TT_RoundedCube-01 - Default.mat
+Assets/Tidy Tile Mapper/Tidy Controllers/Controllers/Entity.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/Prefabs/TT_Standard_Top_Right_Inner_Corner_Extra_1.prefab
+Assets/Tidy Tile Mapper/Editor/Editor Windows/Update Prompts/UpdateWindow.cs
+Assets/Tidy Tile Mapper/Editor/Editor Logic/TidyBlockEditor.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Left_Inner_Corner_Extra_1.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Centre_Alone.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Left_Extra_1.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Left.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_TOp_Surrounded_Extra_1.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Bottom_Right_Inner_Corner.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Top_Right_Inner_Corner.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Lower_Left_Filled_Diagonal.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Lower_Right_Filled_Diagonal_Extra_1.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Border_Top_Left.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Left_Surrounded.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Standard_Centre_Surrounded.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Right_Alone.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Right.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Lower_Left_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/Mapping/BlockMap.cs
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Lower_Right_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/Example/Example Controller/Mister_Tidy_Gets_His_Hands_Dirty.prefab
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/Example/StreamingWorld.unity
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Diagonal_Gate_Left.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Top_Left_Inner_Corner_Extra_1.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Funnel_Right.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Funnel_Top.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/Example/Example Controller/DigController.cs
+Assets/Tidy Tile Mapper/Tidy Controllers/Controllers/EntityTypes/PlatformerPlayer.cs
+Assets/Tidy Tile Mapper/Tidy Controllers/Materials/BlockBody_Grey.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Fork_Top_Right.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Mister_Tidy_Gets_His_Hands_Dirty.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Centre_Horizontal_Surrounded.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Bottom_Alone.png
+Assets/Tidy Tile Mapper/Mapping/Utility/AssetPool.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Lower_Left_Filled_Diagonal_Extra_1.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Textures/StandardSet/Materials/Standard_Bottom_Alone.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Taper_Left_Top.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Diagonal_Gate_Right.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Centre_Vertical_Surrounded_Extra_1.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Centre_Horizontal_Surrounded_Extra_1.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Upward_T_Hub.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Taper_Top_Right.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Top_Surrounded.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Rightward_T_Hub.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Fork_Top_Left.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Centre_Surrounded.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Top_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Centre_Surrounded.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Centre_Horizontal_Surrounded.mat
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/Example/StreamingRunner.cs
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Bottom_Right.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/Example/Example Controller/Dirt_Wall.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Right_Alone.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Upper_Right_Filled_Diagonal.mat
+Assets/Tidy Tile Mapper/Mapping/BlockTypes/BlockOrientation.cs
+Assets/Tidy Tile Mapper/Mapping/BlockTypes/OrientedBlock.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Right_Surrounded_Extra_1.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Right_Inner_Corner_Extra_1.mat
+Assets/Tidy Tile Mapper/Tidy Controllers/Materials/BlockHead.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Taper_Bottom_Left.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Materials/BlockHead 1.mat
+Assets/Tidy Tile Mapper/Blocks/Standard_Block.prefab
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Surrounded_Extra_1.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Downward_T_Hub.png
+Assets/Tidy Tile Mapper/Mapping/Utility/TidyMapBoundObject.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Centre_Surrounded.mat
+Assets/Tidy Tile Mapper/Editor/Editor Logic/TidyMapCreator.cs
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Centre_Alone.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Top_Alone.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Upper_Left_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Right_Diagonal.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Leftward_T_Hub.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/Example/Example Controller/Dirt_Wall.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Left_Diagonal.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Right_Surrounded.png
+Assets/Tidy Tile Mapper/Tidy Controllers/Textures/BlockHead 1.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Fork_Bottom_Left.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/TT_Standard_Bottom_Left.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Bottom_Left_Inner_Corner.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Top_Surrounded.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Left_Diagonal.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Centre_Vertical_Surrounded.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Surrounded.mat
+Assets/Tidy Tile Mapper/Tidy Controllers/Textures/BlockBody_Grey 1.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Top_Left.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Left_Alone.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Bottom_Surrounded.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Alone_Extra_1.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Taper_Left_Bottom.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Left_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Taper_Bottom_Right.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Upper_Left_Filled_Diagonal.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Right_Inner_Corner.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Top_Left_Inner_Corner.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Upper_Right_Filled_Diagonal.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Left_Inner_Corner.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Left_Surrounded_Extra_1.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Taper_Right_Top.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Top_Right.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Left_Surrounded.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Funnel_Bottom.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Bottom_Left.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Centre_Vertical_Surrounded.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Right_Extra_1.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Border_Bottom_Right.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Right_Surrounded.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Right_Diagonal.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Fork_Bottom_Right.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Centre_Surrounded_Extra_1.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Taper_Right_Bottom.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Border_Top_Right.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_TOp_Surrounded_Beautiful_2.mat
+Assets/Tidy Tile Mapper/Mapping/Utility/BlockUtilities.cs
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Top_Left.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Top_Left_Inner_Corner.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Top_Right_Inner_Corner_Extra_1.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Top_Right.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Taper_Top_Left.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Funnel_Left.png
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Lower_Right_Filled_Diagonal.mat
+Assets/Tidy Tile Mapper/TidyBasicBlockSet/VisualAssets/Materials/Standard_Materials/Standard_Bottom_Alone.mat
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Border_Bottom_Left.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Top_Right_Inner_Corner.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/Example/StreamingWorld.cs
+Assets/Tidy Tile Mapper/Blocks/Player_Controller.prefab
+Assets/Tidy Tile Mapper/Tidy Controllers/Game_Prefabs/Mister_Tidy_Player_Controller.prefab
+Assets/Tidy Tile Mapper/Mapping/BlockSet.cs
+Assets/Tidy Tile Mapper/readme.txt
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Soil_Dark_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Rock_Blue_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Soil_Sandstone_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Sand_Oasis_Centre_Surrounded.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Rock_Dark_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Rock_DarkPurple_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Rock_LightGrey_Centre_Alone.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/StreamingMap.cs
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Soil_Light_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Leaves_Centre_Surrounded.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Rock_Ice_Centre_Alone.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/Example/StreamingRunner_FromTexture.unity
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Rock_Ash_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/OrientationIcons/Cross_Hub.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Rock_Volcanic_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Soil_Forest_Centre_Alone.png
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Sand_Beach_Centre_Alone.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/StreamingMapColorProfile.cs
+Assets/Tidy Tile Mapper/Editor/Visual Assets/BlockPreviews/Sand_Desert_Centre_Alone.png
+Assets/Tidy Tile Mapper/Tidy Streaming Maps/StreamingMapNode.cs

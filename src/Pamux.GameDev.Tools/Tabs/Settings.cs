@@ -18,7 +18,7 @@ namespace Pamux.GameDev.Tools.Tabs
 
         private void txtVoiceSaveDirectory_TextChanged(object sender, System.EventArgs e)
         {
-            Settings.Instance.VoiceSaveDirectory = txtVoiceSaveDirectory.Text;
+            Settings.VoiceSaveDirectory = txtVoiceSaveDirectory.Text;
         }
     }
 }

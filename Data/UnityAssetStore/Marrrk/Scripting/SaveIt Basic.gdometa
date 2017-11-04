@@ -1,0 +1,19 @@
+Assets/SaveIt/readme.txt
+Assets/SaveIt/Examples/Common/ControllableSphereComponent.cs
+Assets/SaveIt/Examples/Common/PointsComponent.cs
+Assets/SaveIt/Examples/Common/PointsOnCollideComponent.cs
+Assets/SaveIt/Examples/Common/Red.mat
+Assets/SaveIt/Examples/Common/Rubber.physicMaterial
+Assets/SaveIt/Editor/SaveItVerification.cs
+Assets/SaveIt/Examples/Common/Blue.mat
+Assets/SaveIt/Assembly/SaveIt.SharpZLib.dll
+Assets/SaveIt/Editor/SaveableEditor.cs
+Assets/SaveIt/Examples/Common/Green.mat
+Assets/SaveIt/Assembly/SaveIt.dll
+Assets/SaveIt/Examples/Unbatched saving and loading/ExampleScene2.unity
+Assets/SaveIt/Examples/Saving and loading a scene/ExampleScene3.unity
+Assets/SaveIt/Examples/Saving and loading a scene/SaveSceneComponent.cs
+Assets/SaveIt/Examples/Saving and loading custom data/ExampleScene1.unity
+Assets/SaveIt/Examples/Unbatched saving and loading/SaveSpherePoints.cs
+Assets/SaveIt/Examples/Saving and loading custom data/SaveHighscoreComponent.cs
+Assets/SaveIt/Examples/Common/DisplayTextComponent.cs

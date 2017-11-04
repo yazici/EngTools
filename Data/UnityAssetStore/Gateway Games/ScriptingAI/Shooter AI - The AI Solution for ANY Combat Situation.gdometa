@@ -1,0 +1,573 @@
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Tonemapper.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/DLAA.shader
+Assets/Shooter AI/Scripts/AI/Actions/VisualChecks/VisualCheckTutorial.cs
+Assets/Editor/Image Effects/DepthOfFieldScatterEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/CameraInfo.js
+Assets/Standard Assets/Image Effects (Pro Only)/Crease.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter2.shader
+Assets/Standard Assets/Image Effects (Pro Only)/GlowEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/EdgeDetectNormals.shader
+Assets/Standard Assets/Image Effects (Pro Only)/NoiseAndGrain.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseEffectShaderYUV.shader
+Assets/Shooter AI/Models/Humanoid/GenericPose/GenericMain/Materials/Genrick_lambert7.mat
+Assets/Shooter AI/Scripts/Camera/Movement.js
+Assets/Shooter AI/Scripts/WeaponSystem/Ammo/AmmoMain.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ConvertDepth.shader
+Assets/Editor/Image Effects/NoiseAndGrainEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader
+Assets/Shooter AI/Scripts/WeaponSystem/TravelWithObject.cs
+Assets/Standard Assets/Image Effects (Pro Only)/SunShafts.js
+Assets/Shooter AI/Prefabs/Fully Finished Character/Models/Weapon/M4/Materials/Tex_0012_1.mat
+Assets/Shooter AI/Prefabs/Fully Finished Character/Models/Weapon/M4/Materials/Tex_0011_1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/DepthOfField34.js
+Assets/Standard Assets/Image Effects (Pro Only)/GrayscaleEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Adaptation.shader
+Assets/Shooter AI/Animations/Humanoid/Materials/eyes.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ContrastComposite.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ChromaticAberrationShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/BlurEffect.cs
+Assets/Shooter AI/Models/Humanoid/GenericPose/GenericMain/Materials/Genrick_lambert4.mat
+Assets/Standard Assets/Image Effects (Pro Only)/GlobalFog.js
+Assets/Editor/Image Effects/AntialiasingAsPostEffectEditor.js
+Assets/Shooter AI/Scripts/AI/Actions/ManagingScripts/TEST.cs
+Assets/Shooter AI/Scripts/AI/Actions/Patrol/PatrolManager.cs
+Assets/Editor/Image Effects/SunShaftsEditor.js
+Assets/Shooter AI/Scripts/EditorGUI/AIWeaponControllerChild.cs
+Assets/Standard Assets/Image Effects (Pro Only)/Triangles.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/EdgeDetectX.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionCurvesSimple.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SSAOShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/LensFlareCreate.shader
+Assets/Shooter AI/Models/Humanoid/GenericPose/GenericMain/Materials/Genrick_lambert3.mat
+Assets/Standard Assets/Image Effects (Pro Only)/MotionBlur.cs
+Assets/Editor/Image Effects/TonemappingEditor.js
+Assets/Editor/Image Effects/CameraMotionBlurEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/Blend.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/VignetteShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffectNormals.js
+Assets/Shooter AI/Scripts/AI/Actions/Patrol/PatrolWaypointManager.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/MinMaxReduction.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/Bokeh34.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/BlurEffectConeTaps.shader
+Assets/Standard Assets/ShooterAIUnityScripts/TimedObjectDestructor.js
+Assets/Standard Assets/Image Effects (Pro Only)/PostEffectsHelper.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseEffectShaderRGB.shader
+Assets/Shooter AI/Prefabs/Flashes/MuzzleFlashMain.prefab
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VignettingShader.shader
+Assets/Shooter AI/Scripts/AI/Actions/VisualChecks/VisualCheckTemplate.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionCurves.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/TwirlEffect.shader
+Assets/Shooter AI/Models/Humanoid/GenericPose/GenericMain/Materials/Genrick_lambert5.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionEffect.shader
+Assets/Shooter AI/Models/Humanoid/GenericPose/GenericMain/Materials/Genrick_lambert6.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAAPreset2.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VortexEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlobalFog.shader
+Assets/Shooter AI/Scripts/WeaponSystem/MuzzleFlashManager.cs
+Assets/Editor/Image Effects/DepthOfField34Editor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/MotionBlurClear.shader
+Assets/Standard Assets/ShooterAIUnityScripts/RotateAroundTarget2.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BlendForBloom.shader
+Assets/Standard Assets/Image Effects (Pro Only)/Fisheye.js
+Assets/Standard Assets/Image Effects (Pro Only)/ColorCorrectionCurves.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/CameraMotionBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/FisheyeShader.shader
+Assets/Shooter AI/Scripts/Camera/MouseLook.cs
+Assets/Standard Assets/Image Effects (Pro Only)/ImageEffects.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseAndGrainDX11.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/BlendModesOverlay.shader
+Assets/Editor/Image Effects/ColorCorrectionLutEditor.js
+Assets/Shooter AI/Scripts/Animation/IK/IKHeadFollowCamera.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/TiltShift.shader
+Assets/Shooter AI/Scripts/WeaponSystem/Ammo/LightFlicker.cs
+Assets/Editor/Image Effects/VignettingEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowCompose.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/DepthOfField34.shader
+Assets/Shooter AI/Animations/Humanoid/Materials/face.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/PrepareSunShaftsBlur.shader
+Assets/Shooter AI/Animations/Melee/QuickSwing/QuickSwing.anim
+Assets/Standard Assets/Image Effects (Pro Only)/SepiaToneEffect.cs
+Assets/Shooter AI/Scripts/Animation/IK/HandTest.cs
+Assets/Shooter AI/Prefabs/Fully Finished Character/Models/Human/OnlyModel/Materials/Soldier_new-1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/Bloom.js
+Assets/Standard Assets/Image Effects (Pro Only)/NoiseEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/VortexEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/AntialiasingAsPostEffect.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/DepthOfFieldScatter.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseAndGrain.shader
+Assets/Standard Assets/Image Effects (Pro Only)/SSAOEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowEffectDownsample.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/SSAA.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/CreaseApply.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrection3DLut.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SepiaToneEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader
+Assets/Standard Assets/Image Effects (Pro Only)/TwirlEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BlurAndFlares.shader
+Assets/Standard Assets/Image Effects (Pro Only)/Vignetting.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Luminance.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ColorCorrectionLut.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAAPreset3.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAA3Console.shader
+Assets/Standard Assets/ShooterAIUnityScripts/PositionAndHeadBobbing.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAA2.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/NFAA.shader
+Assets/Editor/Image Effects/BloomEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/BloomAndLensFlares.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SunShaftsComposite.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/DepthOfFieldDX11.shader
+Assets/Shooter AI/Prefabs/Magazines/Magazine1.prefab
+Assets/Standard Assets/Image Effects (Pro Only)/PostEffectsBase.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GrayscaleEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/TiltShift.js
+Assets/Standard Assets/Image Effects (Pro Only)/Tonemapping.js
+Assets/Editor/Image Effects/EdgeDetectEffectNormalsEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+Assets/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionSelective.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ContrastEnhance.js
+Assets/Editor/Image Effects/TiltShiftEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/SeparableBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ScreenOverlay.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/MotionBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ColorCorrectionEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/ContrastStretchEffect.cs
+Assets/Editor/Image Effects/ColorCorrectionCurvesEditor.js
+Assets/Shooter AI/Scripts/AI/Actions/Patrol/TestPatrolMovement.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/CameraMotionBlurDX11.shader
+Assets/Standard Assets/Image Effects (Pro Only)/DepthOfFieldScatter.js
+Assets/Standard Assets/Image Effects (Pro Only)/Quads.js
+Assets/Standard Assets/ShooterAIUnityScripts/MainGUI.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Apply.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/RadialBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ImageEffectBase.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SimpleClear.shader
+Assets/Shooter AI/Scripts/WeaponSystem/Zoom.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BlendOneOne.shader
+Assets/Standard Assets/Image Effects (Pro Only)/CameraMotionBlur.js
+Assets/Shooter AI/Animations/Humanoid/Materials/body.mat
+Assets/Editor/Image Effects/BloomAndLensFlaresEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowConeTap.shader
+Assets/Shooter AI/Scripts/Animation/ShooterAIReferenceObject.cs
+Assets/Shooter AI/Materials/FloorMaterial.mat
+Assets/Shooter AI/Scripts/AI/Actions/Sensor/EarsFindClosestObject.cs
+Assets/Shooter AI/Models/Humanoid/GenericPose/GenericMain/Materials/Genrick_blinn2.mat
+Assets/Shooter AI/Models/Humanoid/GenericPose/GenericMain/Finished/GenricMainSmallFinished.prefab
+Assets/Shooter AI/Materials/Cube.mat
+Assets/Shooter AI/Editor/Shooter AI/AIWeaponCreationWindow.cs
+Assets/Standard Assets/Skyboxes/_skybox info.txt
+Assets/Shooter AI/Editor/Shooter AI/AITeamOverviewEditor.cs
+Assets/Shooter AI/Resources/Prefabs/AICharacters/ReferenceObject.prefab
+Assets/Standard Assets/Skyboxes/DawnDusk Skybox.mat
+Assets/Shooter AI/Scripts/Fixes/DemoShowText.cs
+Assets/Shooter AI/Editor/Shooter AI/AIWeaponControllerEditor.cs
+Assets/Shooter AI/Resources/Prefabs/TeamControllers/TeamController.prefab
+Assets/Shooter AI/Scripts/StrategyScripts/ShooterAIStrategyCloseTogether.cs
+Assets/Shooter AI/Editor/Shooter AI/AITeamControlCreate.cs
+Assets/Shooter AI/Materials/Textures/Floor/floorBump.jpg
+Assets/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_front.tif
+Assets/Shooter AI/Prefabs/Fully Finished Character/Models/Weapon/M4/Tex_0012_1.jpg
+Assets/Shooter AI/Prefabs/Fully Finished Character/Models/Weapon/M4/Tex_0011_1.jpg
+Assets/Shooter AI/Animations/Humanoid/humanoid_runForward_turnWide.fbx
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/BodyParts_normal.png
+Assets/Shooter AI/Animations/Humanoid/humanoid_runForward_faceForward.fbx
+Assets/Shooter AI/Models/Zombie/Materials/BodyParts_diffuse.mat
+Assets/Shooter AI/Models/Zombie/Materials/BodyPartsmat.mat
+Assets/Shooter AI/Animations/Humanoid/humanoid_weapon_lower.fbx
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/MotionBlurJitter.png
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/Cloth2_specular.png
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/Cloth2_diffuse.png
+Assets/Shooter AI/Models/Zombie/Materials/Cloth0_diffuse.mat
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/Cloth2_normal.png
+Assets/Shooter AI/Animations/Humanoid/humanoid_turnOnSpot.fbx
+Assets/Shooter AI/Models/Zombie/Materials/Cloth0mat.mat
+Assets/Shooter AI/Animations/Humanoid/humanoid_weapon_raise.fbx
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseEffectScratch.png
+Assets/Shooter AI/Scripts/AI/Actions/TestCover.cs
+Assets/Shooter AI/Animations/Humanoid/humanoid_walkForward_turnWide.fbx
+Assets/Shooter AI/Animations/Humanoid/humanoid_walkForward_turnMedium.fbx
+Assets/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_right.tif
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/BodyParts_specular.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseAndGrain.png
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/Cloth1_diffuse.png
+Assets/Shooter AI/Models/Zombie/Materials/Cloth1mat.mat
+Assets/Shooter AI/Models/Humanoid/Crouch/Materials/No Name.mat
+Assets/Shooter AI/Models/Zombie/Materials/Cloth2_diffuse.mat
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/BodyParts_diffuse.png
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/Cloth0_specular.png
+Assets/Shooter AI/Models/Zombie/Materials/Cloth1_diffuse.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/VignetteMask.png
+Assets/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_left.tif
+Assets/Shooter AI/Materials/Textures/Floor/floorTexture.jpg
+Assets/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_down.tif
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/RandomVectors.png
+Assets/Shooter AI/Models/Humanoid/GenericPose/GenericMain/Materials/Genrick_blinn1.mat
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/Cloth0_normal.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/Neutral3D16.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/hexShape.psd
+Assets/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_up.tif
+Assets/Shooter AI/Models/Humanoid/Crouch/Materials/checkerboard.mat
+Assets/Shooter AI/Animations/Humanoid/humanoid_weapon_shoot.fbx
+Assets/Shooter AI/Animations/Humanoid/humanoid_walkForward_faceForward.fbx
+Assets/Shooter AI/Models/Humanoid/Crouch/RE_Player_male.fbx
+Assets/Shooter AI/Animations/Humanoid/humanoid_walkForward_turnShort.fbx
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/Cloth0_diffuse.png
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/Cloth1_specular.png
+Assets/Shooter AI/Resources/Images/gateway_games.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/color correction ramp.png
+Assets/Shooter AI/Animations/Humanoid/humanoid_idle.fbx
+Assets/Shooter AI/Models/Zombie/Materials/Cloth2mat.mat
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/fuse_material.png
+Assets/Shooter AI/Prefabs/Fully Finished Character/Models/Human/OnlyModel/Soldier@t-pose_2.fbx
+Assets/Shooter AI/Prefabs/Fully Finished Character/Models/Weapon/M4/M4A1.FBX
+Assets/Shooter AI/Animations/Humanoid/humanoid_runForward_turnMedium.fbx
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112/Cloth1_normal.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/sphereShape.psd
+Assets/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_back.tif
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseEffectGrain.png
+Assets/Shooter AI/Scripts/Animation/IKFree/Prefabs/ikLimb.prefab
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/images/gridPivotSelect-03.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/upDownArrow_02.png
+Assets/Shooter AI/Scripts/Animation/IKFree/Scenes/Inverse Kinematics Setup Example.unity
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot@back-01 - Default.mat
+Assets/Shooter AI/AstarPathfindingProject/Utilities/AstarProfiler.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot-minebot.mat
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/linkButton_active.png
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/ObjectPool.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/gridPivotSelect.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/ArrowDown.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot-01 - Default.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/ExampleScripts/DynamicGridObstacle.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example12_Procedural/ProceduralPrefab3.prefab
+Assets/Shooter AI/AstarPathfindingProject/Editor/ModifierEditors/SmoothModifierEditor.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/GraphUpdateShape.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/pixelButton_over.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example12_Procedural/ProceduralPrefab2.prefab
+Assets/Shooter AI/Scripts/Animation/IKFree/Scenes/Old Scenes (Outdated)/ik arm.unity
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@forward.FBX
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example6_Navmesh/Materials/navmesh-navmesh_example6navmeshMat.mat
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorUtilities.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/LightSkin/gizmoButton_on.png
+Assets/Shooter AI/AstarPathfindingProject/Core/AI/NavmeshController.cs
+Assets/Shooter AI/AstarPathfindingProject/Utilities/SizeProfiler.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/OrangeGround.mat
+Assets/Shooter AI/Scripts/Navigation/ShooterAIPathFinder.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/GraphEditors/GridGeneratorEditor.cs
+Assets/Shooter AI/Scripts/Animation/IKFree/Materials/red.mat
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorGUIx.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/ListPool.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/Projector Light.shader
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/pixelBox2.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/Ground.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example6_Navmesh/NavmeshExample.unity
+Assets/Shooter AI/Scripts/Fixes/DontGoThroughThings.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/AI/Seeker.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/images/gridPivotSelect_Normal.png
+Assets/Shooter AI/AstarPathfindingProject/Readme.txt
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/lock_open.png
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/NodeLink3.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/AstarData.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/GraphModifier.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/pixelBox3_separator.png
+Assets/Shooter AI/AstarPathfindingProject/Generators/Utilities/BBTree.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example9_Penalties/PenaltiesExample.unity
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/gridPivotSelect_On.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/ExampleScripts/MineBotAI.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/DynamicObstacle.prefab
+Assets/Shooter AI/Scripts/Animation/IKFree/Scenes/Old Scenes (Outdated)/ik uneven arm.unity
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example12_Procedural/cylinder.fbx
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/TargetReachedEffect.prefab
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example5_PointGraph/ex5Ground.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/ExampleScripts/AstarSmoothFollow2.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/GroundRTS.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/PathGreyCube.mat
+Assets/Shooter AI/AstarPathfindingProject/Generators/QuadtreeGraph.cs
+Assets/Shooter AI/Animations/RagdollBack/Materials/Vincent_Hero_High_diffuse.mat
+Assets/Shooter AI/AstarPathfindingProject/Editor/GraphUpdateSceneEditor.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/ArrowUp_on.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/upDownButtons_01.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/infoButton_normal.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/images/gridPivotSelect.png
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/AstarDebugger.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/grid.psd
+Assets/Shooter AI/AstarPathfindingProject/Generators/NodeClasses/GridNode.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/AnimationLinkEditor.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/linkButton_normal.png
+Assets/Shooter AI/AstarPathfindingProject/Generators/NodeClasses/TriangleMeshNode.cs
+Assets/Shooter AI/Scripts/Animation/Test.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/Int3.cs
+Assets/Shooter AI/AstarPathfindingProject/Plugins/DotNetZip/License.txt
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/DiffuseAlwaysVisible.shader
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/Materials/Navmesh.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/Textures/Falloff-Reflected.psd
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/pixelBox2.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/lock_closed.png
+Assets/Shooter AI/Scripts/Animation/IKFree/Readme.txt
+Assets/Shooter AI/Models/Zombie/FuseModel-wR4112.fbx
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example12_Procedural/ProceduralGround.prefab
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/LightSkin/headerBackground.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/_Example Scenes.txt
+Assets/Shooter AI/AstarPathfindingProject/Utilities/UnityReferenceHelper.cs
+Assets/Shooter AI/Scripts/Animation/IKFree/Materials/blue.mat
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/LightSkin/gizmoButton_off.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/AstarEditorSkinLight.guiskin
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot@awake-01 - Default.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/ExampleScripts/ObjectPlacer.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example12_Procedural/ProceduralGridMover.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example6_Navmesh/navmesh.obj
+Assets/Shooter AI/AstarPathfindingProject/link.xml
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/infoButton_over.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/Materials/Navmesh2.shader
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/PathBlueArea.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/ExampleScripts/AIFollow.cs
+Assets/Shooter AI/AstarPathfindingProject/Plugins/JsonFx/License.txt
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/Textures/Falloff.psd
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/GraphEditorBase.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/Textures/Shadow.psd
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/PlayerShadow.mat
+Assets/Shooter AI/AstarPathfindingProject/Modifiers/FunnelModifier.cs
+Assets/Shooter AI/AstarPathfindingProject/Pathfinders/ABPath.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/AstarPath.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot@forward-01 - Default.mat
+Assets/Shooter AI/AstarPathfindingProject/Core/PathHandler.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/Minebot_NRM.tif
+Assets/Shooter AI/AstarPathfindingProject/Utilities/PathUtilities.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/Projector Multiply.shader
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@awake.FBX
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/images/gridPivotSelect_On.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example6_Navmesh/example6.fbx
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot@left-01 - Default.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/Door.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/SomeBox.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example5_PointGraph/blackText.mat
+Assets/Shooter AI/AstarPathfindingProject/Readme_upgrading.txt
+Assets/Shooter AI/AstarPathfindingProject/Utilities/AstarChecksum.cs
+Assets/Shooter AI/Resources/Prefabs/Weapons/WeaponEmptyPrefab.prefab
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/pixelBox3.png
+Assets/Shooter AI/AstarPathfindingProject/Utilities/ProfileHelper.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/BlueCheckerGround.mat
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/AstarEditorSkinDark.guiskin
+Assets/Shooter AI/AstarPathfindingProject/Plugins/JsonFx/Pathfinding.JsonFx.dll
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/closeButton_active.png
+Assets/Shooter AI/AstarPathfindingProject/Utilities/LockFreeStack.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/closeButton_normal.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/SeekerEditor.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/AstarMath.cs
+Assets/Shooter AI/Prefabs/Fully Finished Character/Models/Human/OnlyModel/Soldier@t-pose_2/Soldier_new-1.tga
+Assets/Shooter AI/AstarPathfindingProject/Editor/AstarUpdateWindow.cs
+Assets/Shooter AI/AstarPathfindingProject/Generators/NodeClasses/PointNode.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/LightSkin/reset_on.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/gizmoButton_off.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/BlueBox.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example5_PointGraph/ListGraphExample.unity
+Assets/Shooter AI/AstarPathfindingProject/Utilities/AstarMemory.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example5_PointGraph/ListCubes.mat
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/gridPivotSelect_Normal.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example12_Procedural/Procedural.unity
+Assets/Shooter AI/Animations/RagdollBack/Animations/Justin@standard_idle_1.fbx
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/mine_bot@right-01 - Default.mat
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@back.FBX
+Assets/Shooter AI/AstarPathfindingProject/Generators/Utilities/ObjImporter.cs
+Assets/Shooter AI/AstarPathfindingProject/Modifiers/AlternativePath.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/Nodes/GraphNode.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example1_Grid/GridGraphExample.unity
+Assets/Shooter AI/AstarPathfindingProject/Editor/AstarPathEditor.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/lock_closed.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/Bot.prefab
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example2_Terrain/Example2.unity
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example5_PointGraph/ground.psd
+Assets/Shooter AI/AstarPathfindingProject/Modifiers/RaycastModifier.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/GraphEditors/GraphEditor.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example12_Procedural/ProceduralPrefab1.prefab
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/ArrowUp.png
+Assets/Shooter AI/AstarPathfindingProject/Core/Path.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/SomeBox.prefab
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example12_Procedural/ProceduralWorld.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/GraphEditors/PointGeneratorEditor.cs
+Assets/Shooter AI/AstarPathfindingProject/Generators/Utilities/NavMeshRenderer.cs
+Assets/Shooter AI/Animations/RagdollBack/MyAnimControl.controller
+Assets/Shooter AI/AstarPathfindingProject/Utilities/GraphUpdateUtilities.cs
+Assets/Shooter AI/Materials/WallMaterial.mat
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/gridPivotSelect.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@left.FBX
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/BlueGround.mat
+Assets/Shooter AI/Scripts/TeamOverview/ShooterAIMultipleTeams.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/NodeLink2.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/pixelBox.png
+Assets/Shooter AI/AstarPathfindingProject/Plugins/JsonFx/Readme.txt
+Assets/Shooter AI/AstarPathfindingProject/Utilities/DotNetReplacements.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/lock_open.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/GraphEditors/NavMeshGeneratorEditor.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/AI/AIPath.cs
+Assets/Shooter AI/AstarPathfindingProject/Generators/Base.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/upDownButtons_02.png
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/NodeLink.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot.FBX
+Assets/Shooter AI/AstarPathfindingProject/Modifiers/SimpleSmoothModifier.cs
+Assets/Shooter AI/AstarPathfindingProject/Modifiers/Modifiers.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example2_Terrain/Pathfinding_Terrain.asset
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/PathPool.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/Wall.mat
+Assets/Shooter AI/AstarPathfindingProject/Plugins/dependencies.txt
+Assets/Shooter AI/AstarPathfindingProject/Navmesh/RelevantGraphSurface.cs
+Assets/Shooter AI/AstarPathfindingProject/Utilities/AstarParallel.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/AnimationLink.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example12_Procedural/TopDownOverlay.mat
+Assets/Shooter AI/Animations/RagdollBack/Animations/Vincent@stand_up_from_back_3.fbx
+Assets/Shooter AI/AstarPathfindingProject/Generators/GridGenerator.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/Materials/Minebot.tif
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/ArrowDown_on.png
+Assets/Shooter AI/Scripts/Animation/IKFree/Scenes/ik Bruno Ferreira.unity
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/AI.mat
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/headerBackground.png
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/StackPool.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/pixelBox3.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Materials/PathRedArea.mat
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/pixelButton.png
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/pixelBox3_separator.png
+Assets/Shooter AI/AstarPathfindingProject/changelog.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/images/upDownArrow_01.png
+Assets/Shooter AI/Scripts/Animation/IK/HandIK.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/ThreadControlQueue.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/Serialization/JsonConverters.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/ExampleScripts/DoorController.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/Misc/BinaryHeap.cs
+Assets/Shooter AI/Animations/RagdollBack/Animations/Vincent@standing_up_from_belly_2.fbx
+Assets/Shooter AI/AstarPathfindingProject/Editor/ModifierEditors/RaycastModifierEditor.cs
+Assets/Shooter AI/AstarPathfindingProject/Core/Serialization/JsonSerializer.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example2_Terrain/checkerGround.psd
+Assets/Shooter AI/AstarPathfindingProject/Core/GraphUpdateScene.cs
+Assets/Standard Assets/ShooterAIUnityScripts/ik/Old Scripts (Outdated)/ikLimb.js
+Assets/Shooter AI/AstarPathfindingProject/Core/astarclasses.cs
+Assets/Shooter AI/AstarPathfindingProject/Modifiers/StartEndModifier.cs
+Assets/Shooter AI/AstarPathfindingProject/Generators/PointGenerator.cs
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot@right.FBX
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/ExampleScripts/TargetMover.cs
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/LightSkin/reset_normal.png
+Assets/Shooter AI/AstarPathfindingProject/ExampleScenes/Example2_Terrain/dynamicObstacle.anim
+Assets/Shooter AI/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll
+Assets/Shooter AI/AstarPathfindingProject/Editor/EditorAssets/DarkSkin/gizmoButton_on.png
+Assets/Shooter AI/AstarPathfindingProject/Generators/NavMeshGenerator.cs
+Assets/Shooter AI/Scripts/FPS Controller/WeaponControl.cs
+Assets/Shooter AI/Audio/AudioBullet2.mp3
+Assets/Shooter AI/Scripts/TeamOverview/ShooterAITeamOverview.cs
+Assets/Shooter AI/Textures/MatMuzzleflash.mat
+Assets/Shooter AI/Prefabs/Flashes/MuzzleFlash.prefab
+Assets/Shooter AI/Textures/muzzleFlashSprite.png
+Assets/Shooter AI/Scripts/FPS Controller/FPSWalkerEnhanced.cs
+Assets/Shooter AI/Editor/Shooter AI/AIMainCharacterCreationWindow.cs
+Assets/Shooter AI/Prefabs/Bullets/Bullet1.prefab
+Assets/Shooter AI/Scripts/FPS Controller/RotateOnlyYAxis.cs
+Assets/Shooter AI/Models/Humanoid/Soldier/Materials/Soldier_new-1.mat
+Assets/Shooter AI/Models/Humanoid/Soldier/Soldier/Soldier_new-1.tga
+Assets/Shooter AI/Scripts/WeaponSystem/BulletAutoDestroy.cs
+Assets/Shooter AI/Models/Humanoid/GenericPose/GenericMain/GenricMainSmall.fbx
+Assets/Shooter AI/Scripts/FPS Controller/TransformFollowTarget.cs
+Assets/Shooter AI/Audio/AudioBullet1.mp3
+Assets/Shooter AI/Models/Humanoid/Soldier/Soldier.fbx
+Assets/Shooter AI/Textures/crosshairsg.png
+Assets/Shooter AI/Models/Humanoid/Soldier/Ragdolled/Soldier.prefab
+Assets/Shooter AI/Scripts/FPS Controller/ShooterAIFPSHealth.cs
+Assets/Shooter AI/Scripts/FPS Controller/ShooterAIFPSGUI.cs
+Assets/Shooter AI/Scenes/FPS Demo/FPS Demo/NavMesh.asset
+Assets/Shooter AI/Audio/Voices/Voice Army/Engage2.mp3
+Assets/Shooter AI/Help/DocumentationMain.pdf
+Assets/Shooter AI/Audio/Voices/Voice Awesome/AwesomePatrol.mp3
+Assets/Shooter AI/Animations/Melee/Wack/Wack.anim
+Assets/Shooter AI/Scripts/HealthSystem/Detecthit.cs
+Assets/Shooter AI/Prefabs/Fully Finished Character/Zombie/ZombieMeleeWeapon.prefab
+Assets/Shooter AI/Audio/Voices/Voice Army/Patrol1.mp3
+Assets/Shooter AI/Scripts/WeaponSystem/BulletMeleeScript.cs
+Assets/Shooter AI/Audio/Voices/Voice Army/Investigating4.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Chase2.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Charge1.mp3
+Assets/Shooter AI/Resources/AnimatorTemplates/AvatarMaskUsingBothHands.mask
+Assets/Shooter AI/Scripts/FPS Controller/WeaponScript.cs
+Assets/Shooter AI/Audio/Voices/Voice Awesome/AwesomeInvestigate.mp3
+Assets/Shooter AI/Scripts/AI/Actions/WeaponsSystem/AIWeaponMeleeAttack.cs
+Assets/Shooter AI/Resources/AnimatorTemplates/AvatarMaskUsingRightHand.mask
+Assets/Shooter AI/Prefabs/Bullets/BulletMelee.prefab
+Assets/Shooter AI/Audio/Voices/Voice Army/Panic2.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Panic1.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Patrol2.mp3
+Assets/Shooter AI/Audio/Voices/Voice Awesome/AwesomeCover.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Cover1.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Cover2.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Engage3.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Chase1.mp3
+Assets/Shooter AI/Audio/Voices/Voice Awesome/AwesomeChase2.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/investigating2.mp3
+Assets/Shooter AI/Audio/Voices/Voice Awesome/AwesomePanic.mp3
+Assets/Shooter AI/Resources/AnimatorTemplates/EnemyAnimatorBACKUP.controller
+Assets/Shooter AI/Scripts/AI/Actions/Sensor/SightFindClosestObject.cs
+Assets/Shooter AI/Scripts/HealthSystem/HealthManager.cs
+Assets/Shooter AI/Resources/AnimatorTemplates/AvatarMaskUsingLeftHand.mask
+Assets/Shooter AI/Audio/Voices/Voice Awesome/AwesomeCharge.mp3
+Assets/Shooter AI/Audio/Voices/Voice Awesome/AwesomeEngage.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Engage1.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Charge2.mp3
+Assets/Shooter AI/Scripts/Audio/ShooterAIAudioControl.cs
+Assets/Shooter AI/Audio/Voices/Voice Army/Investigating1.mp3
+Assets/Shooter AI/Audio/Voices/Voice Awesome/AweseomeChase.mp3
+Assets/Shooter AI/Audio/Voices/Voice Army/Investigating3.mp3
+Assets/Shooter AI/Prefabs/Capture The Flag/AITeam1.prefab
+Assets/Shooter AI/Materials/Blue.mat
+Assets/Shooter AI/Materials/Orange.mat
+Assets/Shooter AI/Prefabs/Capture The Flag/Cube.prefab
+Assets/Shooter AI/Scripts/Navigation/LocationManager.cs
+Assets/Shooter AI/Scripts/Capture The Flag/CTF.cs
+Assets/Shooter AI/Prefabs/Capture The Flag/AITeam2.prefab
+Assets/Shooter AI/Scripts/Capture The Flag/SpawnManager.cs
+Assets/Shooter AI/Editor/Shooter AI/AIShooterHelp.cs
+Assets/Shooter AI/Scripts/Capture The Flag/baseCapture.cs
+Assets/Shooter AI/Scripts/Capture The Flag/CleanUpAfterDeath.cs
+Assets/Shooter AI/Scripts/Capture The Flag/FlagWaypoints.cs
+Assets/Standard Assets/ShooterAIUnityScripts/RagdollTransitions.js
+Assets/Shooter AI/Materials/Red.mat
+Assets/Shooter AI/Materials/brick_Diffuse.mat
+Assets/Shooter AI/Prefabs/Capture The Flag/Flag.prefab
+Assets/Shooter AI/Scripts/Capture The Flag/Flag.cs
+Assets/Shooter AI/Materials/MatTeam2.mat
+Assets/Shooter AI/Scripts/HealthSystem/BulletHealthExtras.cs
+Assets/Shooter AI/Scripts/HealthSystem/DetectHitManager.cs
+Assets/Shooter AI/Scripts/AI/Actions/WeaponsSystem/AIWeaponShoot.cs
+Assets/Shooter AI/Scripts/AI/Actions/SAIDropPrefabs.cs
+Assets/Shooter AI/Scenes/Capture The Flag/Capture the Flag/NavMesh.asset
+Assets/Shooter AI/Scripts/Capture The Flag/ScoreBoard.cs
+Assets/Shooter AI/Scripts/Capture The Flag/GenericSpawnManager.cs
+Assets/Shooter AI/Resources/AnimatorTemplates/EnemyAnimator.controller
+Assets/Shooter AI/Animations/Melee/Jolt/JoltAnimation.anim
+Assets/Shooter AI/Scripts/Animation/IKFree/Scripts/ElbowTarget.cs
+Assets/Shooter AI/Scripts/Capture The Flag/FlagManager.cs
+Assets/Shooter AI/Scripts/Capture The Flag/Respawner.cs
+Assets/Shooter AI/Scripts/Animation/IKFree/Scripts/IKLimb.cs
+Assets/Shooter AI/Scripts/AI/Actions/ManagingScripts/AIMovementController.cs
+Assets/Shooter AI/Scripts/AI/Actions/ManagingScripts/AIMovementControllerASTAR.cs
+Assets/Shooter AI/Animations/Melee/Wack/TutorialJolt.anim
+Assets/Shooter AI/Editor/Shooter AI/AIControllerEditor.cs
+Assets/Shooter AI/Scripts/AI/Actions/SearchCover.cs
+Assets/Shooter AI/Prefabs/Fully Finished Character/Soldier/SoldierWeapon.prefab
+Assets/Shooter AI/Scripts/Navigation/Predefined Cover/Editor/SAIPredefinedCoverEditor.cs
+Assets/Shooter AI/Resources/Prefabs/AICharacters/AIEmptyPrefab.prefab
+Assets/Shooter AI/Scripts/LOD/SAILODManager.cs
+Assets/Shooter AI/Scenes/Capture The Flag/Capture the Flag.unity
+Assets/Shooter AI/Scripts/AI/Actions/ManagingScripts/AIMovementSwitcher.cs
+Assets/Shooter AI/Resources/Prefabs/AICharacters/AIEmptyPrefabASTAR.prefab
+Assets/Shooter AI/Scripts/AI/Actions/WeaponsSystem/AIWeaponSelected.cs
+Assets/Shooter AI/Prefabs/Fully Finished Character/Zombie/ZombiePrefab.prefab
+Assets/Shooter AI/Scenes/Demo Scene/Demo Scene/NavMesh.asset
+Assets/Shooter AI/Prefabs/_PlayerController.prefab
+Assets/Shooter AI/Scripts/AI/Actions/Sensor/Auditory.cs
+Assets/Shooter AI/Scripts/HealthSystem/AIHealthExecuter.cs
+Assets/Shooter AI/Scripts/Animation/IK/IKFreeManager.cs
+Assets/Shooter AI/Scripts/AI/Actions/ManagingScripts/AIStateManager.cs
+Assets/Shooter AI/Scripts/EditorGUI/AIControllerChild.cs
+Assets/Shooter AI/Prefabs/Fully Finished Character/Soldier/SoldierPrefab.prefab
+Assets/Shooter AI/Scenes/Demo Scene/Demo Scene.unity
+Assets/Shooter AI/Scripts/AI/Actions/Sensor/Sight.cs
+Assets/Shooter AI/Scripts/Animation/ShooterAITransformPositionReference.cs
+Assets/Shooter AI/Scripts/AI/Actions/WeaponsSystem/AIWeaponController.cs
+Assets/Shooter AI/Prefabs/Fully Finished Character/Soldier/SoldierPrefabUnityFree.prefab
+Assets/Shooter AI/Scenes/FPS Demo/FPS Demo.unity
+Assets/Shooter AI/Animations/RagdollBack/Scripts/RagdollHelper.cs

@@ -1,0 +1,206 @@
+Assets/USequencer/Example Scenes/01 Basic Examples/Sample Materials/box.mat
+Assets/USequencer/Sequencer/Editor/Resources/TransparentBackground.png
+Assets/USequencer/Sequencer/Editor/Resources/_ProElements/Record Button.png
+Assets/USequencer/Sequencer/Editor/Resources/IconHelp.png
+Assets/USequencer/Quick Start Prefabs/Visualisation Materials/Semi Transparent Red.mat
+Assets/USequencer/Example Scenes/ExampleSceneScripts/BasicCharacterControls.cs
+Assets/USequencer/Sequencer/Editor/Resources/IconWebsite.png
+Assets/USequencer/Sequencer/Editor/Resources/IconVideos.png
+Assets/USequencer/Quick Start Prefabs/Scripts/AutoPlaySequence.cs
+Assets/USequencer/Example Scenes/01 Basic Examples/BasicExample03-Gameplay To Cutscene/LightmapFar-4.exr
+Assets/USequencer/Sequencer/Editor/Resources/TimelineLeftPaneBackgroundLight.png
+Assets/USequencer/Sequencer/Editor/Resources/CurveColourIndicator.png
+Assets/USequencer/Sequencer/Editor/Resources/_FreeElements/Prev Keyframe Button.png
+Assets/USequencer/Sequencer/Editor/Resources/CurveColourIndicator.xcf
+Assets/USequencer/Sequencer/Editor/Resources/_FreeElements/Seperator.png
+Assets/USequencer/Sequencer/Editor/Resources/USequencerProSkin.guiskin
+Assets/USequencer/Sequencer/Editor/Resources/TimelineEventBackground.png
+Assets/USequencer/Third Party Packages/HOTween.unitypackage
+Assets/USequencer/Example Scenes/01 Basic Examples/BasicExample03-Gameplay To Cutscene/LightmapFar-2.exr
+Assets/USequencer/Sequencer/Editor/Resources/TimelineScrubTail.png
+Assets/USequencer/Quick Start Prefabs/Player uSequence Trigger.prefab
+Assets/USequencer/Example Scenes/01 Basic Examples/Sample Materials/plane.mat
+Assets/USequencer/Sequencer/Editor/Resources/_FreeElements/Play Button.png
+Assets/USequencer/Sequencer/Editor/Resources/_ProElements/Seperator.png
+Assets/USequencer/Sequencer/Editor/Resources/Keyframe.xcf
+Assets/USequencer/Sequencer/Editor/Resources/_ProElements/Button.png
+Assets/USequencer/Quick Start Prefabs/Ambient Light Adjuster.prefab
+Assets/USequencer/Sequencer/Editor/Resources/_FreeElements/Button Pressed.png
+Assets/USequencer/Sequencer/Editor/Resources/_FreeElements/Next Keyframe Button.png
+Assets/USequencer/Quick Start Prefabs/Auto Play uSequence.prefab
+Assets/USequencer/Sequencer/Editor/Resources/TimelineBackground.png
+Assets/USequencer/Third Party Packages/Playmaker.unitypackage
+Assets/USequencer/Sequencer/Editor/Resources/_ProElements/Next Keyframe Button.png
+Assets/USequencer/Sequencer/Editor/Resources/LightKeyframe.png
+Assets/USequencer/Example Scenes/01 Basic Examples/BasicExample03-Gameplay To Cutscene/LightmapFar-0.exr
+Assets/USequencer/Quick Start Prefabs/Scripts/AmbientLightAdjuster.cs
+Assets/USequencer/Sequencer/Editor/Resources/TimelinePaneBackground.png
+Assets/USequencer/Third Party Packages/LDC Event Pack.unitypackage
+Assets/USequencer/Quick Start Prefabs/Main Camera uSequence Trigger.prefab
+Assets/USequencer/Example Scenes/ExampleSceneScripts/AlterPlaybackForASequence.cs
+Assets/USequencer/Sequencer/Editor/Resources/TimelineEventMarker.png
+Assets/USequencer/Sequencer/Editor/Resources/TimelineEventText.png
+Assets/USequencer/Sequencer/Editor/Resources/PlaybackMarker.png
+Assets/USequencer/Quick Start Prefabs/Player uSequence Trigger Visualised.prefab
+Assets/USequencer/Sequencer/Editor/Resources/TimelineScrubHead.png
+Assets/USequencer/Example Scenes/03 Basic Additive Scenes/Read Me.rtf
+Assets/USequencer/Unity 4.0 Packages/Unity 4.0 Mecanim.unitypackage
+Assets/USequencer/Example Scenes/01 Basic Examples/BasicExample03-Gameplay To Cutscene/LightmapFar-3.exr
+Assets/USequencer/Sequencer/Editor/Resources/_FreeElements/Button.png
+Assets/USequencer/Sequencer/Editor/Resources/TimelineMarker.png
+Assets/USequencer/Example Scenes/ExampleSceneScripts/BasicCharacterControllerGUI.cs
+Assets/USequencer/Sequencer/Editor/Resources/_ProElements/Play Button.png
+Assets/USequencer/Example Scenes/01 Basic Examples/BasicExample04-Object Path Timelines.unity
+Assets/USequencer/Sequencer/Editor/Resources/DragAreaTexture.jpg
+Assets/USequencer/Sequencer/Editor/Resources/TimelinePaneBackgroundLight.png
+Assets/USequencer/Sequencer/Editor/Resources/ScrubBarBackground.png
+Assets/USequencer/Sequencer/Editor/Resources/_FreeElements/Record Button.png
+Assets/USequencer/Sequencer/Editor/Resources/_ProElements/Blank Button.png
+Assets/USequencer/Third Party Packages/uScript.unitypackage
+Assets/USequencer/Example Scenes/04 Intermediate Examples/Scripts/MouseLook.cs
+Assets/USequencer/Sequencer/Editor/Resources/_FreeElements/Stop Button.png
+Assets/USequencer/Example Scenes/01 Basic Examples/BasicExample03-Gameplay To Cutscene/LightmapFar-1.exr
+Assets/USequencer/Sequencer/Editor/Resources/TimelineGlobalPaneuSequencer.png
+Assets/USequencer/Sequencer/Editor/Resources/IconFeedback.png
+Assets/USequencer/Quick Start Prefabs/Scripts/SequenceTrigger.cs
+Assets/USequencer/Sequencer/Editor/Resources/_FreeElements/Blank Button.png
+Assets/USequencer/Sequencer/Editor/Resources/DarkKeyframe.png
+Assets/USequencer/Sequencer/Editor/Resources/CornerBit.png
+Assets/USequencer/Sequencer/Editor/Resources/USequencerFreeSkin.guiskin
+Assets/USequencer/Sequencer/Editor/Resources/IconCommunity.png
+Assets/USequencer/Sequencer/Editor/Resources/_ProElements/Button Pressed.png
+Assets/USequencer/Sequencer/Editor/Resources/IconAlt2.png
+Assets/USequencer/Sequencer/Editor/Resources/IconContact.png
+Assets/USequencer/Sequencer/Editor/Resources/TimelineLeftPaneBackground.png
+Assets/USequencer/Sequencer/Editor/Resources/IconDocumentation.png
+Assets/USequencer/Sequencer/Editor/Resources/_ProElements/Pause Button.png
+Assets/USequencer/Sequencer/Editor/Resources/_ProElements/Stop Button.png
+Assets/USequencer/Sequencer/Editor/Resources/_ProElements/Prev Keyframe Button.png
+Assets/USequencer/Quick Start Prefabs/Object uSequence Trigger.prefab
+Assets/USequencer/Sequencer/Editor/Resources/_FreeElements/Pause Button.png
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7830.asset
+Assets/USequencer/Example Scenes/03 Basic Additive Scenes/01 Original Cutscene.unity
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7854.asset
+Assets/USequencer/Example Scenes/01 Basic Examples/BasicExample03-Gameplay To Cutscene.unity
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7794.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7818.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7814.asset
+Assets/USequencer/Example Scenes/01 Basic Examples/BasicExample02-ObserverTimelines.unity
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7758.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7904.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7822.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7760.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7808.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7862.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7730.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7736.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7778.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7806.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ExampleCutscenePrefab.prefab
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7766.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7812.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7876.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7912.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7768.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7918.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7910.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7914.asset
+Assets/USequencer/Example Scenes/01 Basic Examples/BasicExample01-Property And Event Timelines.unity
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7834.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/02 Instanced Modified Prefab 01.unity
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7874.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7738.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7748.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/03 Instanced Modified Prefab 02.unity
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7844.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7858.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7922.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7820.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7908.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7860.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7848.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7734.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7832.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7740.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7762.asset
+Assets/USequencer/Example Scenes/04 Intermediate Examples/01 Simple Camera Look.unity
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7852.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7850.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7924.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7920.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7750.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7916.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/01 Original Cutscene.unity
+Assets/USequencer/Example Scenes/03 Basic Additive Scenes/02 Additively Loading Cutscene.unity
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7764.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7846.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7810.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7792.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7836.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7856.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7884.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7906.asset
+Assets/USequencer/Example Scenes/02 Basic Prefab Examples/Example Cutscene Prefab Data/ExampleCutscenePrefab/ScriptableObjects/7776.asset
+Assets/USequencer/Sequencer Events/Animation Mecanim/Animator/USSetAnimatorInteger.cs
+Assets/USequencer/Sequencer Events/Particle System/USParticleEmitterStopEvent.cs
+Assets/USequencer/Sequencer Events/Sequence/USSkipSequenceEvent.cs
+Assets/USequencer/Sequencer Events/Editor/USSpawnPrefabEventEditor.cs
+Assets/USequencer/Sequencer Events/Render/USChangeTexture.cs
+Assets/USequencer/Sequencer Events/Attachment/USAttachToParentEvent.cs
+Assets/USequencer/Sequencer Events/Sequence/USStopSequenceEvent.cs
+Assets/USequencer/Sequencer Events/Fullscreen/USFadeScreenEvent.cs
+Assets/USequencer/Sequencer Events/Audio/USStopAudioEvent.cs
+Assets/USequencer/Sequencer Events/Editor/USApplyForceEventEditor.cs
+Assets/USequencer/Sequencer Events/Animation/USPlayAdvancedAnimEvent.cs
+Assets/USequencer/Sequencer Events/Sequence/USPlaySequenceEvent.cs
+Assets/USequencer/Sequencer Events/Editor/USEnableObjectEventEditor.cs
+Assets/USequencer/Sequencer Events/Animation Mecanim/Animator/USToggleAnimatorApplyRootMotion.cs
+Assets/USequencer/Sequencer Events/Animation Mecanim/Animator/USSetAnimatorBool.cs
+Assets/USequencer/Sequencer Events/Spawn/USSpawnPrefabEvent.cs
+Assets/USequencer/Sequencer Events/Editor/USMessageEventEditor.cs
+Assets/USequencer/uSequencer – User Guide.pdf
+Assets/USequencer/Sequencer Events/Application/USLoadLevelAdditiveEvent.cs
+Assets/USequencer/Sequencer Events/Object/USEnableObjectEvent.cs
+Assets/USequencer/Sequencer Events/Editor/USPlayAnimEventEditor.cs
+Assets/USequencer/Sequencer/Editor/uSequencerEditor.dll
+Assets/USequencer/Sequencer Events/Animation Mecanim/Animator/USToggleAnimatorAnimatePhysics.cs
+Assets/USequencer/Sequencer Events/Editor/USPlayAdvancedAnimEventEditor.cs
+Assets/USequencer/Sequencer Events/Animation Mecanim/Animator/USSetAnimatorFloat.cs
+Assets/USequencer/Sequencer Events/Animation Mecanim/Animator/USSetAnimatorLayerWeight.cs
+Assets/USequencer/Sequencer Events/Signal/USSendMessageEvent.cs
+Assets/USequencer/Sequencer Events/Audio/USPlayAudioEvent.cs
+Assets/USequencer/Sequencer Events/Animation/USBlendAnimEvent.cs
+Assets/USequencer/Sequencer Events/Render/USChangeColor.cs
+Assets/USequencer/Sequencer Events/Application/USLoadLevelEvent.cs
+Assets/USequencer/Sequencer Events/Editor/USLookAtObjectEventEditor.cs
+Assets/USequencer/Sequencer Events/Transform/USParentAndResetObjectEvent.cs
+Assets/USequencer/Sequencer Events/Fullscreen/USPrintTextEvent.cs
+Assets/USequencer/Sequencer Events/Fullscreen/USDisplayImageEvent.cs
+Assets/USequencer/Sequencer Events/Transform/USMatchObjectEvent.cs
+Assets/USequencer/Sequencer Events/Time/TimeScaleEvent.cs
+Assets/USequencer/Sequencer Events/Editor/USMatchObjectEventEditor.cs
+Assets/USequencer/Sequencer Events/Editor/USPauseResumeAudioEventEditor.cs
+Assets/USequencer/Sequencer Events/Animation/USBlendAnimNoScrub.cs
+Assets/USequencer/Sequencer Events/Sequence/USSetPlaybackRateEvent.cs
+Assets/USequencer/Sequencer Events/Audio/USFadeAudioEvent.cs
+Assets/USequencer/Sequencer Events/Transform/USLookAtObjectEvent.cs
+Assets/USequencer/Sequencer Events/Sequence/USPauseSequenceEvent.cs
+Assets/USequencer/Sequencer Events/Light/USSetAmbientLightEvent.cs
+Assets/USequencer/Sequencer Events/Editor/USFadeScreenEventEditor.cs
+Assets/USequencer/Sequencer Events/Audio/USPauseResumeAudioEvent.cs
+Assets/USequencer/Sequencer Events/Particle System/USParticleEmitterStartEvent.cs
+Assets/USequencer/Sequencer Events/Animation Mecanim/Animator/USToggleAnimatorStabalizeFeet.cs
+Assets/USequencer/Sequencer Events/Editor/USTimeScaleEventEditor.cs
+Assets/USequencer/Sequencer Events/Editor/USSetPlaybackRateEventEditor.cs
+Assets/USequencer/Sequencer Events/Animation/USPlayAnimEvent.cs
+Assets/USequencer/Sequencer Events/Physics/USApplyForceEvent.cs
+Assets/USequencer/Sequencer Events/Physics/USSleepRigidBody.cs
+Assets/USequencer/Sequencer Events/Editor/USAttachToParentEventEditor.cs
+Assets/USequencer/Sequencer Events/Animation Mecanim/Animator/USSetAnimatorPlaybackSpeed.cs
+Assets/USequencer/Sequencer Events/Transform/USWarpToObject.cs
+Assets/USequencer/Sequencer Events/Editor/USWarpToObjectEditor.cs
+Assets/USequencer/Sequencer Events/Debug/USMessageEvent.cs
+Assets/USequencer/Sequencer Events/Editor/USDisplayImageEventEditor.cs
+Assets/USequencer/Sequencer Events/Editor/USPlayAudioEventEditor.cs
+Assets/USequencer/Sequencer/uSequencerRuntime.dll
+Assets/USequencer/Sequencer Events/Render/USMeshRenderDisable.cs

@@ -1,0 +1,211 @@
+ProjectSettings/InputManager.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/NavMeshLayers.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+Assets/Standard Assets/Water/Sources/nightgradient cubemap.psd
+Assets/Standard Assets/Particles/small flames.prefab
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Front.jpg
+Assets/Standard Assets/Gem Rendering/Example/Sources/turquoise diamond.prefab
+Assets/Game 4 - 3D breakout/Art/Materials/breakout-ball.mat
+Assets/Game 2 - Jump game/Jumpgame.unity
+Assets/Standard Assets/Water/Sources/oceangradient.psd
+Assets/Game 5 - Shooting gallery/Art/target.fbx
+Assets/Game 5 - Shooting gallery/Art/Materials/shooting gallery-yellow_wood.mat
+Assets/Standard Assets/Gem Rendering/Example/GemSpawner.cs
+Assets/Standard Assets/Gem Rendering/Example/Sources/Materials/turquoise diamond.mat
+Assets/Standard Assets/Water/Sources/WaterSimple.cs
+Assets/Game 5 - Shooting gallery/Art/Materials/shooting gallery-material.004.mat
+Assets/Standard Assets/Blob-Shadow/Shadow.psd
+Assets/Standard Assets/Gem Rendering/Example/Sources/Materials/gray diamond.mat
+Assets/Standard Assets/Light Cookies/Hard.psd
+Assets/Game 3 - Marble game/Art/Materials/ballance-metal.mat
+Assets/Standard Assets/Particles/explosion.prefab
+Assets/Standard Assets/Terrain Textures/Cliff (Layered Rock).psd
+Assets/Standard Assets/Blob-Shadow/blob shadow projector.prefab
+Assets/Game 2 - Jump game/Art/Materials/main character-darker_metal.mat
+Assets/Game 4 - 3D breakout/NoEnergyLoss.physicMaterial
+Assets/Game 2 - Jump game/Art/Materials/main character-unnamed.mat
+Assets/Standard Assets/Skyboxes/Source Images/Bluesky Front.jpg
+Assets/Game 5 - Shooting gallery/Art/Materials/shooting gallery-sky.mat
+Assets/Game 1 - Catch eggs/Scripts/SpawnerScript.cs
+Assets/Game 3 - Marble game/Art/Wooden planks 1.jpg
+Assets/Game 2 - Jump game/Scripts/GameControl.cs
+Assets/Game 3 - Marble game/Art/ball_tex.jpg
+Assets/Standard Assets/Skyboxes/Source Images/Bluesky Right.jpg
+Assets/Standard Assets/Light Flares/Sources/50mmflare.psd
+Assets/Game 4 - 3D breakout/Scripts/Block.cs
+Assets/Standard Assets/Gem Rendering/Example/Sources/light reflection cubemap.cubemap
+Assets/Game 3 - Marble game/Art/Materials/wooden planks.mat
+Assets/Standard Assets/Camera Scripts/MouseOrbit.js
+Assets/Game 3 - Marble game/Scripts/GameoverTrigger.cs
+Assets/Standard Assets/Particles/Sources/smoketest2.psd
+Assets/Game 5 - Shooting gallery/Art/Materials/shooting gallery-rood.mat
+Assets/Standard Assets/Terrain Grass/Grass.psd
+Assets/Game 4 - 3D breakout/Art/Breakout.fbx
+Assets/Game 5 - Shooting gallery/Art/Brown.mat
+Assets/Standard Assets/Gem Rendering/Example/Sources/sourceMeshes.dae
+Assets/Standard Assets/Scripts/CombineChildren.cs
+Assets/Standard Assets/Trees Ambient-Occlusion/Palm/Materials/palmbranch.mat
+Assets/Standard Assets/Particles/Sources/Stop Emitting ,5 sec.anim
+Assets/Game 3 - Marble game/Scripts/MarbleControl.cs
+Assets/Game 5 - Shooting gallery/Art/Materials/shooting gallery-wood.mat
+Assets/Game 3 - Marble game/Marble game.unity
+Assets/Game 2 - Jump game/Art/Materials/grass_platform_end-material.mat
+Assets/Standard Assets/Particles/Sources/Stop Emitting 2 sec.anim
+Assets/Game 2 - Jump game/Art/Materials/main character-material.mat
+Assets/SourceAssets/GameExamplesBlends.zip
+Assets/UnityGameExamples_by_M2H.pdf
+Assets/Standard Assets/Terrain Textures/Grass&Rock.psd
+Assets/Standard Assets/Gem Rendering/diamond shader.shader
+Assets/Game 3 - Marble game/Art/turnPlatform.prefab
+Assets/Standard Assets/Scripts/FPSWalker.js
+Assets/Standard Assets/Trees Ambient-Occlusion/Palm/Palm.fbx
+Assets/Game 5 - Shooting gallery/Art/Can.fbx
+Assets/Standard Assets/Light Flares/Sources/starflare.psd
+Assets/Standard Assets/Gem Rendering/Example/refractions.cubemap
+Assets/Standard Assets/Water/Sources/Daylight Simple Water.mat
+Assets/Standard Assets/Skyboxes/Source Images/Bluesky Back.jpg
+Assets/MainMenu/background.png
+Assets/Standard Assets/Physic Materials/Ice.physicmaterial
+Assets/Standard Assets/Trees Ambient-Occlusion/Palm/PalmBranch.psd
+Assets/Standard Assets/Light Flares/50mm Zoom.flare
+Assets/MainMenu/MainMenu.unity
+Assets/Game 5 - Shooting gallery/Sound/targethit.wav
+Assets/Game 2 - Jump game/Scripts/EdgeTrigger.cs
+Assets/Game 4 - 3D breakout/Breakout.unity
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Left.jpg
+Assets/Game 3 - Marble game/Art/Materials/Skybox.mat
+Assets/Standard Assets/Scripts/TimedObjectDestructor.js
+Assets/Game 5 - Shooting gallery/Art/Materials/target-wit.mat
+Assets/Game 2 - Jump game/Art/Materials/grass_platform_end-material.001.mat
+Assets/Standard Assets/Skyboxes/Source Images/Bluesky Down.jpg
+Assets/Standard Assets/Skyboxes/Blue sky.mat
+Assets/Game 2 - Jump game/platform.prefab
+Assets/Standard Assets/Physic Materials/Metal.physicmaterial
+Assets/Game 1 - Catch eggs/Scripts/PlayerScript.cs
+Assets/Standard Assets/Camera Scripts/MouseLook.cs
+Assets/Standard Assets/Light Cookies/square.psd
+Assets/Standard Assets/Gem Rendering/Example/Sources/Materials/purple diamond.mat
+Assets/Standard Assets/Water/Nighttime Simple Water.prefab
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Up.jpg
+Assets/Game 1 - Catch eggs/Art/Bucket Game.fbx
+Assets/Standard Assets/Particles/Sources/smokepuff1.psd
+Assets/Game 4 - 3D breakout/ObjectPrefab.prefab
+Assets/Game 5 - Shooting gallery/Can.prefab
+Assets/Game 2 - Jump game/Art/Materials/main character-head.mat
+Assets/Standard Assets/Skyboxes/Source Images/Bluesky Left.jpg
+Assets/Game 2 - Jump game/Art/Materials/main character-horns.mat
+Assets/Standard Assets/Blob-Shadow/shadow material.mat
+Assets/Game 4 - 3D breakout/Scripts/Ball.cs
+Assets/Standard Assets/Particles/large flames.prefab
+Assets/Game 1 - Catch eggs/Art/Materials/bucket game-iron.mat
+Assets/Standard Assets/Gem Rendering/Example/Sources/lavendar diamond.prefab
+Assets/Game 3 - Marble game/Art/Skybox.jpg
+Assets/Game 3 - Marble game/Art/Ballance.fbx
+Assets/Game 2 - Jump game/Art/Materials/grass_platform_middle-material.mat
+Assets/Game 4 - 3D breakout/BallPrefab.prefab
+Assets/Standard Assets/Prefabs/First Person Controller.prefab
+Assets/Standard Assets/Water/Sources/nightgradient.psd
+Assets/Game 5 - Shooting gallery/Art/Materials/shooting gallery-grass.mat
+Assets/Game 5 - Shooting gallery/Scripts/PlayerInput.cs
+Assets/Standard Assets/Gem Rendering/Example/Sources/gray diamond.prefab
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Right.jpg
+Assets/Standard Assets/Camera Scripts/SmoothFollow.js
+Assets/Game 2 - Jump game/Art/Materials/main character-unnamed_0.mat
+Assets/Standard Assets/Camera Scripts/SmoothLookAt.js
+Assets/Standard Assets/Scripts/MeshCombineUtility.cs
+Assets/Game 1 - Catch eggs/Art/Materials/bucket game-cloud.mat
+Assets/Standard Assets/Particles/Sources/fire4.psd
+Assets/Game 3 - Marble game/Art/warningstripe.jpg
+Assets/Standard Assets/Water/Daylight Simple Water.prefab
+Assets/Game 1 - Catch eggs/Catch eggs.unity
+Assets/Game 2 - Jump game/Art/Main Character.fbx
+Assets/Standard Assets/Water/Sources/oceangradientcube.psd
+Assets/Standard Assets/Physic Materials/Bouncy.physicmaterial
+Assets/Game 5 - Shooting gallery/Art/Materials/shooting gallery-wit.mat
+Assets/Standard Assets/Particles/Sources/Light explosion.anim
+Assets/Standard Assets/Water/Sources/FX-Water Simple.shader
+Assets/Game 4 - 3D breakout/Art/Materials/breakout-yellow.mat
+Assets/Game 5 - Shooting gallery/Scripts/ObjectSpawner.cs
+Assets/Game 4 - 3D breakout/Art/Materials/breakout-green.mat
+Assets/Game 1 - Catch eggs/Scripts/EggCollider.cs
+Assets/Game 1 - Catch eggs/Scripts/EggScript.cs
+Assets/Game 5 - Shooting gallery/Art/Materials/target-rood.mat
+Assets/Game 2 - Jump game/Scripts/GameGUI.cs
+Assets/Standard Assets/Water/Sources/Waterbump.jpg
+Assets/Standard Assets/Light Flares/Sources/flare mat.mat
+Assets/Standard Assets/Light Flares/Sun.flare
+Assets/Game 4 - 3D breakout/Scripts/Paddle.cs
+Assets/Game 2 - Jump game/Art/Materials/main character-hat.mat
+Assets/Standard Assets/Gem Rendering/Example/Sources/Materials/floorMat.mat
+Assets/Game 3 - Marble game/Art/straightPlatform.prefab
+Assets/Standard Assets/Particles/Sources/fire3.psd
+Assets/Game 1 - Catch eggs/Art/Materials/bucket game-grass 1.mat
+Assets/Standard Assets/Particles/Sources/Stop Emitting 1 sec.anim
+Assets/Standard Assets/Water/Sources/Materials/water plane-lambert1.mat
+Assets/Game 5 - Shooting gallery/Sound/Tick.wav
+Assets/Game 2 - Jump game/Art/Materials/main character-body__body_ao.tga.mat
+Assets/Game 5 - Shooting gallery/Art/Materials/shooting gallery-earth.mat
+Assets/Standard Assets/Particles/Sources/fire smoke.mat
+Assets/Standard Assets/Particles/Small explosion.prefab
+Assets/Standard Assets/Terrain Textures/GoodDirt.psd
+Assets/Standard Assets/Gem Rendering/Example/Sources/Materials/lavendar diamond.mat
+Assets/Standard Assets/Water/Sources/Water fallback.jpg
+Assets/Game 3 - Marble game/Scripts/MarbleGameManager.cs
+Assets/Game 1 - Catch eggs/Art/Materials/bucket game-egg.mat
+Assets/Standard Assets/Water/Sources/Nighttime Simple Water.mat
+Assets/Game 2 - Jump game/Art/Grass_Platform_end.fbx
+Assets/Standard Assets/Terrain Textures/Grass (Hill).psd
+Assets/Game 1 - Catch eggs/Art/Materials/bucket game-grass.mat
+Assets/Game 5 - Shooting gallery/Shooting gallery.unity
+Assets/Standard Assets/Scripts/ActivateTrigger.cs
+Assets/Standard Assets/Particles/Sparks.prefab
+Assets/Game 2 - Jump game/Art/Grass_Platform_middle.fbx
+Assets/Game 5 - Shooting gallery/Art/Materials/shooting gallery-iron.mat
+Assets/Standard Assets/Scripts/DragRigidbody.js
+Assets/Standard Assets/Blob-Shadow/ShadowProjection.shader
+Assets/Standard Assets/Blob-Shadow/Falloff.psd
+Assets/Game 4 - 3D breakout/Scripts/BreakoutGame.cs
+Assets/Standard Assets/Gem Rendering/Example/Sources/Materials/sourcemeshes-no name.mat
+Assets/Standard Assets/Physic Materials/Wood.physicmaterial
+Assets/Standard Assets/Water/Sources/water plane.fbx
+Assets/Standard Assets/Skyboxes/Source Images/Bluesky Up.jpg
+Assets/Game 5 - Shooting gallery/spawner.prefab
+Assets/Game 1 - Catch eggs/Art/Materials/bucket game-wood.mat
+Assets/Game 3 - Marble game/Art/Materials/warningstripe.mat
+Assets/Game 1 - Catch eggs/EggPrefab.prefab
+Assets/Standard Assets/Gem Rendering/GemPile Example.unity
+Assets/Standard Assets/Gem Rendering/Example/Sources/purple diamond.prefab
+Assets/Game 3 - Marble game/Art/Materials/ball_tex.mat
+Assets/Standard Assets/Light Flares/Small Flare.flare
+Assets/Game 2 - Jump game/Art/Materials/main character-legs.mat
+Assets/Game 3 - Marble game/Art/Wooden planks.jpg
+Assets/Game 5 - Shooting gallery/Art/Materials/target-yellow_wood.mat
+Assets/Game 5 - Shooting gallery/Art/Black.mat
+Assets/Standard Assets/Trees Ambient-Occlusion/Palm/Materials/palmbark.mat
+Assets/Game 2 - Jump game/Scripts/Playermovement.cs
+Assets/Standard Assets/Particles/Sources/fire add.mat
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Down.jpg
+Assets/Game 4 - 3D breakout/Art/Materials/breakout-blue.mat
+Assets/MainMenu/MainMenuScript.cs
+Assets/Game 5 - Shooting gallery/Scripts/GameManager.cs
+Assets/Game 2 - Jump game/Art/Materials/grass_platform_middle-material.001.mat
+Assets/Standard Assets/Fonts/Courier.dfont
+Assets/Game 5 - Shooting gallery/Art/Shooting Gallery.fbx
+Assets/Game 5 - Shooting gallery/Art/Materials/can-iron.mat
+Assets/Standard Assets/Skyboxes/Sunset.mat
+Assets/Game 5 - Shooting gallery/target.prefab
+Assets/Standard Assets/Trees Ambient-Occlusion/Palm/PalmBark.psd
+Assets/Standard Assets/Particles/Sources/smoke.mat
+Assets/Standard Assets/Skyboxes/Source Images/Sunset Back.jpg
+Assets/Game 3 - Marble game/Gem.prefab
+Assets/Standard Assets/Physic Materials/Rubber.physicmaterial
+Assets/Game 3 - Marble game/Scripts/MarbleCamera.cs
+Assets/Game 4 - 3D breakout/Art/Materials/breakout-red.mat

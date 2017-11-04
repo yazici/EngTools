@@ -1,0 +1,11 @@
+Assets/Goblin Archer/Scripts/Arrow.cs
+Assets/Goblin Archer/Prefabs/arrow rot.prefab
+Assets/Goblin Archer/Animations/goblin archer.controller
+Assets/Goblin Archer/Animations/goblin_attack.anim
+Assets/Goblin Archer/Animations/goblin_idle.anim
+Assets/Goblin Archer/Scenes/goblin archer demo.unity
+Assets/Goblin Archer/Prefabs/goblin archer.prefab
+Assets/Goblin Archer/Art/goblin_archer.png
+Assets/Goblin Archer/Scripts/MouseController.cs
+Assets/Goblin Archer/Animations/goblin_walk.anim
+Assets/Goblin Archer/Art/goblin_concept.png

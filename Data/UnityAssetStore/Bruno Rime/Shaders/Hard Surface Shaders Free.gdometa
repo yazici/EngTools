@@ -1,0 +1,78 @@
+Assets/Hard Surface Free/Shared/props/Shapes/ShapesSpinIdle2.anim
+Assets/Hard Surface Free/Shared/props/Skull/Skull_SpecGlossRef.PNG
+Assets/Hard Surface Free/Shared/props/Skull/Materials/Skull_Diffuse.mat
+Assets/Hard Surface Free/Shared/props/Skull/Skull_Diffuse.PNG
+Assets/Hard Surface Free/Shared/props/Robot/Robot_Normal.jpg
+Assets/Hard Surface Free/Shared/Textures/CastIron_Spec.png
+Assets/Hard Surface Free/Shared/Textures/RustyMetal_Normals.png
+Assets/Hard Surface Free/Shared/Textures/CubeMaps/CubemapStudioGrey.cubemap
+Assets/Hard Surface Free/Shared/Textures/Brushed_Spec.png
+Assets/Hard Surface Free/Shared/props/Robot/Robot_Diffuse.jpg
+Assets/Hard Surface Free/Shared/Textures/RustyMetal_Diffuse.png
+Assets/Hard Surface Free/Shared/Textures/RustyMetal_Spec.png
+Assets/Hard Surface Free/Shared/props/Skull/Skull.FBX
+Assets/Hard Surface Free/Shared/props/Robot/Robot.FBX
+Assets/Hard Surface Free/Shared/props/Shapes/Shapes.FBX
+Assets/Hard Surface Free/Shared/props/Shapes/ShapesSpinIdle.anim
+Assets/Hard Surface Free/Shared/props/Shapes/Materials/Shapes-Glass.mat
+Assets/Hard Surface Free/Shared/props/Robot/Robot_Specular.jpg
+Assets/Hard Surface Free/Shared/props/Skull/Skull_normals.PNG
+Assets/Hard Surface Free/Shared/props/Robot/RobotSpinIdle.anim
+Assets/Hard Surface Free/Shared/Textures/CubeMaps/Skybox.mat
+Assets/Hard Surface Free/Shared/props/Blob/Blob_Diffuse.png
+Assets/Hard Surface Free/Shared/props/Blob/Blob_Normal.PSD
+Assets/Hard Surface Free/Readme.rtf
+Assets/Hard Surface Free/Readme.pdf
+Assets/Hard Surface Free/Shared/props/Blob/Blob.OBJ
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Opaque.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Transparent Diffuse.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Cut Out Diffuse.shader
+Assets/Hard Surface Free/Shared/props/Skull/Materials/Skull_Free_Gold_Diffuse.mat
+Assets/Hard Surface Free/Shared/Materials/TestMat_Metal_BrushedStainless Dark.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Opaque Specular.shader
+Assets/Hard Surface Free/Shared/Materials/TestMat_Metal_BrushedAluminuim.mat
+Assets/Hard Surface Free/Shared/Materials/TestMat_Glass_Clear.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Cut Out Bump.shader
+Assets/Hard Surface Free/Scene/Hard Surface Free example scene.unity
+Assets/Hard Surface Free/Shared/Materials/TestMat_Glass_Diamond.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Transparent Specular.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Opaque Bump.shader
+Assets/Hard Surface Free/Shared/Materials/TestMat_Glass_BlueMetalic.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Opaque.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Cut Out Opaque Bump.shader
+Assets/Hard Surface Free/Shared/props/Blob/Materials/Blob Clear.mat
+Assets/Hard Surface Free/Editor/Reset Fresnel Reflection Value.cs
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Transparent Specular.shader
+Assets/Hard Surface Free/Shared/Materials/TestMat_Glass_RubyRed.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Cut Out Opaque Specular.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Cut Out Bump.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Transparent Diffuse.shader
+Assets/Hard Surface Free/Shared/props/Skull/Materials/Skull_Free_Gold_Bump.mat
+Assets/Hard Surface Free/Shared/Materials/TestMat_Metal_RustyDull.mat
+Assets/Hard Surface Free/Shared/props/Skull/Materials/Skull_Free_Gold_Spec.mat
+Assets/Hard Surface Free/Shared/props/Robot/Materials/Robot-Glass.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Opaque Specular.shader
+Assets/Hard Surface Free/Shared/props/Robot/Materials/Robot-Eyes.mat
+Assets/Hard Surface Free/Shared/props/Blob/Materials/Blob Gold.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Cut Out Specular.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Cut Out Specular.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Transparent Bump.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Cut Out Opaque Diffuse.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Transparent.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Transparent Bump.shader
+Assets/Hard Surface Free/Shared/props/Skull/Materials/Skull_Free_Crystal_Diffuse.mat
+Assets/Hard Surface Free/Shared/props/Robot/Materials/Robot-Body.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Transparent.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Cut Out Opaque Diffuse.shader
+Assets/Hard Surface Free/Shared/props/Skull/Materials/Skull_Free_Crystal_Bump.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Cut Out Diffuse.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Cut Out Opaque Bump.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Opaque Diffuse.shader
+Assets/Hard Surface Free/Shared/Materials/TestMat_Metal_CastIron.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Cut Out Opaque Specular.shader
+Assets/Hard Surface Free/Shared/props/Skull/Materials/Skull_Free_Crystal.mat
+Assets/Hard Surface Free/HardSurface Shaders/HardSurfacePro Hidden Front Opaque Bump.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface SFX Depth Write Only.shader
+Assets/Hard Surface Free/HardSurface Shaders/HardSurface Free Opaque Diffuse.shader
+Assets/Hard Surface Free/Shared/props/Skull/Materials/Skull_Free_Crystal_Spec.mat
+Assets/Hard Surface Free/Shared/props/Skull/Materials/Skull_Free_Gold.mat

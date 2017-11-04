@@ -1,0 +1,366 @@
+Library/InputManager.asset
+Library/TagManager.asset
+Library/ProjectSettings.asset
+Library/BuildPlayer.prefs
+Library/AudioManager.asset
+Library/TimeManager.asset
+Library/DynamicsManager.asset
+Library/QualitySettings.asset
+Library/NetworkManager.asset
+Library/EditorBuildSettings.asset
+Library/EditorSettings.asset
+Assets/Shaders/ProgressBar.shader
+Assets/Sounds/Sfx/human_hit.wav
+Assets/Textures/rubbleParticles.png
+Assets/Character Controller Scripts/CharacterMotor.cs
+Assets/Models/Level/Skybox/SkyboxMat.mat
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Materials/FireballB.mat
+Assets/Models/Character Models/Hero Artwork/Textures/normalmap_2.tga
+Assets/Frameworks/Detonator/System/DetonatorSmoke.cs
+Assets/Models/Character Models/Hero Artwork/Hero@IdleAim.fbx
+Assets/Models/Character Models/Hero Artwork/Textures/diffuse_1.tga
+Assets/Models/Level/courtyard.fbm/house5_diff_layersTGA.tga
+Assets/Sounds/Voice/Hrrm.wav
+Assets/Models/Level/courtyard.fbm/flowerpots2_diff_layersTGA.tga
+Assets/Models/Character Models/Hero Artwork/orbTurret.fbx
+Assets/Models/Character Models/Hero Artwork/Hero@AimRight.fbx
+Assets/Models/Character Models/Hero Artwork/Hero@WalkForward.fbx
+Assets/Frameworks/Locomotion System/MotionAnalyzerBackwards.cs
+Assets/Demo Scene Scripts/Player/SpeechController.cs
+Assets/Models/Level/courtyard.fbm/mainsquare_column2_nm.tga
+Assets/Sounds/Voice/hit12.wav
+Assets/Sounds/Sfx/human_footstep_03.wav
+Assets/Models/Character Models/Hero Artwork/Hero@AimDown.fbx
+Assets/Models/Level/Materials/bloodSprayMat.mat
+Assets/Demo Scene Scripts/CharacterShadowHelper.cs
+Assets/Frameworks/Locomotion System/IKSimple.cs
+Assets/Models/Character Models/Hero Artwork/Hero@WalkForwardNoGun.fbx
+Assets/Models/Level/Materials/courtyard-lambert24.mat
+Assets/Models/Level/Skybox/Left.tga
+Assets/Sounds/Voice/Ahem.wav
+Assets/Demo Scene Scripts/Player/WeaponStateController.cs
+Assets/Models/Character Models/Hero Artwork/Hero@RunForwardNoGun.fbx
+Assets/Models/Character Models/Hero Artwork/Hero@ImpactFront-Hard.fbx
+Assets/Models/Level/Materials/courtyard-lambert10.mat
+Assets/Frameworks/Detonator/System/DetonatorSparks.cs
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Simple.prefab
+Assets/Scenes/Demo/LightmapNear-4.exr
+Assets/Models/Level/Skybox/Bottom.tga
+Assets/Models/Level/courtyard.fbm/scnd_wall_diff_layersTGA.tga
+Assets/Prefabs/Particles/Blood.prefab
+Assets/Models/Character Models/Hero Artwork/Hero@WalkBackward.fbx
+Assets/Demo Scene Scripts/Orb/Frenzy.cs
+Assets/Frameworks/Detonator/Sounds/NearExplosionA.ogg
+Assets/Models/Level/Materials/courtyard-lambert22.mat
+Assets/Demo Scene Scripts/Player/HeadLookController.cs
+Assets/Frameworks/Detonator/System/DetonatorGlow.cs
+Assets/Models/Character Models/Hero Artwork/Hero@Idle1.fbx
+Assets/Models/Character Models/Hero Artwork/Hero@ShootDown.fbx
+Assets/Scenes/Demo.unity
+Assets/Prefabs/Particles/dustMat.mat
+Assets/Sounds/Voice/ItsGonnaBlow.wav
+Assets/Frameworks/Detonator/Resources/Detonator/Textures/Glow.psd
+Assets/Prefabs/Particles/rubbleMat.mat
+Assets/Sounds/Voice/ItsJustKetchupKids.wav
+Assets/Models/Level/Materials/courtyard-lambert11.mat
+Assets/Models/Character Models/Hero Artwork/Textures/muzzleFlash.psd
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Materials/ShockWave.mat
+Assets/Sounds/Voice/Ha_02.wav
+Assets/Models/Level/Materials/courtyard-lambert27.mat
+Assets/Models/Character Models/Hero Artwork/GunOff_copy.anim
+Assets/Models/Level/Skybox/Right.tga
+Assets/Sounds/Voice/hit10.wav
+Assets/Frameworks/Locomotion System/Editor/LocomotionEditorClass.cs
+Assets/Models/Level/Materials/courtyard-lambert9.mat
+Assets/Sounds/Voice/Oo-op.wav
+Assets/Models/Character Models/Hero Artwork/Materials/diffuse_2_LM.mat
+Assets/Frameworks/Locomotion System/IKSolver.cs
+Assets/Models/Character Models/Hero Artwork/Materials/diffuse_2.mat
+Assets/Frameworks/Detonator/Resources/Detonator/Textures/Smoke.psd
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Insanity.prefab
+Assets/Models/Character Models/Hero Artwork/FightSequence.anim
+Assets/Models/Level/Materials/courtyard-lambert3.mat
+Assets/Fonts/Calibri.ttf
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Sounds.prefab
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Materials/SmokeA.mat
+Assets/Editor/deactivateMeshRenderers.js
+Assets/Sounds/Sfx/human_reload.wav
+Assets/Editor/CopyCurvesToDuplicate.cs
+Assets/Models/Character Models/Hero Artwork/muzzleFlash.fbx
+Assets/Models/Character Models/Hero Artwork/Materials/diffuse_1.mat
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Materials/FireballA.mat
+Assets/Models/Character Models/Hero Artwork/Hero@ImpactBack.fbx
+Assets/Frameworks/Detonator/System/DetonatorCloudRing.cs
+Assets/Models/Level/Textures/bloodLongSplatter1.tga
+Assets/Frameworks/Detonator/Detonator-Documentation.pdf
+Assets/Models/Level/courtyard.fbm/house1_column_diff_layersTGA.tga
+Assets/Sounds/Voice/Uh-Oh.wav
+Assets/Frameworks/Detonator/Sounds/FarExplosionB.ogg
+Assets/Character Controller Scripts/MouseLookCharacterController.cs
+Assets/Demo Scene Scripts/ShooterGameCamera.cs
+Assets/Models/Level/courtyard.fbm/airvent_diff.tga
+Assets/Models/Level/courtyard.fbm/mainsq_floor_bases_diff_layersTGA.tga
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Materials/Sparks.mat
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Materials/SmokeB.mat
+Assets/Models/Level/Skybox/Front.tga
+Assets/Models/Character Models/Hero Artwork/Textures/orbTurretBump.tga
+Assets/Models/Character Models/Hero Artwork/Hero.fbx
+Assets/Frameworks/Detonator/Sounds/NearExplosionB.ogg
+Assets/Frameworks/Locomotion System/LegController.cs
+Assets/Demo Scene Scripts/AnimationDebugOutput.cs
+Assets/Models/Level/Materials/courtyard-lambert31.mat
+Assets/Character Controller Scripts/JumpAndIdle.cs
+Assets/Models/Level/Materials/courtyard-lambert36.mat
+Assets/Models/Character Models/Hero Artwork/Materials/orbturretdiffuse.mat
+Assets/Models/Level/Textures/bloodLineSplatter3.tga
+Assets/Models/Level/Materials/courtyard-lambert12.mat
+Assets/Sounds/Voice/Yeah.wav
+Assets/Textures/dust.psd
+Assets/Models/Character Models/Hero Artwork/Hero@FireGun.fbx
+Assets/Models/Level/Materials/courtyard-right.mat
+Assets/Models/Level/courtyard.fbm/mainsquare_wall_nm.tga
+Assets/Models/Character Models/Hero Artwork/Hero@Idle2.fbx
+Assets/Models/Level/Textures/bloodLongSplatter2.tga
+Assets/Models/Level/Materials/courtyardstaircolliders-lambert1.mat
+Assets/Demo Scene Scripts/Player/GunAimer.cs
+Assets/Demo Scene Scripts/ProgressBar.cs
+Assets/Models/Character Models/Hero Artwork/Hero@RunIdle.fbx
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Burninating.prefab
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-MultiExample.prefab
+Assets/Models/Character Models/Hero Artwork/Hero@GunReload.fbx
+Assets/Models/Character Models/Hero Artwork/Textures/hair512.tga
+Assets/Sounds/Voice/INeedCover.wav
+Assets/Models/Level/courtyard.fbm/arc01_diff_layersTGA.tga
+Assets/Sounds/Voice/BetterRun.wav
+Assets/Models/Level/Skybox/Top.tga
+Assets/Models/Character Models/Hero Artwork/Hero@RunWalk.fbx
+Assets/Sounds/Voice/hit04.wav
+Assets/Models/Level/Materials/courtyard-lambert4.mat
+Assets/Sounds/Voice/Shit.wav
+Assets/Sounds/Voice/Pain.wav
+Assets/Scenes/Demo/LightmapFar-3.exr
+Assets/Prefabs/Particles/DirtAndDust.prefab
+Assets/Models/Level/Materials/courtyard-lambert29.mat
+Assets/Models/Character Models/Hero Artwork/Hero@ImpactRight-Hard.fbx
+Assets/Demo Scene Scripts/Player/RagdollInstantiator.cs
+Assets/Models/Level/Materials/white.mat
+Assets/Models/Level/Textures/bloodLineSplatter1.tga
+Assets/Models/Level/courtyard.fbm/passage_bump.tga
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Ignitor.prefab
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Chunk.prefab
+Assets/Frameworks/Locomotion System/Interpolator.cs
+Assets/Textures/GUI/buttonHover.psd
+Assets/Sounds/Voice/Die_01.wav
+Assets/Frameworks/Detonator/Resources/Detonator/Textures/HeatDistort.shader
+Assets/Sounds/Voice/hit01.wav
+Assets/Demo Scene Scripts/CharacterShadow.cs
+Assets/Frameworks/Detonator/Resources/Detonator/Textures/Fireball.psd
+Assets/Models/Level/courtyard.fbm/arc01_nm2.tga
+Assets/Models/Level/courtyard.fbm/wall_detail1_nm.tga
+Assets/Models/Level/Materials/courtyard-lambert16.mat
+Assets/Models/Character Models/Hero Artwork/Hero@RunStrafeRight.fbx
+Assets/Models/Character Models/Hero Artwork/Hero@ImpactBack-Hard.fbx
+Assets/Prefabs/Particles/Sparks.prefab
+Assets/Models/Level/Materials/courtyard-lambert18.mat
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Tiny.prefab
+Assets/Textures/CharacterShadowFadeout.png
+Assets/Scenes/Demo/LightmapNear-0.exr
+Assets/Sounds/Voice/Oops.wav
+Assets/Frameworks/Detonator/Resources/Detonator/Textures/Heatwave.psd
+Assets/Frameworks/Detonator/TestScene/Cubewall10m.prefab
+Assets/Models/Level/Textures/bloodRoundSplatter1.tga
+Assets/Sounds/Sfx/human_fire.wav
+Assets/Sounds/Voice/INeedToGetBehindIt.wav
+Assets/Models/Character Models/Hero Artwork/backPack.fbx
+Assets/Models/Level/courtyard.fbm/mainsquare_wall_diff_layersTGA.tga
+Assets/Textures/GUI/neuropol x free.ttf
+Assets/Sounds/Sfx/env_hit.wav
+Assets/Prefabs/Orb.prefab
+Assets/Frameworks/Detonator/TestScene/Ruler.psd
+Assets/Models/Character Models/Hero Artwork/Materials/diffuse_1_LM.mat
+Assets/Models/Level/Materials/courtyard-back.mat
+Assets/Frameworks/Locomotion System/GhostOriginal.cs
+Assets/Frameworks/Detonator/System/DetonatorShockwave.cs
+Assets/Frameworks/Locomotion System/Util.cs
+Assets/Textures/GUI/ProgressBar_foreground.psd
+Assets/Models/Character Models/Hero Artwork/Textures/diffuse_2.tga
+Assets/Demo Scene Scripts/FollowTransform.cs
+Assets/Models/Character Models/Hero Artwork/Hero@ImpactFront.fbx
+Assets/Sounds/Voice/YeahHahaTakeThat.wav
+Assets/Models/Level/Skybox/Back.tga
+Assets/Models/Level/courtyard.fbm/flowerpots2_nm.tga
+Assets/Textures/GUI/GUISkin.GUISkin
+Assets/Models/Character Models/Hero Artwork/Materials/fireline.mat
+Assets/Sounds/Voice/Ha_01.wav
+Assets/Textures/GUI/ProgressBar_damage.psd
+Assets/Models/Level/courtyard.fbm/house1_diff_layersTGA.tga
+Assets/Models/Character Models/Hero Artwork/Hero@ImpactLeft.fbx
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Chunks.prefab
+Assets/Models/Level/courtyard.fbm/mainsquare_column_diff_layersTGA.tga
+Assets/Models/Level/Materials/courtyard-lambert37.mat
+Assets/Models/Level/courtyard.fbm/wall_deco1_nm2.tga
+Assets/Textures/GUI/buttonActive.psd
+Assets/Character Controller Scripts/PhysicsCharacterMotor.cs
+Assets/Models/Level/Textures/bloodLineSplatter2.tga
+Assets/Demo Scene Scripts/Player/ArmIK.cs
+Assets/Textures/GUI/buttonNormal.psd
+Assets/Models/Level/Materials/bloodSplatterMat.mat
+Assets/Frameworks/Detonator/System/DetonatorLight.cs
+Assets/Sounds/Voice/Phew.wav
+Assets/Sounds/Voice/Die_02.wav
+Assets/Character Controller Scripts/PlatformCharacterController.cs
+Assets/Models/Level/Materials/courtyard-lambert26.mat
+Assets/Models/Level/Textures/cubesource.psd
+Assets/Models/Level/Materials/courtyard-lambert20.mat
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Base.prefab
+Assets/Models/Character Models/Hero Artwork/Materials/hair512.mat
+Assets/Frameworks/Detonator/Sounds/FarExplosionA.ogg
+Assets/Scenes/Demo/LightmapFar-4.exr
+Assets/Sounds/Voice/Yes.wav
+Assets/Models/Character Models/Hero Artwork/Hero@Idle.fbx
+Assets/Sounds/Voice/hit09.wav
+Assets/Models/Level/courtyard.fbm/mainsqr_floor_big_diff3_layersTGA.tga
+Assets/Sounds/Voice/hit06.wav
+Assets/Models/Character Models/Hero Artwork/Hero@IdleRun.fbx
+Assets/Models/Character Models/Hero Artwork/Materials/muzzleflash.mat
+Assets/Models/Character Models/Hero Artwork/Textures/BackPackAO.psd
+Assets/Sounds/Voice/hit07.wav
+Assets/Sounds/Voice/hit05.wav
+Assets/Sounds/Voice/OwThatHurt.wav
+Assets/Frameworks/Detonator/System/Detonator.cs
+Assets/Models/Level/Textures/bloodRoundSplatter4.tga
+Assets/Models/Level/courtyard.fbm/mainsq_floor_small_nm2.tga
+Assets/Models/Level/Materials/courtyard-lambert28.mat
+Assets/Models/Character Models/Hero Artwork/Hero@WalkRun.fbx
+Assets/Models/Level/courtyard.fbm/mainsquare_column_nm.tga
+Assets/Sounds/Voice/hit02.wav
+Assets/Models/Character Models/Hero Artwork/Textures/fireLine.psd
+Assets/Models/Character Models/Hero Artwork/Hero@RunForwardFastNoGun.fbx
+Assets/Sounds/Voice/hit03.wav
+Assets/Prefabs/Human.prefab
+Assets/Frameworks/Detonator/TestScene/Grid.mat
+Assets/Models/Level/courtyard.fbm/mainsq_floor_big_nm.tga
+Assets/Models/Level/Textures/bloodRoundSplatter2.tga
+Assets/Sounds/Voice/hit08.wav
+Assets/Sounds/Sfx/orb_hit.wav
+Assets/Textures/GUI/gui_crosshair_machinegun.tga
+Assets/Models/Character Models/Hero Artwork/Hero@RunStrafeLeft.fbx
+Assets/Textures/GUI/ProgressBar_background.psd
+Assets/Frameworks/Detonator/TestScene/Ruler.fbx
+Assets/Prefabs/HumanRagdoll.prefab
+Assets/Frameworks/Detonator/System/DetonatorForce.cs
+Assets/Frameworks/Locomotion System/MotionAnalyzer.cs
+Assets/Models/Character Models/Hero Artwork/Hero@AimStraight.fbx
+Assets/Textures/smoke.psd
+Assets/Frameworks/Detonator/Sample Supporting Emitters/ExplosionArms.prefab
+Assets/Demo Scene Scripts/DeathManager.cs
+Assets/Sounds/Voice/HowCanIGetBehindIt.wav
+Assets/Character Controller Scripts/WanderingAICharacterController.cs
+Assets/Frameworks/Detonator/System/DetonatorSound.cs
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Materials/Glow.mat
+Assets/Demo Scene Scripts/DetachChildrenAndDestroy.cs
+Assets/Models/Character Models/Hero Artwork/Hero@RunBackward.fbx
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Heatwave(Pro).prefab
+Assets/Models/Level/courtyard.fbm/mainsq_floor_bases_bump.tga
+Assets/Sounds/Voice/Run.wav
+Assets/Frameworks/Detonator/TestScene/Materials/ruler.mat
+Assets/Models/Character Models/Hero Artwork/GunReload_copy.anim
+Assets/Frameworks/Detonator/System/DetonatorBurstEmitter.cs
+Assets/Frameworks/Detonator/Resources/Detonator/Textures/Shockwave.psd
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Materials/FireballC.mat
+Assets/Models/Level/Textures/bloodRoundSplatter3.tga
+Assets/Models/Level/courtyard.fbm/wall_detail1_diff_layersTGA.tga
+Assets/Models/Character Models/Hero Artwork/Hero@ImpactRight.fbx
+Assets/Sounds/Voice/hit11.wav
+Assets/Models/Level/Materials/bloodLinesMat.mat
+Assets/Demo Scene Scripts/MenuController.cs
+Assets/Frameworks/Detonator/TestScene/Logo.psd
+Assets/Models/Character Models/Hero Artwork/Hero@GunOn.fbx
+Assets/Models/Character Models/Hero Artwork/Hero@ShootStraight.fbx
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Spray.prefab
+Assets/Models/Character Models/Hero Artwork/Hero@WalkStrafeLeft.fbx
+Assets/Frameworks/Locomotion System/PolarGradientBandInterpolator.cs
+Assets/Models/Character Models/Hero Artwork/Hero@IdleWalk.fbx
+Assets/Models/Character Models/Hero Artwork/Hero@AimUp.fbx
+Assets/Models/Level/Materials/courtyard-front1.mat
+Assets/Scenes/Demo/LightmapNear-1.exr
+Assets/Shaders/FadedAddSmooth.shader
+Assets/Sounds/Sfx/orb_hover.wav
+Assets/Models/Level/Textures/specCubeMap.cubemap
+Assets/Scenes/Demo/LightmapFar-2.exr
+Assets/Models/Level/bloodGusher.js
+Assets/Frameworks/Detonator/Resources/Detonator/Textures/GlowDot.psd
+Assets/Scenes/Demo/LightmapFar-1.exr
+Assets/Frameworks/Detonator/TestScene/Detonator-TestWall.unity
+Assets/Models/Level/courtyard.fbm/mainsq_floor_small_diff_layersTGA.tga
+Assets/Models/Level/courtyard.fbx
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Crazysparks.prefab
+Assets/Prefabs/Particles/smokeMat.mat
+Assets/Models/Level/courtyardStairColliders.fbx
+Assets/Models/Character Models/Hero Artwork/Textures/orbTurretDiffuse.psd
+Assets/Sounds/Sfx/orb_fire.wav
+Assets/Models/Character Models/Hero Artwork/Textures/orbTurretIllum.psd
+Assets/Models/Level/courtyard.fbm/house2_diff_layersTGA.tga
+Assets/Character Controller Scripts/AccelerationCharacterController.cs
+Assets/Models/Character Models/Hero Artwork/Hero@GunOff.fbx
+Assets/Fonts/Courier.dfont
+Assets/Demo Scene Scripts/ExecutionOrderController.cs
+Assets/Shaders/BumpLightMap.cs
+Assets/Sounds/Voice/MoreBullets.wav
+Assets/Scenes/Demo/LightmapNear-3.exr
+Assets/Sounds/Voice/Haha.wav
+Assets/Frameworks/Locomotion System/LegAnimator.cs
+Assets/Frameworks/Locomotion System/IMotionAnalyzer.cs
+Assets/Character Controller Scripts/AimLookCharacterController.cs
+Assets/Models/Character Models/Hero Artwork/Hero@WalkIdle.fbx
+Assets/Models/Level/courtyard.fbm/wall_deco1_diff_layersTGA.tga
+Assets/Sounds/Sfx/human_footstep_04.wav
+Assets/Character Controller Scripts/NormalCharacterMotor.cs
+Assets/Models/Character Models/Hero Artwork/Hero@ShootLeft.fbx
+Assets/Demo Scene Scripts/HealthController.cs
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-MushroomCloud.prefab
+Assets/Models/Character Models/Hero Artwork/Hero@AimLeft.fbx
+Assets/Frameworks/Detonator/Sample Supporting Emitters/Detonator Spray Helper.js
+Assets/Models/Level/Materials/courtyard-lambert21.mat
+Assets/Scenes/Demo/LightmapFar-0.exr
+Assets/Frameworks/Detonator/System/DetonatorHeatwave.cs
+Assets/Sounds/Voice/Oooooaa.wav
+Assets/Models/Level/Materials/courtyard-lambert15.mat
+Assets/Character Controller Scripts/Follower.cs
+Assets/Models/Level/courtyard.fbm/airvent_nm1.tga
+Assets/Models/Level/courtyard.fbm/mainsquare_column2_diff_layersTGA.tga
+Assets/Models/Character Models/Hero Artwork/Hero@ShootRight.fbx
+Assets/Demo Scene Scripts/Player/ImpactController.cs
+Assets/Models/Character Models/Hero Artwork/GunOn_copy.anim
+Assets/Models/Character Models/Hero Artwork/Hero@ImpactLeft-Hard.fbx
+Assets/Models/Level/courtyard.fbm/passage_diff_layersTGA.tga
+Assets/Frameworks/Detonator/TestScene/DetonatorTest.js
+Assets/Frameworks/Detonator/TestScene/Grid.psd
+Assets/Frameworks/Locomotion System/IK1JointAnalytic.cs
+Assets/Sounds/Sfx/human_footstep_01.wav
+Assets/Frameworks/Detonator/System/DetonatorFireball.cs
+Assets/Models/Character Models/Hero Artwork/Hero@AimIdle.fbx
+Assets/Editor/RenderCubemapWizard.js
+Assets/Prefabs/Particles/BloodSplatters.prefab
+Assets/Models/Character Models/Hero Artwork/Textures/normalmap_1.tga
+Assets/Demo Scene Scripts/Player/SoundEffectController.cs
+Assets/Frameworks/Detonator/Sample Supporting Emitters/SmokeTrail.prefab
+Assets/Frameworks/Locomotion System/TrajectoryVisualizer.cs
+Assets/Models/Character Models/Hero Artwork/Hero@ShootUp.fbx
+Assets/Models/Character Models/Hero Artwork/Hero@RunForward.fbx
+Assets/Sounds/Voice/MyBack.wav
+Assets/Frameworks/Detonator/Prefab Examples/Detonator-Wide.prefab
+Assets/Frameworks/Detonator/System/DetonatorSpray.cs
+Assets/Models/Level/Materials/courtyard-left.mat
+Assets/Models/Level/Materials/courtyard-top1.mat
+Assets/Demo Scene Scripts/Orb/OrbController.cs
+Assets/Sounds/Sfx/orb_open.wav
+Assets/Sounds/Sfx/human_footstep_02.wav
+Assets/Frameworks/Detonator/TestScene/Logo.mat
+Assets/Scenes/Demo/LightmapNear-2.exr
+Assets/Models/Level/courtyard.fbm/stairs_diff_layersTGA.tga
+Assets/Models/Level/courtyard.fbm/house4_diff_layersTGA.tga
+Assets/Models/Character Models/Hero Artwork/Hero@WalkStrafeRight.fbx
+Assets/Character Controller Scripts/FPSCharacterController.cs
+Assets/Models/Level/Materials/courtyard-lambert23.mat
+Assets/Frameworks/Locomotion System/AlignmentTracker.cs

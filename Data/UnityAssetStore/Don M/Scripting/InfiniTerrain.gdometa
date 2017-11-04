@@ -1,0 +1,237 @@
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/Metal.physicmaterial
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/Metal.physicmaterial
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Prefabs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png
+Assets/Infiniterrain/Ground textures pack
+Assets/Infiniterrain/Ground textures pack/Ground & weeds/preview.jpg
+Assets/Infiniterrain/Ground textures pack/Ground & weeds/preview.jpg
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs
+Assets/Infiniterrain/Ground textures pack/Ground & rocks 03/diffuse.tga
+Assets/Infiniterrain/Ground textures pack/Ground & rocks 03/diffuse.tga
+Assets/Infiniterrain/Scripts/TerrainGenerator.cs
+Assets/Infiniterrain/Scripts/TerrainGenerator.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab
+Assets/Infiniterrain/Standard Assets/Utility/FPSCounter.cs
+Assets/Infiniterrain/Standard Assets/Utility/FPSCounter.cs
+Assets/Infiniterrain/Standard Assets/Utility/FollowTarget.cs
+Assets/Infiniterrain/Standard Assets/Utility/FollowTarget.cs
+Assets/Infiniterrain/Standard Assets/Utility/ParticleSystemDestroyer.cs
+Assets/Infiniterrain/Standard Assets/Utility/ParticleSystemDestroyer.cs
+Assets/Infiniterrain/Scripts
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio
+Assets/Infiniterrain/Scripts/HeightmapRenderer.cs
+Assets/Infiniterrain/Scripts/HeightmapRenderer.cs
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Scripts
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab
+Assets/Infiniterrain/Ground textures pack/Ground 02/Ground pattern 02.mat
+Assets/Infiniterrain/Ground textures pack/Ground 02/Ground pattern 02.mat
+Assets/Infiniterrain/Ground textures pack/Ground 02/preview.jpg
+Assets/Infiniterrain/Ground textures pack/Ground 02/preview.jpg
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs
+Assets/Infiniterrain/Standard Assets/Utility/TimedObjectDestructor.cs
+Assets/Infiniterrain/Standard Assets/Utility/TimedObjectDestructor.cs
+Assets/Infiniterrain/Standard Assets/Utility/TimedObjectActivator.cs
+Assets/Infiniterrain/Standard Assets/Utility/TimedObjectActivator.cs
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/Wood.physicmaterial
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/Wood.physicmaterial
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Land.wav
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Land.wav
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png
+Assets/Infiniterrain/Ground textures pack/Grass 05/preview.jpg
+Assets/Infiniterrain/Ground textures pack/Grass 05/preview.jpg
+Assets/Infiniterrain/Editor/CrossPlatformInput
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep01.wav
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep01.wav
+Assets/Infiniterrain/Ground textures pack/Ground & rocks 03/preview.jpg
+Assets/Infiniterrain/Ground textures pack/Ground & rocks 03/preview.jpg
+Assets/Infiniterrain/Ground textures pack/Dry ground/preview.jpg
+Assets/Infiniterrain/Ground textures pack/Dry ground/preview.jpg
+Assets/Infiniterrain/Standard Assets/Utility/CurveControlledBob.cs
+Assets/Infiniterrain/Standard Assets/Utility/CurveControlledBob.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png
+Assets/Infiniterrain/Ground textures pack/Grass 05/Grass pattern 05.mat
+Assets/Infiniterrain/Ground textures pack/Grass 05/Grass pattern 05.mat
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/Rubber.physicmaterial
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/Rubber.physicmaterial
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png
+Assets/Infiniterrain/Ground textures pack/Ground & weeds/Ground & weeds.mat
+Assets/Infiniterrain/Ground textures pack/Ground & weeds/Ground & weeds.mat
+Assets/Infiniterrain/Standard Assets/Utility/DragRigidbody.cs
+Assets/Infiniterrain/Standard Assets/Utility/DragRigidbody.cs
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Jump.wav
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Jump.wav
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep03.wav
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep03.wav
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs
+Assets/Infiniterrain/Scripts/Block.cs
+Assets/Infiniterrain/Scripts/Block.cs
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials
+Assets/Infiniterrain/Ground textures pack/Dry ground
+Assets/Infiniterrain/Standard Assets/Utility/FOVKick.cs
+Assets/Infiniterrain/Standard Assets/Utility/FOVKick.cs
+Assets/Infiniterrain/Standard Assets/Utility/ObjectResetter.cs
+Assets/Infiniterrain/Standard Assets/Utility/ObjectResetter.cs
+Assets/Infiniterrain/Standard Assets/Utility/SimpleActivatorMenu.cs
+Assets/Infiniterrain/Standard Assets/Utility/SimpleActivatorMenu.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs
+Assets/Infiniterrain/Standard Assets/Utility/WaypointCircuit.cs
+Assets/Infiniterrain/Standard Assets/Utility/WaypointCircuit.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs
+Assets/Infiniterrain/Standard Assets/Utility/Prefabs/FramerateCounter.prefab
+Assets/Infiniterrain/Standard Assets/Utility/Prefabs/FramerateCounter.prefab
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs
+Assets/Infiniterrain/Standard Assets/Utility/DynamicShadowSettings.cs
+Assets/Infiniterrain/Standard Assets/Utility/DynamicShadowSettings.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep02.wav
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep02.wav
+Assets/Infiniterrain/Standard Assets/Characters
+Assets/Infiniterrain/Standard Assets/Utility
+Assets/Infiniterrain/Ground textures pack/Ground & weeds/diffuse.tga
+Assets/Infiniterrain/Ground textures pack/Ground & weeds/diffuse.tga
+Assets/Infiniterrain/Scenes/VoxelScene.unity
+Assets/Infiniterrain/Scenes/VoxelScene.unity
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs
+Assets/Infiniterrain/Standard Assets/Utility/ForcedReset.cs
+Assets/Infiniterrain/Standard Assets/Utility/ForcedReset.cs
+Assets/Infiniterrain/Standard Assets/Utility/AutoMobileShaderSwitch.cs
+Assets/Infiniterrain/Standard Assets/Utility/AutoMobileShaderSwitch.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/Bouncy.physicmaterial
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/Bouncy.physicmaterial
+Assets/Infiniterrain/Standard Assets/Utility/AutoMoveAndRotate.cs
+Assets/Infiniterrain/Standard Assets/Utility/AutoMoveAndRotate.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt
+Assets/Infiniterrain/Ground textures pack/Ground 02
+Assets/Infiniterrain/Scripts/HeightmapController.cs
+Assets/Infiniterrain/Scripts/HeightmapController.cs
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png
+Assets/Infiniterrain/Ground textures pack/Ground & weeds/normal.tga
+Assets/Infiniterrain/Ground textures pack/Ground & weeds/normal.tga
+Assets/Infiniterrain/Ground textures pack/Ground & weeds
+Assets/Infiniterrain/Scenes
+Assets/Infiniterrain/Ground textures pack/Dry ground/normal.tga
+Assets/Infiniterrain/Ground textures pack/Dry ground/normal.tga
+Assets/Infiniterrain/Standard Assets/Utility/PlatformSpecificContent.cs
+Assets/Infiniterrain/Standard Assets/Utility/PlatformSpecificContent.cs
+Assets/Infiniterrain/Scripts/VoxelRenderer.cs
+Assets/Infiniterrain/Scripts/VoxelRenderer.cs
+Assets/Infiniterrain/Standard Assets/Utility/Prefabs
+Assets/Infiniterrain/Scenes/HeightmapScene.unity
+Assets/Infiniterrain/Scenes/HeightmapScene.unity
+Assets/Infiniterrain/Standard Assets
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/Ice.physicmaterial
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/Ice.physicmaterial
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt
+Assets/Infiniterrain/Ground textures pack/Ground & rocks 03/Ground & rocks pattern 03.mat
+Assets/Infiniterrain/Ground textures pack/Ground & rocks 03/Ground & rocks pattern 03.mat
+Assets/Infiniterrain/Ground textures pack/Ground 02/normal.tga
+Assets/Infiniterrain/Ground textures pack/Ground 02/normal.tga
+Assets/Infiniterrain/Standard Assets/Utility/LerpControlledBob.cs
+Assets/Infiniterrain/Standard Assets/Utility/LerpControlledBob.cs
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/ZeroFriction.physicMaterial
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/ZeroFriction.physicMaterial
+Assets/Infiniterrain/Standard Assets/Utility/WaypointProgressTracker.cs
+Assets/Infiniterrain/Standard Assets/Utility/WaypointProgressTracker.cs
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab
+Assets/Infiniterrain/Editor
+Assets/Infiniterrain/Standard Assets/Utility/ActivateTrigger.cs
+Assets/Infiniterrain/Standard Assets/Utility/ActivateTrigger.cs
+Assets/Infiniterrain/Standard Assets/Utility/SimpleMouseRotator.cs
+Assets/Infiniterrain/Standard Assets/Utility/SimpleMouseRotator.cs
+Assets/Infiniterrain/Ground textures pack/Ground 02/diffuse.tga
+Assets/Infiniterrain/Ground textures pack/Ground 02/diffuse.tga
+Assets/Infiniterrain/Ground textures pack/Ground & rocks 03/normal.tga
+Assets/Infiniterrain/Ground textures pack/Ground & rocks 03/normal.tga
+Assets/Infiniterrain/Standard Assets/Utility/CameraRefocus.cs
+Assets/Infiniterrain/Standard Assets/Utility/CameraRefocus.cs
+Assets/Infiniterrain/Ground textures pack/Dry ground/Dry ground pattern.mat
+Assets/Infiniterrain/Ground textures pack/Dry ground/Dry ground pattern.mat
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts
+Assets/Infiniterrain/Ground textures pack/Grass 05
+Assets/Infiniterrain/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs
+Assets/Infiniterrain/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs
+Assets/Infiniterrain/Ground textures pack/Ground & rocks 03
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/MaxFriction.physicMaterial
+Assets/Infiniterrain/Standard Assets/PhysicsMaterials/MaxFriction.physicMaterial
+Assets/Infiniterrain/readme.txt
+Assets/Infiniterrain/readme.txt
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep04.wav
+Assets/Infiniterrain/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep04.wav
+Assets/Infiniterrain/Standard Assets/Characters/PhysicsMaterials
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Prefabs
+Assets/Infiniterrain/Ground textures pack/Grass 05/diffuse.tga
+Assets/Infiniterrain/Ground textures pack/Grass 05/diffuse.tga
+Assets/Infiniterrain/Ground textures pack/Grass 05/normal.tga
+Assets/Infiniterrain/Ground textures pack/Grass 05/normal.tga
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png
+Assets/Infiniterrain/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png
+Assets/Infiniterrain/Ground textures pack/Dry ground/diffuse.tga
+Assets/Infiniterrain/Ground textures pack/Dry ground/diffuse.tga
+Assets/Infiniterrain/Standard Assets/Utility/SmoothFollow.cs
+Assets/Infiniterrain/Standard Assets/Utility/SmoothFollow.cs
+Assets/Infiniterrain/Scripts/VoxelController.cs
+Assets/Infiniterrain/Scripts/VoxelController.cs

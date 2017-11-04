@@ -1,0 +1,470 @@
+ProjectSettings/InputManager.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/UnityAdsSettings.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader
+Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader
+Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs
+Assets/StellarGen/Resources/Prefabs/Gas
+Assets/StellarGen/Resources/Skybox/sky_starfield.mat
+Assets/StellarGen/Resources/Skybox/sky_starfield.mat
+Assets/Editor/ImageEffects/VignetteAndChromaticAberrationEditor.cs
+Assets/Editor/ImageEffects/VignetteAndChromaticAberrationEditor.cs
+Assets/StellarGen/Resources/Materials/mat_atmosphere.mat
+Assets/StellarGen/Resources/Materials/mat_atmosphere.mat
+Assets/Standard Assets/Effects/LightFlares/Flares/Sun.flare
+Assets/Standard Assets/Effects/LightFlares/Flares/Sun.flare
+Assets/StellarGen/Resources/Prefabs/Meteoroid/pfb_meteoroid.prefab
+Assets/StellarGen/Resources/Prefabs/Meteoroid/pfb_meteoroid.prefab
+Assets/Standard Assets/Effects/LightFlares/Textures
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader
+Assets/Standard Assets/Effects/Projectors/Shaders
+Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader
+Assets/Editor/ImageEffects/TonemappingEditor.cs
+Assets/Editor/ImageEffects/TonemappingEditor.cs
+Assets/Standard Assets/Effects
+Assets/Standard Assets/Effects/LightCookies/Textures/LightHardCookie.psd
+Assets/Standard Assets/Effects/LightCookies/Textures/LightHardCookie.psd
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs
+Assets/StellarGen/Resources/Skybox/Teste_front.exr
+Assets/StellarGen/Resources/Skybox/Teste_front.exr
+Assets/StellarGen/Resources/Materials/mat_gas.mat
+Assets/StellarGen/Resources/Materials/mat_gas.mat
+Assets/StellarGen/Resources/Camera/EffectsDisabler.cs
+Assets/StellarGen/Resources/Camera/EffectsDisabler.cs
+Assets/StellarGen/DemoScenes
+Assets/StellarGen/Resources/Skybox/Teste_left.exr
+Assets/StellarGen/Resources/Skybox/Teste_left.exr
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs
+Assets/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab
+Assets/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab
+Assets/Editor/ImageEffects
+Assets/StellarGen/Resources/Prefabs/Satellite/pfb_satellite.prefab
+Assets/StellarGen/Resources/Prefabs/Satellite/pfb_satellite.prefab
+Assets/Standard Assets/Effects/Projectors/Textures/Falloff.psd
+Assets/Standard Assets/Effects/Projectors/Textures/Falloff.psd
+Assets/Standard Assets/Effects/LightFlares/Textures/Flare50mm.psd
+Assets/Standard Assets/Effects/LightFlares/Textures/Flare50mm.psd
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs
+Assets/Standard Assets/Effects/Projectors/Textures
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader
+Assets/Plugins/x86_x64/LibNoisePlugin_v1.dll
+Assets/Plugins/x86_x64/LibNoisePlugin_v1.dll
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceRaytrace.cginc
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceRaytrace.cginc
+Assets/StellarGen/Resources/Prefabs/Orbit
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader
+Assets/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab
+Assets/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab
+Assets/StellarGen/Resources/Prefabs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader
+Assets/StellarGen/Resources/Shaders/sha_glow.shader
+Assets/StellarGen/Resources/Shaders/sha_glow.shader
+Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookie.tif
+Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookie.tif
+Assets/StellarGen/Resources/Prefabs/Asteroid
+Assets/StellarGen/DemoScenes/AutoStart/AutoStart.unity
+Assets/StellarGen/DemoScenes/AutoStart/AutoStart.unity
+Assets/StellarGen/Resources/Camera/MouseLook.cs
+Assets/StellarGen/Resources/Camera/MouseLook.cs
+Assets/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs
+Assets/StellarGen/DemoScenes/ManualStart/ManualStart.prefab
+Assets/StellarGen/DemoScenes/ManualStart/ManualStart.prefab
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs
+Assets/StellarGen/Resources/Prefabs/Ocean
+Assets/StellarGen/DemoScenes/AutoStart
+Assets/StellarGen
+Assets/StellarGen/Resources/Skybox/Teste_right.exr
+Assets/StellarGen/Resources/Skybox/Teste_right.exr
+Assets/StellarGen/Resources/Materials/mat_ocean.mat
+Assets/StellarGen/Resources/Materials/mat_ocean.mat
+Assets/Editor/ImageEffects/DepthOfFieldEditor.cs
+Assets/Editor/ImageEffects/DepthOfFieldEditor.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader
+Assets/Editor/ImageEffects/BloomEditor.cs
+Assets/Editor/ImageEffects/BloomEditor.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader
+Assets/Standard Assets/Effects/Projectors/Prefabs/GridProjector.prefab
+Assets/Standard Assets/Effects/Projectors/Prefabs/GridProjector.prefab
+Assets/Plugins/x86_x64
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs
+Assets/StellarGen/DemoScenes/ManualStart/ManualStart.cs
+Assets/StellarGen/DemoScenes/ManualStart/ManualStart.cs
+Assets/StellarGen/Resources/Prefabs/Ocean/pfb_ocean.prefab
+Assets/StellarGen/Resources/Prefabs/Ocean/pfb_ocean.prefab
+Assets/StellarGen/DemoScenes/ManualStart
+Assets/Standard Assets/Effects/LightFlares/Materials
+Assets/Editor/ImageEffects/BloomAndFlaresEditor.cs
+Assets/Editor/ImageEffects/BloomAndFlaresEditor.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/frag_ao.cginc
+Assets/Standard Assets/Effects/ImageEffects/Shaders/frag_ao.cginc
+Assets/StellarGen/Resources/Skybox/Teste_down.exr
+Assets/StellarGen/Resources/Skybox/Teste_down.exr
+Assets/Standard Assets/Effects/LightFlares/Textures/FlareStar.psd
+Assets/Standard Assets/Effects/LightFlares/Textures/FlareStar.psd
+Assets/Standard Assets/Effects/Projectors/Textures/Grid.psd
+Assets/Standard Assets/Effects/Projectors/Textures/Grid.psd
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader
+Assets/Editor/ImageEffects/SunShaftsEditor.cs
+Assets/Editor/ImageEffects/SunShaftsEditor.cs
+Assets/Standard Assets/Effects/LightFlares/Flares/50mmZoom.flare
+Assets/Standard Assets/Effects/LightFlares/Flares/50mmZoom.flare
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs
+Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png
+Assets/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader
+Assets/StellarGen/Resources/Camera/Console.cs
+Assets/StellarGen/Resources/Camera/Console.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader
+Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightIrregularCookie.tif
+Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightIrregularCookie.tif
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs
+Assets/Editor/ImageEffects/ColorCorrectionLookupEditor.cs
+Assets/Editor/ImageEffects/ColorCorrectionLookupEditor.cs
+Assets/Editor/ImageEffects/CreaseShadingEditor.cs
+Assets/Editor/ImageEffects/CreaseShadingEditor.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader
+Assets/Standard Assets/Effects/Projectors/Textures/Shadow.psd
+Assets/Standard Assets/Effects/Projectors/Textures/Shadow.psd
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader
+Assets/Standard Assets/Effects/LightCookies/Textures/LightSquareCookie.psd
+Assets/Standard Assets/Effects/LightCookies/Textures/LightSquareCookie.psd
+Assets/StellarGen/Resources
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing
+Assets/StellarGen/Resources/Materials/mat_orbit.mat
+Assets/StellarGen/Resources/Materials/mat_orbit.mat
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs
+Assets/StellarGen/Resources/Prefabs/Atmosphere/pfb_atmosphere.prefab
+Assets/StellarGen/Resources/Prefabs/Atmosphere/pfb_atmosphere.prefab
+Assets/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs
+Assets/StellarGen/Resources/Materials/mat_star.mat
+Assets/StellarGen/Resources/Materials/mat_star.mat
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs
+Assets/StellarGen/Resources/Materials/mat_meteoroid.mat
+Assets/StellarGen/Resources/Materials/mat_meteoroid.mat
+Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader
+Assets/Standard Assets/Effects/LightCookies
+Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png
+Assets/StellarGen/Resources/Prefabs/Rocky
+Assets/Standard Assets/Effects/LightFlares/Flares
+Assets/StellarGen/Resources/Camera/MainCamera.prefab
+Assets/StellarGen/Resources/Camera/MainCamera.prefab
+Assets/StellarGen/Resources/Controller/StellarGenController.prefab
+Assets/StellarGen/Resources/Controller/StellarGenController.prefab
+Assets/StellarGen/Resources/Prefabs/Meteoroid
+Assets/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs
+Assets/StellarGen/Resources/Prefabs/Barycenter/pfb_barycenter.prefab
+Assets/StellarGen/Resources/Prefabs/Barycenter/pfb_barycenter.prefab
+Assets/Editor/ImageEffects/CameraMotionBlurEditor.cs
+Assets/Editor/ImageEffects/CameraMotionBlurEditor.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader
+Assets/Standard Assets/Effects/LightCookies/Textures/LightSoftCookie.tif
+Assets/Standard Assets/Effects/LightCookies/Textures/LightSoftCookie.tif
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs
+Assets/StellarGen/Dll
+Assets/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs
+Assets/Standard Assets/Effects/Projectors/Materials
+Assets/Editor/ImageEffects/DepthOfFieldDeprecatedEditor.cs
+Assets/Editor/ImageEffects/DepthOfFieldDeprecatedEditor.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader
+Assets/StellarGen/Resources/Prefabs/Rocky/pfb_rocky.prefab
+Assets/StellarGen/Resources/Prefabs/Rocky/pfb_rocky.prefab
+Assets/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png
+Assets/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader
+Assets/Standard Assets/Effects/LightFlares/Flares/FlareSmall.flare
+Assets/Standard Assets/Effects/LightFlares/Flares/FlareSmall.flare
+Assets/StellarGen/Resources/Materials/mat_dwarf.mat
+Assets/StellarGen/Resources/Materials/mat_dwarf.mat
+Assets/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs
+Assets/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png
+Assets/StellarGen/Resources/Skybox/Teste_back.exr
+Assets/StellarGen/Resources/Skybox/Teste_back.exr
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs
+Assets/StellarGen/Resources/Prefabs/Orbit/pfb_orbit.prefab
+Assets/StellarGen/Resources/Prefabs/Orbit/pfb_orbit.prefab
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch
+Assets/Editor/ImageEffects/ColorCorrectionCurvesEditor.cs
+Assets/Editor/ImageEffects/ColorCorrectionCurvesEditor.cs
+Assets/Standard Assets/Effects/ImageEffects/Textures/Neutral3D16.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/Neutral3D16.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd
+Assets/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd
+Assets/Plugins
+Assets/Standard Assets/Effects/LightFlares/Materials/Flare50mm.mat
+Assets/Standard Assets/Effects/LightFlares/Materials/Flare50mm.mat
+Assets/StellarGen/Resources/Materials
+Assets/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/StellarGen/Resources/Prefabs/Satellite
+Assets/Standard Assets/Effects/Projectors
+Assets/Editor/ImageEffects/NoiseAndGrainEditor.cs
+Assets/Editor/ImageEffects/NoiseAndGrainEditor.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs
+Assets/Standard Assets/Effects/Projectors/Textures/Light.psd
+Assets/Standard Assets/Effects/Projectors/Textures/Light.psd
+Assets/Standard Assets/Effects/ImageEffects/Shaders
+Assets/Standard Assets/Effects/Projectors/Guidelines.txt
+Assets/Standard Assets/Effects/Projectors/Guidelines.txt
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader
+Assets/Editor/ImageEffects/EdgeDetectionEditor.cs
+Assets/Editor/ImageEffects/EdgeDetectionEditor.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader
+Assets/Standard Assets/Effects/Projectors/Prefabs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs
+Assets/Editor/ImageEffects/AntialiasingEditor.cs
+Assets/Editor/ImageEffects/AntialiasingEditor.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs
+Assets/StellarGen/Resources/Materials/mat_asteroid.mat
+Assets/StellarGen/Resources/Materials/mat_asteroid.mat
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader
+Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader
+Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader
+Assets/StellarGen/Resources/Skybox
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader
+Assets/StellarGen/Resources/Controller
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader
+Assets/StellarGen/Resources/Prefabs/Atmosphere
+Assets/Standard Assets/Effects/Projectors/Materials/GridProjector.mat
+Assets/Standard Assets/Effects/Projectors/Materials/GridProjector.mat
+Assets/StellarGen/Resources/Materials/mat_satellite.mat
+Assets/StellarGen/Resources/Materials/mat_satellite.mat
+Assets/Standard Assets/Effects/Projectors/Materials/LightProjector.mat
+Assets/Standard Assets/Effects/Projectors/Materials/LightProjector.mat
+Assets/Standard Assets/Effects/ImageEffects/Scripts
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader
+Assets/StellarGen/Resources/Prefabs/Star/pfb_star.prefab
+Assets/StellarGen/Resources/Prefabs/Star/pfb_star.prefab
+Assets/StellarGen/Resources/Prefabs/Barycenter
+Assets/StellarGen/Resources/Shaders
+Assets/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader
+Assets/StellarGen/Resources/Prefabs/Rings
+Assets/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png
+Assets/Plugins/x86_x64/MersenneTwisterPlugin_v1.dll
+Assets/Plugins/x86_x64/MersenneTwisterPlugin_v1.dll
+Assets/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs
+Assets/Standard Assets/Effects/ImageEffects
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares
+Assets/StellarGen/Resources/Materials/mat_rocky.mat
+Assets/StellarGen/Resources/Materials/mat_rocky.mat
+Assets/StellarGen/Resources/Materials/mat_rings.mat
+Assets/StellarGen/Resources/Materials/mat_rings.mat
+Assets/Standard Assets/Effects/LightFlares
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs
+Assets/StellarGen/Resources/Camera/CameraControl.cs
+Assets/StellarGen/Resources/Camera/CameraControl.cs
+Assets/Editor
+Assets/Standard Assets/Effects/LightCookies/Textures
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat
+Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat
+Assets/StellarGen/Resources/Prefabs/Asteroid/pfb_asteroid.prefab
+Assets/StellarGen/Resources/Prefabs/Asteroid/pfb_asteroid.prefab
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader
+Assets/StellarGen/Dll/StellarGen.dll
+Assets/StellarGen/Dll/StellarGen.dll
+Assets/StellarGen/Resources/Prefabs/Star
+Assets/Standard Assets/Effects/ImageEffects/Textures/Noise.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/Noise.png
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader
+Assets/Standard Assets/Effects/ImageEffects/Textures/grayscale ramp.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/grayscale ramp.png
+Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs
+Assets/Standard Assets/Effects/ImageEffects/Textures/ContrastEnhanced3D16.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/ContrastEnhanced3D16.png
+Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader
+Assets/StellarGen/DemoScenes/ManualStart/ManualStart.unity
+Assets/StellarGen/DemoScenes/ManualStart/ManualStart.unity
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader
+Assets/StellarGen/Resources/Prefabs/Dwarf
+Assets/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader
+Assets/StellarGen/Resources/Skybox/Teste_up.exr
+Assets/StellarGen/Resources/Skybox/Teste_up.exr
+Assets/StellarGen/Resources/Prefabs/Rings/pfb_rings.prefab
+Assets/StellarGen/Resources/Prefabs/Rings/pfb_rings.prefab
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs
+Assets/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs
+Assets/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader
+Assets/StellarGen/Resources/Camera
+Assets/StellarGen/Resources/Textures/tex_normal_map_placeholder.png
+Assets/StellarGen/Resources/Textures/tex_normal_map_placeholder.png
+Assets/Standard Assets/Effects/ImageEffects/Textures
+Assets/StellarGen/Dll/Readme.pdf
+Assets/StellarGen/Dll/Readme.pdf
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader
+Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader
+Assets/Standard Assets
+Assets/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd
+Assets/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd
+Assets/StellarGen/Resources/Prefabs/Dwarf/pfb_dwarf.prefab
+Assets/StellarGen/Resources/Prefabs/Dwarf/pfb_dwarf.prefab
+Assets/StellarGen/Resources/Prefabs/Gas/pfb_gas.prefab
+Assets/StellarGen/Resources/Prefabs/Gas/pfb_gas.prefab
+Assets/StellarGen/Resources/Textures
+Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png
+Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png

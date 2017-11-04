@@ -1,0 +1,10 @@
+Assets/Plugins/Extensible Input Manager/Examples/Scripts/ExampleVeryBasic.cs
+Assets/Plugins/Extensible Input Manager/Scripts/GInputHelper.cs
+Assets/Plugins/Extensible Input Manager/Scripts/GInputInterfaceBase.cs
+Assets/Plugins/Extensible Input Manager/Readme.txt
+Assets/Plugins/Extensible Input Manager/Examples/Example of custom input handler and its usage.unity
+Assets/Plugins/Extensible Input Manager/Scripts/Interfaces/GInputInterfaceExample.cs
+Assets/Plugins/Extensible Input Manager/Scripts/GInput.cs
+Assets/Plugins/Extensible Input Manager/Scripts/GInputInterface.cs
+Assets/Plugins/Extensible Input Manager/Manual.url
+Assets/Plugins/Extensible Input Manager/Resources/Terrain.asset

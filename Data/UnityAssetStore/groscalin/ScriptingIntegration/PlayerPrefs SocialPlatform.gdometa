@@ -1,0 +1,8 @@
+Assets/PPrefsSocialPlatform/Doc/PlayerPrefs SocialPlatform Manual.pdf
+Assets/PPrefsSocialPlatform/PPrefsSetting.cs
+Assets/PPrefsSocialPlatform/Util/PlayerPrefsSerializer.cs
+Assets/PPrefsSocialPlatform/PPrefsSocialPlatform.cs
+Assets/PPrefsSocialPlatform/SocialAdaptor.cs
+Assets/PPrefsSocialPlatform/Util/Singleton.cs
+Assets/PPrefsSocialPlatform/Util/NonSerialiazableTypeSurrogateSelector.cs
+Assets/PPrefsSocialPlatform/Editor/PPrefsSettingUtil.cs

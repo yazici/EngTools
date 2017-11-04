@@ -1,0 +1,24 @@
+Assets/DirectionalAmbient/Example Setups/Dawn.amb
+Assets/DirectionalAmbient/Scripts/AmbientManager.cs
+Assets/DirectionalAmbient/Example Setups/Cold_Winter.amb
+Assets/DirectionalAmbient/Example Setups/Desert.amb
+Assets/DirectionalAmbient/Scripts/StaticDirectionalAmbient.cs
+Assets/DirectionalAmbient/Example Setups/Sunny_Day.amb
+Assets/DirectionalAmbient/PreviewShader.shader
+Assets/DirectionalAmbient/Scripts/DynamicDirectionalAmbient.cs
+Assets/DirectionalAmbient/Example Setups/Deep_Jungle.amb
+Assets/DirectionalAmbient/Example Setups/Orange_Blue.amb
+Assets/DirectionalAmbient/Scripts/Editor/MainAmbientEditor.cs
+Assets/DirectionalAmbient/Scripts/Editor/CPackage.dll
+Assets/DirectionalAmbient/Scripts/AmbientVolume.cs
+Assets/DirectionalAmbient/Scripts/Editor/AmbientVolumeEditor.cs
+Assets/DirectionalAmbient/Scripts/DAVolumeSelector.cs
+Assets/DirectionalAmbient/DA_Setup_Package.shp
+Assets/DirectionalAmbient/Scripts/Editor/DASetup.cs
+Assets/DirectionalAmbient/Scripts/Editor/ToolsSupport.cs
+Assets/DirectionalAmbient/Scripts/Editor/DASettingsHelper.cs
+Assets/DirectionalAmbient/Manual.pdf
+Assets/DirectionalAmbient/Scripts/DirectionalAmbient.cs
+Assets/DirectionalAmbient/Scripts/Editor/DirectionalAmbientEditor.cs
+Assets/DirectionalAmbient/DA_ShowLights.shader
+Assets/DirectionalAmbient/Scripts/TLight.cs

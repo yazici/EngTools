@@ -1,0 +1,183 @@
+Assets/Plugins/whydoidoit.com/Radical/System/RadicalRoutineHelper.cs
+Assets/UnitySerializer/readme.txt
+Assets/Plugins/whydoidoit.com/SevenZipHelper.cs
+Assets/Plugins/whydoidoit.com/Utility/Types.cs
+Assets/UnitySerializer/Scripts/JSONPauseMenu.js
+Assets/Plugins/whydoidoit.com/Serialization/TimeSpecialist.cs
+Assets/UnitySerializer/Scripts/CentreAndPointMe.cs
+Assets/UnitySerializer/ExampleJSON.unity
+Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js
+Assets/UnitySerializer/Room Management in Unity Serializer.pdf
+Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonCamera.js
+Assets/UnitySerializer/Scripts/OpenDoor.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Checksums/IChecksum.cs
+Assets/Plugins/Editor/whydoidoit.com/Assets/Prefab.psd
+Assets/Plugins/whydoidoit.com/Radical/System/Testing/Inherited.cs
+Assets/UnitySerializer/Scripts/AdditionalDataStorage.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Streams/DeflaterOutputStream.cs
+Assets/Plugins/whydoidoit.com/UnitySerializerVersion.cs
+Assets/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_right.tif
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/RoomLoader.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/ZipExtraData.cs
+Assets/Plugins/whydoidoit.com/license.txt
+Assets/UnitySerializer/Scripts/IsDeserializing.cs
+Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/RoomManager.cs
+Assets/Standard Assets/Character Controllers/3rd Person Controller.prefab
+Assets/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_front.tif
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Streams/StreamManipulator.cs
+Assets/UnitySerializer/Prefabs/OtherCube.prefab
+Assets/UnitySerializer/Prefabs/Cube.prefab
+Assets/Standard Assets/Scripts/Camera Scripts/MouseOrbit.js
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Checksums/StrangeCRC.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/RoomDataSaveGameStorage.cs
+Assets/UnitySerializer/Scripts/ScaleObject.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/ZipEntry.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/InflaterDynHeader.cs
+Assets/Standard Assets/Scripts/Utility Scripts/CombineChildren.cs
+Assets/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_back.tif
+Assets/Plugins/whydoidoit.com/Radical/System/Loom.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Checksums/CRC32.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Encryption/ZipAESStream.cs
+Assets/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_down.tif
+Assets/Plugins/whydoidoit.com/Radical/RPCEnabler.cs
+Assets/Plugins/whydoidoit.com/Serialization/SaveGameManager.cs
+Assets/UnitySerializer/Scripts/CreateTexture.cs
+Assets/Plugins/whydoidoit.com/LitJson/IJsonWrapper.cs
+Assets/UnitySerializer/Materials/box.png
+Assets/UnitySerializer/Initial.unity
+Assets/Plugins/whydoidoit.com/Serialization/JSONSerializer.cs
+Assets/UnitySerializer/Scripts/Movement.js
+Assets/Plugins/whydoidoit.com/Radical/System/Testing/SimpleCaller.cs
+Assets/Plugins/whydoidoit.com/Serialization/GetSet.cs
+Assets/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Constructor.FBX
+Assets/UnitySerializer/Scripts/KeepAReference.cs
+Assets/Plugins/whydoidoit.com/Radical/System/TransformExtensions.cs
+Assets/UnitySerializer/ExampleObjectSaveAndLoad.unity
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/DontStoreObjectInRoom.cs
+Assets/Plugins/whydoidoit.com/Serialization/GetSetGeneric.cs
+Assets/Plugins/whydoidoit.com/Serialization/Entry.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/Room.cs
+Assets/Plugins/whydoidoit.com/Serialization/Storage.cs
+Assets/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_normals.png
+Assets/Standard Assets/Physic Materials/Ice.physicmaterial
+Assets/Plugins/Editor/whydoidoit.com/UnitySerializerWindow.cs
+Assets/Plugins/whydoidoit.com/Radical/System/LoadAnimations.cs
+Assets/UnitySerializer/Scripts/TestLoading.cs
+Assets/UnitySerializer/Scripts/ArrayOfPrefabs.cs
+Assets/Plugins/whydoidoit.com/Serialization/RemoveEditors.cs
+Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js
+Assets/Plugins/whydoidoit.com/Radical/System/Delegates/DelegateSupport.cs
+Assets/Plugins/whydoidoit.com/Radical/System/MonoBehaviourEx.cs
+Assets/UnitySerializer/Scripts/Spawner.js
+Assets/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_left.tif
+Assets/Standard Assets/Physic Materials/Metal.physicmaterial
+Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Encryption/PkzipClassic.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Checksums/Adler32.cs
+Assets/Plugins/whydoidoit.com/LitJson/Makefile.in
+Assets/Standard Assets/Skyboxes/_skybox info.txt
+Assets/Plugins/Editor/whydoidoit.com/EditPrefabIdentifier.cs
+Assets/Plugins/whydoidoit.com/ResultLogger.cs
+Assets/UnitySerializer/Scripts/DeletedComponent.cs
+Assets/Plugins/whydoidoit.com/Radical/System/InheritableRPC.cs
+Assets/UnitySerializer/Scripts/DeleteComponent.cs
+Assets/Plugins/whydoidoit.com/Serialization/StoreMesh.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/ZipHelperStream.cs
+Assets/UnitySerializer/Scripts/TestCoroutines.cs
+Assets/Plugins/whydoidoit.com/Serialization/StoredReferences.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Easing.cs
+Assets/UnitySerializer/Example.unity
+Assets/Plugins/Editor/whydoidoit.com/Assets/Materials.psd
+Assets/Plugins/whydoidoit.com/ClickMeAndDie.cs
+Assets/UnitySerializer/Scripts/PauseMenu.js
+Assets/Plugins/whydoidoit.com/LitJson/ParserToken.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/DeflaterConstants.cs
+Assets/Plugins/Editor/whydoidoit.com/EditSaveGameManager.cs
+Assets/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js
+Assets/Standard Assets/Scripts/Camera Scripts/SmoothLookAt.js
+Assets/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_up.tif
+Assets/Standard Assets/Scripts/Utility Scripts/MeshCombineUtility.cs
+Assets/Plugins/whydoidoit.com/AddOns/PlayMakerAddOn_v0.5.unitypackage
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/DeflaterHuffman.cs
+Assets/UnitySerializer/Materials/Floor.mat
+Assets/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_diffuse.png
+Assets/Standard Assets/Physic Materials/Bouncy.physicmaterial
+Assets/Plugins/whydoidoit.com/Radical/System/Smoothing.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/DeflaterEngine.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/ZipConstants.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Radical.cs
+Assets/UnitySerializer/Scripts/ChangeColor.cs
+Assets/Standard Assets/Character Controllers/First Person Controller.prefab
+Assets/UnitySerializer/Getting Started Guide.pdf
+Assets/Plugins/whydoidoit.com/LitJson/Lexer.cs
+Assets/Standard Assets/Skyboxes/Sunny1 Skybox.mat
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Streams/InflaterInputStream.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/PendingBuffer.cs
+Assets/UnitySerializer/ScriptableObjects/example2.asset
+Assets/Plugins/whydoidoit.com/Radical/System/Curves.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/DeflaterPending.cs
+Assets/Plugins/Editor/whydoidoit.com/Assets/Id.psd
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Deflater.cs
+Assets/UnitySerializer/Scripts/TestJSON.cs
+Assets/Plugins/Editor/whydoidoit.com/Assets/Manager.psd
+Assets/Plugins/whydoidoit.com/SharpZIP/src/SharpZipBaseException.cs
+Assets/UnitySerializer/Scripts/AddSomeForce.cs
+Assets/Plugins/whydoidoit.com/LitJson/AssemblyInfo.cs.in
+Assets/Plugins/Editor/whydoidoit.com/EditStoreInformation.cs
+Assets/Plugins/whydoidoit.com/LitJson/JsonReader.cs
+Assets/Plugins/Editor/whydoidoit.com/Assets/Room.psd
+Assets/Plugins/whydoidoit.com/Serialization/IStorage.cs
+Assets/Plugins/whydoidoit.com/Serialization/LevelSerializer.cs
+Assets/UnitySerializer/Scripts/CreateChildSphere.cs
+Assets/Plugins/whydoidoit.com/Serialization/UnitySerializationExtensions.cs
+Assets/UnitySerializer/Scripts/RenameObject.cs
+Assets/Plugins/whydoidoit.com/Serialization/GetWritableAttributes.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Broadcaster.cs
+Assets/Standard Assets/Scripts/General Scripts/ActivateTrigger.cs
+Assets/Plugins/whydoidoit.com/LitJson/Makefile.am
+Assets/Plugins/whydoidoit.com/LitJson/JsonWriter.cs
+Assets/UnitySerializer/Scripts/AdditionalData.cs
+Assets/UnitySerializer/Scripts/VariablesToSave.cs
+Assets/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Materials/constructor_done.mat
+Assets/Standard Assets/Scripts/General Scripts/DragRigidbody.js
+Assets/UnitySerializer/Scripts/TestSerialization.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/InflaterHuffmanTree.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/Examples/PlayerSpawnPoint.cs
+Assets/Standard Assets/Physic Materials/Wood.physicmaterial
+Assets/Plugins/whydoidoit.com/Serialization/EmptyObjectIdentifier.cs
+Assets/Plugins/whydoidoit.com/Serialization/UnitySerializer.cs
+Assets/Plugins/whydoidoit.com/Serialization/SerializationUnits.cs
+Assets/Plugins/whydoidoit.com/Serialization/InRangeItem.cs
+Assets/Plugins/whydoidoit.com/Serialization/JSONLevelSerializer.cs
+Assets/Plugins/whydoidoit.com/Radical/System/XmlSupport.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Streams/OutputWindow.cs
+Assets/Standard Assets/Character Controllers/Sources/Scripts/PlatformInputController.js
+Assets/UnitySerializer/Scripts/SwitchMesh.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Encryption/ZipAESTransform.cs
+Assets/Plugins/Editor/whydoidoit.com/Assets/Store.psd
+Assets/Plugins/whydoidoit.com/Radical/System/RadicalRoutine.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/PreserveObjectWhenLoading.cs
+Assets/Plugins/whydoidoit.com/Serialization/OnlyInRangeManager.cs
+Assets/Plugins/whydoidoit.com/Serialization/StoreMaterials.cs
+Assets/Plugins/whydoidoit.com/Serialization/prewarm.cs
+Assets/UnitySerializer/Scripts/SaveAndLoadToServer.cs
+Assets/UnitySerializer/Scripts/TestAnimation.anim
+Assets/UnitySerializer/Scripts/SaveAndLoad.cs
+Assets/Plugins/whydoidoit.com/Serialization/UniqueIdentifier.cs
+Assets/Plugins/whydoidoit.com/LitJson/JsonMapper.cs
+Assets/Plugins/whydoidoit.com/Serialization/JSONLevelLoader.cs
+Assets/UnitySerializer/Scripts/SaveAndReload.cs
+Assets/Plugins/whydoidoit.com/Serialization/PrefabIdentifier.cs
+Assets/Plugins/whydoidoit.com/LitJson/JsonException.cs
+Assets/UnitySerializer/ScriptableObjects/example.asset
+Assets/UnitySerializer/Prefabs/Sphere.prefab
+Assets/Standard Assets/Physic Materials/Rubber.physicmaterial
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/Examples/PlayerLocator.cs
+Assets/Plugins/whydoidoit.com/Serialization/LevelLoader.cs
+Assets/Plugins/whydoidoit.com/AddOns/iTweenSerializer.unitypackage
+Assets/UnitySerializer/Scripts/ColorMe.cs
+Assets/Plugins/whydoidoit.com/Serialization/StoreInformation.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Inflater.cs
+Assets/UnitySerializer/Materials/paused_01.png
+Assets/Plugins/whydoidoit.com/LitJson/JsonData.cs

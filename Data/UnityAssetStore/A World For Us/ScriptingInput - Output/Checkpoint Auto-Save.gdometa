@@ -1,0 +1,8 @@
+Assets/Checkpoint Auto-Save/Readme.txt
+Assets/Checkpoint Auto-Save/Examples/CustomComponentToBeSaved.cs
+Assets/Checkpoint Auto-Save/Src/SavePoint.cs
+Assets/Checkpoint Auto-Save/Src/RestorePoint.cs
+Assets/Checkpoint Auto-Save/CheckpointsManager.cs
+Assets/Checkpoint Auto-Save/Examples/Example.unity
+Assets/Checkpoint Auto-Save/Checkpointable.cs
+Assets/Checkpoint Auto-Save/Examples/ExampleCheckpointTester.cs

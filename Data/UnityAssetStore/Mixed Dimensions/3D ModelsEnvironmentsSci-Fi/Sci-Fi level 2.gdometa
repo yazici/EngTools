@@ -1,0 +1,189 @@
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Tonemapper.shader
+Assets/SciFi level 2/Materials/Wall 4.mat
+Assets/SciFi level 2/Textures/Wall 5.jpg
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/DLAA.shader
+Assets/SciFi level 2/Editor/Image Effects/DepthOfFieldScatterEditor.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/CameraInfo.js
+Assets/SciFi level 2/Materials/Floor 01.mat
+Assets/SciFi level 2/SciFi/LightmapFar-2.exr
+Assets/SciFi level 2/Materials/Green Light.mat
+Assets/SciFi level 2/Standard Assets/Light Flares/Sun.flare
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/Crease.js
+Assets/SciFi level 2/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter2.shader
+Assets/SciFi level 2/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonCamera.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/GlowEffect.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/EdgeDetectNormals.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/NoiseAndGrain.js
+Assets/SciFi level 2/SciFi/LightmapFar-0.exr
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseEffectShaderYUV.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ConvertDepth.shader
+Assets/SciFi level 2/Editor/Image Effects/NoiseAndGrainEditor.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader
+Assets/SciFi level 2/Materials/Wall 5.mat
+Assets/SciFi level 2/Materials/sci-fi_floor_texture_1.mat
+Assets/SciFi level 2/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/SunShafts.js
+Assets/SciFi level 2/Materials/Ground1.mat
+Assets/SciFi level 2/Materials/Ground 2.mat
+Assets/SciFi level 2/Standard Assets/Character Controllers/3rd Person Controller.prefab
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/DepthOfField34.js
+Assets/SciFi level 2/Standard Assets/Light Flares/Sources/Textures/50mmflare.psd
+Assets/SciFi level 2/SciFi/LightmapFar-3.exr
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/GrayscaleEffect.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Adaptation.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ContrastComposite.shader
+Assets/SciFi level 2/SciFi/LightmapNear-3.exr
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ChromaticAberrationShader.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/MotionBlurJitter.png
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/BlurEffect.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/GlobalFog.js
+Assets/SciFi level 2/Editor/Image Effects/AntialiasingAsPostEffectEditor.js
+Assets/SciFi level 2/Editor/Image Effects/SunShaftsEditor.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/Triangles.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/EdgeDetectX.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionCurvesSimple.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SSAOShader.shader
+Assets/SciFi level 2/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Constructor.FBX
+Assets/SciFi level 2/Materials/Wall 3.mat
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/LensFlareCreate.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/MotionBlur.cs
+Assets/SciFi level 2/Editor/Image Effects/TonemappingEditor.js
+Assets/SciFi level 2/Materials/Blue Light.mat
+Assets/SciFi level 2/SciFi.unity
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/frag_ao.cginc
+Assets/SciFi level 2/Standard Assets/Light Flares/Sources/Textures/starflare.psd
+Assets/SciFi level 2/Editor/Image Effects/CameraMotionBlurEditor.js
+Assets/SciFi level 2/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_normals.png
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/Blend.shader
+Assets/SciFi level 2/Standard Assets/Light Flares/50mm Zoom.flare
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/VignetteShader.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffectNormals.js
+Assets/SciFi level 2/Textures/capsule.jpg
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/MinMaxReduction.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/Bokeh34.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/BlurEffectConeTaps.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/PostEffectsHelper.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseEffectShaderRGB.shader
+Assets/SciFi level 2/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js
+Assets/SciFi level 2/Materials/Metal.mat
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseEffectScratch.png
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VignettingShader.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionCurves.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/TwirlEffect.shader
+Assets/SciFi level 2/Materials/Walls.mat
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionEffect.shader
+Assets/SciFi level 2/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs
+Assets/SciFi level 2/Materials/Cube Floor.mat
+Assets/SciFi level 2/SciFi/LightmapNear-5.exr
+Assets/SciFi level 2/Materials/01.mat
+Assets/SciFi level 2/Textures/Floor 01.jpg
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAAPreset2.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VortexEffect.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlobalFog.shader
+Assets/SciFi level 2/Editor/Image Effects/DepthOfField34Editor.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/MotionBlurClear.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BlendForBloom.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseAndGrain.png
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/Fisheye.js
+Assets/SciFi level 2/Materials/Floor 03.mat
+Assets/SciFi level 2/Materials/Light.mat
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/ColorCorrectionCurves.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/CameraMotionBlur.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/FisheyeShader.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/ImageEffects.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseAndGrainDX11.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/BlendModesOverlay.shader
+Assets/SciFi level 2/Materials/Floor 02.mat
+Assets/SciFi level 2/Editor/Image Effects/ColorCorrectionLutEditor.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/TiltShift.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/VignetteMask.png
+Assets/SciFi level 2/Editor/Image Effects/VignettingEditor.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowCompose.shader
+Assets/SciFi level 2/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_diffuse.png
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/DepthOfField34.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/PrepareSunShaftsBlur.shader
+Assets/SciFi level 2/Standard Assets/Light Flares/Small Flare.flare
+Assets/SciFi level 2/Standard Assets/Character Controllers/First Person Controller.prefab
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/SepiaToneEffect.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/RandomVectors.png
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/Neutral3D16.png
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/hexShape.psd
+Assets/SciFi level 2/Standard Assets/Light Flares/Sources/Materials/flare mat.mat
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/Bloom.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/NoiseEffect.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/VortexEffect.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/AntialiasingAsPostEffect.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/SciFi level 2/Textures/Cube Floor.jpg
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/DepthOfFieldScatter.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseAndGrain.shader
+Assets/SciFi level 2/SciFi/LightmapNear-0.exr
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/SSAOEffect.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowEffectDownsample.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/SSAA.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/CreaseApply.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrection3DLut.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SepiaToneEffect.shader
+Assets/SciFi level 2/SciFi/LightmapFar-1.exr
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/TwirlEffect.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BlurAndFlares.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/Vignetting.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Luminance.shader
+Assets/SciFi level 2/SciFi/LightmapFar-5.exr
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/ColorCorrectionLut.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAAPreset3.shader
+Assets/SciFi level 2/Materials/capsule.mat
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAA3Console.shader
+Assets/SciFi level 2/SciFi/LightmapNear-1.exr
+Assets/SciFi level 2/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Materials/constructor_done.mat
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAA2.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/NFAA.shader
+Assets/SciFi level 2/Editor/Image Effects/BloomEditor.js
+Assets/SciFi level 2/SciFi/LightmapFar-4.exr
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/BloomAndLensFlares.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SunShaftsComposite.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/color correction ramp.png
+Assets/SciFi level 2/SciFi/LightmapNear-2.exr
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/DepthOfFieldDX11.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/PostEffectsBase.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ShowAlphaChannel.shader
+Assets/SciFi level 2/Standard Assets/Character Controllers/Sources/Scripts/PlatformInputController.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GrayscaleEffect.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/TiltShift.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/Tonemapping.js
+Assets/SciFi level 2/Editor/Image Effects/EdgeDetectEffectNormalsEditor.js
+Assets/SciFi level 2/Materials/Walls 1.mat
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffect.cs
+Assets/SciFi level 2/Materials/Floor.mat
+Assets/SciFi level 2/SciFi/LightmapNear-4.exr
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionSelective.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/ContrastEnhance.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/Noise.png
+Assets/SciFi level 2/Materials/Ground01.mat
+Assets/SciFi level 2/Editor/Image Effects/TiltShiftEditor.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/SeparableBlur.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/grayscale ramp.png
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/ScreenOverlay.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/MotionBlur.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/ColorCorrectionEffect.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/ContrastStretchEffect.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/ContrastEnhanced3D16.png
+Assets/SciFi level 2/Editor/Image Effects/ColorCorrectionCurvesEditor.js
+Assets/SciFi level 2/Materials/Lights.mat
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/CameraMotionBlurDX11.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/DepthOfFieldScatter.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/Quads.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Apply.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/RadialBlur.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/ImageEffectBase.cs
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SimpleClear.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BlendOneOne.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/CameraMotionBlur.js
+Assets/SciFi level 2/Editor/Image Effects/BloomAndLensFlaresEditor.js
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowConeTap.shader
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/sphereShape.psd
+Assets/SciFi level 2/Textures/Floor 02.jpg
+Assets/SciFi level 2/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseEffectGrain.png

@@ -1,0 +1,236 @@
+Library/InputManager.asset
+Library/TagManager.asset
+Library/ProjectSettings.asset
+Library/BuildPlayer.prefs
+Library/AudioManager.asset
+Library/TimeManager.asset
+Library/DynamicsManager.asset
+Library/QualitySettings.asset
+Library/NetworkManager.asset
+Library/EditorBuildSettings.asset
+Library/EditorSettings.asset
+Assets/CharacterCustomization/VirtualWorldExample/Character.prefab
+Assets/Plugins/CharacterElementHolder.cs
+Assets/CharacterCustomization/characters/Male/textures/male_top-2_orange.tga
+Assets/CharacterCustomization/characters/Female/textures/female_hair-1_normal.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_shoes-2_blue.mat
+Assets/CharacterCustomization/VirtualWorldExample/Main.js
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_face-1.mat
+Assets/CharacterCustomization/DressingroomExample/Glow/GlowEffect.cs
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/wallpaper.tga
+Assets/CharacterCustomization/characters/Male/textures/male_top-1_yellow.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/floor_wood.tga
+Assets/CharacterCustomization/characters/Female/Female@item_pants.fbx
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_pants-2_blue.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_pants-2_black.mat
+Assets/CharacterCustomization/characters/Female/textures/female_shoes-2_blue.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/roof.tga
+Assets/CharacterCustomization/characters/Male/textures/male_shoes-1_green.tga
+Assets/CharacterCustomization/characters/Male/textures/male_hair-1_normal.tga
+Assets/CharacterCustomization/characters/Female/Female@item_shirt.fbx
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_shoes-2_brown.mat
+Assets/CharacterCustomization/characters/Male/Male@item_shirt.fbx
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_hair-1_red.mat
+Assets/CharacterCustomization/characters/Male/Male@walk.fbx
+Assets/CharacterCustomization/characters/Male/textures/male_pants-1_dark.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_pants-2_purple.mat
+Assets/CharacterCustomization/characters/Male/textures/male_face-2.tga
+Assets/CharacterCustomization/characters/Female/textures/female_top-2_orange.tga
+Assets/CharacterCustomization/characters/Male/textures/male_pants-1_normal.tga
+Assets/CharacterCustomization/characters/Male/textures/male_shoes-2_brown.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_hair-1_yellow.mat
+Assets/CharacterCustomization/characters/Male/Male@idle1.fbx
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_shoes-2_red.mat
+Assets/CharacterCustomization/characters/Male/textures/male_top-1_pink.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_face-1.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_shoes-1_blue.mat
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/cubemap_y2.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_top-2_green.mat
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/roomLightingMap.tga
+Assets/CharacterCustomization/characters/Male/textures/male_top-1_blue.tga
+Assets/CharacterCustomization/characters/Female/textures/female_pants-1_green.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/dressing_room.FBX
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_top-1_yellow.mat
+Assets/CharacterCustomization/characters/Female/textures/female_top-1_pink.tga
+Assets/CharacterCustomization/characters/Female/textures/female_shoes-1_yellow.tga
+Assets/CharacterCustomization/characters/Female/textures/female_shoes-2_yellow.tga
+Assets/CharacterCustomization/characters/Female/textures/female_top-1_blue.tga
+Assets/CharacterCustomization/characters/Female/Female@walk.fbx
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_hair-2_pink.mat
+Assets/CharacterCustomization/VirtualWorldExample/Textures/utd_asphalt_nm.tga
+Assets/Plugins/StringHolder.cs
+Assets/CharacterCustomization/characters/Male/textures/male_top-1_normal.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_pants-1_dark.mat
+Assets/CharacterCustomization/characters/Female/textures/female_top-2_normal.tga
+Assets/CharacterCustomization/characters/Male/textures/male_shoes-2_red.tga
+Assets/CharacterCustomization/characters/Male/textures/male_top-2_green.tga
+Assets/Plugins/Editor/EditorHelpers.cs
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_shoes-1_red.mat
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/carpetLightingMap.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_eyes_brown.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_pants-2_blue.mat
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_pants-1_blue.mat
+Assets/CharacterCustomization/characters/Female/textures/female_eyes_brown.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_shoes-1_green.mat
+Assets/CharacterCustomization/characters/Male/textures/male_hair-1_orange.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_top-1_pink.mat
+Assets/CharacterCustomization/characters/Male/textures/male_hair-2_brown.tga
+Assets/CharacterCustomization/characters/Female/textures/female_face-2.tga
+Assets/CharacterCustomization/characters/Female/textures/female_hair-2_pink.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_pants-1_green.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_eyes_green.mat
+Assets/CharacterCustomization/characters/Female/textures/female_hair-1_yellow.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/wall_plank.mat
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/artplant_poster.mat
+Assets/CharacterCustomization/characters/Female/textures/female_face-1_normal.tga
+Assets/CharacterCustomization/characters/Male/textures/male_eyes_brown.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_shoes-2_yellow.mat
+Assets/CharacterCustomization/characters/Female/textures/female_pants-1_blue.tga
+Assets/CharacterCustomization/DressingroomExample/Main.cs
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_top-2_purple.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_hair-1_brown.mat
+Assets/CharacterCustomization/characters/Female/textures/female_shoes-1_green.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_pants-1_dark.mat
+Assets/CharacterCustomization/characters/Female/textures/female_face-1.tga
+Assets/CharacterCustomization/characters/Male/textures/male_shoes-2_normal.tga
+Assets/CharacterCustomization/characters/Male/textures/male_pants-2_normal.tga
+Assets/CharacterCustomization/characters/Male/textures/male_pants-2_blue.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/floor_wood.mat
+Assets/CharacterCustomization/characters/Female/textures/female_eyes_green.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/wall_plank.tga
+Assets/CharacterCustomization/characters/Male/Male@item_boots.fbx
+Assets/CharacterCustomization/characters/Female/Female.FBX
+Assets/CharacterCustomization/characters/Female/textures/female_pants-2_blue.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/hanging_clothes.mat
+Assets/CharacterCustomization/characters/Male/textures/male_eyes_green.tga
+Assets/CharacterCustomization/VirtualWorldExample/Materials/asphalt.mat
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_top-2_gray.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_shoes-2_red.mat
+Assets/CharacterCustomization/characters/Female/textures/female_top-1_normal.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_eyes_blue.mat
+Assets/CharacterCustomization/characters/Female/textures/female_pants-1_dark.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_face-2.mat
+Assets/CharacterCustomization/DressingroomExample/MirrorReflection/MirrorReflection.shader
+Assets/CharacterCustomization/DressingroomExample/Glow/ImageEffects.cs
+Assets/CharacterCustomization/characters/Female/textures/female_face-2_normal.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_shoes-2_dark.mat
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_top-2_orange.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_shoes-1_yellow.mat
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/black_wood.tga
+Assets/CharacterCustomization/characters/Female/textures/female_top-1_green.tga
+Assets/CharacterCustomization/characters/Female/textures/female_pants-1_normal.tga
+Assets/CharacterCustomization/characters/Male/textures/male_face-1_normal.tga
+Assets/CharacterCustomization/characters/Female/textures/female_shoes-2_red.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/roof.mat
+Assets/CharacterCustomization/characters/Female/textures/female_hair-1_red.tga
+Assets/CharacterCustomization/characters/Male/textures/male_hair-1_brown.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_top-2_green.mat
+Assets/CharacterCustomization/characters/Female/textures/female_pants-2_normal.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_hair-2_dark.mat
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_shoes-1_black.mat
+Assets/CharacterCustomization/characters/Female/textures/female_top-2_green.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_top-1_blue.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_pants-1_green.mat
+Assets/CharacterCustomization/characters/Female/textures/female_shoes-1_normal.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/unity_poster.tga
+Assets/CharacterCustomization/characters/Female/textures/female_hair-1_brown.tga
+Assets/CharacterCustomization/characters/Male/textures/male_pants-2_lillac.tga
+Assets/CharacterCustomization/characters/Male/textures/male_top-2_normal.tga
+Assets/CharacterCustomization/characters/Male/textures/male_hair-1_blond.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_top-1_pink.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_face-2.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_eyes_brown.mat
+Assets/CharacterCustomization/VirtualWorldExample/Character.js
+Assets/CharacterCustomization/characters/Female/textures/female_eyes_blue.tga
+Assets/CharacterCustomization/characters/Male/textures/male_shoes-2_dark.tga
+Assets/Plugins/Editor/FBXPostprocessor.cs
+Assets/CharacterCustomization/characters/Female/textures/female_hair-2_dark.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/dressing_room-metal.mat
+Assets/CharacterCustomization/DressingroomExample/Glow/GlowEffectDownsample.shader
+Assets/CharacterCustomization/characters/Male/textures/male_pants-1_green.tga
+Assets/CharacterCustomization/VirtualWorldExample.unity
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_hair-1_brown.mat
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/artplant_poster.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/unity_poster.mat
+Assets/CharacterCustomization/characters/Female/textures/female_pants-2_orange.tga
+Assets/CharacterCustomization/characters/Female/textures/female_pants-2_black.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_hair-1_orange.mat
+Assets/CharacterCustomization/characters/Male/textures/male_pants-2_purple.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_hair-2_brown.mat
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/cubemap_x12.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_top-1_green.mat
+Assets/CharacterCustomization/characters/Male/Male.FBX
+Assets/CharacterCustomization/characters/Male/Male@item_pants.fbx
+Assets/Plugins/CharacterElement.cs
+Assets/CharacterCustomization/characters/Male/textures/male_eyes_blue.tga
+Assets/CharacterCustomization/characters/Female/Female@idle1.FBX
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/carpet.mat
+Assets/Plugins/Editor/UpdateCharacterElementDatabase.cs
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_hair-2_red.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_eyes_blue.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_pants-2_orange.mat
+Assets/CharacterCustomization/characters/Male/textures/male_pants-1_blue.tga
+Assets/CharacterCustomization/characters/Female/textures/female_hair-2_cyan.tga
+Assets/CharacterCustomization/characters/Male/textures/male_face-1.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/hanging_clothes.tga
+Assets/CharacterCustomization/characters/Male/textures/male_hair-2_blond.tga
+Assets/CharacterCustomization/characters/Female/Female@item_boots.fbx
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_top-2_orange.mat
+Assets/CharacterCustomization/characters/Female/textures/female_shoes-2_normal.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_eyes_green.mat
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_hair-2_cyan.mat
+Assets/CharacterCustomization/characters/Female/textures/female_shoes-1_blue.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_pants-1_blue.mat
+Assets/CharacterCustomization/VirtualWorldExample/WalkAround.js
+Assets/CharacterCustomization/DressingroomExample/MirrorReflection/MirrorReflection.cs
+Assets/CharacterCustomization/characters/Male/textures/male_hair-2_normal.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_pants-2_lillac.mat
+Assets/Plugins/Editor/GenerateMaterials.cs
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/wallpaper.mat
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/New Cubemap.cubemap
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/cubemap_y1.tga
+Assets/CharacterCustomization/characters/Male/textures/male_face-2_normal.tga
+Assets/CharacterCustomization/characters/Male/textures/male_shoes-1_normal.tga
+Assets/Plugins/Editor/MassMaterialEditor.cs
+Assets/CharacterCustomization/characters/Male/textures/male_shoes-1_black.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_top-1_blue.mat
+Assets/CharacterCustomization/characters/Female/textures/female_top-2_purple.tga
+Assets/CharacterCustomization/characters/Male/textures/male_shoes-1_red.tga
+Assets/CharacterCustomization/characters/Female/Female@walkin.fbx
+Assets/CharacterCustomization/DressingroomExample/dressing_room/textures/carpet.tga
+Assets/CharacterCustomization/DressingroomExample.unity
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_hair-2_blond.mat
+Assets/CharacterCustomization/characters/Male/textures/male_hair-2_red.tga
+Assets/CharacterCustomization/characters/Female/Per Texture Materials/female_shoes-1_green.mat
+Assets/CharacterCustomization/VirtualWorldExample/Textures/utd_asphalt.tga
+Assets/CharacterCustomization/characters/Male/Per Texture Materials/male_hair-1_blond.mat
+Assets/CharacterCustomization/characters/Male/textures/male_top-2_gray.tga
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/black_wood.mat
+Assets/CharacterCustomization/DressingroomExample/dressing_room/Materials/dressing_room-mirror.mat
+Assets/assetbundles/female_hair-2.assetbundle
+Assets/assetbundles/male_pants-2.assetbundle
+Assets/assetbundles/male_hair-1.assetbundle
+Assets/assetbundles/male_shoes-2.assetbundle
+Assets/assetbundles/female_top-1.assetbundle
+Assets/assetbundles/female_pants-1.assetbundle
+Assets/Plugins/Editor/CreateAssetbundles.cs
+Assets/assetbundles/female_characterbase.assetbundle
+Assets/assetbundles/female_pants-2.assetbundle
+Assets/assetbundles/male_face-1.assetbundle
+Assets/assetbundles/female_face-2.assetbundle
+Assets/assetbundles/female_shoes-1.assetbundle
+Assets/assetbundles/male_eyes.assetbundle
+Assets/assetbundles/male_shoes-1.assetbundle
+Assets/assetbundles/female_hair-1.assetbundle
+Assets/assetbundles/male_hair-2.assetbundle
+Assets/assetbundles/male_top-1.assetbundle
+Assets/assetbundles/female_face-1.assetbundle
+Assets/assetbundles/female_top-2.assetbundle
+Assets/assetbundles/male_pants-1.assetbundle
+Assets/assetbundles/male_top-2.assetbundle
+Assets/assetbundles/female_eyes.assetbundle
+Assets/assetbundles/CharacterElementDatabase.assetbundle
+Assets/Plugins/CharacterGenerator.cs
+Assets/assetbundles/male_face-2.assetbundle
+Assets/assetbundles/female_shoes-2.assetbundle
+Assets/assetbundles/male_characterbase.assetbundle

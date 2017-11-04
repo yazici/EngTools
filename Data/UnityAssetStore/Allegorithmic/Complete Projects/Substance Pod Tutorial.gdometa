@@ -1,0 +1,183 @@
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/DLAA.shader
+Assets/_Scripts/ColorPicker.cs
+Assets/Standard Assets/Image Effects (Pro Only)/CameraInfo.js
+Assets/Models/Materials/Hovercraft_Final-blinn3.mat
+Assets/_textures/cockpit_bump.jpg
+Assets/_GUI/buttonMain_Active.png
+Assets/Standard Assets/Image Effects (Pro Only)/Crease.js
+Assets/Models/Materials/Hovercraft_Blockin-blinn1.mat
+Assets/Materials/CubeMapStudioGrey_DEMO/CubeMapStudioGrey_UP.png
+Assets/Models/Materials/Hovercraft_Blockin-phong50.mat
+Assets/Standard Assets/Image Effects (Pro Only)/GlowEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/EdgeDetectNormals.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseEffectShaderYUV.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ConvertDepth.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader
+Assets/_Scripts/ObjectRotator.cs
+Assets/Models/Materials/Hovercraft_Blockin-phong49.mat
+Assets/Standard Assets/Image Effects (Pro Only)/SunShafts.js
+Assets/_GUI/buttonMain_Normal.png
+Assets/Models/Materials/Hovercraft_Final-blinn4.mat
+Assets/Standard Assets/Image Effects (Pro Only)/DepthOfField34.js
+Assets/Standard Assets/Image Effects (Pro Only)/GrayscaleEffect.cs
+Assets/_GUI/MYRIADPRO-SEMIBOLD.OTF
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Adaptation.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ContrastComposite.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ChromaticAberrationShader.shader
+Assets/Models/pod_L_Engine.fbx
+Assets/_textures/ColorPicker004_diff.jpg
+Assets/Standard Assets/Scripts/Utility Scripts/CombineChildren.cs
+Assets/_Scripts/Decal_Selector.cs
+Assets/_GUI/logo.png
+Assets/Standard Assets/Image Effects (Pro Only)/BlurEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/GlobalFog.js
+Assets/_textures/Materials/fabricplain0020_2_s.mat
+Assets/Standard Assets/Editor/Image Effects/AntialiasingAsPostEffectEditor.js
+Assets/_shaders/CTD_Illumin-BumpSpec.shader
+Assets/Models/Materials/Pod_GRP-blinn3.mat
+Assets/Standard Assets/Editor/Image Effects/SunShaftsEditor.js
+Assets/Models/Materials/Hovercraft_Blockin-phong28.mat
+Assets/Standard Assets/Image Effects (Pro Only)/Triangles.js
+Assets/_GUI/MYRIADPRO-BOLDIT.OTF
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/EdgeDetectX.shader
+Assets/Materials/CubeMapStudioGrey_DEMO/CubeMapStudioGrey_BK.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionCurvesSimple.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SSAOShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/LensFlareCreate.shader
+Assets/_GUI/MYRIADPRO-SEMIBOLDIT.OTF
+Assets/_textures/ColorPicker002_diff.jpg
+Assets/Standard Assets/Image Effects (Pro Only)/MotionBlur.cs
+Assets/Materials/CubeMapStudioGrey_DEMO/CubeMapStudioGrey_LF.png
+Assets/_Scripts/SubstanceGUI.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/frag_ao.cginc
+Assets/_textures/ColorPicker003_diff.jpg
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/Blend.shader
+Assets/Standard Assets/Physic Materials/Ice.physicmaterial
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/VignetteShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffectNormals.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/MinMaxReduction.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/Bokeh34.shader
+Assets/_GUI/MYRIADPRO-BOLDCONDIT.OTF
+Assets/Standard Assets/Image Effects (Pro Only)/PostEffectsHelper.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseEffectShaderRGB.shader
+Assets/Materials/CubeMapStudioGrey_DEMO/CubeMapStudioGrey_DN.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseEffectScratch.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VignettingShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionCurves.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/TwirlEffect.shader
+Assets/Standard Assets/Physic Materials/Metal.physicmaterial
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionEffect.shader
+Assets/Models/Materials/Pod_GRP-blinn1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAAPreset2.shader
+Assets/_Scripts/PingPong_Substance.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VortexEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlobalFog.shader
+Assets/_textures/ColorPicker_diff.jpg
+Assets/Materials/CubeMapStudioGrey_DEMO/CubeMapStudioGrey_RT.png
+Assets/Materials/DemoCube.cubemap
+Assets/Standard Assets/Editor/Image Effects/DepthOfField34Editor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/sphereShape.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/hexShape.png
+Assets/Materials/Demo_Packages_019.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/Fisheye.js
+Assets/Models/Pod_GRP.fbx
+Assets/Models/Materials/Hovercraft_Blockin-phong40.mat
+Assets/Standard Assets/Image Effects (Pro Only)/ColorCorrectionCurves.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/FisheyeShader.shader
+Assets/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js
+Assets/Standard Assets/Image Effects (Pro Only)/ImageEffects.cs
+Assets/Standard Assets/Scripts/Camera Scripts/SmoothLookAt.js
+Assets/Standard Assets/Scripts/Utility Scripts/MeshCombineUtility.cs
+Assets/Materials/Ground.mat
+Assets/_GUI/MYRIADPRO-REGULAR.OTF
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/TiltShift.shader
+Assets/_GUI/MYRIADPRO-BOLD.OTF
+Assets/_GUI/Slider_Normal.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowCompose.shader
+Assets/Models/Materials/Pod_GRP-blinn2.mat
+Assets/Models/Materials/pod_L_Engine-blinn2.mat
+Assets/Materials/CubeMapStudioGrey_DEMO/CubeMapStudioGrey_FR.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/DepthOfField34.shader
+Assets/Standard Assets/Physic Materials/Bouncy.physicmaterial
+Assets/_GUI/MYRIADPRO-IT.OTF
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/PrepareSunShaftsBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/SepiaToneEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/RandomVectors.png
+Assets/_GUI/MYRIADPRO-BOLDCOND.OTF
+Assets/Models/Hovercraft_Blockin.fbx
+Assets/Standard Assets/Image Effects (Pro Only)/NoiseEffect.cs
+Assets/Models/Materials/pod_R_Engine-blinn1.mat
+Assets/Standard Assets/Image Effects (Pro Only)/VortexEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/AntialiasingAsPostEffect.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/Models/Materials/Hovercraft_Blockin-phong43.mat
+Assets/Standard Assets/Image Effects (Pro Only)/SSAOEffect.cs
+Assets/_GUI/window_Normal.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowEffectDownsample.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/SSAA.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/CreaseApply.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SepiaToneEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader
+Assets/_GUI/ScrollBarThumb_Normal.png
+Assets/Standard Assets/Image Effects (Pro Only)/TwirlEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/Vignetting.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Luminance.shader
+Assets/_GUI/buttonMain_Hover.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAAPreset3.shader
+Assets/Models/Hovercraft_Final.fbx
+Assets/Standard Assets/Scripts/General Scripts/ActivateTrigger.cs
+Assets/Standard Assets/Scripts/General Scripts/DragRigidbody.js
+Assets/Models/Materials/Hovercraft_Blockin-phong27.mat
+Assets/Materials/CubeMapStudioGrey_DEMO/CubemapStudioGrey_Demo.cubemap
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAA2.shader
+Assets/Standard Assets/Physic Materials/Wood.physicmaterial
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/NFAA.shader
+Assets/Standard Assets/Image Effects (Pro Only)/BloomAndLensFlares.js
+Assets/Materials/DemoSkybox.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SunShaftsComposite.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/color correction ramp.png
+Assets/_GUI/SliderThumb_Normal.png
+Assets/_GUI/button_Normal.png
+Assets/Standard Assets/Image Effects (Pro Only)/PostEffectsBase.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ShowAlphaChannel.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GrayscaleEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/TiltShift.js
+Assets/_GUI/PLACARD CONDENSED.TTF
+Assets/_GUI/MYRIADPRO-COND.OTF
+Assets/Standard Assets/Editor/Image Effects/EdgeDetectEffectNormalsEditor.js
+Assets/Models/Materials/Hovercraft_Blockin-phong48.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+Assets/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffect.cs
+Assets/_textures/lEngine_bump.tga
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionSelective.shader
+Assets/_Scripts/GetProcedural.cs
+Assets/Standard Assets/Image Effects (Pro Only)/ContrastEnhance.js
+Assets/_GUI/button_Hover.png
+Assets/Standard Assets/Editor/Image Effects/TiltShiftEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/SeparableBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/grayscale ramp.png
+Assets/Models/Materials/Hovercraft_Blockin-phong47.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/MotionBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ColorCorrectionEffect.cs
+Assets/Models/Materials/Hovercraft_Blockin-phong46.mat
+Assets/Standard Assets/Image Effects (Pro Only)/ContrastStretchEffect.cs
+Assets/_GUI/button_Active.png
+Assets/Standard Assets/Editor/Image Effects/ColorCorrectionCurvesEditor.js
+Assets/_GUI/ScrollBar_Normal.png
+Assets/Standard Assets/Image Effects (Pro Only)/Quads.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Apply.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/RadialBlur.shader
+Assets/_GUI/MYRIADPRO-CONDIT.OTF
+Assets/_Scripts/FindProceduralProperties.cs
+Assets/Standard Assets/Image Effects (Pro Only)/ImageEffectBase.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SimpleClear.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BlendOneOne.shader
+Assets/Standard Assets/Editor/Image Effects/BloomAndLensFlaresEditor.js
+Assets/Standard Assets/Physic Materials/Rubber.physicmaterial
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowConeTap.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseEffectGrain.png
+Assets/sources/Pod_Tutorial.sbs
+Assets/Standard Assets/Scripts/Camera Scripts/MouseOrbit.js
+Assets/_GUI/VehicleCreator_Skin.guiskin
+Assets/_Scripts/perfswitch.cs
+Assets/_Scenes/MainScene.unity

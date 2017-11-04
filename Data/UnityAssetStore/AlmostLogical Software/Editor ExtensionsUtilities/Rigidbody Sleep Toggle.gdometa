@@ -1,0 +1,4 @@
+Assets/RigidbodySleepToggle/readme.txt
+Assets/RigidbodySleepToggle/Editor/RigidbodySleepToggleMenu.cs
+Assets/RigidbodySleepToggle/RigidbodySleepOnAwake.cs
+Assets/RigidbodySleepToggle/Editor/RigidbodySleepToggleInspector.cs

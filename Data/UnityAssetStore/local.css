@@ -1,0 +1,3395 @@
+/**
+ * Global styles.
+ */
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+body {
+  font-family: "Open Sans", Arial, Sans-Serif;
+  letter-spacing: -0.01em;
+  background-color: #fff;
+  color: #444;
+  font-weight: 300;
+  height: 100%;
+}
+
+#body-wrapper {
+  min-height: 100%;
+  position: relative;
+  padding-top: 72px;
+}
+
+input, textarea {
+  font-family: "Open Sans", Arial, Sans-Serif;
+  color: black;
+}
+
+html, button {
+  -webkit-font-smoothing: antialiased;
+}
+
+html, body {
+  height: 100%;
+}
+
+input:focus, textarea:focus {
+  outline: none;
+}
+
+h3 {
+  margin-bottom: 0;
+  display: inline;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 18px;
+}
+#metadata h3 {
+  display: inline;
+  font-size: 14px;
+}
+
+a {
+  color: #e9292f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+form {
+  margin: 0;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+/**
+ * Defining an explicit color for placeholder text.  Used in goog.ui.LabelInput.
+ * http://stackoverflow.com/a/2610741/566561
+ */
+::-webkit-input-placeholder { /* WebKit browsers */
+  color: #A9A9A9;
+  font-style: italic;
+}
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: #A9A9A9;
+  opacity: 1;
+  font-style: italic;
+}
+
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: #A9A9A9;
+  opacity: 1;
+  font-style: italic;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+  color: #A9A9A9;
+  font-style: italic;
+}
+
+/**
+ * This 'label-input-label' class is added to an input field that has a
+ * goog.ui.LabelInput attached to it when it's empty.
+ */
+input[type=text].label-input-label, textarea.label-input-label {
+  color: #A9A9A9;
+  font-style: italic;
+}
+
+/**
+ * Common SketchUp Header stuff.
+ */
+#sandbar-panel {
+  background: rgb(77, 82, 89);
+  padding: 4px 0 0 0;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  position: absolute;
+  z-index: 9000;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 42px;
+}
+#sandbar {
+  width: 940px;
+  margin: 0 auto;
+}
+#sandbar #logo {
+  background-image: url(../img/su-logo-140.png?40016448a);
+  background-repeat: no-repeat;
+  background-position: 0 3px;
+  font-size: 24px;
+  color: white;
+  padding-left: 145px;
+  color: rgba(0,0,0,0);
+}
+
+#header-panel {
+  height: 30px;
+  position: absolute;
+  top: 42px;
+  left: 0;
+  width: 100%;
+  background: #D4D5D1;
+  z-index: 9000;
+}
+
+#header {
+  font-size: 14px;
+  width: 940px;
+  padding: 5px 0 0 0;
+  margin: 0 auto;
+}
+
+#header #home-link {
+  color: #4D5259;
+  text-decoration: none;
+  font-weight: normal;
+  margin-left: 28px;
+}
+#header #sign-in-link {
+  text-decoration: none;
+  font-weight: normal;
+  float: right;
+  margin-right: 15px;
+  margin-top: 3px;
+  color: #4D5259;
+}
+#header #sign-in-link:hover {
+  text-decoration: underline;
+}
+
+
+/**
+ * Header search form.
+ */
+#header form {
+  float: right;
+  position: relative;
+  top: -2px;
+  white-space: nowrap;
+}
+#header form input[type=text] {
+  margin-left: 5px;
+  border: none;
+  width: 235px;
+  font-size: 12px;
+  padding: 3px 6px;
+  border-right: 60px solid white;
+  height: 24px;
+  font-family: "Open Sans", "Helvetica Neue", Arial,Helvetica, sans-serif;
+  background: white;
+}
+#header form input[type=submit] {
+  background-image: url(../img/icon-search.png?40016448a);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: none;
+  z-index: 1000;
+  color: rgba(0,0,0,0);
+  width: 45px;
+  height: 24px;
+  margin-left: -44px;
+  position: relative;
+  text-shadow: none;
+  -webkit-appearance: button;
+  cursor: pointer;
+  top: 0px;
+  vertical-align: top;
+  overflow: hidden;
+  padding: 0;
+  padding-left: 45px;
+}
+
+/**
+ * The SearchBar widget.
+ */
+#search-bar-panel {
+  display: inline;
+}
+
+#gear-button-div {
+  position: absolute;
+  border: none;
+  font-size: 12px;
+  float: right;
+  top: 0px;
+  left: 173px;
+  outline: none;
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+  background-color: white;
+  z-index: 10;
+  border: 1px solid white;
+  background-image: url(../img/search-settings-gray.png?40016448a);
+  background-repeat: no-repeat;
+  background-position: 0 1px;
+}
+
+.search-bar-menu-div {
+  position: absolute;
+  top: 24px;
+  left: 6px;
+  width: 235px;
+  background: white;
+  border: 1px solid #e6e6e6;
+  float: right;
+  background: white;
+  text-align: left;
+  padding: 6px 8px 6px 8px;
+  overflow: hidden;
+  transition: opacity .3s, height .3s;
+  -moz-transition: opacity .3s, height .3s;
+  -webkit-transition: opacity .3s, height .3s;
+  -o-transition: opacity .3s, height .3s;
+
+  -moz-box-shadow:    0 2px 4px rgba(0,0,0,.3);
+  -webkit-box-shadow: 0 2px 4px rgba(0,0,0,.3);
+  box-shadow:         0 2px 4px rgba(0,0,0,.3);
+}
+
+.search-bar-menu-div-visible {
+  opacity: 1;
+  height: 68px;
+  top: 24px;
+}
+.search-bar-menu-div-hidden {
+  opacity: 0;
+  height: 0;
+  top: -500px;
+}
+
+.search-bar-option {
+  display: inline;
+  cursor: pointer;
+  color: #4D5259;
+}
+.search-bar-option:hover {
+  text-decoration: underline;
+  color: #e9292f;
+}
+.search-bar-option a:hover {
+  text-decoration: underline;
+  color: #e9292f;
+}
+
+.search-bar-option-checkbox {
+
+  -webkit-appearance:none;
+
+  width: 15px;
+  height: 15px;
+  border: 1px solid #acacac;
+  cursor: pointer;
+  margin-right: 3px;
+
+  display: inline-block;
+
+  background-color: white;
+  background-size: 75% auto;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.search-bar-option-checkbox:checked {
+  background-image: url(../img/checkmark-gray.png?40016448a);
+}
+
+/**
+ * The catalog banner style. Appears on appropriate model and collection
+ * details pages.
+ */
+.banner-panel {
+  border-bottom: 1px solid #d8dbde;
+  left: 0;
+  width: 100%;
+  height: 138px;
+  background: white;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.banner-link {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.banner-link:hover {
+  text-decoration: none;
+}
+
+#collection-header-title-wrapper {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.collection-content #description-editable {
+  padding-top: 20px;
+}
+
+.collection-content h1#title {
+  margin-bottom: 5px;
+}
+
+#header-contains {
+  clear: right;
+}
+#header-contained-in {
+  clear: right;
+}
+#header-related-models {
+  clear: right;
+}
+
+
+/**
+ * Common SketchUp Footer stuff.
+ */
+#footer-panel {
+  clear: both;
+  background: #005596;
+  font-size: 12px;
+  color: white;
+  padding: 3px 0 0 0;
+  left: 0;
+  width: 100%;
+  height: 28px;
+  position: absolute;
+  bottom: 0;
+  z-index: 9000;
+}
+
+#footer {
+  color: #D4D5D1;
+  font-size: 12px;
+  width: 940px;
+  padding: 3px 0 0 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#footer a {
+  color: #D4D5D1;
+  text-decoration: none;
+  padding-right: 18px;
+}
+
+#footer a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+#footer #trimble-logo-link {
+  background-image: url(../img/trimble-logo-small.png?40016448a);
+  background-repeat: no-repeat;
+  width: 57px;
+  height: 14px;
+  display: inline-block;
+  float: left;
+  margin-top: 2px;
+}
+
+/**
+ * Styling for the language selector.
+ */
+#footer #language-selector {
+  float: right;
+  border: none;
+  background: #005596;
+  color: #D4D5D1;
+  padding: 0;
+  margin-top: -3px;
+  outline: none;
+  font-size: 12px;
+  position: relative;
+  left: 15px;
+}
+
+/**
+ * Common SketchUp Body stuff.
+ */
+#content, #error-content {
+  font-size: 13px;
+  padding-bottom: 30px;
+  margin: 0 auto;
+  width: 940px;
+}
+
+#error-content {
+  display: none;
+}
+
+#main-content {
+  width: 654px;
+  margin-right: 51px;
+}
+
+/**
+ * Ensures the content is the same or greater height than the metadata-panel.
+ */
+#content-bottom-pad {
+  clear: both;
+  height: 20px;
+}
+
+/**
+ * Default modal dialog look.
+ */
+.modal-dialog {
+  background: #d4d5d1;
+  border: 1px solid #babcbf;
+  color: #444;
+  position: absolute;
+  z-index: 10001;
+}
+
+.modal-dialog:focus, .modal-dialog button:focus {
+  outline: none;
+}
+
+.modal-dialog-bg {
+  background: black;
+  left: 0;
+  position: absolute;
+  top: 0;
+  z-index: 10000;
+}
+
+.modal-dialog-title {
+  background: white;
+  color: #4D5259;
+  position: relative;
+  font-weight: bold;
+
+  /* Add padding on the right to ensure the close button has room. */
+  padding: 8px 31px 8px 8px;
+}
+
+.modal-dialog-title-close {
+  background-image: url(../img/close-x.png?40016448a);
+  cursor: default;
+  height: 15px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  width: 15px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.modal-dialog-buttons,
+.modal-dialog-content {
+  background-color: #f8f8f8;
+  padding: 8px;
+}
+
+.modal-dialog-buttons {
+  text-align: right;
+}
+
+.modal-dialog-buttons button {
+  margin-left: 10px;
+}
+
+/**
+ * Model details page stuff.
+ */
+#metadata-panel {
+  position: relative;
+  width: 235px;
+  margin-left: -245px;
+  float: right;
+}
+
+#metadata {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.metadata-fields {
+  padding: 16px 0px;
+}
+
+.metadata-field {
+  margin: 10px 26px 10px;
+}
+
+.metadata-left-cell {
+  display: table-cell;
+  padding-right: 5px;
+  vertical-align: top;
+  width: 100%;
+}
+
+.metadata-right-cell {
+  display: table-cell;
+  vertical-align: top;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.metadata-value {
+  float: right;
+}
+
+.metadata-section-title {
+  width: 100%;
+  color: #4D5259;
+  background-color: white;
+  height: 28px;
+  display: block;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 28px;
+  padding-left: 8px;
+}
+
+.metadata-container {
+  background-color: #f8f8f8;
+  border: 1px solid #babcbf;
+  display: block;
+  margin: 15px 0px;
+}
+
+.metadata-content {
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+}
+
+.metadata-container a {
+  color: #4D5259;
+}
+
+.metadata-container a:hover {
+  color: #e9292f;
+}
+
+.metadata-buttons {
+  width: 100%;
+  height: 44px;
+  border-bottom: 1px solid #babcbf;
+  position: relative;
+  padding: 0px 14px;
+
+  text-align: justify;
+  -ms-text-justify: distribute-all-lines;
+  text-justify: distribute-all-lines;
+}
+
+#report-abuse-container {
+  width: 100%;
+  height: 100%;
+}
+
+#report-abuse-link {
+  text-decoration: none;
+  margin-bottom: 12px;
+  display: block;
+}
+
+.download-controls {
+  margin: 20px 0 14px;
+  position: relative;
+  display: block;
+  height: 35px;
+}
+
+.container-button-like {
+  position: relative;
+  width: 35px;
+  height: 35px;
+  border: 1px solid #babcbf;
+  border-right: 0px;
+  display: inline-block;
+}
+
+.button-like {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  top: 5px;
+  left: 5px;
+  display: inline-block;
+  background-image: url(../img/like-sprites.png?40016448a);
+  background-size: 24px 48px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  cursor: pointer;
+}
+
+.button-like.deselected:hover {
+  background-position: 0px 0px;
+}
+
+.button-like:hover, .button-like.selected {
+  background-position: 0px -24px;
+}
+
+.button-like .bubble-message {
+  top: 34px;
+  right: -19px;
+  z-index: 500;
+  white-space: nowrap;
+}
+
+#button-download {
+  position: absolute;
+  left: 35px;
+  padding: 0px;
+  width: 200px;
+  display: inline-block;
+  line-height:12px;
+}
+
+/**
+ * TODO (roy): Get rid of the two CSS blocks below once the
+ * like button is ready to go.
+ */
+#button-download {
+  width: 235px;
+  left: 0px;
+}
+
+.container-button-like {
+  display: none;
+  width: 0px;
+  height: 0px;
+}
+
+/* The text-align/justify above and this block allow buttons to take
+   up space evenly throughout the block */
+.metadata-buttons:after {
+  content: '';
+  width: 100%;
+  display: inline-block;
+  font-size: 0;
+  line-height: 0
+}
+
+.metadata-buttons span {
+  display: inline-block;
+  margin: 6px 0px;
+  width: 32px;
+  height: 32px;
+  background-image: url(../img/3dw-sprites.png?40016448a);
+  background-size: 128px 128px;
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+}
+
+.metadata-buttons .hidden {
+  display: none;
+}
+
+#button-image-view {
+  background-position: 0px 0px;
+}
+
+#button-image-view:hover, #button-image-view.selected {
+  background-position: -32px 0px;
+}
+
+#button-map-view {
+  background-position: 0px -32px;
+}
+
+#button-map-view:hover, #button-map-view.selected {
+  background-position: -32px -32px;
+}
+
+#button-swivel-view {
+  background-position: 0px -64px;
+}
+
+#button-swivel-view:hover, #button-swivel-view.selected {
+  background-position: -32px -64px;
+}
+
+#button-chart-view {
+  background-position: 0px -96px;
+}
+
+#button-chart-view:hover, #button-chart-view.selected {
+  background-position: -32px -96px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.model-title {
+  display: table-cell;
+  width: 100%;
+}
+
+.badges-panel {
+  display: table-cell;
+  height: 24px;
+}
+
+/**
+ * NOTE: If this CSS is changed, it's a good idea to check out the
+ * code that places the badges on the page to ensure it still works
+ * as expected (the code is assuming badges are a certain size).
+ */
+.content-badge {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin-left: 4px;
+  background-image: url(../img/badge-sprites.png?40016448a);
+  background-size: 72px 48px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.dynamic-badge {
+  background-position: 0px 0px;
+}
+
+.certified-badge {
+  background-position: -48px 0px;
+}
+
+.classified-badge {
+  background-position: -24px 0px;
+}
+
+/**
+ *  Styling for the drop down underneath the download button.
+ */
+div.download-select {
+  background: white;
+  position: absolute;
+  display: none;
+  width: 265px;
+  border: 1px solid #d8dbde;
+  top: 35px;
+  z-index: 50;
+  left: -30px;
+
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-box-shadow: 0px 1px 4px #ccc;
+  -webkit-box-shadow: 0px 1px 4px #ccc;
+  box-shadow: 0px 1px 4px #ccc;
+}
+
+div.download-option {
+  padding: 10px 10px;
+}
+
+div.download-option:hover {
+  opacity: 1;
+  filter: alpha(opacity = 100);
+  -moz-box-shadow:    inset 0 0 5px rgba(0,0,0,.3);
+  -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,.3);
+  box-shadow:         inset 0 0 5px rgba(0,0,0,.3);
+}
+
+/**
+ *  Embed/share panel
+ */
+.metadata-share {
+  border-top: 1px solid #babcbf;
+  display: none;
+}
+
+.metadata-share-tabs {
+  height: 44px;
+  width: 100%;
+  display: table;
+}
+
+/**
+ * Tabs are hidden on the collection page.  No point in embedding a collection.
+ */
+.collection-metadata .metadata-share-tabs {
+  display: none;
+}
+
+.metadata-share-content {
+  height: 58px;
+  width: 100%;
+}
+
+.metadata-embed-tab, .metadata-social-tab {
+  height: 44px;
+  width: 50%;
+  display: table-cell;
+  cursor: pointer;
+  border-bottom: 1px solid #babcbf;
+  text-align: center;
+  font-weight: 600;
+  background-color: #d4d5d1;
+  vertical-align: middle;
+}
+
+.metadata-embed-tab {
+  border-left: 1px solid #babcbf;
+}
+
+.metadata-share-tabs .tab-selected {
+  /* Change the bottom border to BG color to "hide" it
+     and not mess up vertical alignment. */
+  border-bottom: 1px solid #f8f8f8;
+  background-color: #f8f8f8;
+}
+
+.metadata-social-panel {
+  position: relative;
+}
+
+.metadata-social-panel span {
+  display: inline-block;
+  margin: 0;
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  background-image: url(../img/social-sprites.png?40016448a);
+  background-size: 232px 116px;
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+}
+
+.metadata-embed-panel span {
+  padding: 0px 10px;
+  cursor: pointer;
+  line-height: 58px;
+  position: absolute;
+}
+
+.metadata-embed-panel span:hover {
+  color: #e72b2d;
+  text-decoration: underline;
+}
+
+#button-image-embed {
+  left: 20px;
+}
+
+#button-3d-embed {
+  right: 20px;
+}
+
+#button-facebook-share {
+  left: 58px;
+  background-position: -58px 0px;
+}
+
+#button-facebook-share:hover {
+  background-position: -174px 0px;
+  background-color: #3B579D;
+}
+
+#button-twitter-share {
+  background-position: 0px 0px;
+}
+
+#button-twitter-share:hover {
+  background-position: -116px 0px;
+  background-color: #55ACEE;
+}
+
+#button-gplus-share {
+  background-position: -58px -58px;
+  left: 116px;
+  /* Fake extra space with a border (container width isn't divisible by four).*/
+  border-right: 1px solid #F8F8F8;
+}
+
+#button-gplus-share:hover {
+  background-position: -174px -58px;
+  background-color: #DD4B39;
+  border-right: 1px solid #DD4B39;
+}
+
+#button-pinterest-share {
+  background-position: 0px -58px;
+  left: 175px;
+}
+
+#button-pinterest-share:hover {
+  background-position: -116px -58px;
+  background-color: #CB2027;
+}
+
+/**
+ * Pretty buttons
+ */
+.button, .button-small, .modal-dialog-buttons button {
+  background: #E72B2D; /* Old browsers */
+  /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+  background: -moz-linear-gradient(top,
+     #ea2622 0%, #d50201 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top,
+    left bottom, color-stop(0%,#ea2622),
+    color-stop(100%,#d50201)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,
+    #ea2622 0%,#d50201 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,
+    #ea2622 0%,#d50201 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,
+    #ea2622 0%,#d50201 100%); /* IE10+ */
+  background: linear-gradient(to bottom,
+    #ea2622 0%,#d50201 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(
+    startColorstr='#ea2622', endColorstr='#d50201',
+    GradientType=0 ); /* IE6-8 */
+
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+  border: 0px;
+  color: white;
+
+  text-align:center;
+  white-space:nowrap;
+  text-shadow: none;
+  font-weight: normal;
+  text-decoration: none;
+  letter-spacing: -0.01em;
+  cursor: pointer;
+}
+
+.button, .modal-dialog-buttons button {
+  height: 35px;
+  font-size:14px;
+  line-height:12px;
+  padding: 0px 10px;
+}
+
+a.button:hover, .button-small:hover {
+  text-decoration: none;
+}
+
+#button-download-text {
+  display: inline-block;
+  height: 35px;
+  line-height: 35px;
+  vertical-align: middle;
+}
+
+/* Add a little styling to the advanced search page submit button. */
+.button-advanced {
+  margin-bottom: 20px;
+}
+
+
+.button-small {
+  -webkit-appearance: none;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding;
+  background-clip: padding-box;
+  cursor: pointer;
+  height: 20px;
+  font-size: 12px;
+  outline: 0;
+  overflow: visible;
+  padding: 3px 8px;
+  font-weight: normal;
+  text-shadow: #fff 0 1px 1px;
+  width: auto;
+  margin-top: 9px;
+  display: inline;
+  margin-right: 6px;
+  white-space: nowrap;
+}
+
+
+.splash-screen {
+  position: relative;
+}
+
+/**
+ * Common input form stuff (old upload + advanced search)
+ */
+.field {
+  overflow: auto;
+  margin: 10px 0px;
+}
+
+.field label {
+  float: left;
+  width: 150px;
+}
+
+.field .field-subject {
+  float: left;
+  width: 400px;
+}
+
+.field .radio-label {
+  float: none;
+  width: auto;
+}
+
+.field input[type=text] {
+  width: 400px;
+}
+
+.hidden {
+  display: none;
+}
+
+/**
+ * Input fields for models and collections.  Hide by default
+ * and then display what's needed
+ */
+.model-field, .collection-field {
+  display: none;
+}
+
+/**
+ * Upload page styling
+ */
+.upload-drag-space {
+  width: 100%;
+  height: 158px;
+  border: 4px dashed #acacac;
+  text-align: center;
+  color: #acacac;
+
+  -webkit-transition: all 0.218s;
+  -moz-transition: all 0.218s;
+  -ms-transition: all 0.218s;
+  -o-transition: all 0.218s;
+  transition: all 0.218s;
+}
+
+.upload-drag-space-dragover {
+  border-color: #E72B2D;
+}
+
+.upload-drag-instructions {
+  color: #6c6c6c;
+}
+
+.upload-drag-instructions-complete {
+  color: #E72B2D;
+}
+
+.upload-file-button {
+  display: inline-block;
+  width: 220px;
+  height: 46px;
+  margin-top: 10px;
+  background-color: #acacac;
+  color: white;
+  font-weight: 500;
+  line-height: 46px;
+  overflow: visible;
+  cursor: pointer;
+
+  -webkit-transition: all 0.218s;
+  -moz-transition: all 0.218s;
+  -ms-transition: all 0.218s;
+  -o-transition: all 0.218s;
+  transition: all 0.218s;
+}
+
+.upload-file-button:hover {
+  background-color: #E72B2D;
+}
+
+.upload-limits {
+  font-size: 12px;
+  font-weight: 500;
+  color: #6c6c6c;
+  margin: 5px 0px;
+}
+
+/**
+ * New styling for upload fields.
+ */
+.upload-field {
+  overflow: auto;
+  margin: 10px 0px;
+}
+
+.upload-field label {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.upload-field .line-label {
+  float: left;
+  width: 146px;
+  text-align: right;
+  margin-right: 42px;
+  margin-top: 5px;
+}
+
+.upload-field .inline-label {
+  vertical-align: text-bottom;
+  display: inline-block;
+  line-height: 30px;
+  margin: 0px 20px 5px 0px;
+}
+
+.upload-required-label:before {
+  content: '*';
+}
+
+.upload-required-label {
+  color: #E72B2D;
+}
+
+.upload-field field-subject {
+  float: left;
+}
+
+.upload-field input[type=text], textarea#description {
+  width: 752px;
+  border: 1px solid #acacac;
+  padding: 6px;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: normal;
+
+  -webkit-transition: all 0.218s;
+  -moz-transition: all 0.218s;
+  -ms-transition: all 0.218s;
+  -o-transition: all 0.218s;
+  transition: all 0.218s;
+}
+
+textarea#description {
+  height: 160px;
+  margin-bottom: 0px;
+}
+
+.upload-field #model-upload {
+  margin-top: 5px;
+}
+
+.upload-limits-legacy {
+  /* Line it up with the GUI elements */
+  margin-left: 188px;
+}
+
+#privacy-panel {
+  display: none;
+  margin-bottom: 10px;
+}
+
+.privacy-checkbox {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+
+.privacy-checkbox + .checkbox-label {
+  padding-left: 40px;
+  padding-right: 20px;
+  height: 30px;
+  display: inline-block;
+  line-height: 30px;
+  font-size: 15px;
+  vertical-align: middle;
+  cursor: pointer;
+
+  background-color: white;
+  background-size: 30px 60px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  margin-bottom: 2px;
+}
+
+.privacy-checkbox:checked + .checkbox-label {
+  background-position: 0 -30px;
+}
+
+.checkbox-label {
+  background-image: url(../img/checkbox-30.png?40016448a);
+}
+
+/**
+ * Editable fields on models/collections/users.
+ * When input fields have the edit mode class, they're displayed.
+ */
+.editable textarea, .editable input, a.button-save, a.button-cancel {
+  display: none;
+}
+
+.editable textarea.edit-mode, .editable input.edit-mode, a.editable {
+  display: block;
+}
+
+/**
+ * When spans and divs have the edit mode class, they're not displayed.
+ */
+.editable span, .editable div {
+  display: block;
+}
+
+.editable span.edit-mode, .editable div.edit-mode, .editable h1.edit-mode {
+  display: none;
+}
+
+/**
+ * Basic styling of the input and textareas.
+ */
+.editable input  {
+  width: 100%;
+}
+.editable textarea {
+  font-size: 14px;
+  font-weight: 300;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.metafield {
+  margin-bottom: 12px;
+}
+
+#editable-url {
+  font-size: 14px;
+}
+
+/**
+ * Keep this synced up with the styling for h1 elements, though the one on the
+ * user page requires different margins to keep the "edit" mode looking nice.
+ */
+input#title-edit {
+  font-size: 28px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-weight: 300;
+  line-height: 32px;
+  width: 100%;
+}
+
+input#title-edit {
+  margin-bottom: 0;
+  margin-top: 8px;
+}
+
+/**
+ * Width matches the metadata block right now.
+ */
+textarea#description-edit {
+  height: 200px;
+}
+
+/**
+ * Common Slideshow stuff.
+ */
+#slideshow-panel {
+  min-height: 368px;
+  display: block;
+  width: 654px;
+  height: 368px; /* Slide height */
+  position: relative;
+  margin-bottom: 20px;
+}
+
+/* This div is designed to take advantage of full screen capability as well */
+.slideshow-slides-panel {
+  border: 1px solid #babcbf;
+  background: white;
+  width: 100%;
+  display: block;
+  overflow: hidden;
+
+  /* Fill the rest of the height the icon panel doesn't fill */
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+}
+
+.slideshow-slides-panel-fullscreen {
+  /* This takes up the room the icon panel would've taken otherwise */
+  bottom: 0px;
+  border: 0px;
+}
+.slideshow-slide {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  transition: all .5s;
+  -moz-transition: all .5s;
+  -webkit-transition: all .5s;
+  -o-transition: all .5s;
+  text-align: center;
+}
+.slideshow-slide-hidden, .slideshow-icon-panel-hidden {
+  opacity: 0;
+  z-index: 0;
+}
+.slideshow-slide-visible, .slideshow-icon-panel-visible {
+  opacity: 1;
+  z-index: 100;
+}
+.slideshow-slide iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.slideshow-slide-image {
+  width: 100%;
+  height: 100%;
+}
+
+.slideshow-icons-panel {
+  display: none;
+  position: absolute;
+  width: 654px;
+  height: 57px;
+  bottom: 0px;
+}
+
+.slideshow-icon-panel {
+  position: absolute;
+  transition: all .5s;
+  -moz-transition: all .5s;
+  -webkit-transition: all .5s;
+  -o-transition: all .5s;
+}
+
+.slideshow-icon {
+  width: 109px;
+  display: inline-block;
+  vertical-align: top;
+  height: 57px;
+  overflow: hidden;
+  background: white;
+  cursor: pointer;
+  /* This invisible border prevents the background image from changing
+     size when you hover over it and a red border appears. */
+  border: 1px solid white;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+
+  -webkit-transition: all 0.218s;
+  -moz-transition: all 0.218s;
+  -ms-transition: all 0.218s;
+  -o-transition: all 0.218s;
+  transition: all 0.218s;
+}
+
+.slideshow-icon:hover, .slideshow-icon-selected {
+  border: 1px solid #E72B2D;
+}
+
+.slideshow-icon img {
+  width: 100%;
+  height: 100%;
+}
+
+.slideshow-icon-stats {
+  background-image: url(../img/slideshow-icon-stats.png?40016448a);
+  background-repeat: no-repeat;
+  background-position: 2px 2px;
+}
+
+.slideshow-full-screen {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  top: 1px;
+  right: 1px;
+  z-index: 200;
+  cursor: pointer;
+  background-image: url(../img/full-screen-arrows.png?40016448a);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.slideshow-message {
+  position: absolute;
+  top: 105px;
+  left: 315px;
+  width: 220px;
+  text-align: left;
+  font-size: 18px;
+  color: #e9292f;
+  line-height: 24px;
+  padding: 20px;
+  background: rgba(255, 255, 255, .9);
+  border-radius: 12px;
+}
+
+.slideshow-message a {
+  position: relative;
+  top: 8px;
+}
+
+/**
+ * User card stuff.
+ */
+#user-panel {
+  height: 90px;
+  margin-top: 15px;
+  overflow: hidden;
+}
+
+.user-thumb-wrapper {
+  position: absolute;
+  width: 89px;
+  height: 88px;
+  border-right: 1px solid #babcbf;
+  background-color: white;
+  background-image: url(../img/avatar.png?40016448a);
+  background-repeat: no-repeat;
+  z-index: 5;
+  overflow: hidden;
+}
+
+.user-thumb-wrapper img {
+  width: 88px;
+  height: 88px;
+  border: 2px solid white;
+}
+
+#user-stats {
+  padding-left: 96px; /* Width of image + normal padding for title */
+  width: 100%;
+  height: 100%;
+}
+
+#user-thumb-name {
+  padding-left: 96px; /* Width of image + normal padding for title */
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/**
+ * User page stuff.
+ */
+#user-header-panel {
+  border-bottom: 1px solid #d8dbde;
+  left: 0;
+  width: 100%;
+  background: #f8f8f8;
+  padding-bottom: 12px;
+  height: 138px;
+}
+
+#user-header {
+  font-size: 13px;
+  width: 940px;
+  padding: 5px 0 0 0;
+  margin: 0 auto;
+}
+
+#user-header h1 {
+  margin-bottom: 0;
+}
+
+#user-header-avatar {
+  margin-top: 18px;
+  margin-right: 18px;
+  width: 88px;
+  height: 88px;
+  border: 1px solid #babcbf;
+  background-color: white;
+  background-image: url(../img/avatar.png?40016448a);
+  background-repeat: no-repeat;
+  float: left;
+  -moz-box-shadow:    0 2px 6px rgba(0,0,0,.3);
+  -webkit-box-shadow: 0 2px 6px rgba(0,0,0,.3);
+  box-shadow:         0 2px 6px rgba(0,0,0,.3);
+}
+
+#user-header-avatar img {
+  width: 88px;
+  height: 88px;
+  border: 2px solid white;
+}
+
+#user-header .creation-links {
+  margin-top: 20px;
+  float: right;
+}
+
+.creation-links a {
+  text-align: right;
+  display: block;
+  font-size: 14px;
+
+}
+#upload-model-link, #create-collection-link {
+  color: #444;
+}
+#upload-model-link:hover, #create-collection-link:hover {
+  color: #e9292f;
+}
+
+#user-icon-name {
+  font-size: 12px;
+  color: #444;
+  font-weight: 600;
+}
+
+#user-modeled-by {
+  padding-top: 12px;
+  font-size: 11px;
+  color: #444;
+}
+
+#user-description {
+  clear: left;
+  padding-top: 6px;
+  margin-bottom: -15px;
+}
+
+#user-location #user-entity-count {
+  text-decoration: none;
+}
+
+#user-link {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  text-decoration: none;
+  color: auto;
+}
+
+#tab-panel {
+  height: 30px;
+  position: absolute;
+  left: 50%;
+  top: 180px;
+  margin-left: -365px;
+}
+
+.user-tab {
+  display: inline-block;
+  border: 1px solid #cecece;
+  border-bottom: none;
+  padding: 4px 12px 3px 12px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  cursor: pointer;
+  height: 30px;
+
+  /* Prevent user from being able to select the text inside of the tab. */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.user-tab-selected {
+  background: white;
+  cursor: default;
+}
+
+.user-content {
+  padding-top: 30px;
+}
+
+/**
+ * Common search results stuff.
+ */
+#sort-by-form {
+  float: right;
+}
+#sort-by-message {
+  margin-right: 10px;
+}
+#sort-by-button {
+  filter: none;
+  height: 24px;
+  vertical-align: middle;
+  background:#d4d5d1;
+  color:#4d5259;
+}
+#sort-by-button:hover {
+  height: 24px;
+  vertical-align: middle;
+  background:#e72b2d;
+  color: #ffffff;
+}
+
+/**
+ * common.css for Goog Select widget.
+ */
+
+/*
+ * Default rule; only Safari, Webkit, and Opera handle it without hacks.
+ */
+.goog-inline-block {
+  position: relative;
+  display: -moz-inline-box; /* Ignored by FF3 and later. */
+  display: inline-block;
+}
+
+/*
+ * Pre-IE7 IE hack.  On IE, "display: inline-block" only gives the element
+ * layout, but doesn't give it inline behavior.  Subsequently setting display
+ * to inline does the trick.
+ */
+* html .goog-inline-block {
+  display: inline;
+}
+
+/*
+ * IE7-only hack.  On IE, "display: inline-block" only gives the element
+ * layout, but doesn't give it inline behavior.  Subsequently setting display
+ * to inline does the trick.
+ */
+*:first-child+html .goog-inline-block {
+  display: inline;
+}
+/* End of common.css for Goog Select widget. */
+
+
+/**
+ * menu.css for Goog Select widget.
+ */
+.goog-menu {
+  background-color: #f8f8f8;
+  border: 1px solid #babcbf;
+  min-width: 192px;
+  cursor: default;
+  font-size: 12px;
+  font-weight: 600;
+  margin: 0;
+  outline: none;
+  padding: 4px 0;
+  position: absolute;
+  z-index: 9000; /* Arbitrary, but some apps depend on it... */
+}
+
+.goog-menu-vertical {
+  /* This is here to curb height of "Add to Collection" drop-downs. */
+  max-height: 250px;
+  min-width: 201px;
+  max-width: 250px;
+  overflow: auto;
+}
+/* End of menu.css for Goog Select widget. */
+
+/**
+ * menuitem.css for Goog Select widget.
+ */
+.goog-menuitem {
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 600;
+  list-style: none;
+  margin: 0;
+  /* 28px on the left for icon or checkbox; 1em on the right for shortcut. */
+  padding: 4px 1em 4px 28px;
+  white-space: nowrap;
+}
+
+/* BiDi override for the resting state. */
+/* @noflip */
+.goog-menuitem.goog-menuitem-rtl {
+  /* Flip left/right padding for BiDi. */
+  padding-left: 1em;
+  padding-right: 28px;
+}
+
+/* If a menu doesn't have checkable items or items with icons, remove padding. */
+.goog-menu-nocheckbox .goog-menuitem,
+.goog-menu-noicon .goog-menuitem {
+  padding-left: 12px;
+}
+
+/*
+ * If a menu doesn't have items with shortcuts, leave just enough room for
+ * submenu arrows, if they are rendered.
+ */
+.goog-menu-noaccel .goog-menuitem {
+}
+
+.goog-menuitem-content {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* State: disabled. */
+.goog-menuitem-disabled .goog-menuitem-accel,
+.goog-menuitem-disabled .goog-menuitem-content {
+  color: #ccc !important;
+}
+.goog-menuitem-disabled .goog-menuitem-icon {
+  opacity: 0.3;
+  -moz-opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+
+/* State: hover. */
+.goog-menuitem-highlight,
+.goog-menuitem-hover {
+  color: #E72B2D;
+}
+
+/* State: selected/checked. */
+.goog-menuitem-checkbox,
+.goog-menuitem-icon {
+  background-repeat: no-repeat;
+  height: 16px;
+  left: 6px;
+  position: absolute;
+  right: auto;
+  vertical-align: middle;
+  width: 16px;
+}
+
+/* BiDi override for the selected/checked state. */
+/* @noflip */
+.goog-menuitem-rtl .goog-menuitem-checkbox,
+.goog-menuitem-rtl .goog-menuitem-icon {
+  /* Flip left/right positioning. */
+  left: auto;
+  right: 6px;
+}
+
+.goog-option-selected .goog-menuitem-checkbox,
+.goog-option-selected .goog-menuitem-icon {
+  /* Client apps may override the URL at which they serve the sprite. */
+  background: url(//ssl.gstatic.com/editor/editortoolbar.png?40016448a) no-repeat -512px 0;
+}
+
+/* Keyboard shortcut ("accelerator") style. */
+.goog-menuitem-accel {
+  color: #999;
+  /* Keyboard shortcuts are untranslated; always left-to-right. */
+  /* @noflip */ direction: ltr;
+  left: auto;
+  padding: 0 6px;
+  position: absolute;
+  right: 0;
+  text-align: right;
+}
+
+/* BiDi override for shortcut style. */
+/* @noflip */
+.goog-menuitem-rtl .goog-menuitem-accel {
+  /* Flip left/right positioning and text alignment. */
+  left: 0;
+  right: auto;
+  text-align: left;
+}
+
+/* Mnemonic styles. */
+.goog-menuitem-mnemonic-hint {
+  text-decoration: underline;
+}
+
+.goog-menuitem-mnemonic-separator {
+  color: #999;
+  font-size: 12px;
+  padding-left: 4px;
+}
+/* End of menuitem.css for Goog Select widget. */
+
+
+/*
+ * flat-menu.css for Goog Select widget.
+ */
+.goog-flat-menu-button {
+  width: 192px;
+  height: 24px;
+  background-color: #f8f8f8;
+  border: 1px solid #babcbf;
+  color: #333;
+  cursor: pointer;
+  list-style: none;
+  outline: none;
+  padding: 1px 4px;
+  position: relative;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.goog-flat-menu-button-disabled * {
+  border-color: #ccc;
+  color: #999;
+  cursor: default;
+}
+
+.goog-flat-menu-button-hover {
+}
+
+.goog-flat-menu-button-active {
+  background-color: #bbb;
+  background-position: bottom left;
+}
+
+.goog-flat-menu-button-focused {
+  border-color: #bbb;
+}
+
+.goog-flat-menu-button-caption {
+  width: 100%;
+  padding-left: 3px;
+  padding-right: 14px;
+  vertical-align: top;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.goog-flat-menu-button-dropdown {
+  background: url(../img/drop-down-arrow.png?40016448a) no-repeat;
+  background-size: contain;
+  width: 10px;
+  height: 5px;
+  position: absolute;
+  right: 5px;
+  top: 9px;
+  vertical-align: top;
+}
+/* End of flat-menu.css for Goog Select widget. */
+
+/**
+ * Styling for the bubble widget.
+ * Reference: ﻿http://nicolasgallagher.com/pure-css-speech-bubbles/demo/
+ */
+.bubble-message {
+  position: absolute;
+  padding: 10px;
+  border: 1px solid #babcbf;
+  background-color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.bubble-message:before {
+  content: "";
+  position: absolute;
+  bottom: -10px; /* value = - border-top-width - border-bottom-width */
+  left: 20px; /* controls horizontal position */
+  border-width: 10px 10px 0;
+  border-style: solid;
+  border-color: #babcbf transparent;
+  /* reduce the damage in FF3.0 */
+  display: block;
+  width: 0;
+}
+
+/* creates the smaller  triangle */
+.bubble-message:after {
+  content: "";
+  position: absolute;
+  bottom: -9px; /* value = - border-top-width - border-bottom-width */
+  left: 21px; /* value = (:before left) + (:before border-left) - (:after border-left) */
+  border-width: 9px 9px 0;
+  border-style: solid;
+  border-color: #fff transparent;
+  /* reduce the damage in FF3.0 */
+  display: block;
+  width: 0;
+}
+
+/* creates the larger triangle */
+.bubble-message.top:before {
+  top: -10px; /* value = - border-top-width - border-bottom-width */
+  bottom: auto;
+  left: auto;
+  right: 20px; /* controls horizontal position */
+  border-width: 0 10px 10px;
+}
+
+/* creates the smaller  triangle */
+.bubble-message.top:after {
+  top: -9px; /* value = - border-top-width - border-bottom-width */
+  bottom: auto;
+  left: auto;
+  right: 21px; /* value = (:before right) + (:before border-right) - (:after border-right) */
+  border-width: 0 9px 9px;
+}
+
+
+/**
+ * Multi-line search results.
+ */
+#multi-line-results .previous-button, #multi-line-results .next-button {
+  position: static;
+  background-image: none;
+  background-color: white;
+  min-width: 90px;
+  height: 35px;
+  margin: 20px 10px;
+  padding: 5px;
+  display: inline-block;
+
+  /* Show the text. */
+  text-indent: 0px;
+  white-space: normal;
+  overflow: visible;
+  color: #4D5259;
+  font-weight: bold;
+
+  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  transition: none;
+
+  font-size: 11pt;
+}
+
+#multi-line-results .previous-button {
+  text-align: right;
+}
+#multi-line-results .next-button {
+  text-align: left;
+}
+
+#multi-line-results .previous-button:hover,
+#multi-line-results .next-button:hover {
+  color:#E72B2D;
+  text-decoration: underline;
+}
+
+/**
+ * Single-line search results.
+ */
+.previous-button, .next-button {
+  position: absolute;
+  top: 2px;
+  width: 26px;
+  height: 130px;
+  color: white;
+  background-color: #babcbf;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 50% auto;
+  cursor: pointer;
+
+  -webkit-transition: all 0.218s;
+  -moz-transition: all 0.218s;
+  -ms-transition: all 0.218s;
+  -o-transition: all 0.218s;
+  transition: all 0.218s;
+
+  /* Hide the text. */
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.previous-button:hover, .next-button:hover {
+  background-color: #E72B2D;
+}
+
+.previous-button {
+  left: -30px;
+  background-image: url(../img/arrow-left-white.png?40016448a);
+}
+
+.next-button {
+  left: 944px;
+  background-image: url(../img/arrow-right-white.png?40016448a);
+}
+
+.search-results {
+  position: relative;
+  min-height: 140px;
+  display: block;
+  clear: right;
+}
+
+#results-title {
+  font-size: 28px;
+  margin-bottom: 12px;
+  margin-top: -4px;
+  font-weight: 300;
+  line-height: 32px;
+}
+
+.results-creator {
+  display: block;
+  height: 18px;
+  overflow: hidden;
+}
+
+#related-models-container #related-collections-container {
+  min-height: 100px;
+}
+
+.results-collection {
+  width: 231px; /* 16:9 ratio */
+  height: 130px;
+  text-decoration: none;
+  display: inline-block;
+  overflow: hidden;
+  margin: 0 4px 0 0;
+  position: relative;
+}
+
+.results-collection-tile1, .results-collection-tile2,
+    .results-collection-tile3 {
+  position: absolute;
+  width: 225px;
+  height: 130px; /* 16:9 ratio */
+  border: 1px solid #babcbf;
+  overflow: hidden;
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.results-collection-count {
+  position: absolute;
+  z-index: 10;
+  left: 10px;
+  width: 37px;
+  height: 34px;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  overflow: hidden;
+  background-image: url(../img/collection-flap.png?40016448a);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.results-collection-tile1 {
+  height: 127px;
+  top: 3px;
+  z-index: 5;
+}
+
+.results-collection-tile2 {
+  height: 126px;
+  left: 3px;
+  top: 4px;
+  z-index: 4;
+}
+
+.results-collection-tile3 {
+  height: 125px;
+  left: 6px;
+  top: 5px;
+  z-index: 3;
+}
+
+.results-entity {
+  border: 1px solid #babcbf;
+  width: 231px; /* 16:9 ratio */
+  height: 130px;
+  text-decoration: none;
+
+  display: inline-block;
+  overflow: hidden;
+  margin: 0 4px 0 0px;
+  position: relative;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.results-collection, .results-entity {
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.5s;
+  -ms-transition: opacity 0.5s;
+  -o-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+}
+
+.results-new-line + .results-entity, .results-new-line + .results-collection {
+  margin-left: 0px;
+}
+
+.results-download-link {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 32px;
+  height: 34px;
+  z-index: 5;
+  overflow: hidden;
+  background-image: url(../img/3dw-sprites.png?40016448a);
+  background-size: 128px 128px;
+  background-repeat: no-repeat;
+  background-position: -64px -64px;
+  cursor: pointer;
+}
+
+.results-download-link:hover {
+  background-position: -96px -64px;
+}
+
+.results-entity:hover .results-remove-link-desktop,
+.results-collection:hover .results-remove-link-desktop {
+  opacity: 1.0;
+}
+
+.results-remove-link-desktop, .results-remove-link-mobile {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  width: 24px;
+  height: 24px;
+  z-index: 5;
+  overflow: hidden;
+  background-image: url(../img/close-sprites.png?40016448a);
+  background-size: 48px 24px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+}
+
+.results-remove-link-desktop {
+  opacity: 0.0;
+  -webkit-transition: opacity 0.218s;
+  -moz-transition: opacity 0.218s;
+  -ms-transition: opacity 0.218s;
+  -o-transition: opacity 0.218s;
+  transition: opacity 0.218s;
+}
+
+.results-remove-link-desktop:hover, .results-remove-link-mobile {
+  background-position: -24px 0px;
+}
+
+.results-collection .results-remove-link-desktop,
+.results-collection .results-remove-link-mobile {
+  top: 7px;
+  right: 10px;
+}
+
+.results-entity-info, .results-collection-info {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  height: 25px;
+  color: #4D5259;
+  font-size: 13px;
+  text-decoration: none;
+  background-color: white;
+  z-index: 3;
+  text-align: left;
+  -moz-box-shadow:    0 0 10px 10px white;
+  -webkit-box-shadow: 0 0 10px 10px white;
+  box-shadow:         0 0 10px 10px white;
+  opacity: 0.90;
+}
+
+.results-entity-title, .results-entity-description, .results-entity-price, .results-entity-company, .results-entity-name, .results-entity-type, .results-collection-title {
+  position: absolute;
+  bottom: 15px;
+  left: 4px;
+  right: 33px;
+  color: #4D5259;
+  font-size: 10pt;
+  line-height: 12pt;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  z-index: 10;
+}
+
+.results-entity-type{
+  position: absolute;
+  bottom: 15px;
+  left: 4px;
+  right: 33px;
+  color: #4D5259;
+  font-size: 10pt;
+  line-height: 12pt;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  z-index: 10;
+}
+.results-entity-company {
+  position: absolute;
+  bottom: 45px;
+  left: 4px;
+  right: 33px;
+  color: #4D5259;
+  font-size: 10pt;
+  line-height: 12pt;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  z-index: 10;
+}
+.results-entity-name{
+  position: absolute;
+  bottom: 30px;
+  left: 4px;
+  right: 33px;
+  color: #4D5259;
+  font-size: 10pt;
+  line-height: 12pt;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  z-index: 10;
+}
+.results-entity-author, .results-collection-author {
+  position: absolute;
+  left: 4px;
+  right: 33px;
+  bottom: 2px;
+  font-size: 8pt;
+  color: #4D5259;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  z-index: 10;
+  text-align: left;
+}
+
+.results-entity-author:hover, .results-collection-author:hover {
+  color: #e72b2d;
+}
+
+.results-collection-title, .results-collection-author {
+  /* We don't need a large space on the right here as
+     there's no download button. */
+  right: 10px;
+}
+
+
+/**
+ * Page link buttons navigation bar stuff.  Used with our pagination feature.
+ * All of the page button links gets stuffed into the DIV with this CSS class
+ * name.
+ */
+#page-link-buttons {
+  display: inline-block;
+  font-weight: bold;
+  font-size: 10pt;
+}
+
+.page-link-buttons-button {
+  color: #4D5259;
+  margin: 3px;
+  padding: 5px;
+}
+
+.page-link-buttons-button:hover {
+  color: #E72B2D;
+}
+
+.page-link-buttons-current-page {
+  border: 1px solid #babcbf;
+  color: #4D5259;
+  /*background: #d4d5d1;*/
+  /*color: #4D5259;*/
+}
+
+.page-link-buttons-current-page:hover {
+  /* Prevent the currently selected page button/link text from turning red.
+     Nothing should happen when you hover over it. */
+  color: #4D5259;
+}
+
+.page-link-buttons-debugging-div {
+  padding: 3px;
+  margin-top: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #babcbf;
+}
+
+
+/**
+ * Common collection stuff.
+ */
+.collection-thumb-wrapper {
+  background-image: url(../img/collection-thumb.png?40016448a);
+  background-position: left center;
+  height: 93px;
+  width: 163px;
+  display: inline-block;
+  margin-top: 12px;
+  margin-right: 9px;
+  vertical-align: top;
+}
+
+.collection-thumb {
+  background-position: center center;
+  height: 84px;
+  width: 154px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+  border: 1px solid #d3d3d3;
+  display: inline-block;
+  margin-top: 9px;
+  border: 1px solid;
+  cursor: pointer;
+  vertical-align: top;
+  -webkit-transition: all 0.218s;
+  -moz-transition: all 0.218s;
+  -ms-transition: all 0.218s;
+  -o-transition: all 0.218s;
+  transition: all 0.218s;
+  opacity: 1;
+  filter: alpha(opacity = 100);
+  background-repeat: no-repeat;
+  background-color: white;
+  padding: 12px 0 0 12px;
+  cursor: pointer;
+  -moz-box-shadow:    inset 0 0 0 2px #f1f1f1;
+  -webkit-box-shadow: inset 0 0 0 2px #f1f1f1;
+  box-shadow:         inset 0 0 0 2px #f1f1f1;
+  color: #d3d3d3;
+}
+
+.collection-thumb:hover {
+  margin-left: -3px;
+  margin-top: 12px;
+  color: #e9292f;
+}
+
+.collection-thumb b {
+  font-size: 20px;
+  line-height: 16px;
+}
+
+.collection-title {
+  padding: 30px 0 10px 0;
+  font-weight: 300;
+  font-size: 35px;
+  line-height: 32px;
+  width: 750px;
+  display: inline-block;
+}
+
+#collection-viewer-panel {
+  border: 1px solid #dadde0;
+  /*background: #f8f8f8;*/
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  width: 700px;
+  height: 500px;
+  display: block;
+  padding: 10px;
+}
+
+/**
+ * Common Tree stuff.
+ */
+.tree ul {
+  margin: 0 0 0 16px;
+  padding: 0;
+}
+
+.tree ul.outermost {
+  left: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.tree li {
+  list-style-type: square;
+  cursor: pointer;
+  list-style-position: inside;
+  padding: 0 6px 0 6px;
+}
+
+.tree li:hover {
+  background: #eee;
+}
+
+.tree li.selected {
+  background: silver;
+}
+
+/**
+ * Index.html stuff.
+ */
+.main-content {
+  width: 100%;
+  display: block;
+}
+
+.preview-row {
+  height: 160px;
+}
+
+.sidebar-block {
+  width: 100%;
+  border: 1px solid #dadde0;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  margin-top: 20px;
+  min-height: 100px;
+  padding: 9px;
+}
+
+/**
+ * Preview box stuff.
+ */
+#preview {
+  position: absolute;
+  z-index: 9000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#preview-background {
+  background: rgba(0,0,0,.3);
+  position: absolute;
+  z-index: 9000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#preview-panel {
+  background: black;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 367px;
+  height: 367px;
+  background: white;
+  margin: -177px 0 0 -177px;
+  z-index: 9010;
+  padding: 18px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  -moz-box-shadow:    0 3px 10px rgba(0,0,0,.6);
+  -webkit-box-shadow: 0 3px 10px rgba(0,0,0,.6);
+  box-shadow:         0 3px 10px rgba(0,0,0,.6);
+  font-size: 13px;
+}
+
+#preview-thumb {
+  width: 330px;
+  height: 175px;
+  border: 1px solid #e0e0e0;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+  background-position: center center;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+
+#preview-x {
+  background-image: url(../img/search-arrow.png?40016448a);
+  width: 25px;
+  height: 25px;
+  float: right;
+  margin-bottom: -25px;
+  cursor: pointer;
+  background-position: -25px 0;
+  position: relative;
+  z-index: 220;
+  background-position: 0 0;
+  left: -3px;
+  top: 3px;
+}
+
+#preview-head {
+  font-size: 22px;
+  margin: 9px 0 3px 0;
+  cursor: pointer;
+}
+
+#preview-download-button {
+  position: relative;
+  top: 20px;
+}
+
+#preview-download-button-shim {
+  float: right;
+  clear: right;
+  height: 45px;
+  width: 0px;
+}
+
+#preview-content {
+  height: 94px;
+  overflow: hidden;
+  margin-top: -12px;
+}
+
+h1, #title {
+  font-size: 28px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-weight: 300;
+  line-height: 32px;
+  width: 100%;
+}
+
+h2 {
+  font-size: 24px;
+  margin-top: 25px;
+  font-weight: 300;
+  margin-bottom: 6px;
+}
+
+
+#description {
+  clear: left;
+  font-size: 14px;
+  font-weight: 300;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+/* TODO (roy): Styles for debug element.  Remove when appropriate. */
+div.debug-panel {
+  background-color: #005596;
+  color: white;
+  display: block;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 6px;
+  font-size: 12px;
+  z-index: 10000;
+}
+
+div.debug-panel a {
+  color: white;
+  cursor: pointer;
+  margin: 12px 0 0 0;
+  text-decoration: underline;
+}
+
+div.debug-panel input {
+  margin-right: 5px;
+}
+
+div.debug-panel label {
+  margin-right: 15px;
+}
+
+#embed-body div.debug-panel {
+  display: none;
+}
+
+/**
+ * Icons
+ */
+#icon-downloads-white {
+  display: inline-block;
+  width: 19px;
+  height: 28px;
+  background-image: url(../img/icon-downloads-white.png?40016448a);
+  vertical-align: middle;
+  margin-left: -12px;
+  margin-right: 3px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
+/**
+ * Swivel view stuff.
+ */
+.swivel-arrows-small {
+  background-image: url(../img/swivel-arrows-small.png?40016448a);
+  background-repeat: no-repeat;
+  background-position: 1px 2px;
+  width: 62px;
+  height: 34px;
+  background-color: rgba(255, 255, 255, .7);
+  margin-left: -62px;
+  display: inline-block;
+}
+
+.swivel-arrows-3d {
+  background-image: url(../img/swivel-arrows-3d.png?40016448a);
+  background-repeat: no-repeat;
+  background-position: 12px 3px;
+  width: 62px;
+  height: 34px;
+  background-color: rgba(255, 255, 255, .4);
+  margin-left: -62px;
+  display: inline-block;
+}
+
+#popular-collections {
+  margin-bottom: 40px;
+}
+
+#pagination-links {
+  width: 940px;
+  text-align: center;
+  display: block;
+  font-size: 16px;
+}
+
+/**
+ * AccountMenu styles.
+ */
+#account-menu-panel {
+  width: 203px;
+  display: inline-block;
+  float: right;
+  margin-top: -2px;
+  height: 20px;
+  overflow: visible;
+}
+
+#account-menu-panel .sign-in-link {
+  text-decoration: none;
+  font-weight: normal;
+  float: right;
+  margin-right: 15px;
+  cursor: pointer;
+}
+#account-menu-panel a:hover {
+  text-decoration: underline;
+  color: #E72B2D;
+}
+.sign-out-link {
+  float: right;
+  margin-right: 15px;
+  cursor: pointer;
+  margin-top: 2px;
+  color: #4D5259;
+}
+.sign-out-link:hover {
+  text-decoration: none;
+}
+.sign-in-help-link {
+  position: relative;
+  top: -3px;
+  float: right;
+  margin-right: 8px;
+  cursor: pointer;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background-image: url(../img/help-sprites.png?40016448a);
+  background-size: 60px 30px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+}
+.sign-in-help-link:hover {
+  background-position: -30px 0px;
+}
+.account-menu-user {
+  width: 203px;
+  overflow: hidden;
+  height: 24px;
+  background-image: url(../img/arrow-down.png?40016448a);
+  background-repeat: no-repeat;
+  background-position: top right;
+  padding: 0;
+  color: #4D5259;
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.account-menu-user img {
+  margin-right: 4px;
+  vertical-align: middle;
+  width: 24px;
+  height: 24px;
+  border-right: 1px solid #4D5259;
+}
+
+.account-menu-select {
+  margin-top: -1px;
+  width: 182px;
+  float: right;
+  background: #D4D5D1;
+  text-align: left;
+  padding: 6px 8px;
+  overflow: hidden;
+  transition: opacity .3s, height .3s;
+  -moz-transition: opacity .3s, height .3s;
+  -webkit-transition: opacity .3s, height .3s;
+  -o-transition: opacity .3s, height .3s;
+  position: relative;
+}
+.account-menu-select-visible {
+  opacity: 1;
+  top: 0;
+}
+.account-menu-select-hidden {
+  opacity: 0;
+  top: -500px;
+}
+a.account-menu-link {
+  display: block;
+  padding: 1px 0 1px 0;
+  color: #4D5259;
+}
+a.account-menu-link:hover {
+  text-decoration: none;
+  color: #e9292f;
+}
+
+
+/*
+ * Butter Bar Settings.
+ */
+.butter-bar {
+  background-image: url(../img/close-x.png?40016448a);
+  background-repeat: no-repeat;
+  background-position: 666px 16px;
+  display: block;
+  background-color: #FFFBD9;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  border: 1px solid #FFEBC5;
+  margin-top: 0;
+  padding: 12px 50px 0px 20px;
+  margin: 0 0 0 0;
+  line-height: 24px;
+  font-size: 14px;
+  position: fixed;
+  top: 34px;
+  left: 50%;
+  width: 700px;
+  margin-left: -350px;
+  height: auto;
+
+  -moz-box-shadow:    0 2px 4px rgba(0,0,0,.3);
+  -webkit-box-shadow: 0 2px 4px rgba(0,0,0,.3);
+  box-shadow:         0 2px 4px rgba(0,0,0,.3);
+
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+
+  cursor: pointer;
+}
+
+.butter-bar-hidden {
+  opacity: 0;
+  z-index: -100;
+  filter: alpha(opacity = 0);
+}
+.butter-bar-visible {
+  opacity: 1;
+  z-index: 100000;
+  filter: alpha(opacity = 100);
+}
+.butter-bar p {
+  margin: 0 0 12px 0;
+}
+.butterbar-message-text {
+  font-weight: bold;
+}
+
+
+/**
+ * UsageChart styles.
+ */
+.usagechart-panel {
+  border: 20px solid white;
+  width: 100%;
+  height: 100%;
+  background: white;
+}
+
+/**
+ * Homepage styles.
+ */
+.featured-models-panel {
+  width: 100%;
+  height: 228px;
+  margin-top: 3px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: center;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.featured-models {
+  text-align: center;
+  margin-left: -5px;
+  height: 228px;
+  overflow: hidden;
+  white-space: nowrap;
+  display: inline-block;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.featured-models-next-button,
+.featured-models-back-button {
+  background-image: url(../img/arrow-featured.png?40016448a);
+  background-repeat: no-repeat;
+  position: absolute;
+  margin-top: 60px;
+  width: 60px;
+  height: 100px;
+  opacity: 0;
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.5s;
+  -ms-transition: opacity 0.5s;
+  -o-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+  cursor: pointer;
+  z-index: 1000;
+}
+.featured-models-next-button {
+  background-position: 0px 0px;
+  left: 100%;
+  margin-left: -60px;
+}
+.featured-models-back-button {
+  background-position: -180px 0px;
+  left: 0;
+  margin-left: 0;
+}
+.featured-models-panel:hover .featured-models-next-button,
+.featured-models-panel:hover .featured-models-back-button {
+  opacity: .85;
+  cursor: pointer;
+}
+.featured-models-panel:hover .featured-models-next-button:hover {
+  opacity: 1;
+  cursor: pointer;
+  background-position: -60px 0px;
+}
+.featured-models-panel:hover .featured-models-back-button:hover {
+  opacity: 1;
+  cursor: pointer;
+  background-position: -120px 0px;
+}
+
+.results-entity-featured {
+  border: 1px solid #babcbf;
+  width: 400px; /* 16:9 ratio */
+  height: 225px;
+  text-decoration: none;
+
+  display: inline-block;
+  overflow: hidden;
+  margin: 0 4px 0 0;
+  position: relative;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.results-entity-featured img {
+  height: 225px;
+}
+
+.featured-logos-panel {
+  width: 100%;
+  height: 100px;
+  margin: 0;
+  padding-top: 15px;
+  overflow: hidden;
+  white-space: nowrap;
+  border-top: 1px solid #babcbf;
+  border-bottom: 1px solid #babcbf;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+#featured-logos {
+  text-align: center;
+  margin: 0 auto;
+  height: 70px;
+  overflow: hidden;
+  white-space: nowrap;
+  display: inline-block;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+#featured-logos img {
+  position: relative;
+  margin: 0 0 0 50px;
+  opacity: .5;
+  transition: opacity .5s;
+  -webkit-transition: opacity .5s;
+  height: 140px;
+}
+#featured-logos img:hover {
+  opacity: 1;
+  top: -70px;
+}
+.featured-logos-next-button,
+.featured-logos-back-button {
+  background-image: url(../img/arrow-featured.png?40016448a);
+  background-repeat: no-repeat;
+  position: absolute;
+  margin-top: -16px;
+  width: 60px;
+  height: 100px;
+  opacity: 0;
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.5s;
+  -ms-transition: opacity 0.5s;
+  -o-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+  cursor: pointer;
+  z-index: 1000;
+}
+.featured-logos-next-button {
+  background-position: 0px 0px;
+  left: 100%;
+  margin-left: -60px;
+}
+.featured-logos-back-button {
+  background-position: -180px 0px;
+  left: 0;
+  margin-left: 0;
+}
+.featured-logos-panel:hover .featured-logos-next-button,
+.featured-logos-panel:hover .featured-logos-back-button {
+  opacity: .85;
+  cursor: pointer;
+}
+.featured-logos-panel:hover .featured-logos-next-button:hover {
+  opacity: 1;
+  cursor: pointer;
+  background-position: -60px 0px;
+}
+.featured-logos-panel:hover .featured-logos-back-button:hover {
+  opacity: 1;
+  cursor: pointer;
+  background-position: -120px 0px;
+}
+
+/**
+ * The "Add to collection" panel. By default it is hidden.
+ */
+#add-to-controls {
+  width: 100%;
+  margin: 0px;
+}
+
+#add-to-select-container {
+  width: 201px;
+}
+
+#add-to-select-container .goog-flat-menu-button {
+  width: 201px;
+}
+
+#add-to-button {
+  padding: 0px;
+  filter: none;
+  margin: 0px;
+  width: 34px;
+  height: 24px;
+  vertical-align: middle;
+  background: #d4d5d1;
+  color: #4d5259;
+  display: inline-block;
+  text-align: center;
+}
+
+#add-to-button-image {
+  background-image: url(../img/plus-sprites.png?40016448a);
+  background-size: 24px 48px;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
+
+#add-to-button:hover {
+  background-color: #e72b2d;
+  color: #ffffff;  
+}
+
+#add-to-button:hover #add-to-button-image {
+  background-position: 0px -24px;
+}
+
+/**
+ * The editing panel, which contains the edit/save/cancel buttons.
+ */
+.edit-panel {
+  margin-top: 20px;
+}
+#user-header .edit-panel {
+  text-align: right;
+}
+
+
+/**
+ * ClientUpload page stuff.
+ */
+#client-upload-error-message {
+  text-align: center;
+  font-size: 16px;
+}
+
+#upgrade-button, #upload-form-button, #close-button {
+  border: 0px;
+  padding: 12px;
+  margin-bottom: 12px;
+  width: auto;
+  display: inline;
+}
+
+#upload-button-container, #upgrade-button-container, #close-button-container {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+#client-upload-error-button-panel {
+  display: block;
+  position: fixed;
+  height: 150px;
+  top: 100%;
+  margin-top: -150px;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 100;
+  background: whitesmoke;
+  padding-top: 45px;
+}
+
+.client-upload-hint-text {
+  font-weight: 300;
+  font-size: 12px;
+}
+
+/**
+ * Terms of service lightbox.
+ */
+.tos-mask {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 10000;
+  background: black;
+  opacity: .45;
+  left: 0;
+  top: 0;
+}
+.tos-dialog {
+  position: absolute;
+  width: 330px;
+  height: auto;
+  top: 50%;
+  left: 50%;
+  margin-left: -165px;
+  margin-top: -120px;
+  background: white;
+  padding: 30px 40px;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 500;
+  font-size: 13px;
+  border: 2px solid #d4d5d1;
+  z-index: 10001;
+}
+.tos-dialog a {
+  text-decoration: underline;
+}
+.tos-dialog .button {
+  display: inline-block;
+  padding-top: 10px;
+  width: 250px;
+  margin-top: 20px;
+  text-decoration: none;
+}
+.tos-header {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding-right: 12px;
+}
+.tos-header img {
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+  margin-right: 6px;
+  margin-left: -12px;
+}
+.tos-pointer {
+  background: #005596;
+  font-size: 12px;
+  color: #D4D5D1;
+  position: fixed;
+  bottom: 13px;
+  left: 50%;
+  margin-left: 20px;
+  width: 130px;
+  height: auto;
+  padding: 9px;
+  z-index: 9000;
+  cursor: pointer;
+  text-align: center;
+  font-weight: normal;
+}
+.tos-pointer a {
+  color: #D4D5D1;
+  text-decoration: underline;
+}
+.tos-pointer a:hover {
+  color: white;
+}
+.tos-pointer:after {
+  content: "";
+  width: 16px;
+  height: 12px;
+  position: absolute;
+  display: block;
+  bottom: -12px;
+  left: 55px;
+  cursor: pointer;
+  background-image: url(../img/tos-pointer.png?40016448a);
+  background-repeat: no-repeat;
+}
+.tos-pointer:before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  display: block;
+  top: -10px;
+  left: 120px;
+  cursor: pointer;
+  background-image: url(../img/close-x-circle.png?40016448a);
+  background-repeat: no-repeat;
+}
+
+/**
+ *  Embed page styling.
+ */
+#embed-body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#progress {
+  display: none;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 91px;
+  height: 91px;
+  margin-left: -45px;
+  margin-top: -45px;
+  text-align: center;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+#progress img {
+  position: absolute;
+  width: 91px;
+  height: 91px;
+  top: 0;
+  left: 0;
+}
+
+#embed-body .modal-dialog {
+  box-shadow: rgba(0, 0, 0, .3) 2px 3px 6px !important;
+  outline: none;
+  border: 1px solid white !important;
+  background-image: url(../img/viewer-about.png?40016448a) !important;
+  background-repeat: no-repeat !important;
+}
+
+#embed-body .modal-dialog a {
+  color: #E72B2D;
+}
+
+#embed-body .modal-dialog a:visited {
+  color: #E72B2D;
+}
+
+#embed-body .modal-dialog-title {
+  background: none !important;
+}
+
+#embed-body .modal-dialog-title-close {
+  opacity: 0;
+  cursor: pointer !important;
+}
+
+#embed-body .modal-dialog-title-text {
+  position: relative;
+  top: 76px;
+  left: 15px;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: right;
+  display: block;
+}
+
+#embed-body .modal-dialog-content {
+  position: relative;
+  left: -6px;
+  top: 50px;
+  background: none !important;
+  text-align: right;
+  line-height: 22px;
+}
+
+#embed-body .modal-dialog-buttons {
+  visibility: hidden;
+}
+
+#view-container {
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+#view-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#watermark {
+  display: none;
+  width: 134px;
+  height: 20px;
+  margin: 5px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  cursor: pointer;
+  opacity: 50;
+  background-image: url(../img/embed-watermark.png?40016448a);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  z-index: 50;
+}
+
+#watermark:hover{
+  opacity: 100;
+}
+
+#error-container {
+  position: absolute;
+  display: none;
+  width: 100%;
+  height: 100%;
+  z-index: 500;
+  vertical-align: middle;
+  text-align: center;
+}
+
+/* Styles for ManageHomePage */
+.manage-featured-logos-panel {
+  width: 940px;
+  margin: 0 0 50px;
+  padding-top: 15px;
+  border-top: 1px solid #babcbf;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+#manage-featured-logos {
+  text-align: left;
+  margin: 0 auto;
+  width: 940px;
+  display: inline-block;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.manage-featured-logo-block {
+  display: inline-block;
+  position: relative;
+  margin: 25px 25px;
+}
+.manage-featured-logo-image {
+  height: 70px;
+  overflow: hidden;
+  display: inline-block;
+}
+#manage-featured-logos img {
+  position: relative;
+  opacity: .5;
+  transition: opacity .5s;
+  -webkit-transition: opacity .5s;
+  height: 140px;
+}
+#manage-featured-logos img:hover {
+  opacity: 1;
+  top: -70px;
+}
+.manage-featured-logos-text {
+  position: absolute;
+  top: 75px;
+  left: 5px;
+}

@@ -1,0 +1,37 @@
+Assets/Facetracking Starter Kit/Materials/Depth.mat
+Assets/Facetracking Starter Kit/Scripts/Spin.cs
+Assets/Facetracking Starter Kit/Scripts/Kinect/AnimUnits.cs
+Assets/Facetracking Starter Kit/Materials/mask normal.psd
+Assets/Facetracking Starter Kit/Materials/Video.mat
+Assets/Facetracking Starter Kit/Materials/Oni Material.mat
+Assets/Facetracking Starter Kit/Scripts/PoseAnimator.cs
+Assets/Facetracking Starter Kit/Materials/Cubemap.cubemap
+Assets/Facetracking Starter Kit/Materials/mask color.PSD
+Assets/Facetracking Starter Kit/Scripts/Kinect/FaceTrackingExample.cs
+Assets/Facetracking Starter Kit/Materials/smoke.tif
+Assets/Facetracking Starter Kit/Materials/Flame.prefab
+Assets/Facetracking Starter Kit/Materials/FlameB.mat
+Assets/Facetracking Starter Kit/Materials/flameB.tif
+Assets/Facetracking Starter Kit/Materials/FlameC.mat
+Assets/Facetracking Starter Kit/Materials/flameC.tif
+Assets/Facetracking Starter Kit/Scripts/Kinect/ImageFeedback.cs
+Assets/Facetracking Starter Kit/Materials/Smoke.mat
+Assets/Facetracking Starter Kit/Scene/Face Tracking (with video and depth).unity
+Assets/Facetracking Starter Kit/Scene/Face Tracking.unity
+ProjectSettings/InputManager.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/NavMeshLayers.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+Assets/Facetracking Starter Kit/Scripts/Kinect/KinectBinder.cs
+Assets/Facetracking Starter Kit/KinectDataTransmitter (sources).zip
+Assets/Facetracking Starter Kit/Oni/Oni.fbx
+Assets/Facetracking Starter Kit/Scripts/Kinect/DataConverter.dll
+Assets/Facetracking Starter Kit/readme.txt
+Assets/Facetracking Starter Kit/KinectDataTransmitter.zip

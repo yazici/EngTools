@@ -37,6 +37,9 @@
     <RootNamespace>Pamux.GameDev.Tools</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="SharpCompress">
+      <HintPath>..\..\..\3rdParty\sharpcompress\src\SharpCompress\bin\Release\net461\SharpCompress.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
@@ -58,12 +61,15 @@
     <Compile Include="AssetUtils\AssetInfo.cs" />
     <Compile Include="AssetUtils\ImageAssetScaler.cs" />
     <Compile Include="CommandLine.cs" />
+    <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\AssetPackage.cs" />
+    <Compile Include="Models\AssetQuery.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs" />
@@ -92,6 +98,12 @@
     <Compile Include="Tabs\Text2Speech.Designer.cs">
       <DependentUpon>Text2Speech.cs</DependentUpon>
     </Compile>
+    <Compile Include="Tabs\AssetLibrary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tabs\AssetLibrary.Designer.cs">
+      <DependentUpon>AssetLibrary.cs</DependentUpon>
+    </Compile>
     <Compile Include="Tabs\WindowsStore.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -112,6 +124,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Tabs\Text2Speech.resx">
       <DependentUpon>Text2Speech.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tabs\AssetLibrary.resx">
+      <DependentUpon>AssetLibrary.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tabs\WindowsStore.resx">
       <DependentUpon>WindowsStore.cs</DependentUpon>

@@ -1,0 +1,20 @@
+Assets/Heat Sink/Readme.txt
+Assets/Heat Sink/Resources/ParticleEffects/Flare/Textures/Flare_Diffuse.png
+Assets/Heat Sink/Resources/Prefabs/FlameParticles.prefab
+Assets/Heat Sink/Resources/Scripts/ColorHSV.cs
+Assets/Heat Sink/Resources/Materials/Flare_Flare.mat
+Assets/Heat Sink/Resources/Scripts/ColorMapping.cs
+Assets/Heat Sink/Resources/Prefabs/FlameParticles 2.prefab
+Assets/Heat Sink/Resources/Plane/HeatSinkPlane_W256L256HC.asset
+Assets/Heat Sink/Resources/Scripts/HeatTransfer.cs
+Assets/Heat Sink/Resources/ParticleEffects/Flare/Textures/Sparks_Tiles(2x1).png
+Assets/Heat Sink/Resources/Materials/Diffuse.mat
+Assets/Heat Sink/Resources/Prefabs/FlameParticles 4.prefab
+Assets/Heat Sink/Resources/Scripts/CreatePlane.cs
+Assets/Heat Sink/Resources/ParticleEffects/Flare/Textures/Smoke_Diffuse.png
+Assets/Heat Sink/Resources/Materials/Flare_Smoke.mat
+Assets/Heat Sink/Scenes/sample.unity
+Assets/Heat Sink/Resources/Materials/Flare_Sparks.mat
+Assets/Heat Sink/Resources/Scripts/CS_Transfer.compute
+Assets/Heat Sink/Resources/Materials/Default.physicMaterial
+Assets/Heat Sink/Resources/Prefabs/FlameParticles 3.prefab

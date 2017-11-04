@@ -1,0 +1,202 @@
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/DLAA.shader
+Assets/Meshes_Sec/Clock.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/CameraInfo.js
+Assets/Textures/Fabric_01.sbsar
+Assets/Textures/Carpet_001.sbsar
+Assets/Materials_Custom/Stats.mat
+Assets/Standard Assets/Image Effects (Pro Only)/Crease.js
+Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js
+Assets/Meshes_Sec/Pot.FBX
+Assets/Textures/carpet_002.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/GlowEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/EdgeDetectNormals.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseEffectShaderYUV.shader
+Assets/Meshes_Sec/Frame.FBX
+Assets/Textures/Particle.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ConvertDepth.shader
+Assets/Sounds/Coyote.mp3
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader
+Assets/Textures/Clock.sbsar
+Assets/Textures/Towel_01.sbsar
+Assets/Meshes_Sec/Seat.FBX
+Assets/Textures/Taps.sbsar
+Assets/Textures/TV.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/SunShafts.js
+Assets/Textures/Brushed_Metal.sbsar
+Assets/Standard Assets/Particles/Sources/Shaders/Particle Alpha Blend (Queue +100).shader
+Assets/Meshes_Sec/BathroomDoorFrame.FBX
+Assets/DemoScript/SubstanceController.js
+Assets/Standard Assets/Image Effects (Pro Only)/DepthOfField34.js
+Assets/Standard Assets/Image Effects (Pro Only)/GrayscaleEffect.cs
+Assets/Textures/fabric_011.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Adaptation.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ContrastComposite.shader
+Assets/Standard Assets/Scripts/Camera Scripts/MouseOrbit.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ChromaticAberrationShader.shader
+Assets/DemoScript/ParticleScript.js
+Assets/Textures/tiles_005.sbsar
+Assets/Meshes_Sec/Ashtray.FBX
+Assets/Meshes_Sec/Wood_Panel.FBX
+Assets/Textures/Rug_01.sbsar
+Assets/Standard Assets/Scripts/Utility Scripts/CombineChildren.cs
+Assets/Standard Assets/Image Effects (Pro Only)/BlurEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/GlobalFog.js
+Assets/Standard Assets/Particles/Sources/Textures/smoke.tif
+Assets/Textures/Oven.sbsar
+Assets/Standard Assets/Editor/Image Effects/AntialiasingAsPostEffectEditor.js
+Assets/Materials_Custom/Particles_Dust_02.mat
+Assets/Textures/cubemap/Cubemap_01.cubemap
+Assets/Materials_Custom/Wood_Tiled.mat
+Assets/Standard Assets/Particles/Sources/Textures/smoke4.tif
+Assets/Standard Assets/Editor/Image Effects/SunShaftsEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/Triangles.js
+Assets/Loading/async_start.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/EdgeDetectX.shader
+Assets/Lightmaps/LightmapNear-0.exr
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionCurvesSimple.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SSAOShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/LensFlareCreate.shader
+Assets/Standard Assets/Image Effects (Pro Only)/MotionBlur.cs
+Assets/Textures/Splash_Icons/icon.png
+Assets/Loading/loading.cs
+Assets/Materials_Custom/Mirror.mat
+Assets/Textures/Rotten_Wall_02.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/frag_ao.cginc
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/Blend.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/VignetteShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffectNormals.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/MinMaxReduction.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/Bokeh34.shader
+Assets/Textures/Splash_Icons/Splashscreen.jpg
+Assets/Meshes_Sec/Blanket.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/PostEffectsHelper.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/NoiseEffectShaderRGB.shader
+Assets/Meshes_Sec/Towel.FBX
+Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseEffectScratch.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VignettingShader.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionCurves.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/TwirlEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionEffect.shader
+Assets/Textures/Wood_Panel.sbsar
+Assets/Meshes_Sec/SaguaroCactus.fbx
+Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAAPreset2.shader
+Assets/Sounds/Dog.mp3
+Assets/Loading/loading.unity
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VortexEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlobalFog.shader
+Assets/Materials_Custom/Bottles.mat
+Assets/Lightmaps/LightmapFar-0.exr
+Assets/Standard Assets/Editor/Image Effects/DepthOfField34Editor.js
+Assets/DemoScript/Sounds.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/sphereShape.png
+Assets/Textures/cubemap/Cubemap_02.cubemap
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/hexShape.png
+Assets/Standard Assets/Image Effects (Pro Only)/Fisheye.js
+Assets/Airstream/LightmapNear-0.exr
+Assets/Standard Assets/Image Effects (Pro Only)/ColorCorrectionCurves.js
+Assets/Textures/Cactus.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/FisheyeShader.shader
+Assets/Textures/Canvas_01.sbsar
+Assets/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js
+Assets/Standard Assets/Image Effects (Pro Only)/ImageEffects.cs
+Assets/Standard Assets/Scripts/Camera Scripts/SmoothLookAt.js
+Assets/Standard Assets/Scripts/Utility Scripts/MeshCombineUtility.cs
+Assets/Materials_Custom/Toaster.mat
+Assets/Textures/Road_02.sbsar
+Assets/Meshes_Sec/Toaster.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/TiltShift.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowCompose.shader
+Assets/Materials_Custom/Decal_Cockroach.mat
+Assets/Textures/Splash_Icons/logoSubstance.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/DepthOfField34.shader
+Assets/Misc/Light_Animation_01.anim
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/PrepareSunShaftsBlur.shader
+Assets/Standard Assets/Character Controllers/First Person Controller.prefab
+Assets/Textures/wc.sbsar
+Assets/Textures/Dry_Ground_02.sbsar
+Assets/Textures/Sinks.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/SepiaToneEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/RandomVectors.png
+Assets/Airstream/LightmapFar-0.exr
+Assets/Standard Assets/Image Effects (Pro Only)/NoiseEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/VortexEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/AntialiasingAsPostEffect.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/Meshes_Main/Airstream.FBX
+Assets/Meshes_Sec/Grass_Group.FBX
+Assets/Meshes_Sec/Skull.FBX
+Assets/Textures/Wood_White_Cedar.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/SSAOEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowEffectDownsample.shader
+Assets/Textures/Plate.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/SSAA.shader
+Assets/Meshes_Sec/Curtain.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/CreaseApply.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SepiaToneEffect.shader
+Assets/Textures/Grass_Billboard.sbsar
+Assets/Textures/Splash_Icons/progressBar.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader
+Assets/Standard Assets/Image Effects (Pro Only)/TwirlEffect.cs
+Assets/Textures/Wood_Beech_ChocolateBrown.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/Vignetting.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Luminance.shader
+Assets/Meshes_Sec/Fork.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAAPreset3.shader
+Assets/Textures/Window.sbsar
+Assets/Sounds/Airstream_ambience.mp3
+Assets/Standard Assets/Scripts/General Scripts/ActivateTrigger.cs
+Assets/Standard Assets/Scripts/General Scripts/DragRigidbody.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/FXAA2.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_Antialiasing/NFAA.shader
+Assets/Standard Assets/Image Effects (Pro Only)/BloomAndLensFlares.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SunShaftsComposite.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/color correction ramp.png
+Assets/Textures/Decal_Dirt.sbsar
+Assets/Textures/Skull.sbsar
+Assets/Meshes_Sec/tv.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/PostEffectsBase.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ShowAlphaChannel.shader
+Assets/Standard Assets/Character Controllers/Sources/Scripts/PlatformInputController.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GrayscaleEffect.shader
+Assets/Standard Assets/Image Effects (Pro Only)/TiltShift.js
+Assets/Textures/Neon.sbsar
+Assets/Standard Assets/Editor/Image Effects/EdgeDetectEffectNormalsEditor.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+Assets/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffect.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/ColorCorrectionSelective.shader
+Assets/Textures/fabric_018.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/ContrastEnhance.js
+Assets/Textures/Splash_Icons/substance.tga
+Assets/Standard Assets/Editor/Image Effects/TiltShiftEditor.js
+Assets/Textures/MiniOven.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_DepthOfField/SeparableBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/grayscale ramp.png
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/MotionBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ColorCorrectionEffect.cs
+Assets/Textures/Decals.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/ContrastStretchEffect.cs
+Assets/Textures/Decal_Cockroach.sbsar
+Assets/Standard Assets/Editor/Image Effects/ColorCorrectionCurvesEditor.js
+Assets/Textures/blind_bathroom.sbsar
+Assets/Textures/Galvanized.sbsar
+Assets/Meshes_Sec/Knife02.FBX
+Assets/Standard Assets/Image Effects (Pro Only)/Quads.js
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/Contrast Stretch/Apply.shader
+Assets/Materials_Custom/Particles_Dust_01.mat
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/RadialBlur.shader
+Assets/Standard Assets/Image Effects (Pro Only)/ImageEffectBase.cs
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/SimpleClear.shader
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/_BloomAndFlares/BlendOneOne.shader
+Assets/Standard Assets/Editor/Image Effects/BloomAndLensFlaresEditor.js
+Assets/Textures/Ceramic_02.sbsar
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/GlowConeTap.shader
+Assets/Meshes_Sec/Knife01.FBX
+Assets/Textures/Splash_Icons/substanceBackground.jpg
+Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Textures/NoiseEffectGrain.png
+Assets/Textures/Stats.png
+Assets/Textures/Tumbleweed.sbsar
+Assets/DemoScript/FadeCam.js
+Assets/Airstream.unity
+Assets/Textures/Mesh.sbsar

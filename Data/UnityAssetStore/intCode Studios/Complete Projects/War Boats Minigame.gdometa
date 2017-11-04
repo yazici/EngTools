@@ -1,0 +1,109 @@
+ProjectSettings/NavMeshLayers.asset
+Assets/Standard Assets/Water (Basic)/Sources/Textures/nightgradient cubemap.psd
+Assets/Models/PirateBoat/wood.jpg
+Assets/Models/Materials/pirateboat-wood1.mat
+Assets/Standard Assets/Water (Basic)/Sources/Textures/oceangradient.psd
+Assets/Media/PointerAtck.png
+Assets/Media/backEnemy.png
+Assets/Prefab/Enemy.prefab
+Assets/Standard Assets/Water (Basic)/Sources/Scripts/WaterSimple.cs
+Assets/Media/background.png
+Assets/Scripts/ObjectScript.cs
+Assets/Models/port.FBX
+Assets/Models/Materials/pirateboat-crate1.mat
+Assets/Models/PirateBoat/wood2.jpg
+Assets/Models/Materials/goldTexture.mat
+Assets/game.unity
+Assets/Models/MainBoat/wood2.jpg
+Assets/start.unity
+Assets/Models/MainBoat/wood.jpg
+Assets/Models/Materials/pirateboat-07 - default.mat
+Assets/Media/heart.png
+Assets/Scripts/MainBoat.cs
+Assets/Prefab/MainBoat.prefab
+Assets/Models/Materials/mainboat-wood1.mat
+Assets/Models/PirateBoat.FBX
+Assets/Standard Assets/Water (Basic)/Sources/Objects/Materials/water plane-lambert1.mat
+Assets/Media/ptLast.png
+Assets/Textures/MinMap.jpg
+Assets/Models/Materials/port-02 - default.mat
+Assets/Models/MainBoat/soga.jpg
+Assets/Prefab/TreasureChest.prefab
+Assets/Models/treasure/goldTexture.jpg
+Assets/Models/port/crate2.jpg
+Assets/Media/menuUpgrade.png
+Assets/Models/Materials/crate.mat
+Assets/Media/ptFill.png
+Assets/Media/PointerBuy.png
+Assets/Standard Assets/Water (Basic)/Sources/Materials/Daylight Simple Water.mat
+Assets/Models/PirateBoat/cloth1.jpg
+Assets/Models/MainBoat/crate.jpg
+Assets/Models/Materials/mainboat-soga.mat
+Assets/Models/Materials/treasure-02 - default.mat
+Assets/Models/PirateBoat/soga.jpg
+Assets/Models/Materials/mainboat-crate1.mat
+Assets/Media/PointerGrab.png
+Assets/Standard Assets/Water (Basic)/Nighttime Simple Water.prefab
+Assets/Models/Materials/mainboat-wood2.mat
+Assets/Models/Materials/pirateboat-wood2.mat
+Assets/Models/treasure.fbx
+Assets/Standard Assets/Water (Basic)/Sources/Textures/nightgradient.psd
+Assets/Models/MainBoat/crate1.jpg
+Assets/Standard Assets/Water (Basic)/Daylight Simple Water.prefab
+Assets/Models/PirateBoat/crate.jpg
+Assets/Standard Assets/Water (Basic)/Sources/Textures/oceangradientcube.psd
+Assets/Models/Materials/mouseclick-01 - default.mat
+Assets/Models/Materials/mainboat-crate2.mat
+Assets/Standard Assets/Water (Basic)/Sources/Shaders/FX-Water Simple.shader
+Assets/Media/PointerMove.png
+Assets/Textures/TexRoca01.jpg
+Assets/Textures/grass2.jpg
+Assets/Media/ptOne.png
+Assets/Media/AquilineTwo.ttf
+Assets/Standard Assets/Water (Basic)/Sources/Textures/Waterbump.jpg
+Assets/Models/Materials/particleMat.mat
+Assets/Models/Materials/treasure-01 - default.mat
+Assets/Models/Materials/mainboat-cloth.mat
+Assets/Models/PirateBoat/crate1.jpg
+Assets/Models/Materials/MinMap.mat
+Assets/Textures/particula.tga
+Assets/Standard Assets/Water (Basic)/Sources/Textures/Water fallback.jpg
+Assets/Models/MouseClick.FBX
+Assets/Standard Assets/Water (Basic)/Sources/Materials/Nighttime Simple Water.mat
+Assets/Sounds/explosion.mp3
+Assets/Standard Assets/Water (Basic)/Sources/Objects/Water Plane.fbx
+Assets/Sounds/seaWaves.mp3
+Assets/Media/title.jpg
+Assets/Terrain.asset
+Assets/Models/Materials/port-01 - default.mat
+Assets/Scripts/Port.cs
+Assets/Textures/piratecloth.jpg
+Assets/Media/MiniMap.png
+Assets/Media/PointerDntMove.png
+Assets/Models/Materials/mainboat-07 - default.mat
+Assets/Models/Materials/pirateboat-soga.mat
+Assets/Media/gold.png
+Assets/Models/port/tile.jpg
+Assets/Sounds/coin3.wav
+Assets/Textures/arena.jpg
+Assets/Models/MainBoat/cloth1.jpg
+Assets/Models/Materials/pirateboat-cloth.mat
+Assets/Models/Materials/pirateboat-crate2.mat
+Assets/Models/MainBoat.FBX
+ProjectSettings/InputManager.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+Assets/Scripts/EnemyIA.cs
+Assets/readme.txt
+Assets/Scripts/StartScript.cs
+Assets/Scripts/MainCamera.cs
+Assets/Scripts/WaterScript.cs
+Assets/Scripts/Globals.cs
+Assets/Scripts/TerrainScript.cs

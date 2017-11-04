@@ -1,0 +1,2422 @@
+ProjectSettings/InputManager.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/UnityAdsSettings.asset
+ProjectSettings/UnityAdsSettings.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/ItemDragHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/ItemDragHandler.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Bone Club_SPEC.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Bone Club_SPEC.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/SmeltingStation.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/SmeltingStation.cs
+Assets/Ultimate Survival/Sprites
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes/HelpboxAttribute.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes/HelpboxAttribute.cs
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Flee (Chicken).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Flee (Chicken).asset
+Assets/Ultimate Survival/Sprites/GUI/Crosshairs/Crosshair_Dot.png
+Assets/Ultimate Survival/Sprites/GUI/Crosshairs/Crosshair_Dot.png
+Assets/Ultimate Survival/Shaders/Standard/ContrastComposite.shader
+Assets/Ultimate Survival/Shaders/Standard/ContrastComposite.shader
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Building Menu_Window.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Building Menu_Window.overrideController
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/All.png
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/All.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes
+Assets/Ultimate Survival/Textures/Building/Pillar_Wood_AO.png
+Assets/Ultimate Survival/Textures/Building/Pillar_Wood_AO.png
+Assets/Ultimate Survival/Prefabs/Pickups
+Assets/Ultimate Survival/Sprites/Item Icons/Campfire.png
+Assets/Ultimate Survival/Sprites/Item Icons/Campfire.png
+Assets/Ultimate Survival/Textures/Terrain/Grass.png
+Assets/Ultimate Survival/Textures/Terrain/Grass.png
+Assets/Ultimate Survival/Prefabs/Effects/Bullet Impact FX_Dirt.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Bullet Impact FX_Dirt.prefab
+Assets/Ultimate Survival/Textures/Objects/Campfire.png
+Assets/Ultimate Survival/Textures/Objects/Campfire.png
+Assets/Ultimate Survival/Textures/Effects/Temp/Particle Fire cloud.png
+Assets/Ultimate Survival/Textures/Effects/Temp/Particle Fire cloud.png
+Assets/Ultimate Survival/Materials/Players/Male/Wood Helmet.mat
+Assets/Ultimate Survival/Materials/Players/Male/Wood Helmet.mat
+Assets/Ultimate Survival/Materials/Objects/Storage Box.mat
+Assets/Ultimate Survival/Materials/Objects/Storage Box.mat
+Assets/Ultimate Survival/Textures/Effects/Temp/Particle Cloud White.png
+Assets/Ultimate Survival/Textures/Effects/Temp/Particle Cloud White.png
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Hit Reaction.fbx
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Hit Reaction.fbx
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/DepthOfFieldScatter.shader
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/DepthOfFieldScatter.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/DamageGUI.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/DamageGUI.cs
+Assets/Ultimate Survival/Integrations
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/normal_specular.png
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/normal_specular.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Base/RaycastManager.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Base/RaycastManager.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/AA.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/AA.cs
+Assets/Ultimate Survival/Sounds/Pickups/Wood Pop (Low Pitch).wav
+Assets/Ultimate Survival/Sounds/Pickups/Wood Pop (Low Pitch).wav
+Assets/Ultimate Survival/Textures/Objects/Cloth Sack.png
+Assets/Ultimate Survival/Textures/Objects/Cloth Sack.png
+Assets/Ultimate Survival/Sounds/Building/Build Wood 02.wav
+Assets/Ultimate Survival/Sounds/Building/Build Wood 02.wav
+Assets/Ultimate Survival/Sprites/Item Icons/Wall_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wall_Wood.png
+Assets/Ultimate Survival/Materials/Players
+Assets/Ultimate Survival/Textures/Players/Male/Male_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Male_NRM.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 09.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 09.wav
+Assets/Ultimate Survival/Textures/Building/Pillar_Wood_MET.png
+Assets/Ultimate Survival/Textures/Building/Pillar_Wood_MET.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Gameplay
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Templates
+Assets/Ultimate Survival/Textures/Objects/Campfire_NRM.png
+Assets/Ultimate Survival/Textures/Objects/Campfire_NRM.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/EntityDeathHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/EntityDeathHandler.cs
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/BlendForBloom.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/BlendForBloom.shader
+Assets/Ultimate Survival/Models/Players/Male/Materials/Wood Leggings.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Wood Leggings.mat
+Assets/Ultimate Survival/Sprites/Item Icons/Sleeping Bag.png
+Assets/Ultimate Survival/Sprites/Item Icons/Sleeping Bag.png
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Penetration (Wood).wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Penetration (Wood).wav
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Stairs_Category.png
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Stairs_Category.png
+Assets/Ultimate Survival/Resources/Custom Data/Input
+Assets/Ultimate Survival/Prefabs/Objects/Empty Tree.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Empty Tree.prefab
+Assets/Ultimate Survival/Textures/Building/Stairs_Wood.png
+Assets/Ultimate Survival/Textures/Building/Stairs_Wood.png
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Death 1.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Death 1.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/_General
+Assets/Ultimate Survival/Animations/GUI/General/Static_Empty.anim
+Assets/Ultimate Survival/Animations/GUI/General/Static_Empty.anim
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Debugger/Script Debuggers/AIDebugger.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Debugger/Script Debuggers/AIDebugger.cs
+Assets/Ultimate Survival/Models/Weapons/First Person/Bone Club.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Bone Club.fbx
+Assets/Ultimate Survival/Sprites/Item Icons/Iron Spear.png
+Assets/Ultimate Survival/Sprites/Item Icons/Iron Spear.png
+Assets/Ultimate Survival/Materials/Characters/Cannibal.mat
+Assets/Ultimate Survival/Materials/Characters/Cannibal.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/State Machine Behaviours/ReloadLoop.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/State Machine Behaviours/ReloadLoop.cs
+Assets/Ultimate Survival/Models/Objects/Sleeping Bag.fbx
+Assets/Ultimate Survival/Models/Objects/Sleeping Bag.fbx
+Assets/Ultimate Survival/Sprites/Item Icons/Assault Rifle.png
+Assets/Ultimate Survival/Sprites/Item Icons/Assault Rifle.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Bow.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Bow.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 01.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 01.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/Button.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/Button.cs
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/New Rifle.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/New Rifle.overrideController
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/TreeManager.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/TreeManager.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Building System
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/SleepingBag.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/SleepingBag.cs
+Assets/Ultimate Survival/Materials/Weapons/First Person/Bone Club.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Bone Club.mat
+Assets/Ultimate Survival/Textures/Terrain/2D Grass.psd
+Assets/Ultimate Survival/Textures/Terrain/2D Grass.psd
+Assets/Ultimate Survival/Materials/Weapons/First Person/Revolver.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Revolver.mat
+Assets/Ultimate Survival/Models/Building/Wall_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Wall_Wood.fbx
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Pickaxe.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Pickaxe.overrideController
+Assets/Ultimate Survival/Textures/Weapons/World/Revolver_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Revolver_Pickup.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/FutureSys/PoolableObject.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/FutureSys/PoolableObject.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/PlayerInputHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/PlayerInputHandler.cs
+Assets/Ultimate Survival/Shaders/Standard/CameraMotionBlur.shader
+Assets/Ultimate Survival/Shaders/Standard/CameraMotionBlur.shader
+Assets/Ultimate Survival/Textures/Weapons/First Person
+Assets/Ultimate Survival/Textures/Objects/Sleeping Bag_SPEC.png
+Assets/Ultimate Survival/Textures/Objects/Sleeping Bag_SPEC.png
+Assets/Ultimate Survival/Textures/Building/Door_Wood_NRM.png
+Assets/Ultimate Survival/Textures/Building/Door_Wood_NRM.png
+Assets/Ultimate Survival/Sprites/GUI
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Bark/Tree Bark 01 NRM.tga
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Bark/Tree Bark 01 NRM.tga
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Goals/SatisfyHunger.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Goals/SatisfyHunger.cs
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 01.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 01.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Short Scream 03.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Short Scream 03.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Smelting
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person/FPMotionDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person/FPMotionDrawer.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPObject.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPObject.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/CameraShakePresets.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/CameraShakePresets.cs
+Assets/Ultimate Survival/Textures/Objects/Sleeping Bag.png
+Assets/Ultimate Survival/Textures/Objects/Sleeping Bag.png
+Assets/Ultimate Survival/Sprites/Item Icons/Item Icon.png
+Assets/Ultimate Survival/Sprites/Item Icons/Item Icon.png
+Assets/Ultimate Survival/Textures/Building/Wall_Wood_AO.png
+Assets/Ultimate Survival/Textures/Building/Wall_Wood_AO.png
+Assets/Ultimate Survival/Animations/GUI/Windows/Crafting
+Assets/Ultimate Survival/Models/Players/Male/Materials/Bone Helmet.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Bone Helmet.mat
+Assets/Ultimate Survival/Prefabs/Building/L Shaped Stairs_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/L Shaped Stairs_Wood.prefab
+Assets/Ultimate Survival/Sprites/Item Icons/Metal Fragment.png
+Assets/Ultimate Survival/Sprites/Item Icons/Metal Fragment.png
+Assets/Ultimate Survival/Prefabs/Objects/Destroyed Rock_Normal.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Destroyed Rock_Normal.prefab
+Assets/Ultimate Survival/Textures/Weapons/First Person/Pickaxe_SPEC.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Pickaxe_SPEC.png
+Assets/Ultimate Survival/Textures/Building/Ceiling Light_SPEC.png
+Assets/Ultimate Survival/Textures/Building/Ceiling Light_SPEC.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/Tags.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/Tags.cs
+Assets/Ultimate Survival/Models/Players/Male/Materials/kok_Body_Diffuse.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/kok_Body_Diffuse.mat
+Assets/Ultimate Survival/Textures/Weapons/First Person/Wooden Spear.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Wooden Spear.png
+Assets/Ultimate Survival/Sounds/GUI/Item Drop.wav
+Assets/Ultimate Survival/Sounds/GUI/Item Drop.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/AIBrain.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/AIBrain.cs
+Assets/Ultimate Survival/Prefabs/Pickups/Torch_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Torch_Pickup.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/SerializedPropertyExtensions.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/SerializedPropertyExtensions.cs
+Assets/Ultimate Survival/Animations/Weapons/Templates/Melee
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/Ammunition.png
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/Ammunition.png
+Assets/Ultimate Survival/Mecanim/Masks/Fingers.mask
+Assets/Ultimate Survival/Mecanim/Masks/Fingers.mask
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Inspector/Inspector Show.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Inspector/Inspector Show.anim
+Assets/Ultimate Survival/Shaders/Standard
+Assets/Ultimate Survival/Materials/Characters/Boar.mat
+Assets/Ultimate Survival/Materials/Characters/Boar.mat
+Assets/Ultimate Survival/Textures/Building/Ladder_Wood_SPEC.png
+Assets/Ultimate Survival/Textures/Building/Ladder_Wood_SPEC.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Hunting Rifle_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Hunting Rifle_NRM.png
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Shotgun Pump 02.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Shotgun Pump 02.wav
+Assets/Ultimate Survival/Sounds/Building
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Firecloud.mat
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Firecloud.mat
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Door_Category.png
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Door_Category.png
+Assets/Ultimate Survival/Textures/Building/Roof_Metal.png
+Assets/Ultimate Survival/Textures/Building/Roof_Metal.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person/FPHitscanDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person/FPHitscanDrawer.cs
+Assets/Ultimate Survival/Textures/Rocks/Cliff_NRM.png
+Assets/Ultimate Survival/Textures/Rocks/Cliff_NRM.png
+Assets/Ultimate Survival/Shaders/SkyboxBlended.shader
+Assets/Ultimate Survival/Shaders/SkyboxBlended.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Building System/BuildingPiece.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Building System/BuildingPiece.cs
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/BrightPassFilter.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/BrightPassFilter.shader
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Wooshes
+Assets/Ultimate Survival/Textures/Weapons/First Person/Axe_SPEC.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Axe_SPEC.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wood Leggings.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wood Leggings.png
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/FXAAPreset3.shader
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/FXAAPreset3.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Types/Message.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Types/Message.cs
+Assets/Ultimate Survival/Shaders/Standard/SimpleClear.shader
+Assets/Ultimate Survival/Shaders/Standard/SimpleClear.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Behaviours/EntityBehaviour.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Behaviours/EntityBehaviour.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/State Machine Behaviours
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/_Generic Panel.controller
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/_Generic Panel.controller
+Assets/Ultimate Survival/Animations/Weapons/Templates/_General/Hold Pose_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/_General/Hold Pose_Empty.anim
+Assets/Ultimate Survival/Prefabs/Pickups/Shotgun_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Shotgun_Pickup.prefab
+Assets/Ultimate Survival/Sprites/GUI/BG.png
+Assets/Ultimate Survival/Sprites/GUI/BG.png
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/BlurAndFlares.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/BlurAndFlares.shader
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 02.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 02.wav
+Assets/Ultimate Survival/Models/Objects/Rock_Metal.fbx
+Assets/Ultimate Survival/Models/Objects/Rock_Metal.fbx
+Assets/Ultimate Survival/Sounds/Pickups/Bag Pickup.ogg
+Assets/Ultimate Survival/Sounds/Pickups/Bag Pickup.ogg
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Plank.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Plank.png
+Assets/Ultimate Survival/Models/Weapons/First Person/Torch.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Torch.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Attribute Drawers/ShowOnlyDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Attribute Drawers/ShowOnlyDrawer.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Release 02.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Release 02.wav
+Assets/Ultimate Survival/Prefabs/Building/Window Frame_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Window Frame_Wood.prefab
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/VignetteShader.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/VignetteShader.shader
+Assets/Ultimate Survival/Models/Weapons/First Person/Shotgun.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Shotgun.fbx
+Assets/Ultimate Survival/Models/Characters/Boar.fbx
+Assets/Ultimate Survival/Models/Characters/Boar.fbx
+Assets/Ultimate Survival/Materials/Weapons/World/Fire Torch_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Fire Torch_World.mat
+Assets/Ultimate Survival/Shaders/Standard/ColorCorrection3DLut.shader
+Assets/Ultimate Survival/Shaders/Standard/ColorCorrection3DLut.shader
+Assets/Ultimate Survival/Materials/Skybox/Skybox.mat
+Assets/Ultimate Survival/Materials/Skybox/Skybox.mat
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Branch
+Assets/Ultimate Survival/Animations/GUI/Windows/_General/Panel Refresh_Empty.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/_General/Panel Refresh_Empty.anim
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Inspector_GUI.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Inspector_GUI.overrideController
+Assets/Ultimate Survival/Textures/Building/Ladder_Wood.png
+Assets/Ultimate Survival/Textures/Building/Ladder_Wood.png
+Assets/Ultimate Survival/Textures/Players/Male/Wood FootWear.png
+Assets/Ultimate Survival/Textures/Players/Male/Wood FootWear.png
+Assets/Ultimate Survival/Textures/Objects/Furnace.png
+Assets/Ultimate Survival/Textures/Objects/Furnace.png
+Assets/Ultimate Survival/Materials/Effects/Wood Fleck.mat
+Assets/Ultimate Survival/Materials/Effects/Wood Fleck.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/CannibalResetter.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/CannibalResetter.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Revolver.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Revolver.png
+Assets/Ultimate Survival/Animations/Weapons/Templates/_General/Idle_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/_General/Idle_Empty.anim
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/SmoothMouseLook.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/SmoothMouseLook.cs
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Dirt 02.wav
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Dirt 02.wav
+Assets/Ultimate Survival/Prefabs/Objects/Storage Box.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Storage Box.prefab
+Assets/Ultimate Survival/Textures/Weapons/First Person/Building Plan_AO.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Building Plan_AO.png
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Idle 1.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Idle 1.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Bow Stretch (Full).wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Bow Stretch (Full).wav
+Assets/Ultimate Survival/Textures/Players/Male/Wood FootWear_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Wood FootWear_NRM.png
+Assets/Ultimate Survival/Models/Building/Ceiling Light.fbx
+Assets/Ultimate Survival/Models/Building/Ceiling Light.fbx
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Slide Handling 1.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Slide Handling 1.mp3
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 05.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 05.wav
+Assets/Ultimate Survival/Animations/Weapons
+Assets/Ultimate Survival/Textures/Objects/Storage Box_NRM.png
+Assets/Ultimate Survival/Textures/Objects/Storage Box_NRM.png
+Assets/Ultimate Survival/Shaders/Standard/NoiseEffectShaderYUV.shader
+Assets/Ultimate Survival/Shaders/Standard/NoiseEffectShaderYUV.shader
+Assets/Ultimate Survival/Textures/Weapons/First Person/Stone Hatchet_AO.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Stone Hatchet_AO.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Stone 01.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Stone 01.wav
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/_Generic Object.controller
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/_Generic Object.controller
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/MouseLook.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/MouseLook.cs
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 2.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 2.wav
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/_Melee.controller
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/_Melee.controller
+Assets/Ultimate Survival/Materials/Weapons/World/Assault Rifle_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Assault Rifle_World.mat
+Assets/Ultimate Survival/Resources
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Metal 01.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Metal 01.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Release 01.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Release 01.wav
+Assets/Ultimate Survival/Prefabs/Pickups/New Rifle_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/New Rifle_Pickup.prefab
+Assets/Ultimate Survival/Resources/Custom Data
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Grass 01.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Grass 01.wav
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares
+Assets/Ultimate Survival/Textures/Effects/Wood Fleck.tga
+Assets/Ultimate Survival/Textures/Effects/Wood Fleck.tga
+Assets/Ultimate Survival/Sprites/Item Icons/Doorway_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/Doorway_Wood.png
+Assets/Ultimate Survival/Prefabs/Decals/Bullet Marks/Bullet Decal_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Decals/Bullet Marks/Bullet Decal_Wood.prefab
+Assets/Ultimate Survival/Shaders/Standard/SepiaToneEffect.shader
+Assets/Ultimate Survival/Shaders/Standard/SepiaToneEffect.shader
+Assets/Ultimate Survival/Sprites/Item Icons/Water Bottle.png
+Assets/Ultimate Survival/Sprites/Item Icons/Water Bottle.png
+Assets/Ultimate Survival/Models/Characters
+Assets/Ultimate Survival/Sounds/GUI/Switch 02.wav
+Assets/Ultimate Survival/Sounds/GUI/Switch 02.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Ladder 04.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Ladder 04.wav
+Assets/Ultimate Survival/Sounds/Player/Eating.wav
+Assets/Ultimate Survival/Sounds/Player/Eating.wav
+Assets/Ultimate Survival/Materials/Weapons/First Person/Wooden Bow.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Wooden Bow.mat
+Assets/Ultimate Survival/Materials/Weapons
+Assets/Ultimate Survival/Materials/Objects/Rock_Normal.mat
+Assets/Ultimate Survival/Materials/Objects/Rock_Normal.mat
+Assets/Ultimate Survival/Sprites/Item Icons/Storage Box.png
+Assets/Ultimate Survival/Sprites/Item Icons/Storage Box.png
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Penetration (Dirt).wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Penetration (Dirt).wav
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/Blend.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/Blend.shader
+Assets/Ultimate Survival/Textures/Objects/Anvil_SPEC.png
+Assets/Ultimate Survival/Textures/Objects/Anvil_SPEC.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions/EntityAnimation.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions/EntityAnimation.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Wood FootWear.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wood FootWear.png
+Assets/Ultimate Survival/Terrain/Trees
+Assets/Ultimate Survival/Prefabs/Effects/Stone Hit FX.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Stone Hit FX.prefab
+Assets/Ultimate Survival/Models/Players/Male/Materials/No Name.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/No Name.mat
+Assets/Ultimate Survival/Sounds/Footsteps
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building/BuildableCreator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building/BuildableCreator.cs
+Assets/Ultimate Survival/Textures/Players/Male/Male Hide Skirt.png
+Assets/Ultimate Survival/Textures/Players/Male/Male Hide Skirt.png
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Random Patrol (Cannibal).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Random Patrol (Cannibal).asset
+Assets/Ultimate Survival/Animations/GUI/Windows/Inventory
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Penetration (Flesh).wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Penetration (Flesh).wav
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Crafting_GUI.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Crafting_GUI.overrideController
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Injured 02.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Injured 02.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/ObjectDestructor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/ObjectDestructor.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Sawed Off Fire 02.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Sawed Off Fire 02.wav
+Assets/Ultimate Survival/Shaders/Standard/MotionBlur.shader
+Assets/Ultimate Survival/Shaders/Standard/MotionBlur.shader
+Assets/Ultimate Survival/Models/Weapons/First Person/Iron Spear.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Iron Spear.fbx
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Spear/Spear Penetration (Wood).wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Spear/Spear Penetration (Wood).wav
+Assets/Ultimate Survival/Models/Weapons/First Person/Revolver.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Revolver.fbx
+Assets/Ultimate Survival/Textures/Weapons/First Person/Iron Spear_SPEC.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Iron Spear_SPEC.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/ET.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/ET.cs
+Assets/Ultimate Survival/Materials/Objects/Furnace.mat
+Assets/Ultimate Survival/Materials/Objects/Furnace.mat
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Materials/Tree Branch 02.mat
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Materials/Tree Branch 02.mat
+Assets/Ultimate Survival/Materials/Building/Platform_Wood.mat
+Assets/Ultimate Survival/Materials/Building/Platform_Wood.mat
+Assets/Ultimate Survival/Sprites/GUI/Player Stats/Hunger.png
+Assets/Ultimate Survival/Sprites/GUI/Player Stats/Hunger.png
+Assets/Ultimate Survival/Materials/Weapons/First Person/Pickaxe.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Pickaxe.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/AICreator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/AICreator.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling
+Assets/Ultimate Survival/Textures/Players/Male/Male_SPEC.png
+Assets/Ultimate Survival/Textures/Players/Male/Male_SPEC.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Assault Rifle_MET.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Assault Rifle_MET.png
+Assets/Ultimate Survival/Textures/Weapons/World/Wooden Spear_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Wooden Spear_Pickup.png
+Assets/Ultimate Survival/Shaders/Standard/Contrast Stretch/Adaptation.shader
+Assets/Ultimate Survival/Shaders/Standard/Contrast Stretch/Adaptation.shader
+Assets/Ultimate Survival/Shaders/Standard/EdgeDetectNormals.shader
+Assets/Ultimate Survival/Shaders/Standard/EdgeDetectNormals.shader
+Assets/Ultimate Survival/Prefabs/Objects/Campfire.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Campfire.prefab
+Assets/Ultimate Survival/Animations/Weapons/Templates/Bow
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPHitscanAnimator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPHitscanAnimator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/PlayerStats.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/PlayerStats.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Debugging/StartupItems.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Debugging/StartupItems.cs
+Assets/Ultimate Survival/Models/Weapons/World/Wooden Spear_World.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Wooden Spear_World.fbx
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Metal 01.wav
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Metal 01.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Grass 04.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Grass 04.wav
+Assets/Ultimate Survival/Mecanim/Controllers/Camera/World Camera.controller
+Assets/Ultimate Survival/Mecanim/Controllers/Camera/World Camera.controller
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Character
+Assets/Ultimate Survival/Textures/Players/Male/Leather Helmet_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Leather Helmet_NRM.png
+Assets/Ultimate Survival/Shaders
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Furnace_GUI.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Furnace_GUI.overrideController
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/StabilityPoint.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/StabilityPoint.cs
+Assets/Ultimate Survival/Models/Building/Floor_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Floor_Wood.fbx
+Assets/Ultimate Survival/Sounds/Effects/Body/Body Hit 04.wav
+Assets/Ultimate Survival/Sounds/Effects/Body/Body Hit 04.wav
+Assets/Ultimate Survival/Sprites/GUI/Player Stats/Health.png
+Assets/Ultimate Survival/Sprites/GUI/Player Stats/Health.png
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Branch/Pine Branch 01 NRM.tga
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Branch/Pine Branch 01 NRM.tga
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/CollectionUtils.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/CollectionUtils.cs
+Assets/Ultimate Survival/Textures/Players/Male/Cannibal Hide Skirt.png
+Assets/Ultimate Survival/Textures/Players/Male/Cannibal Hide Skirt.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/PieceVitals.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/PieceVitals.cs
+Assets/Ultimate Survival/Models/Players/Male/Materials/Wood ChestPlate.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Wood ChestPlate.mat
+Assets/Ultimate Survival/Textures/Players/Male/Leather Leggings.png
+Assets/Ultimate Survival/Textures/Players/Male/Leather Leggings.png
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Wooden Bow.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Wooden Bow.overrideController
+Assets/Ultimate Survival/Scripts/By Namespace
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns
+Assets/Ultimate Survival/Materials/Weapons/First Person/Axe.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Axe.mat
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 1.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 1.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Chase.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Chase.cs
+Assets/Ultimate Survival/Textures/Effects/Temp/Particle Cloud Black.png
+Assets/Ultimate Survival/Textures/Effects/Temp/Particle Cloud Black.png
+Assets/Ultimate Survival/Animations/GUI/Windows/Inventory/Inventory Show.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Inventory/Inventory Show.anim
+Assets/Ultimate Survival/Sounds
+Assets/Ultimate Survival/Models/Weapons/First Person
+Assets/Ultimate Survival/Terrain/_Terrains
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/LootOnDeath.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/LootOnDeath.cs
+Assets/Ultimate Survival/Models/Weapons/World/Stone Hatchet_World.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Stone Hatchet_World.fbx
+Assets/Ultimate Survival/Textures/Weapons/First Person/Iron Spear.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Iron Spear.png
+Assets/Ultimate Survival/Models/Objects
+Assets/Ultimate Survival/Shaders/Standard/GlobalFog.shader
+Assets/Ultimate Survival/Shaders/Standard/GlobalFog.shader
+Assets/Ultimate Survival/Materials/Building/Pillar_Wood.mat
+Assets/Ultimate Survival/Materials/Building/Pillar_Wood.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Types/Attempt.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Types/Attempt.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/ShakeInstance.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/ShakeInstance.cs
+Assets/Ultimate Survival/Sounds/Player/Player Hurt 01.wav
+Assets/Ultimate Survival/Sounds/Player/Player Hurt 01.wav
+Assets/Ultimate Survival/Shaders/Standard/ColorCorrectionCurves.shader
+Assets/Ultimate Survival/Shaders/Standard/ColorCorrectionCurves.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/StateData.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/StateData.cs
+Assets/Ultimate Survival/Sounds/Ambience/Night Ambience.wav
+Assets/Ultimate Survival/Sounds/Ambience/Night Ambience.wav
+Assets/Ultimate Survival/Models/Building/Roof_Metal.fbx
+Assets/Ultimate Survival/Models/Building/Roof_Metal.fbx
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/_One Anim Loop.controller
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/_One Anim Loop.controller
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/Joystick.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/Joystick.cs
+Assets/Ultimate Survival/Terrain/_Terrains/Forest.asset
+Assets/Ultimate Survival/Terrain/_Terrains/Forest.asset
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 09.mp3
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 09.mp3
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/Editor/ImageEffects
+Assets/Ultimate Survival/Materials/Building/Wall_Wood.mat
+Assets/Ultimate Survival/Materials/Building/Wall_Wood.mat
+Assets/Ultimate Survival/Textures/Terrain/Grass NRM.jpg
+Assets/Ultimate Survival/Textures/Terrain/Grass NRM.jpg
+Assets/Ultimate Survival/Mecanim/Masks/Upper Body.mask
+Assets/Ultimate Survival/Mecanim/Masks/Upper Body.mask
+Assets/Ultimate Survival/Prefabs/Building/Doorway_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Doorway_Wood.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility
+Assets/Ultimate Survival/Shaders/Standard/FisheyeShader.shader
+Assets/Ultimate Survival/Shaders/Standard/FisheyeShader.shader
+Assets/Ultimate Survival/Textures/Weapons/First Person/Stone Hatchet_MET.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Stone Hatchet_MET.png
+Assets/Ultimate Survival/Models/Building/Platform_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Platform_Wood.fbx
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Fast Full Reload.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Fast Full Reload.wav
+Assets/Ultimate Survival/Textures/Weapons/First Person/Pickaxe.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Pickaxe.png
+Assets/Ultimate Survival/Sounds/AI/Chicken/chicken-2.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/chicken-2.wav
+Assets/Ultimate Survival/Materials/Decals/Bullet Marks/Bullet Decal_Metal.mat
+Assets/Ultimate Survival/Materials/Decals/Bullet Marks/Bullet Decal_Metal.mat
+Assets/Ultimate Survival/Animations/AI/Cannibal
+Assets/Ultimate Survival/Materials/Decals/Bullet Marks
+Assets/Ultimate Survival/Models/Weapons/First Person/Pickaxe.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Pickaxe.fbx
+Assets/Ultimate Survival/Materials/Decals/Bullet Marks/Bullet Decal_Flesh.mat
+Assets/Ultimate Survival/Materials/Decals/Bullet Marks/Bullet Decal_Flesh.mat
+Assets/Ultimate Survival/Textures/Building/Pillar_Wood_NRM.png
+Assets/Ultimate Survival/Textures/Building/Pillar_Wood_NRM.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/AI/AISettingsEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/AI/AISettingsEditor.cs
+Assets/Ultimate Survival/Models/Players/Male/Materials/Wood FootWear.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Wood FootWear.mat
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Idle 02.fbx
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Idle 02.fbx
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/Building.png
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/Building.png
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Stone Hatchet.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Stone Hatchet.overrideController
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building/SelectableHandle.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building/SelectableHandle.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Behaviours/PlayerBehaviour.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Behaviours/PlayerBehaviour.cs
+Assets/Ultimate Survival/Models/Objects/Cloth Sack.fbx
+Assets/Ultimate Survival/Models/Objects/Cloth Sack.fbx
+Assets/Ultimate Survival/Sounds/GUI/Inventory Open.ogg
+Assets/Ultimate Survival/Sounds/GUI/Inventory Open.ogg
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Templates/Template.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Templates/Template.cs
+Assets/Ultimate Survival/Sprites/GUI/Building System/Selection Highlight.png
+Assets/Ultimate Survival/Sprites/GUI/Building System/Selection Highlight.png
+Assets/Ultimate Survival/Models/Players/Male/Materials/Leather Helmet.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Leather Helmet.mat
+Assets/Ultimate Survival/Scenes/Forest/NavMesh.asset
+Assets/Ultimate Survival/Scenes/Forest/NavMesh.asset
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/NFAA.shader
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/NFAA.shader
+Assets/Ultimate Survival/Prefabs/Pickups/Bone Club_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Bone Club_Pickup.prefab
+Assets/Ultimate Survival/Sprites/Item Icons/Stone.png
+Assets/Ultimate Survival/Sprites/Item Icons/Stone.png
+Assets/Ultimate Survival/Materials/Decals/Bullet Marks/Bullet Decal_Wood.mat
+Assets/Ultimate Survival/Materials/Decals/Bullet Marks/Bullet Decal_Wood.mat
+Assets/Ultimate Survival/Sprites/Item Icons/Hunting Rifle Bullet.Png
+Assets/Ultimate Survival/Sprites/Item Icons/Hunting Rifle Bullet.Png
+Assets/Ultimate Survival/Models/Weapons/World/Fire Torch_World.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Fire Torch_World.fbx
+Assets/Ultimate Survival/Models/Building/Window Frame_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Window Frame_Wood.fbx
+Assets/Ultimate Survival/Textures/Weapons/First Person/Pickaxe_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Pickaxe_NRM.png
+Assets/Ultimate Survival/Sounds/Effects/Breaks/Stone Impact & Break.wav
+Assets/Ultimate Survival/Sounds/Effects/Breaks/Stone Impact & Break.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Shotgun Pump 01.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Shotgun Pump 01.wav
+Assets/Ultimate Survival/Models/Building/Ladder_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Ladder_Wood.fbx
+Assets/Ultimate Survival/Sprites/Item Icons/Revolver.png
+Assets/Ultimate Survival/Sprites/Item Icons/Revolver.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/Socket.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/Socket.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Axe Chop 04.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Axe Chop 04.wav
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/FXAAPreset2.shader
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/FXAAPreset2.shader
+Assets/Ultimate Survival/Animations/Weapons/Templates/Hitscan/Fire 01_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/Hitscan/Fire 01_Empty.anim
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Base/InteractableObject.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Base/InteractableObject.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/ProbabilityUtils.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/ProbabilityUtils.cs
+Assets/Ultimate Survival/Textures/Weapons/World/Wooden Bow_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Wooden Bow_Pickup.png
+Assets/Ultimate Survival/Materials/Effects/Stone.mat
+Assets/Ultimate Survival/Materials/Effects/Stone.mat
+Assets/Ultimate Survival/Prefabs/Decals/Bullet Marks/Bullet Decal_Metal.prefab
+Assets/Ultimate Survival/Prefabs/Decals/Bullet Marks/Bullet Decal_Metal.prefab
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Axe Chop 02.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Axe Chop 02.wav
+Assets/Ultimate Survival/Animations/GUI/Windows/Crafting/Crafting Hide.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Crafting/Crafting Hide.anim
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Surface Managing
+Assets/Ultimate Survival/Textures/Effects/Smoke 01.psd
+Assets/Ultimate Survival/Textures/Effects/Smoke 01.psd
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/Door.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/Door.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Surface Managing/SurfaceData.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Surface Managing/SurfaceData.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/DamageArea.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/DamageArea.cs
+Assets/Ultimate Survival/Textures/Building/Window (Wood) MET.png
+Assets/Ultimate Survival/Textures/Building/Window (Wood) MET.png
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Smoke White.mat
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Smoke White.mat
+Assets/Ultimate Survival/Sprites/Item Icons/Sulfur.png
+Assets/Ultimate Survival/Sprites/Item Icons/Sulfur.png
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Bow Stretch (Half).wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Bow Stretch (Half).wav
+Assets/Ultimate Survival/Materials/Weapons/First Person/Building Plan.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Building Plan.mat
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Random Patrol (Boar).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Random Patrol (Boar).asset
+Assets/Ultimate Survival/Models/Building
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 01.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 01.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/CameraAnimator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/CameraAnimator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/CraftingMenu.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/CraftingMenu.cs
+Assets/Ultimate Survival/Textures/Building/Stairs_Wood_NRM.png
+Assets/Ultimate Survival/Textures/Building/Stairs_Wood_NRM.png
+Assets/Ultimate Survival/Textures/Characters/Boar.png
+Assets/Ultimate Survival/Textures/Characters/Boar.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPMelee.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPMelee.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/MineableTree.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/MineableTree.cs
+Assets/Ultimate Survival/Sprites/GUI/Slider Handle.png
+Assets/Ultimate Survival/Sprites/GUI/Slider Handle.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/DynamicCrosshair.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/DynamicCrosshair.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Sawed Off Fire 01.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Sawed Off Fire 01.mp3
+Assets/Ultimate Survival/Materials/Players/Male/Male Hide Skirt.mat
+Assets/Ultimate Survival/Materials/Players/Male/Male Hide Skirt.mat
+Assets/Ultimate Survival/Textures/Rocks/Rock_Normal.png
+Assets/Ultimate Survival/Textures/Rocks/Rock_Normal.png
+Assets/Ultimate Survival/Prefabs/Objects
+Assets/Ultimate Survival/Textures/Weapons/World/Bone Club_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Bone Club_Pickup.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 08.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 08.wav
+Assets/Ultimate Survival/Prefabs/Objects/Furnace.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Furnace.prefab
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/shadow.png
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/shadow.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPBowAnimator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPBowAnimator.cs
+Assets/Ultimate Survival/Models/Weapons/First Person/Assault Rifle.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Assault Rifle.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Iron Pickaxe_World.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Iron Pickaxe_World.fbx
+Assets/Ultimate Survival/Animations/Weapons/Templates/_General/Holster_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/_General/Holster_Empty.anim
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/FindFood.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/FindFood.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/ReorderableLists.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/ReorderableLists.cs
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Building Plan.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Building Plan.overrideController
+Assets/Ultimate Survival/Animations/GUI/Windows/Building Menu/Show_Empty.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Building Menu/Show_Empty.anim
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Axe.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Axe.overrideController
+Assets/Ultimate Survival/Models/Players/Male/Materials/Leather Leggings.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Leather Leggings.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/_General/GUIBehaviour.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/_General/GUIBehaviour.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Shotgun_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Shotgun_NRM.png
+Assets/Ultimate Survival/Shaders/Standard/VortexEffect.shader
+Assets/Ultimate Survival/Shaders/Standard/VortexEffect.shader
+Assets/Ultimate Survival/Mecanim/Controllers
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/ButtonHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/ButtonHandler.cs
+Assets/Ultimate Survival/Resources/Custom Data/Terrain Spawn Data.asset
+Assets/Ultimate Survival/Resources/Custom Data/Terrain Spawn Data.asset
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Window_Category.png
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Window_Category.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Metal 04.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Metal 04.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/CraftingQueue.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/CraftingQueue.cs
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Torch.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Torch.overrideController
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes/ShowOnlyAttribute.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes/ShowOnlyAttribute.cs
+Assets/Ultimate Survival/Textures/Building/Roof_Metal_NRM.png
+Assets/Ultimate Survival/Textures/Building/Roof_Metal_NRM.png
+Assets/Ultimate Survival/Sprites/GUI/Arrows.png
+Assets/Ultimate Survival/Sprites/GUI/Arrows.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Handlers/PlayerEventHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Handlers/PlayerEventHandler.cs
+Assets/Ultimate Survival/Materials/Building/Window_Wood.mat
+Assets/Ultimate Survival/Materials/Building/Window_Wood.mat
+Assets/Ultimate Survival/Sounds/Effects/Breaks
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Inspector/Inspector Hide.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Inspector/Inspector Hide.anim
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/_General/Slot.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/_General/Slot.cs
+Assets/Ultimate Survival/Models/Weapons/First Person/Hunting Rifle.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Hunting Rifle.fbx
+Assets/Ultimate Survival/Textures/Effects/Vignette Maskf.png
+Assets/Ultimate Survival/Textures/Effects/Vignette Maskf.png
+Assets/Ultimate Survival/Integrations/Voxeland.rar
+Assets/Ultimate Survival/Integrations/Voxeland.rar
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI
+Assets/Ultimate Survival/Sprites/Item Icons/Building Plan.png
+Assets/Ultimate Survival/Sprites/Item Icons/Building Plan.png
+Assets/Ultimate Survival/Models/Objects/Campfire.fbx
+Assets/Ultimate Survival/Models/Objects/Campfire.fbx
+Assets/Ultimate Survival/Animations/GUI
+Assets/Ultimate Survival/Materials/Players/Male/Leather Leggings.mat
+Assets/Ultimate Survival/Materials/Players/Male/Leather Leggings.mat
+Assets/Ultimate Survival/Animations/GUI/Windows/_General/Panel Hide_Empty.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/_General/Panel Hide_Empty.anim
+Assets/Ultimate Survival/Textures/Rocks/Rock_Metal_NRM.png
+Assets/Ultimate Survival/Textures/Rocks/Rock_Metal_NRM.png
+Assets/Ultimate Survival/Scenes/Forest.unity
+Assets/Ultimate Survival/Scenes/Forest.unity
+Assets/Ultimate Survival/Sprites/GUI/Damage
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/CCDrivenController.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/CCDrivenController.cs
+Assets/Ultimate Survival/Textures/Players/Male
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Debugging/ItemAddHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Debugging/ItemAddHandler.cs
+Assets/Ultimate Survival/Models/Building/Stairs_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Stairs_Wood.fbx
+Assets/Ultimate Survival/Shaders/Standard/ColorCorrectionEffect.shader
+Assets/Ultimate Survival/Shaders/Standard/ColorCorrectionEffect.shader
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Stone Hit 03.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Stone Hit 03.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions/AISettings.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions/AISettings.cs
+Assets/Ultimate Survival/Shaders/Standard/CameraMotionBlurDX11.shader
+Assets/Ultimate Survival/Shaders/Standard/CameraMotionBlurDX11.shader
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Flesh 01.wav
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Flesh 01.wav
+Assets/Ultimate Survival/Models/Players/Male
+Assets/Ultimate Survival/Sounds/Player/Player Hurt 03.wav
+Assets/Ultimate Survival/Sounds/Player/Player Hurt 03.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/RootHeightHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/RootHeightHandler.cs
+Assets/Ultimate Survival/Prefabs/Pickups/Assault Rifle_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Assault Rifle_Pickup.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/PlayerSleepHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/PlayerSleepHandler.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Stone Hatchet.png
+Assets/Ultimate Survival/Sprites/Item Icons/Stone Hatchet.png
+Assets/Ultimate Survival/Animations/Weapons/Templates/Melee/Miss_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/Melee/Miss_Empty.anim
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 04.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 04.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Handlers/EntityEventHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Handlers/EntityEventHandler.cs
+Assets/Ultimate Survival/Animations/Weapons/Templates/Bow/Aim_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/Bow/Aim_Empty.anim
+Assets/Ultimate Survival/Textures/Characters/Chicken_NRM.png
+Assets/Ultimate Survival/Textures/Characters/Chicken_NRM.png
+Assets/Ultimate Survival/Models/Objects/Rock_Normal.fbx
+Assets/Ultimate Survival/Models/Objects/Rock_Normal.fbx
+Assets/Ultimate Survival/Models/Players/Male/Materials
+Assets/Ultimate Survival/Resources/Custom Data/Surface Database.asset
+Assets/Ultimate Survival/Resources/Custom Data/Surface Database.asset
+Assets/Ultimate Survival/Textures/Effects/Sphere aShape.psd
+Assets/Ultimate Survival/Textures/Effects/Sphere aShape.psd
+Assets/Ultimate Survival/Sprites/GUI/BG_Custom Pivot.png
+Assets/Ultimate Survival/Sprites/GUI/BG_Custom Pivot.png
+Assets/Ultimate Survival/Textures/Players/Male/Leather Helmet.png
+Assets/Ultimate Survival/Textures/Players/Male/Leather Helmet.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/BuildingHelpers.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/BuildingHelpers.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Iron Spear_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Iron Spear_NRM.png
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/SeparableWeightedBlurDof34.shader
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/SeparableWeightedBlurDof34.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions/EntityMovement.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions/EntityMovement.cs
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Iron Spear.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Iron Spear.overrideController
+Assets/Ultimate Survival/Textures/Objects/Campfire_SPEC.png
+Assets/Ultimate Survival/Textures/Objects/Campfire_SPEC.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Utility/HelpStrings.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Utility/HelpStrings.cs
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/MobileBloom.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/MobileBloom.shader
+Assets/Ultimate Survival/Materials/Weapons/World/Bone Club_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Bone Club_World.mat
+Assets/Ultimate Survival/Prefabs/Objects/Anvil.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Anvil.prefab
+Assets/Ultimate Survival/Materials
+Assets/Ultimate Survival/Shaders/Standard/Contrast Stretch/MinMaxReduction.shader
+Assets/Ultimate Survival/Shaders/Standard/Contrast Stretch/MinMaxReduction.shader
+Assets/Ultimate Survival/Materials/Weapons/World/Wooden Spear_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Wooden Spear_World.mat
+Assets/Ultimate Survival/Textures/Characters/Cannibal_NRM.png
+Assets/Ultimate Survival/Textures/Characters/Cannibal_NRM.png
+Assets/Ultimate Survival/Textures/Terrain
+Assets/Ultimate Survival/Materials/Players/Male/Leather Helmet.mat
+Assets/Ultimate Survival/Materials/Players/Male/Leather Helmet.mat
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Scream 01.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Scream 01.wav
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/DepthOfField34.shader
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/DepthOfField34.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Smelting/SmeltingStationGUI.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Smelting/SmeltingStationGUI.cs
+Assets/Ultimate Survival/Models/Weapons/Fonts/My Font.ttf
+Assets/Ultimate Survival/Models/Weapons/Fonts/My Font.ttf
+Assets/Ultimate Survival/Sprites/GUI/Weapon Icon.png
+Assets/Ultimate Survival/Sprites/GUI/Weapon Icon.png
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Bone Club.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Bone Club.overrideController
+Assets/Ultimate Survival/Textures/Characters/Cannibal.png
+Assets/Ultimate Survival/Textures/Characters/Cannibal.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Editor/FileCreatorWindow.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Editor/FileCreatorWindow.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Types/Activity.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Types/Activity.cs
+Assets/Ultimate Survival/Models
+Assets/Ultimate Survival/Sprites/GUI/Open.png
+Assets/Ultimate Survival/Sprites/GUI/Open.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Character/CharacterEquipmentHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Character/CharacterEquipmentHandler.cs
+Assets/Ultimate Survival/Shaders/Standard/ColorCorrectionCurvesSimple.shader
+Assets/Ultimate Survival/Shaders/Standard/ColorCorrectionCurvesSimple.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPTorch.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPTorch.cs
+Assets/Ultimate Survival/Textures/Players/Male/Male.png
+Assets/Ultimate Survival/Textures/Players/Male/Male.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/HitBox.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/HitBox.cs
+Assets/Ultimate Survival/Shaders/Standard/SunShaftsComposite.shader
+Assets/Ultimate Survival/Shaders/Standard/SunShaftsComposite.shader
+Assets/Ultimate Survival/Materials/Weapons/First Person/Torch.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Torch.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/MenuUtilities.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/MenuUtilities.cs
+Assets/Ultimate Survival/Models/Objects/Arrow.fbx
+Assets/Ultimate Survival/Models/Objects/Arrow.fbx
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/translucency_gloss.png
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/translucency_gloss.png
+Assets/Ultimate Survival/Animations/Weapons/Templates/Throwable/Ready (Empty).anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/Throwable/Ready (Empty).anim
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPSpear.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPSpear.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Shotgun_SPEC.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Shotgun_SPEC.png
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Mag Insert.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Mag Insert.wav
+Assets/Ultimate Survival/Materials/Weapons/World/Hunting Rifle_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Hunting Rifle_World.mat
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Inspector
+Assets/Ultimate Survival/Materials/Weapons/World/Wooden Bow_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Wooden Bow_World.mat
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 05.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 05.wav
+Assets/Ultimate Survival/Models/Characters/Cannibal.fbx
+Assets/Ultimate Survival/Models/Characters/Cannibal.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Lamp.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Lamp.cs
+Assets/Ultimate Survival/Materials/Weapons/World/Stone Hatchet_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Stone Hatchet_World.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/Editor/ImageEffects/AAEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/Editor/ImageEffects/AAEditor.cs
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Drop Dialogue
+Assets/Ultimate Survival/Textures/Building/Platform_Wood.png
+Assets/Ultimate Survival/Textures/Building/Platform_Wood.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes/ClampAttribute.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes/ClampAttribute.cs
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 06.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 06.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 06.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 06.wav
+Assets/Ultimate Survival/Resources/Custom Data/Input/Input Data.asset
+Assets/Ultimate Survival/Resources/Custom Data/Input/Input Data.asset
+Assets/Ultimate Survival/Animations/GUI/Windows/Character/Character Show.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Character/Character Show.anim
+Assets/Ultimate Survival/Textures/Effects
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Slide Single 1.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Slide Single 1.wav
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/Bokeh34.shader
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/Bokeh34.shader
+Assets/Ultimate Survival/Resources/Custom Data/Items
+Assets/Ultimate Survival/Textures/Building/Stairs_Wood_AO.png
+Assets/Ultimate Survival/Textures/Building/Stairs_Wood_AO.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person
+Assets/Ultimate Survival/Materials/Players/Male/Bone ChestPlate.mat
+Assets/Ultimate Survival/Materials/Players/Male/Bone ChestPlate.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Shotgun.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Shotgun.mat
+Assets/Ultimate Survival/Shaders/Standard/ShowAlphaChannel.shader
+Assets/Ultimate Survival/Shaders/Standard/ShowAlphaChannel.shader
+Assets/Ultimate Survival/Sprites/Item Icons/Leather Chestplate.png
+Assets/Ultimate Survival/Sprites/Item Icons/Leather Chestplate.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/HealthManagement.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/HealthManagement.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Reload 02.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Reload 02.wav
+Assets/Ultimate Survival/Prefabs/Objects/Ceiling Light.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Ceiling Light.prefab
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Short Scream 01.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Short Scream 01.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/PlayerStatsGUI.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/PlayerStatsGUI.cs
+Assets/Ultimate Survival/Sprites/GUI/Player Stats/Thirst.png
+Assets/Ultimate Survival/Sprites/GUI/Player Stats/Thirst.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 02.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 02.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General/Item.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General/Item.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Flames.mat
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Flames.mat
+Assets/Ultimate Survival/Mecanim
+Assets/Ultimate Survival/Sounds/AI/Cannibal
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/ColorCorrection.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/ColorCorrection.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Axe Chop 01.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Axe Chop 01.wav
+Assets/Ultimate Survival/Sounds/Building/Door Open.wav
+Assets/Ultimate Survival/Sounds/Building/Door Open.wav
+Assets/Ultimate Survival/Shaders/Standard/BlurEffectConeTaps.shader
+Assets/Ultimate Survival/Shaders/Standard/BlurEffectConeTaps.shader
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 01.mp3
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 01.mp3
+Assets/Ultimate Survival/Materials/Characters/Cannibal Hide Skirt.mat
+Assets/Ultimate Survival/Materials/Characters/Cannibal Hide Skirt.mat
+Assets/Ultimate Survival/Sprites/Item Icons/Wood Helmet.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wood Helmet.png
+Assets/Ultimate Survival/Textures/Building/Roof_Metal_MET.png
+Assets/Ultimate Survival/Textures/Building/Roof_Metal_MET.png
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Inspector/Inspector Refresh.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Inspector/Inspector Refresh.anim
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Revolver.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Revolver.overrideController
+Assets/Ultimate Survival/Models/Weapons/World/Bone Club_World.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Bone Club_World.fbx
+Assets/Ultimate Survival/Textures/Players/Male/Wood Leggings.png
+Assets/Ultimate Survival/Textures/Players/Male/Wood Leggings.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/GUI/BuildingWheelEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/GUI/BuildingWheelEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/PlayerVitals.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/PlayerVitals.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Log.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Log.png
+Assets/Ultimate Survival/Shaders/Standard/CreaseApply.shader
+Assets/Ultimate Survival/Shaders/Standard/CreaseApply.shader
+Assets/Ultimate Survival/Animations/Weapons/Templates
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Eat.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Eat.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/PointBased.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/PointBased.cs
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing
+Assets/Ultimate Survival/Prefabs/Effects/Bullet Impact FX_Stone.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Bullet Impact FX_Stone.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/LootContainerOpener.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/LootContainerOpener.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPHitscanEventHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPHitscanEventHandler.cs
+Assets/Ultimate Survival/Textures/Building/Wall_Wood.png
+Assets/Ultimate Survival/Textures/Building/Wall_Wood.png
+Assets/Ultimate Survival/Materials/Players/Male/Wood ChestPlate.mat
+Assets/Ultimate Survival/Materials/Players/Male/Wood ChestPlate.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building/CustomGUI.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building/CustomGUI.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Idle.fbx
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Idle.fbx
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories
+Assets/Ultimate Survival/Textures/Building/Platform_Wood_NRM.png
+Assets/Ultimate Survival/Textures/Building/Platform_Wood_NRM.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/_General/ItemContainer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/_General/ItemContainer.cs
+Assets/Ultimate Survival/Materials/Weapons/First Person/Hunting Rifle.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Hunting Rifle.mat
+Assets/Ultimate Survival/Sounds/GUI/Mouth 01.wav
+Assets/Ultimate Survival/Sounds/GUI/Mouth 01.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Action.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Action.cs
+Assets/Ultimate Survival/Textures/Players/Male/Leather Boots.png
+Assets/Ultimate Survival/Textures/Players/Male/Leather Boots.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Ladder 01.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Ladder 01.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/ScriptableSingleton.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/ScriptableSingleton.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Wooden Bow_SPEC.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Wooden Bow_SPEC.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person/TransformOffsetDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person/TransformOffsetDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/AI
+Assets/Ultimate Survival/Textures/Players/Male/Wood ChestPlate.png
+Assets/Ultimate Survival/Textures/Players/Male/Wood ChestPlate.png
+Assets/Ultimate Survival/Materials/Weapons/World
+Assets/Ultimate Survival/Sprites/Item Icons/Roof_Metal.png
+Assets/Ultimate Survival/Sprites/Item Icons/Roof_Metal.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Stone Hatchet.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Stone Hatchet.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera
+Assets/Ultimate Survival/Textures/Characters
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Bark/Tree Bark 01.tga
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Bark/Tree Bark 01.tga
+Assets/Ultimate Survival/Terrain/Trees/Tree.prefab
+Assets/Ultimate Survival/Terrain/Trees/Tree.prefab
+Assets/Ultimate Survival/Animations/Weapons/Templates/_General/Draw_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/_General/Draw_Empty.anim
+Assets/Ultimate Survival/Resources/Custom Data/AI/Goals/Avoid Player.asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Goals/Avoid Player.asset
+Assets/Ultimate Survival/Sprites/Item Icons/Magnum .44 Bullet.png
+Assets/Ultimate Survival/Sprites/Item Icons/Magnum .44 Bullet.png
+Assets/Ultimate Survival/Textures/Objects/Storage Box.png
+Assets/Ultimate Survival/Textures/Objects/Storage Box.png
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Idle 03.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Idle 03.wav
+Assets/Ultimate Survival/Prefabs/_General/Scene Setup.prefab
+Assets/Ultimate Survival/Prefabs/_General/Scene Setup.prefab
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Mag Insert 1.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Mag Insert 1.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/MineableStone.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/MineableStone.cs
+Assets/Ultimate Survival/Prefabs/Building/Platform_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Platform_Wood.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes/ReorderableAttribute.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes/ReorderableAttribute.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Cooked Meat.png
+Assets/Ultimate Survival/Sprites/Item Icons/Cooked Meat.png
+Assets/Ultimate Survival/Materials/Weapons/World/Shotgun_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Shotgun_World.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/PlayerVitalsGUI.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/PlayerVitalsGUI.cs
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 12.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 12.wav
+Assets/Ultimate Survival/Sprites/Item Icons/Pillar_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/Pillar_Wood.png
+Assets/Ultimate Survival/Sprites/GUI/Player Stats
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Injured 01.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Injured 01.wav
+Assets/Ultimate Survival/Sounds/Effects/Body
+Assets/Ultimate Survival/Prefabs/Building/Pillar_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Pillar_Wood.prefab
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 04.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 04.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Goals/AvoidPlayer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Goals/AvoidPlayer.cs
+Assets/Ultimate Survival/Prefabs/Building/Stairs_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Stairs_Wood.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Goals/KillPlayer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Goals/KillPlayer.cs
+Assets/Ultimate Survival/Prefabs/Effects/Object Placed FX.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Object Placed FX.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/Editor/ImageEffects/ColorCorrectionEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/Editor/ImageEffects/ColorCorrectionEditor.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Window Frame_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/Window Frame_Wood.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/GUI/BuildingPieceEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/GUI/BuildingPieceEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/GUIControllerEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/GUIControllerEditor.cs
+Assets/Ultimate Survival/Textures/Players/Male/Wood Helmet_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Wood Helmet_NRM.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/PlayerPauseHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/PlayerPauseHandler.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Spear
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPAnimator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPAnimator.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Rotten Meat.png
+Assets/Ultimate Survival/Sprites/Item Icons/Rotten Meat.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Types
+Assets/Ultimate Survival/Models/Weapons/World/Revolver_World.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Revolver_World.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/Extensions.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/Extensions.cs
+Assets/Ultimate Survival/Animations/GUI/Windows/_General/Panel Show_Empty.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/_General/Panel Show_Empty.anim
+Assets/Ultimate Survival/Shaders/Standard/GrayscaleEffect.shader
+Assets/Ultimate Survival/Shaders/Standard/GrayscaleEffect.shader
+Assets/Ultimate Survival/Prefabs/Objects/Destroyed Tree.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Destroyed Tree.prefab
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Pin 2.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Pin 2.wav
+Assets/Ultimate Survival/Shaders/PreloadedShaders.shadervariants
+Assets/Ultimate Survival/Shaders/PreloadedShaders.shadervariants
+Assets/Ultimate Survival/Sprites/Item Icons/Anvil.png
+Assets/Ultimate Survival/Sprites/Item Icons/Anvil.png
+Assets/Ultimate Survival/Materials/Players/Male/Wood FootWear.mat
+Assets/Ultimate Survival/Materials/Players/Male/Wood FootWear.mat
+Assets/Ultimate Survival/Materials/Players/Male/Bone Leggings.mat
+Assets/Ultimate Survival/Materials/Players/Male/Bone Leggings.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/DisableAtStart.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/DisableAtStart.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/MonoSingleton.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/MonoSingleton.cs
+Assets/Ultimate Survival/Materials/Building/Ladder_Wood.mat
+Assets/Ultimate Survival/Materials/Building/Ladder_Wood.mat
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Rifle Fire.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Rifle Fire.mp3
+Assets/Ultimate Survival/Sprites/GUI/X.png
+Assets/Ultimate Survival/Sprites/GUI/X.png
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Pin 1.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Pin 1.wav
+Assets/Ultimate Survival/Resources/_Scene Base/Male_Player.prefab
+Assets/Ultimate Survival/Resources/_Scene Base/Male_Player.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/GUI/BuildingCategoryEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/GUI/BuildingCategoryEditor.cs
+Assets/Ultimate Survival/Textures/Building/Roof_Metal_AO.png
+Assets/Ultimate Survival/Textures/Building/Roof_Metal_AO.png
+Assets/Ultimate Survival/Models/Weapons/First Person/Stone Hatchet.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Stone Hatchet.fbx
+Assets/Ultimate Survival/Prefabs/Pickups/Revolver_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Revolver_Pickup.prefab
+Assets/Ultimate Survival/Models/Players/Male/Materials/Wood Helmet.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Wood Helmet.mat
+Assets/Ultimate Survival/Textures/Players/Male/Leather Chestplate.png
+Assets/Ultimate Survival/Textures/Players/Male/Leather Chestplate.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Axe.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Axe.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/FPCameraController.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Camera/FPCameraController.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/RecipeInspector.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/RecipeInspector.cs
+Assets/Ultimate Survival/Prefabs/Objects/Rock_Normal.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Rock_Normal.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/BloomEffect.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/BloomEffect.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Slide Single 2.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Slide Single 2.wav
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Materials/Tree Bark 01.mat
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Materials/Tree Bark 01.mat
+Assets/Ultimate Survival/Sprites/Item Icons/Floor_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/Floor_Wood.png
+Assets/Ultimate Survival/Materials/Objects
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Debugging/PlayerInfo.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Debugging/PlayerInfo.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/ShaftedProjectile.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/ShaftedProjectile.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/AudioUtils.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/AudioUtils.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General/Recipe.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General/Recipe.cs
+Assets/Ultimate Survival/Animations/Camera
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/CannibalSpawner.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/CannibalSpawner.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Hunting Rifle_SPEC.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Hunting Rifle_SPEC.png
+Assets/Ultimate Survival/Sprites/Item Icons/Arrow.png
+Assets/Ultimate Survival/Sprites/Item Icons/Arrow.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Environment/SceneReflection.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Environment/SceneReflection.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Damage System Related/PlayerStatusEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Damage System Related/PlayerStatusEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Behaviours
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Idle 01.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Idle 01.wav
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Sparkz.mat
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Sparkz.mat
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Wood 01.wav
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Wood 01.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/GenericVitals.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/GenericVitals.cs
+Assets/Ultimate Survival/Shaders/Standard/NoiseEffectShaderRGB.shader
+Assets/Ultimate Survival/Shaders/Standard/NoiseEffectShaderRGB.shader
+Assets/Ultimate Survival/Sprites/Item Icons/Gun Powder.png
+Assets/Ultimate Survival/Sprites/Item Icons/Gun Powder.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wood Pillar.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wood Pillar.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Attack.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Attack.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/BuildingPiece.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/BuildingPiece.cs
+Assets/Ultimate Survival/Models/Players/Male/Materials/Male Hide Skirt.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Male Hide Skirt.mat
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Metal 02.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Metal 02.wav
+Assets/Ultimate Survival/Textures/Weapons/World/Hunting Rifle_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Hunting Rifle_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Assault Rifle_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Assault Rifle_Pickup.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/PooledObject.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/PooledObject.cs
+Assets/Ultimate Survival/Textures/Players/Male/Leather Chestplate_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Leather Chestplate_NRM.png
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Random Patrol (Chicken).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Random Patrol (Chicken).asset
+Assets/Ultimate Survival/Resources/_Scene Base/_Game Controller.prefab
+Assets/Ultimate Survival/Resources/_Scene Base/_Game Controller.prefab
+Assets/Ultimate Survival/Animations/GUI/Windows
+Assets/Ultimate Survival/Materials/Effects
+Assets/Ultimate Survival/Prefabs/Building/Ladder_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Ladder_Wood.prefab
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Stone 01.wav
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Stone 01.wav
+Assets/Ultimate Survival/Sounds/Fire/Camp Fire Burning.wav
+Assets/Ultimate Survival/Sounds/Fire/Camp Fire Burning.wav
+Assets/Ultimate Survival/Sounds/Effects/Body/Body Hit 01.wav
+Assets/Ultimate Survival/Sounds/Effects/Body/Body Hit 01.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPManager.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPManager.cs
+Assets/Ultimate Survival/Sounds/Pickups/Gun Pickup 01.wav
+Assets/Ultimate Survival/Sounds/Pickups/Gun Pickup 01.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Spear/Spear Penetration (Dirt).wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Spear/Spear Penetration (Dirt).wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Slide Double 1.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Slide Double 1.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Wooshes/Woosh 02.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Wooshes/Woosh 02.mp3
+Assets/Ultimate Survival/Textures/Weapons/First Person/Torch.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Torch.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Stone 04.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Stone 04.wav
+Assets/Ultimate Survival/Textures/Objects/Furnace NRM.png
+Assets/Ultimate Survival/Textures/Objects/Furnace NRM.png
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Wood 02.wav
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Wood 02.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPBow.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPBow.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Debugger/Script Debuggers/ControllerDebugger.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Debugger/Script Debuggers/ControllerDebugger.cs
+Assets/Ultimate Survival/Sounds/Pickups
+Assets/Ultimate Survival/Prefabs/Effects/Tracer.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Tracer.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Utility
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Attack (Cannibal).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Attack (Cannibal).asset
+Assets/Ultimate Survival/Mecanim/Controllers/Camera
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/GUIUtils.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/GUIUtils.cs
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Scream 02.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Scream 02.wav
+Assets/Ultimate Survival/Textures/Objects
+Assets/Ultimate Survival/Textures/Weapons/First Person/Wooden Bow.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Wooden Bow.png
+Assets/Ultimate Survival/Textures/Players
+Assets/Ultimate Survival/Shaders/Standard/SSAOShader.shader
+Assets/Ultimate Survival/Shaders/Standard/SSAOShader.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Environment/TimeOfDay.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Environment/TimeOfDay.cs
+Assets/Ultimate Survival/Models/Building/L Shaped Stairs_Wood_Inflated.fbx
+Assets/Ultimate Survival/Models/Building/L Shaped Stairs_Wood_Inflated.fbx
+Assets/Ultimate Survival/Textures/Characters/Cannibal_SPEC.png
+Assets/Ultimate Survival/Textures/Characters/Cannibal_SPEC.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person/BobDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person/BobDrawer.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Arms_SPEC.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Arms_SPEC.png
+Assets/Ultimate Survival/Prefabs/Building/Wall_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Wall_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Shotgun Shell.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Shotgun Shell.prefab
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Stone 02.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Stone 02.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Third Person/CharacterEquipment.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Third Person/CharacterEquipment.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Handlers/AIEventHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Handlers/AIEventHandler.cs
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/DLAA.shader
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/DLAA.shader
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Dirt 01.wav
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Dirt 01.wav
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Shotgun.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Shotgun.overrideController
+Assets/Ultimate Survival/Sprites/GUI/Stat BG.png
+Assets/Ultimate Survival/Sprites/GUI/Stat BG.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/ItemInspector.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/ItemInspector.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Crate.png
+Assets/Ultimate Survival/Sprites/Item Icons/Crate.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/Hotbar.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/Hotbar.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Goals/Goal.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Goals/Goal.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Patrol.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Patrol.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/CrosshairManager.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/CrosshairManager.cs
+Assets/Ultimate Survival/Sounds/GUI/Click 01.wav
+Assets/Ultimate Survival/Sounds/GUI/Click 01.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 01.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 01.wav
+Assets/Ultimate Survival/Models/Building/Window_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Window_Wood.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/_General/MessageDisplayer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/_General/MessageDisplayer.cs
+Assets/Ultimate Survival/Materials/Building/Building Preview.mat
+Assets/Ultimate Survival/Materials/Building/Building Preview.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Iron Spear_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Iron Spear_World.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/AnvilGUI.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/AnvilGUI.cs
+Assets/Ultimate Survival/Animations/Weapons/Templates/Hitscan/Fire 03_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/Hitscan/Fire 03_Empty.anim
+Assets/Ultimate Survival/Sounds/Player
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Smelting/FlamesIcon.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Smelting/FlamesIcon.cs
+Assets/Ultimate Survival/Prefabs/Decals/Bullet Marks
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Short Scream 04.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Short Scream 04.wav
+Assets/Ultimate Survival/Sprites/GUI/Crosshairs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General/ItemDatabase.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General/ItemDatabase.cs
+Assets/Ultimate Survival/Resources/Custom Data/AI
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Twang 01.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Twang 01.wav
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Spear.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Spear.png
+Assets/Ultimate Survival/Prefabs/Pickups/Stone Hatchet_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Stone Hatchet_Pickup.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Property Drawers/PropertyValueDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Property Drawers/PropertyValueDrawer.cs
+Assets/Ultimate Survival/Scenes/Forest/OcclusionCullingData.asset
+Assets/Ultimate Survival/Scenes/Forest/OcclusionCullingData.asset
+Assets/Ultimate Survival/Shaders/Standard/Contrast Stretch
+Assets/Ultimate Survival/Models/Characters/Boar 02.fbx
+Assets/Ultimate Survival/Models/Characters/Boar 02.fbx
+Assets/Ultimate Survival/Textures/Players/Male/Male Hide Skirt_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Male Hide Skirt_NRM.png
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/FXAA3Console.shader
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/FXAA3Console.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Damage System Related
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Sequenced Patrol (Cannibal).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Sequenced Patrol (Cannibal).asset
+Assets/Ultimate Survival/Models/Objects/Anvil.fbx
+Assets/Ultimate Survival/Models/Objects/Anvil.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/TerrainObjectSpawner.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/TerrainObjectSpawner.cs
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Wooden Spear.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Wooden Spear.overrideController
+Assets/Ultimate Survival/Textures/Building/Pillar_Wood.png
+Assets/Ultimate Survival/Textures/Building/Pillar_Wood.png
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Wall_Category.png
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Wall_Category.png
+Assets/Ultimate Survival/Prefabs/Effects/Bullet Impact FX_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Bullet Impact FX_Wood.prefab
+Assets/Ultimate Survival/Prefabs/AI/Chicken_AI.prefab
+Assets/Ultimate Survival/Prefabs/AI/Chicken_AI.prefab
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/diffuse.png
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/diffuse.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/MotionPatterns.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/MotionPatterns.cs
+Assets/Ultimate Survival/Sounds/Player/Player Death 01.wav
+Assets/Ultimate Survival/Sounds/Player/Player Death 01.wav
+Assets/Ultimate Survival/Prefabs/AI/Boar_AI.prefab
+Assets/Ultimate Survival/Prefabs/AI/Boar_AI.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Wooden Bow_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Wooden Bow_Pickup.prefab
+Assets/Ultimate Survival/Materials/Players/Male
+Assets/Ultimate Survival/Textures/Objects/Cloth Sack_NRM.png
+Assets/Ultimate Survival/Textures/Objects/Cloth Sack_NRM.png
+Assets/Ultimate Survival/Mecanim/Controllers/GUI
+Assets/Ultimate Survival/Textures/Players/Male/Bone ChestPlate.png
+Assets/Ultimate Survival/Textures/Players/Male/Bone ChestPlate.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Sign.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Sign.png
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures
+Assets/Ultimate Survival/Sprites/GUI/Building System
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Drop Dialogue/Item Drop Show.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Drop Dialogue/Item Drop Show.anim
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Bark
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPWeaponBase.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPWeaponBase.cs
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Floor_Category.png
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Floor_Category.png
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/DepthOfFieldDX11.shader
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/DepthOfFieldDX11.shader
+Assets/Ultimate Survival/Sounds/Weapons & Tools
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/InputData.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/InputData.cs
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 12.mp3
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 12.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Shotgun Fire 01.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Shotgun Fire 01.wav
+Assets/Ultimate Survival/Animations/AI/_Templates
+Assets/Ultimate Survival/Materials/Objects/Cloth Sack.mat
+Assets/Ultimate Survival/Materials/Objects/Cloth Sack.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Attribute Drawers/HideSwitchAttributeDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Attribute Drawers/HideSwitchAttributeDrawer.cs
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Character_GUI.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Character_GUI.overrideController
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/InventoryController.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/InventoryController.cs
+Assets/Ultimate Survival/Textures/Decals/Bullet Marks/Bullet Decal_Stone.png
+Assets/Ultimate Survival/Textures/Decals/Bullet Marks/Bullet Decal_Stone.png
+Assets/Ultimate Survival/Animations/GUI/Windows/Furnace/Furnace Hide.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Furnace/Furnace Hide.anim
+Assets/Ultimate Survival/Textures/Weapons/First Person/Stone Hatchet_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Stone Hatchet_NRM.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building/SocketEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building/SocketEditor.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Bone Club.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Bone Club.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/ItemToGenerateDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/ItemToGenerateDrawer.cs
+Assets/Ultimate Survival/Textures/Building/Stairs_Wood_MET.png
+Assets/Ultimate Survival/Textures/Building/Stairs_Wood_MET.png
+Assets/Ultimate Survival/Sounds/Effects/Body/Body Hit 03.mp3
+Assets/Ultimate Survival/Sounds/Effects/Body/Body Hit 03.mp3
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 09.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 09.wav
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/BrightPassFilter2.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/BrightPassFilter2.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/_General/GUIController.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/_General/GUIController.cs
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 8.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 8.wav
+Assets/Ultimate Survival/Resources/Custom Data/AI/Goals
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Base/IOpenable.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Base/IOpenable.cs
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Short Scream 05.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Short Scream 05.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Behaviours/AIBehaviour.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Behaviours/AIBehaviour.cs
+Assets/Ultimate Survival/Textures/Players/Male/Wood Helmet.png
+Assets/Ultimate Survival/Textures/Players/Male/Wood Helmet.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc
+Assets/Ultimate Survival/Materials/Players/Male/Leather Boots.mat
+Assets/Ultimate Survival/Materials/Players/Male/Leather Boots.mat
+Assets/Ultimate Survival/Prefabs/Effects/Bullet Impact FX_Metal.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Bullet Impact FX_Metal.prefab
+Assets/Ultimate Survival/Textures/Weapons/First Person/Building Plan.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Building Plan.png
+Assets/Ultimate Survival/Animations/GUI/Windows/Inventory/Inventory Hide.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Inventory/Inventory Hide.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Crafting/Crafting Show.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Crafting/Crafting Show.anim
+Assets/Ultimate Survival/Shaders/Standard/TwirlEffect.shader
+Assets/Ultimate Survival/Shaders/Standard/TwirlEffect.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Item Management
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 05.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 05.wav
+Assets/Ultimate Survival/Prefabs/Pickups/_Bag_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/_Bag_Pickup.prefab
+Assets/Ultimate Survival/Shaders/Standard/VignettingShader.shader
+Assets/Ultimate Survival/Shaders/Standard/VignettingShader.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Property Drawers/DurabilityBarDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Property Drawers/DurabilityBarDrawer.cs
+Assets/Ultimate Survival/Shaders/Standard/PrepareSunShaftsBlur.shader
+Assets/Ultimate Survival/Shaders/Standard/PrepareSunShaftsBlur.shader
+Assets/Ultimate Survival/Shaders/Standard/NoiseAndGrainDX11.shader
+Assets/Ultimate Survival/Shaders/Standard/NoiseAndGrainDX11.shader
+Assets/Ultimate Survival/Textures/Building/Door_Wood_SPEC.png
+Assets/Ultimate Survival/Textures/Building/Door_Wood_SPEC.png
+Assets/Ultimate Survival/Models/Weapons/First Person/Wooden Bow.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Wooden Bow.fbx
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Ladder 02.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Ladder 02.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Spear/Spear Penetration (Flesh).wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Spear/Spear Penetration (Flesh).wav
+Assets/Ultimate Survival/Textures/Players/Male/Leather Leggings_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Leather Leggings_NRM.png
+Assets/Ultimate Survival/Animations/Weapons/Templates/Melee/Hit_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/Melee/Hit_Empty.anim
+Assets/Ultimate Survival/Prefabs/Pickups/Iron Spear_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Iron Spear_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Sleeping Bag.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Sleeping Bag.prefab
+Assets/Ultimate Survival/Sounds/Player/Player Hurt 02.wav
+Assets/Ultimate Survival/Sounds/Player/Player Hurt 02.wav
+Assets/Ultimate Survival/Sounds/GUI/Dismantle.wav
+Assets/Ultimate Survival/Sounds/GUI/Dismantle.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 03.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 03.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Types/Value.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Types/Value.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Input
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Death 2.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Death 2.wav
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Smoke Black.mat
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Smoke Black.mat
+Assets/Ultimate Survival/Prefabs/Pickups/Arrow_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Arrow_Pickup.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General/ItemProperty.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General/ItemProperty.cs
+Assets/Ultimate Survival/Materials/Objects/Rock_Metal.mat
+Assets/Ultimate Survival/Materials/Objects/Rock_Metal.mat
+Assets/Ultimate Survival/Prefabs/Effects/Muzzle Flash_Medium.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Muzzle Flash_Medium.prefab
+Assets/Ultimate Survival/Materials/Effects/Blood Splat.mat
+Assets/Ultimate Survival/Materials/Effects/Blood Splat.mat
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Stone 02.wav
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Stone 02.wav
+Assets/Ultimate Survival/Materials/Objects/Sleeping Bag.mat
+Assets/Ultimate Survival/Materials/Objects/Sleeping Bag.mat
+Assets/Ultimate Survival/Models/Objects/Wooden Spear.fbx
+Assets/Ultimate Survival/Models/Objects/Wooden Spear.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions
+Assets/Ultimate Survival/Prefabs/Pickups/Pickaxe_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Pickaxe_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/_General
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/ItemContainerEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/ItemContainerEditor.cs
+Assets/Ultimate Survival/Sounds/Building/Build Wood 01.wav
+Assets/Ultimate Survival/Sounds/Building/Build Wood 01.wav
+Assets/Ultimate Survival/Models/Effects/Shell_Shotgun.fbx
+Assets/Ultimate Survival/Models/Effects/Shell_Shotgun.fbx
+Assets/Ultimate Survival/Materials/Skybox
+Assets/Ultimate Survival/Textures/Players/Male/Leather Chestplate_SPEC.png
+Assets/Ultimate Survival/Textures/Players/Male/Leather Chestplate_SPEC.png
+Assets/Ultimate Survival/Materials/Weapons/First Person
+Assets/Ultimate Survival/Textures/Effects/Stone.png
+Assets/Ultimate Survival/Textures/Effects/Stone.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/GUI/CrosshairDataDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/GUI/CrosshairDataDrawer.cs
+Assets/Ultimate Survival/Animations/GUI/Windows/Character/Character Hide.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Character/Character Hide.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/Throwable/Throw (Empty).anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/Throwable/Throw (Empty).anim
+Assets/Ultimate Survival/Prefabs/AI
+Assets/Ultimate Survival/Textures/Decals/Bullet Marks/Bullet Decal_Flesh.png
+Assets/Ultimate Survival/Textures/Decals/Bullet Marks/Bullet Decal_Flesh.png
+Assets/Ultimate Survival/Sprites/GUI/Crosshairs/Crosshair_Classic.png
+Assets/Ultimate Survival/Sprites/GUI/Crosshairs/Crosshair_Classic.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Building System/BuildingWheel.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Building System/BuildingWheel.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Property Drawers/PropertyDefinitionDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Property Drawers/PropertyDefinitionDrawer.cs
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons
+Assets/Ultimate Survival/Sprites/Item Icons/Bone.png
+Assets/Ultimate Survival/Sprites/Item Icons/Bone.png
+Assets/Ultimate Survival/Shaders/Standard/ScreenSpaceRaytrace.cginc
+Assets/Ultimate Survival/Shaders/Standard/ScreenSpaceRaytrace.cginc
+Assets/Ultimate Survival/Textures/Weapons/First Person/Wooden Bow_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Wooden Bow_NRM.png
+Assets/Ultimate Survival/Materials/Weapons/World/Revolver_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Revolver_World.mat
+Assets/Ultimate Survival/Animations/Weapons/Templates/Hitscan
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Debugger/DebuggerWindow.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Debugger/DebuggerWindow.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPMotion.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPMotion.cs
+Assets/Ultimate Survival/Prefabs/Pickups/Wooden Spear_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Wooden Spear_Pickup.prefab
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Attack 01.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Attack 01.wav
+Assets/Ultimate Survival/Prefabs/Decals
+Assets/Ultimate Survival/Models/Players
+Assets/Ultimate Survival/Textures/Weapons/World/Iron Pickaxe_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Iron Pickaxe_Pickup.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Environment/AmbienceController.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Environment/AmbienceController.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Mag Insert 2.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Mag Insert 2.wav
+Assets/Ultimate Survival/Sounds/GUI/Switch 01.wav
+Assets/Ultimate Survival/Sounds/GUI/Switch 01.wav
+Assets/Ultimate Survival/Shaders/Standard/BlendModesOverlay.shader
+Assets/Ultimate Survival/Shaders/Standard/BlendModesOverlay.shader
+Assets/Ultimate Survival/Mecanim/Controllers/AI/Boar.controller
+Assets/Ultimate Survival/Mecanim/Controllers/AI/Boar.controller
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Debugging
+Assets/Ultimate Survival/Materials/Building/Roof_Wood.mat
+Assets/Ultimate Survival/Materials/Building/Roof_Wood.mat
+Assets/Ultimate Survival/Materials/Building/Ceiling Light.mat
+Assets/Ultimate Survival/Materials/Building/Ceiling Light.mat
+Assets/Ultimate Survival/_Docs
+Assets/Ultimate Survival/Animations/AI/_Templates/Animal Idle_Empty.anim
+Assets/Ultimate Survival/Animations/AI/_Templates/Animal Idle_Empty.anim
+Assets/Ultimate Survival/Sprites/Item Icons/Shotgun Shell.png
+Assets/Ultimate Survival/Sprites/Item Icons/Shotgun Shell.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Attribute Drawers
+Assets/Ultimate Survival/Sounds/Fire
+Assets/Ultimate Survival/Models/Building/Doorway_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Doorway_Wood.fbx
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Stone Hit 02.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Stone Hit 02.wav
+Assets/Ultimate Survival/Shaders/Standard/RadialBlur.shader
+Assets/Ultimate Survival/Shaders/Standard/RadialBlur.shader
+Assets/Ultimate Survival/Textures/Weapons/First Person/Building Plan_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Building Plan_NRM.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/FPSDisplayer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/FPSDisplayer.cs
+Assets/Ultimate Survival/Models/Effects/Shell_Revolver.fbx
+Assets/Ultimate Survival/Models/Effects/Shell_Revolver.fbx
+Assets/Ultimate Survival/Textures/Building/Platform_Wood_AO.png
+Assets/Ultimate Survival/Textures/Building/Platform_Wood_AO.png
+Assets/Ultimate Survival/Prefabs/Building/Window_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Window_Wood.prefab
+Assets/Ultimate Survival/Textures/Players/Male/Wood ChestPlate_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Wood ChestPlate_NRM.png
+Assets/Ultimate Survival/Scripts
+Assets/Ultimate Survival/Textures/Building/Window_Wood.png
+Assets/Ultimate Survival/Textures/Building/Window_Wood.png
+Assets/Ultimate Survival/Models/Players/Male/Male.fbx
+Assets/Ultimate Survival/Models/Players/Male/Male.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Templates/GoalTemplate.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Templates/GoalTemplate.cs
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 02.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 02.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/FutureSys/Pool.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/FutureSys/Pool.cs
+Assets/Ultimate Survival/Models/Objects/Furnace.fbx
+Assets/Ultimate Survival/Models/Objects/Furnace.fbx
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/FXAA2.shader
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/FXAA2.shader
+Assets/Ultimate Survival/Shaders/Standard/MotionBlurClear.shader
+Assets/Ultimate Survival/Shaders/Standard/MotionBlurClear.shader
+Assets/Ultimate Survival/Sprites/GUI/Damage/Blood Screen.png
+Assets/Ultimate Survival/Sprites/GUI/Damage/Blood Screen.png
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Hunting Rifle.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Hunting Rifle.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Furnace Fire Icon.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Furnace Fire Icon.overrideController
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Power Move.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Power Move.wav
+Assets/Ultimate Survival/Sprites/GUI/Crosshairs/Crosshair_Circle.png
+Assets/Ultimate Survival/Sprites/GUI/Crosshairs/Crosshair_Circle.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 05.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 05.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/IInventoryTrigger.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/IInventoryTrigger.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building/StabilityPointDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building/StabilityPointDrawer.cs
+Assets/Ultimate Survival/Textures/Weapons/World/Shotgun_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Shotgun_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Revolver_AO.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Revolver_AO.png
+Assets/Ultimate Survival/Prefabs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/ImageEffectBase.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/ImageEffectBase.cs
+Assets/Ultimate Survival/Textures/Building/Wall_Wood_MET.png
+Assets/Ultimate Survival/Textures/Building/Wall_Wood_MET.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Assault Rifle_AO.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Assault Rifle_AO.png
+Assets/Ultimate Survival/Models/Weapons/World/Iron Spear_World.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Iron Spear_World.fbx
+Assets/Ultimate Survival/Materials/Players/Male/Eyes.mat
+Assets/Ultimate Survival/Materials/Players/Male/Eyes.mat
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Materials/Tree Branch 01.mat
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Materials/Tree Branch 01.mat
+Assets/Ultimate Survival/Textures/Rocks/Rock_Metal.png
+Assets/Ultimate Survival/Textures/Rocks/Rock_Metal.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Templates/ActionTemplate.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Templates/ActionTemplate.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person
+Assets/Ultimate Survival/Textures/Effects/Temp
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/PlayerBuilder.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/PlayerBuilder.cs
+Assets/Ultimate Survival/Animations/GUI/Windows/Building Menu/Hide_Empty.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Building Menu/Hide_Empty.anim
+Assets/Ultimate Survival/Models/Weapons/World/Assault Rifle_World.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Assault Rifle_World.fbx
+Assets/Ultimate Survival/Animations/GUI/Windows/Furnace
+Assets/Ultimate Survival/Sprites/Item Icons/Bone Chestplate.png
+Assets/Ultimate Survival/Sprites/Item Icons/Bone Chestplate.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPMeleeEventHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPMeleeEventHandler.cs
+Assets/Ultimate Survival/Prefabs/Decals/Bullet Marks/Bullet Decal_Stone.prefab
+Assets/Ultimate Survival/Prefabs/Decals/Bullet Marks/Bullet Decal_Stone.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/PoolingController.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/PoolingController.cs
+Assets/Ultimate Survival/Textures/Decals/Bullet Marks
+Assets/Ultimate Survival/Materials/Weapons/First Person/Stone Hatchet.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Stone Hatchet.mat
+Assets/Ultimate Survival/Mecanim/Controllers/AI/Cannibal.controller
+Assets/Ultimate Survival/Mecanim/Controllers/AI/Cannibal.controller
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/Axis.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/Axis.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/ReorderableAttributeDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/ReorderableAttributeDrawer.cs
+Assets/Ultimate Survival/Sprites/GUI/Crosshair.png
+Assets/Ultimate Survival/Sprites/GUI/Crosshair.png
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 3.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 3.wav
+Assets/Ultimate Survival/Mecanim/Controllers/AI
+Assets/Ultimate Survival/Materials/Objects/Campfire.mat
+Assets/Ultimate Survival/Materials/Objects/Campfire.mat
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Stone Hit 01.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Stone Hit 01.wav
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/LensFlareCreate.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/LensFlareCreate.shader
+Assets/Ultimate Survival/Textures/Decals/Bullet Marks/Bullet Decal_Wood.tga
+Assets/Ultimate Survival/Textures/Decals/Bullet Marks/Bullet Decal_Wood.tga
+Assets/Ultimate Survival/Sounds/Fire/Furnace Burning (Bass).wav
+Assets/Ultimate Survival/Sounds/Fire/Furnace Burning (Bass).wav
+Assets/Ultimate Survival/Sprites/GUI/Building System/Wheel.png
+Assets/Ultimate Survival/Sprites/GUI/Building System/Wheel.png
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/SeparableBlur.shader
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/SeparableBlur.shader
+Assets/Ultimate Survival/Sounds/Fire/Generic Fire.mp3
+Assets/Ultimate Survival/Sounds/Fire/Generic Fire.mp3
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPSpearAnimator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPSpearAnimator.cs
+Assets/Ultimate Survival/Sprites/GUI/Damage/Damage Indicator.png
+Assets/Ultimate Survival/Sprites/GUI/Damage/Damage Indicator.png
+Assets/Ultimate Survival/Resources/Custom Data/AI/Goals/Satisfy Hunger.asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Goals/Satisfy Hunger.asset
+Assets/Ultimate Survival/Textures/Effects/Blood Splat.psd
+Assets/Ultimate Survival/Textures/Effects/Blood Splat.psd
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Sawed Off Fire 03.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Sawed Off Fire 03.mp3
+Assets/Ultimate Survival/Textures/Effects/Muzzle Flash.tga
+Assets/Ultimate Survival/Textures/Effects/Muzzle Flash.tga
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Roof_Category.png
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Roof_Category.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Input/InputManagerWindow.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Input/InputManagerWindow.cs
+Assets/Ultimate Survival/Textures/Effects/Smoke 02.tga
+Assets/Ultimate Survival/Textures/Effects/Smoke 02.tga
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/PivotDisplayer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/PivotDisplayer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions/EntityDetection.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions/EntityDetection.cs
+Assets/Ultimate Survival/Animations/Camera/Camera Run.anim
+Assets/Ultimate Survival/Animations/Camera/Camera Run.anim
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others
+Assets/Ultimate Survival/Models/Building/Pillar_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Pillar_Wood.fbx
+Assets/Ultimate Survival/Animations/GUI/Windows/Character
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/_Throwable.controller
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/_Throwable.controller
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 04.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Scared 04.wav
+Assets/Ultimate Survival/Sprites/Item Icons/Pickaxe.png
+Assets/Ultimate Survival/Sprites/Item Icons/Pickaxe.png
+Assets/Ultimate Survival/Textures/Players/Male/Bone Helmet.png
+Assets/Ultimate Survival/Textures/Players/Male/Bone Helmet.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Property Drawers/ItemToAddDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Property Drawers/ItemToAddDrawer.cs
+Assets/Ultimate Survival/Shaders/Standard/frag_ao.cginc
+Assets/Ultimate Survival/Shaders/Standard/frag_ao.cginc
+Assets/Ultimate Survival/Models/Weapons
+Assets/Ultimate Survival/Sprites/Item Icons/Stairs_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/Stairs_Wood.png
+Assets/Ultimate Survival/Shaders/Standard/ChromaticAberrationShader.shader
+Assets/Ultimate Survival/Shaders/Standard/ChromaticAberrationShader.shader
+Assets/Ultimate Survival/Sprites/GUI/Hand Grab.png
+Assets/Ultimate Survival/Sprites/GUI/Hand Grab.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Wooden Spear_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Wooden Spear_NRM.png
+Assets/Ultimate Survival/Textures/Decals/Bullet Marks/Bullet Decal_Metal.tga
+Assets/Ultimate Survival/Textures/Decals/Bullet Marks/Bullet Decal_Metal.tga
+Assets/Ultimate Survival/Textures/Building/Wall_Wood_NRM.png
+Assets/Ultimate Survival/Textures/Building/Wall_Wood_NRM.png
+Assets/Ultimate Survival/Resources/Custom Data/Items/Item Database.asset
+Assets/Ultimate Survival/Resources/Custom Data/Items/Item Database.asset
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/AlphaPulse.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/AlphaPulse.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related
+Assets/Ultimate Survival/Textures/Weapons
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Surface Managing/SurfaceDatabase.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Surface Managing/SurfaceDatabase.cs
+Assets/Ultimate Survival/Sounds/Player/Drinking Water.wav
+Assets/Ultimate Survival/Sounds/Player/Drinking Water.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Debugger
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Attack (Boar).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Attack (Boar).asset
+Assets/Ultimate Survival/Sprites/GUI/Frame 01.png
+Assets/Ultimate Survival/Sprites/GUI/Frame 01.png
+Assets/Ultimate Survival/Textures/Characters/Chicken.png
+Assets/Ultimate Survival/Textures/Characters/Chicken.png
+Assets/Ultimate Survival/Resources/Custom Data/AI/Goals/Kill Player.asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Goals/Kill Player.asset
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Idle 02.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken Idle 02.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/QueueElement.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/QueueElement.cs
+Assets/Ultimate Survival/Materials/Weapons/First Person/Assault Rifle.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Assault Rifle.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/ColorUtils.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/ColorUtils.cs
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Flesh 02.wav
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Flesh 02.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/ItemPickup.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/ItemPickup.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Editor/FileFactory.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Editor/FileFactory.cs
+Assets/Ultimate Survival/Prefabs/Pickups/Hunting Rifle_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Hunting Rifle_Pickup.prefab
+Assets/Ultimate Survival/Sprites/Item Icons/Axe.png
+Assets/Ultimate Survival/Sprites/Item Icons/Axe.png
+Assets/Ultimate Survival/Materials/Characters
+Assets/Ultimate Survival/Sprites/Item Icons/Coal.png
+Assets/Ultimate Survival/Sprites/Item Icons/Coal.png
+Assets/Ultimate Survival/Sprites/GUI/Player Stats/Stamina.png
+Assets/Ultimate Survival/Sprites/GUI/Player Stats/Stamina.png
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 7.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 7.wav
+Assets/Ultimate Survival/Models/Objects/Crate.fbx
+Assets/Ultimate Survival/Models/Objects/Crate.fbx
+Assets/Ultimate Survival/Textures/Weapons/World
+Assets/Ultimate Survival/Textures/Decals
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPMeleeAnimator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPMeleeAnimator.cs
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/BlendOneOne.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/BlendOneOne.shader
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/_Hitscan.controller
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/_Hitscan.controller
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory
+Assets/Ultimate Survival/Models/Weapons/World
+Assets/Ultimate Survival/Textures/Weapons/First Person/Torch_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Torch_NRM.png
+Assets/Ultimate Survival/Sprites/Item Icons/Sulfur Ore.png
+Assets/Ultimate Survival/Sprites/Item Icons/Sulfur Ore.png
+Assets/Ultimate Survival/Animations/Weapons/Templates/Hitscan/Fire 02_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/Hitscan/Fire 02_Empty.anim
+Assets/Ultimate Survival/Animations/GUI/General
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Animation Curve
+Assets/Ultimate Survival/Models/Weapons/World/Wooden Bow_World.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Wooden Bow_World.fbx
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Chase (Cannibal).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Chase (Cannibal).asset
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Materials
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 5.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 5.wav
+Assets/Ultimate Survival/Animations/Weapons/Templates/Bow/Release_Empty.anim
+Assets/Ultimate Survival/Animations/Weapons/Templates/Bow/Release_Empty.anim
+Assets/Ultimate Survival/Models/Building/Door_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Door_Wood.fbx
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Find Food.asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Find Food.asset
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Injured 1.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Injured 1.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Metal 03.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Metal 03.wav
+Assets/Ultimate Survival/Models/Players/Male/Materials/Bone Leggings.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Bone Leggings.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/GUI
+Assets/Ultimate Survival/Sprites/Item Icons/Shotgun.png
+Assets/Ultimate Survival/Sprites/Item Icons/Shotgun.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Ladder.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Ladder.png
+Assets/Ultimate Survival/Sprites/Item Icons/Bone Club.png
+Assets/Ultimate Survival/Sprites/Item Icons/Bone Club.png
+Assets/Ultimate Survival/Sprites/Item Icons/Ceiling Light.png
+Assets/Ultimate Survival/Sprites/Item Icons/Ceiling Light.png
+Assets/Ultimate Survival/Textures/Objects/Storage Box_SPEC.png
+Assets/Ultimate Survival/Textures/Objects/Storage Box_SPEC.png
+Assets/Ultimate Survival/Prefabs/Building
+Assets/Ultimate Survival/Mecanim/Controllers/AI/Character Preview.controller
+Assets/Ultimate Survival/Mecanim/Controllers/AI/Character Preview.controller
+Assets/Ultimate Survival/Textures/Weapons/First Person/Assault Rifle_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Assault Rifle_NRM.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Firelight.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Firelight.cs
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons
+Assets/Ultimate Survival/Prefabs/Building/Roof_Metal.prefab
+Assets/Ultimate Survival/Prefabs/Building/Roof_Metal.prefab
+Assets/Ultimate Survival/Materials/Effects/Particle Systems
+Assets/Ultimate Survival/Animations/AI/_Templates/Animal Attack_Empty.anim
+Assets/Ultimate Survival/Animations/AI/_Templates/Animal Attack_Empty.anim
+Assets/Ultimate Survival/Sounds/AI/Chicken/chicken-5.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/chicken-5.wav
+Assets/Ultimate Survival/Models/Effects
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/TiltShiftHdrLensBlur.shader
+Assets/Ultimate Survival/Shaders/Standard/_DepthOfField/TiltShiftHdrLensBlur.shader
+Assets/Ultimate Survival/Textures/Weapons/First Person/Arms_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Arms_NRM.png
+Assets/Ultimate Survival/Resources/_Scene Base/In-Game GUI.prefab
+Assets/Ultimate Survival/Resources/_Scene Base/In-Game GUI.prefab
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/Question Mark.png
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/Question Mark.png
+Assets/Ultimate Survival/Prefabs/Effects
+Assets/Ultimate Survival/Terrain
+Assets/Ultimate Survival/Models/Players/Male/Materials/Santa Hat.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Santa Hat.mat
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Branch/Pine Branch 01.tga
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Branch/Pine Branch 01.tga
+Assets/Ultimate Survival/Sprites/Item Icons/Torch.png
+Assets/Ultimate Survival/Sprites/Item Icons/Torch.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 03.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 03.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/Editor
+Assets/Ultimate Survival/Textures/Weapons/First Person/Axe_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Axe_NRM.png
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Injured 2.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Injured 2.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/FutureSys
+Assets/Ultimate Survival/Textures/Building/Ceiling Light.png
+Assets/Ultimate Survival/Textures/Building/Ceiling Light.png
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Death 01.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Death 01.wav
+Assets/Ultimate Survival/Sprites/GUI/Fire.png
+Assets/Ultimate Survival/Sprites/GUI/Fire.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Goals
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Environment
+Assets/Ultimate Survival/Shaders/Standard/ColorCorrectionSelective.shader
+Assets/Ultimate Survival/Shaders/Standard/ColorCorrectionSelective.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/BuildingHolder.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building/BuildingHolder.cs
+Assets/Ultimate Survival/Sprites/GUI/Frame 02.png
+Assets/Ultimate Survival/Sprites/GUI/Frame 02.png
+Assets/Ultimate Survival/Textures/Building/Door_Wood.png
+Assets/Ultimate Survival/Textures/Building/Door_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/Leather Boots.png
+Assets/Ultimate Survival/Sprites/Item Icons/Leather Boots.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/LootObject.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/LootObject.cs
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 4.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 4.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Debugger/Script Debuggers
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person/SwayDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/First Person/SwayDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/Editor/ImageEffects/DOFEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/Editor/ImageEffects/DOFEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player
+Assets/Ultimate Survival/Prefabs/Objects/Destroyed Rock_Metal.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Destroyed Rock_Metal.prefab
+Assets/Ultimate Survival/Sprites/Item Icons/Raw Meat.png
+Assets/Ultimate Survival/Sprites/Item Icons/Raw Meat.png
+Assets/Ultimate Survival/Textures/Rocks/Rock_Normal_NRM.png
+Assets/Ultimate Survival/Textures/Rocks/Rock_Normal_NRM.png
+Assets/Ultimate Survival/Textures/Building
+Assets/Ultimate Survival/Animations/GUI/General/Loop_Empty.anim
+Assets/Ultimate Survival/Animations/GUI/General/Loop_Empty.anim
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 02.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 02.wav
+Assets/Ultimate Survival/Materials/Players/Male/Wood Leggings.mat
+Assets/Ultimate Survival/Materials/Players/Male/Wood Leggings.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/AI/AIBrainEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/AI/AIBrainEditor.cs
+Assets/Ultimate Survival/Textures/Building/Window (Wood) NRM.png
+Assets/Ultimate Survival/Textures/Building/Window (Wood) NRM.png
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Smoke Vertlit.mat
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Smoke Vertlit.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Animation Curve/AnimationCurveFieldDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Animation Curve/AnimationCurveFieldDrawer.cs
+Assets/Ultimate Survival/Sounds/Ambience/Day Ambience.wav
+Assets/Ultimate Survival/Sounds/Ambience/Day Ambience.wav
+Assets/Ultimate Survival/Sounds/Ambience/Ocean Waves.wav
+Assets/Ultimate Survival/Sounds/Ambience/Ocean Waves.wav
+Assets/Ultimate Survival/Prefabs/Pickups/Axe_Pickup.prefab
+Assets/Ultimate Survival/Prefabs/Pickups/Axe_Pickup.prefab
+Assets/Ultimate Survival/Sprites/Item Icons/Bota Bag.png
+Assets/Ultimate Survival/Sprites/Item Icons/Bota Bag.png
+Assets/Ultimate Survival/Textures/Players/Male/Bone Chestplate_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Bone Chestplate_NRM.png
+Assets/Ultimate Survival/Shaders/Standard/Tonemapper.shader
+Assets/Ultimate Survival/Shaders/Standard/Tonemapper.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/InputManager.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.InputSystem/InputManager.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/Ragdoll.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/Ragdoll.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Cloth.png
+Assets/Ultimate Survival/Sprites/Item Icons/Cloth.png
+Assets/Ultimate Survival/Textures/Players/Male/Bone Leggings_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Bone Leggings_NRM.png
+Assets/Ultimate Survival/Mecanim/Masks
+Assets/Ultimate Survival/Sounds/Equipping
+Assets/Ultimate Survival/Sprites/Item Icons/Leather Leggings.png
+Assets/Ultimate Survival/Sprites/Item Icons/Leather Leggings.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/GameController.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/_General/GameController.cs
+Assets/Ultimate Survival/Textures
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Attack 02.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Attack 02.wav
+Assets/Ultimate Survival/Models/Building/Purlin_Wood.fbx
+Assets/Ultimate Survival/Models/Building/Purlin_Wood.fbx
+Assets/Ultimate Survival/Sprites/Item Icons/Bone Leggings.png
+Assets/Ultimate Survival/Sprites/Item Icons/Bone Leggings.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Hunting Rifle.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Hunting Rifle.png
+Assets/Ultimate Survival/_Docs/Manual.pdf
+Assets/Ultimate Survival/_Docs/Manual.pdf
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/RequiredItemRow.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/RequiredItemRow.cs
+Assets/Ultimate Survival/Sprites/GUI/Arrow Right.png
+Assets/Ultimate Survival/Sprites/GUI/Arrow Right.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions/EntityVitals.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/EntityActions/EntityVitals.cs
+Assets/Ultimate Survival/Materials/Players/Male/Male.mat
+Assets/Ultimate Survival/Materials/Players/Male/Male.mat
+Assets/Ultimate Survival/Sprites/Item Icons/Furnace.png
+Assets/Ultimate Survival/Sprites/Item Icons/Furnace.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 07.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Dirt 07.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Revolver Fire.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Revolver Fire.wav
+Assets/Ultimate Survival/Textures/Objects/Anvil_NRM.png
+Assets/Ultimate Survival/Textures/Objects/Anvil_NRM.png
+Assets/Ultimate Survival/Prefabs/Building/Floor_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Floor_Wood.prefab
+Assets/Ultimate Survival/Textures/Building/Platform_Wood_MET.png
+Assets/Ultimate Survival/Textures/Building/Platform_Wood_MET.png
+Assets/Ultimate Survival/Models/Players/Male/Materials/Material.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Material.mat
+Assets/Ultimate Survival/Materials/Effects/Muzzle Flash.mat
+Assets/Ultimate Survival/Materials/Effects/Muzzle Flash.mat
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Door.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wooden Door.png
+Assets/Ultimate Survival/Materials/Players/Male/Leather Chestplate.mat
+Assets/Ultimate Survival/Materials/Players/Male/Leather Chestplate.mat
+Assets/Ultimate Survival/Sprites/Item Icons/Wood Chestplate.png
+Assets/Ultimate Survival/Sprites/Item Icons/Wood Chestplate.png
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire
+Assets/Ultimate Survival/Textures/Players/Male/Leather Boots_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Leather Boots_NRM.png
+Assets/Ultimate Survival/Materials/Characters/Chicken.mat
+Assets/Ultimate Survival/Materials/Characters/Chicken.mat
+Assets/Ultimate Survival/Textures/Players/Male/Bone Helmet_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Bone Helmet_NRM.png
+Assets/Ultimate Survival/Prefabs/Building/Purlin_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Purlin_Wood.prefab
+Assets/Ultimate Survival/Models/Characters/Chicken.fbx
+Assets/Ultimate Survival/Models/Characters/Chicken.fbx
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Wooshes/Woosh 03.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Wooshes/Woosh 03.mp3
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/FutureSys/PoolManager.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling/FutureSys/PoolManager.cs
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Eat (Chicken).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Eat (Chicken).asset
+Assets/Ultimate Survival/Textures/Weapons/First Person/Building Plan_MET.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Building Plan_MET.png
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Slide Extra.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Slide Extra.mp3
+Assets/Ultimate Survival/Prefabs/AI/Cannibal_AI.prefab
+Assets/Ultimate Survival/Prefabs/AI/Cannibal_AI.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General/ItemHolder.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Inventory/General/ItemHolder.cs
+Assets/Ultimate Survival/Models/Players/Male/Materials/Leather Boots.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Leather Boots.mat
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Metal 02.wav
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts/Bullet Impact Metal 02.wav
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Drop Dialogue/Item Drop Hide.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Item Drop Dialogue/Item Drop Hide.anim
+Assets/Ultimate Survival/Sounds/Effects
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/AnimalVitals.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/AnimalVitals.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Bone Helmet.png
+Assets/Ultimate Survival/Sprites/Item Icons/Bone Helmet.png
+Assets/Ultimate Survival/Textures/Weapons/World/Stone Hatchet_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Stone Hatchet_Pickup.png
+Assets/Ultimate Survival/Animations/Weapons/Templates/_General
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Foundation_Category.png
+Assets/Ultimate Survival/Sprites/GUI/Building System/Icons/Foundation_Category.png
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Duststorm.mat
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Duststorm.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Property Drawers
+Assets/Ultimate Survival/Textures/Weapons/First Person/Bone Club_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Bone Club_NRM.png
+Assets/Ultimate Survival/Materials/Weapons/First Person/Wooden Spear.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Wooden Spear.mat
+Assets/Ultimate Survival/Sounds/Effects/Bullet Impacts
+Assets/Ultimate Survival/Shaders/Standard/ScreenSpaceAmbientObscurance.shader
+Assets/Ultimate Survival/Shaders/Standard/ScreenSpaceAmbientObscurance.shader
+Assets/Ultimate Survival/Models/Weapons/First Person/Axe.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Axe.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/_General
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/_Bow.controller
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/_Bow.controller
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Building
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/ScreenFader.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Others/ScreenFader.cs
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/weapon_gun_mosin_nagant_M_7.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/weapon_gun_mosin_nagant_M_7.mp3
+Assets/Ultimate Survival/Sprites/Item Icons/Hunting Rifle.png
+Assets/Ultimate Survival/Sprites/Item Icons/Hunting Rifle.png
+Assets/Ultimate Survival/Animations/GUI/Windows/Building Menu/Refresh_Empty.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Building Menu/Refresh_Empty.anim
+Assets/Ultimate Survival/Sprites/Item Icons/Leather.png
+Assets/Ultimate Survival/Sprites/Item Icons/Leather.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/FootstepPlayer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/FootstepPlayer.cs
+Assets/Ultimate Survival/Materials/Effects/Dirt Smoke.mat
+Assets/Ultimate Survival/Materials/Effects/Dirt Smoke.mat
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Assault Rifle Fire.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Fire/Assault Rifle Fire.mp3
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Environment/DetailSpawnData.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Environment/DetailSpawnData.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Metal Ore.png
+Assets/Ultimate Survival/Sprites/Item Icons/Metal Ore.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/_General/Window.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/_General/Window.cs
+Assets/Ultimate Survival/Textures/Terrain/Cliff_Layered Rock.jpg
+Assets/Ultimate Survival/Textures/Terrain/Cliff_Layered Rock.jpg
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/Tools.png
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/Tools.png
+Assets/Ultimate Survival/Shaders/Standard/Contrast Stretch/Luminance.shader
+Assets/Ultimate Survival/Shaders/Standard/Contrast Stretch/Luminance.shader
+Assets/Ultimate Survival/Animations/GUI/Windows/_General
+Assets/Ultimate Survival/Shaders/Standard/NoiseAndGrain.shader
+Assets/Ultimate Survival/Shaders/Standard/NoiseAndGrain.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Building
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Reload 03.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Reload 03.wav
+Assets/Ultimate Survival/Textures/Objects/Cloth Sack_SPEC.png
+Assets/Ultimate Survival/Textures/Objects/Cloth Sack_SPEC.png
+Assets/Ultimate Survival/Scenes/Forest
+Assets/Ultimate Survival/Prefabs/Objects/Rock_Metal.prefab
+Assets/Ultimate Survival/Prefabs/Objects/Rock_Metal.prefab
+Assets/Ultimate Survival/Materials/Weapons/World/Iron Pickaxe_World.mat
+Assets/Ultimate Survival/Materials/Weapons/World/Iron Pickaxe_World.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/SoundPlayer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/SoundPlayer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Event System/Handlers
+Assets/Ultimate Survival/Prefabs/Effects/Bullet Impact FX_Flesh.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Bullet Impact FX_Flesh.prefab
+Assets/Ultimate Survival/Models/Weapons/World/Hunting Rifle_World.fbx
+Assets/Ultimate Survival/Models/Weapons/World/Hunting Rifle_World.fbx
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Idle 2.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Idle 2.wav
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Punching 02.fbx
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Punching 02.fbx
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/MobileBlur.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/MobileBlur.shader
+Assets/Ultimate Survival/Textures/Effects/Temp/Sparkz.png
+Assets/Ultimate Survival/Textures/Effects/Temp/Sparkz.png
+Assets/Ultimate Survival/Prefabs/Decals/Bullet Marks/Bullet Decal_Flesh.prefab
+Assets/Ultimate Survival/Prefabs/Decals/Bullet Marks/Bullet Decal_Flesh.prefab
+Assets/Ultimate Survival/Resources/_Scene Base
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Reload 01.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Gun Reload 01.wav
+Assets/Ultimate Survival/Models/Players/Male/Materials/Leather Chestplate.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Leather Chestplate.mat
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Chase (Boar).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Chase (Boar).asset
+Assets/Ultimate Survival/Animations/GUI/Windows/Building Menu
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Twang 02.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow/Arrow Twang 02.wav
+Assets/Ultimate Survival/Sounds/Pickups/Wood Pop (Normal Pitch).wav
+Assets/Ultimate Survival/Sounds/Pickups/Wood Pop (Normal Pitch).wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/EntityVitals.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Damage System/EntityVitals.cs
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Short Scream 02.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Short Scream 02.wav
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/SeparableBlurPlus.shader
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Damage System Related/EntityStatusEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Damage System Related/EntityStatusEditor.cs
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Attack.fbx
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Attack.fbx
+Assets/Ultimate Survival/Sounds/Building/Door Close.wav
+Assets/Ultimate Survival/Sounds/Building/Door Close.wav
+Assets/Ultimate Survival/Materials/Effects/Smoke 02.mat
+Assets/Ultimate Survival/Materials/Effects/Smoke 02.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/MyQuads.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/MyQuads.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Item Management/ItemManagementWindow.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Inventory Related/Item Management/ItemManagementWindow.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Anvil.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Anvil.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/CraftingList.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/CraftingList.cs
+Assets/Ultimate Survival/Sprites/Item Icons/Stone Hammer.png
+Assets/Ultimate Survival/Sprites/Item Icons/Stone Hammer.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPHitscan.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPHitscan.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/PlayerDeathHandler.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Misc/PlayerDeathHandler.cs
+Assets/Ultimate Survival/Sounds/Effects/Body/Body Hit 02.mp3
+Assets/Ultimate Survival/Sounds/Effects/Body/Body Hit 02.mp3
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 6.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Attack 6.wav
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/SSAA.shader
+Assets/Ultimate Survival/Shaders/Standard/_Antialiasing/SSAA.shader
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 03.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 03.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Death 3.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Death 3.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Axe Chop 03.wav
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Tools/Axe Chop 03.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Object Pooling
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Attribute Drawers/HelpboxAttributeDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Attribute Drawers/HelpboxAttributeDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Attribute Drawers/ClampAttributeDrawer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Attribute Drawers/ClampAttributeDrawer.cs
+Assets/Ultimate Survival/Shaders/Standard/Contrast Stretch/Apply.shader
+Assets/Ultimate Survival/Shaders/Standard/Contrast Stretch/Apply.shader
+Assets/Ultimate Survival/Sprites/Item Icons/Leather Helmet.png
+Assets/Ultimate Survival/Sprites/Item Icons/Leather Helmet.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Building System/BuildingCategory.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Building System/BuildingCategory.cs
+Assets/Ultimate Survival/Materials/Decals/Bullet Marks/Bullet Decal_Stone.mat
+Assets/Ultimate Survival/Materials/Decals/Bullet Marks/Bullet Decal_Stone.mat
+Assets/Ultimate Survival/Mecanim/Controllers/AI/Chicken.controller
+Assets/Ultimate Survival/Mecanim/Controllers/AI/Chicken.controller
+Assets/Ultimate Survival/Textures/Weapons/World/Fire Torch_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Fire Torch_Pickup.png
+Assets/Ultimate Survival/Textures/Building/Ceiling Light_NRM.png
+Assets/Ultimate Survival/Textures/Building/Ceiling Light_NRM.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor
+Assets/Ultimate Survival/Animations/GUI/Windows/Furnace/Furnace Show.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Furnace/Furnace Show.anim
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting
+Assets/Ultimate Survival/Materials/Building
+Assets/Ultimate Survival/Textures/Objects/Anvil.png
+Assets/Ultimate Survival/Textures/Objects/Anvil.png
+Assets/Ultimate Survival/Sounds/AI
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Assault Rifle.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/Weapons/Assault Rifle.overrideController
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/Clothes.png
+Assets/Ultimate Survival/Sprites/GUI/Recipe Categories/Clothes.png
+Assets/Ultimate Survival/Sounds/Player/Player Hard Landing.wav
+Assets/Ultimate Survival/Sounds/Player/Player Hard Landing.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Ladder 03.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Ladder 03.wav
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Item Drop_GUI.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Item Drop_GUI.overrideController
+Assets/Ultimate Survival/Shaders/Standard/ConvertDepth.shader
+Assets/Ultimate Survival/Shaders/Standard/ConvertDepth.shader
+Assets/Ultimate Survival/Sounds/AI/Chicken/chicken-3.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/chicken-3.wav
+Assets/Ultimate Survival/Models/Weapons/First Person/Wooden Spear.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Wooden Spear.fbx
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Grass 02.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Grass 02.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Flee.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Actions/Flee.cs
+Assets/Ultimate Survival/Materials/Weapons/First Person/Iron Spear.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Iron Spear.mat
+Assets/Ultimate Survival/Sounds/Fire/Furnace Burning.wav
+Assets/Ultimate Survival/Sounds/Fire/Furnace Burning.wav
+Assets/Ultimate Survival/Materials/Weapons/First Person/Arms.mat
+Assets/Ultimate Survival/Materials/Weapons/First Person/Arms.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/AIAnimator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/AIAnimator.cs
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Eat (Boar).asset
+Assets/Ultimate Survival/Resources/Custom Data/AI/Actions/Eat (Boar).asset
+Assets/Ultimate Survival/Textures/Weapons/First Person/Shotgun.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Shotgun.png
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Inventory_GUI.overrideController
+Assets/Ultimate Survival/Mecanim/Controllers/GUI/Inventory_GUI.overrideController
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/MineableObject.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/MineableObject.cs
+Assets/Ultimate Survival/Sounds/Building/Build Wood 03.wav
+Assets/Ultimate Survival/Sounds/Building/Build Wood 03.wav
+Assets/Ultimate Survival/Materials/Building/Stairs_Wood.mat
+Assets/Ultimate Survival/Materials/Building/Stairs_Wood.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Interaction/Base
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Grass 03.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Grass 03.wav
+Assets/Ultimate Survival/Animations
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPTool.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/First Person/FPTool.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 05.mp3
+Assets/Ultimate Survival/Sounds/AI/Chicken/Chicken 05.mp3
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Walking.fbx
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Walking.fbx
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Stone 03.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Stone 03.wav
+Assets/Ultimate Survival/Sounds/Player/Breathing Heavy.wav
+Assets/Ultimate Survival/Sounds/Player/Breathing Heavy.wav
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Run.fbx
+Assets/Ultimate Survival/Animations/AI/Cannibal/Cannibal Run.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Branch/Pine Branch 01 SPEC.tga
+Assets/Ultimate Survival/Terrain/Trees/Tree_Textures/Branch/Pine Branch 01 SPEC.tga
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Injured 3.wav
+Assets/Ultimate Survival/Sounds/AI/Boar/Boar Injured 3.wav
+Assets/Ultimate Survival/Models/Building/Stairs_Wood_Inflated.fbx
+Assets/Ultimate Survival/Models/Building/Stairs_Wood_Inflated.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/File Creation/Editor
+Assets/Ultimate Survival/Textures/Weapons/First Person/Revolver_NRM.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Revolver_NRM.png
+Assets/Ultimate Survival/Textures/Effects/Temp/Particle Flames Sheet.png
+Assets/Ultimate Survival/Textures/Effects/Temp/Particle Flames Sheet.png
+Assets/Ultimate Survival/Animations/Camera/Camera Idle.anim
+Assets/Ultimate Survival/Animations/Camera/Camera Idle.anim
+Assets/Ultimate Survival/Sprites/Item Icons/Stick.png
+Assets/Ultimate Survival/Sprites/Item Icons/Stick.png
+Assets/Ultimate Survival/Sounds/AI/Chicken/chicken-1.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/chicken-1.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/ProjectExporter.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/ProjectExporter.cs
+Assets/Ultimate Survival/Prefabs/Effects/Revolver Shell.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Revolver Shell.prefab
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/RecipeSlot.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/RecipeSlot.cs
+Assets/Ultimate Survival/Animations/GUI/Windows/Furnace/Furnace Fire_Empty.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Furnace/Furnace Fire_Empty.anim
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Gameplay/AIGroup.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Gameplay/AIGroup.cs
+Assets/Ultimate Survival/Textures/Players/Male/Bone Leggings.png
+Assets/Ultimate Survival/Textures/Players/Male/Bone Leggings.png
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Bow & Arrow
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Slide Handling 2.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Guns/Handling/Slide Handling 2.mp3
+Assets/Ultimate Survival/Prefabs/Effects/Wood Chop FX.prefab
+Assets/Ultimate Survival/Prefabs/Effects/Wood Chop FX.prefab
+Assets/Ultimate Survival/Sounds/Ambience
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/CraftingCategory.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.GUISystem/Gameplay/Crafting/CraftingCategory.cs
+Assets/Ultimate Survival/Models/Building/L Shaped Stairs_Wood.fbx
+Assets/Ultimate Survival/Models/Building/L Shaped Stairs_Wood.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Building Plan.fbx
+Assets/Ultimate Survival/Models/Weapons/First Person/Building Plan.fbx
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/Planner.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.AI/Logic/Planner.cs
+Assets/Ultimate Survival/Models/Players/Male/Materials/Bone ChestPlate.mat
+Assets/Ultimate Survival/Models/Players/Male/Materials/Bone ChestPlate.mat
+Assets/Ultimate Survival/Materials/Decals
+Assets/Ultimate Survival/Animations/Weapons/Templates/Throwable
+Assets/Ultimate Survival/Sprites/Item Icons/Platform_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/Platform_Wood.png
+Assets/Ultimate Survival/Textures/Weapons/World/Iron Spear_Pickup.png
+Assets/Ultimate Survival/Textures/Weapons/World/Iron Spear_Pickup.png
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 06.wav
+Assets/Ultimate Survival/Sounds/Footsteps/Footstep Wood 06.wav
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/DOF.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/DOF.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Arms.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Arms.png
+Assets/Ultimate Survival/Sounds/AI/Chicken/chicken-4.wav
+Assets/Ultimate Survival/Sounds/AI/Chicken/chicken-4.wav
+Assets/Ultimate Survival/Materials/Players/Male/Bone Helmet.mat
+Assets/Ultimate Survival/Materials/Players/Male/Bone Helmet.mat
+Assets/Ultimate Survival/Textures/Building/Ladder_Wood_NRM.png
+Assets/Ultimate Survival/Textures/Building/Ladder_Wood_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Wood Leggings_NRM.png
+Assets/Ultimate Survival/Textures/Players/Male/Wood Leggings_NRM.png
+Assets/Ultimate Survival/Materials/Objects/Anvil.mat
+Assets/Ultimate Survival/Materials/Objects/Anvil.mat
+Assets/Ultimate Survival/Models/Weapons/Fonts
+Assets/Ultimate Survival/Textures/Objects/Sleeping Bag_NRM.png
+Assets/Ultimate Survival/Textures/Objects/Sleeping Bag_NRM.png
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Attack 03.wav
+Assets/Ultimate Survival/Sounds/AI/Cannibal/Zombie Attack 03.wav
+Assets/Ultimate Survival/Resources/_Scene Base/Time Of Day.prefab
+Assets/Ultimate Survival/Resources/_Scene Base/Time Of Day.prefab
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/MultiPassHollywoodFlares.shader
+Assets/Ultimate Survival/Shaders/Standard/_BloomAndFlares/MultiPassHollywoodFlares.shader
+Assets/Ultimate Survival/Sprites/Item Icons
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/ParticleDestroyer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/ParticleDestroyer.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Surface Managing/SurfaceIdentity.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Surface Managing/SurfaceIdentity.cs
+Assets/Ultimate Survival/Textures/Weapons/First Person/Revolver_MET.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Revolver_MET.png
+Assets/Ultimate Survival/Animations/AI
+Assets/Ultimate Survival/Sounds/AI/Boar
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/RagdollCreator.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.Editor/Editor/Misc/RagdollCreator.cs
+Assets/Ultimate Survival/Animations/GUI/Windows/Furnace/Furnace Fire_Static.anim
+Assets/Ultimate Survival/Animations/GUI/Windows/Furnace/Furnace Fire_Static.anim
+Assets/Ultimate Survival/Sounds/Equipping/Cloth.ogg
+Assets/Ultimate Survival/Sounds/Equipping/Cloth.ogg
+Assets/Ultimate Survival/Materials/Building/Door_Wood.mat
+Assets/Ultimate Survival/Materials/Building/Door_Wood.mat
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes/HideSwitchAttribute.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Attributes/HideSwitchAttribute.cs
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Glow.mat
+Assets/Ultimate Survival/Materials/Effects/Particle Systems/Particle Glow.mat
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Wooshes/Woosh 01.mp3
+Assets/Ultimate Survival/Sounds/Weapons & Tools/Wooshes/Woosh 01.mp3
+Assets/Ultimate Survival/Scenes
+Assets/Ultimate Survival/Textures/Weapons/First Person/Assault Rifle.png
+Assets/Ultimate Survival/Textures/Weapons/First Person/Assault Rifle.png
+Assets/Ultimate Survival/Textures/Rocks
+Assets/Ultimate Survival/Sounds/GUI
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Player/Third Person
+Assets/Ultimate Survival/Prefabs/Building/Door_Wood.prefab
+Assets/Ultimate Survival/Prefabs/Building/Door_Wood.prefab
+Assets/Ultimate Survival/Sprites/Item Icons/L Shaped Stairs_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/L Shaped Stairs_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/Window_Wood.png
+Assets/Ultimate Survival/Sprites/Item Icons/Window_Wood.png
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/Editor/ImageEffects/BloomEffectEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival.StandardAssets/Editor/ImageEffects/BloomEffectEditor.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/ScriptUtilities.cs
+Assets/Ultimate Survival/Scripts/By Namespace/UltimateSurvival/Utility/ScriptUtilities.cs

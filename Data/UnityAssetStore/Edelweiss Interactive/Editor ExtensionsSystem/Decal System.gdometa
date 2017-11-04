@@ -1,0 +1,151 @@
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps/LightmapFar-5.exr
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps/LightmapFar-4.exr
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Prefabs/building_c.prefab
+Assets/Decal System Demos/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_up.tif
+Assets/Decal System Demos/AngryBots Assets/Player/Materials/weapon.mat
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/grass/grass8.psd
+Assets/Decal System Demos/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/Terrains/forest3.jpg
+Assets/Decal System Demos/Bootcamp Assets/BulletMarks/BulletMarkAtlas.png
+Assets/Decal System Demos/AngryBots Assets/Player/Textures/Player.tif
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Prefabs/building_d2.prefab
+Assets/Decal System Demos/AngryBots Assets/Player/Textures/Player_NRM.tif
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Prefabs/building_d1.prefab
+Assets/Decal System Demos/Bootcamp Assets/BulletMarks/BulletMarkAtlas.xcf
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps/LightmapFar-0.exr
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps/LightmapFar-2.exr
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/grass/grass6.psd
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/grass/grass3.psd
+Assets/Gizmos/DecalProjectorGizmo.png
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Materials/alphas.mat
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/grass/grass2.psd
+Assets/Decal System Demos/Standard Assets/Skyboxes/Sunny3 Skybox.mat
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps/LightmapFar-6.exr
+Assets/Decal System Demos/AngryBots Assets/Player/Materials/player-01 - default.mat
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps/LightmapFar-9.exr
+Assets/Decal System Demos/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js
+Assets/Decal System Demos/AngryBots Assets/Player/Textures/Weapon_NRM.TIF
+Assets/Decal System Demos/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_back.tif
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/grass/grass1.psd
+Assets/Decal System Demos/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Textures/Cubemaps/ambient_cube.jpg
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps/LightmapFar-8.exr
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/Terrains/forest1.jpg
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/Terrains/forest2.jpg
+Assets/Plugins/Decal System/Readme.txt
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/grass/grass4.psd
+Assets/Decal System Demos/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_left.tif
+Assets/Decal System Demos/AngryBots Assets/Player/Materials/player-healthglow.mat
+Assets/Decal System Demos/Bootcamp Assets/Terrains/forest_terrain.asset
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Prefabs/facade_a.prefab
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Materials/buildings_b.mat
+Assets/Decal System Demos/Standard Assets/Character Controllers/First Person Controller.prefab
+Assets/Decal System Demos/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_front.tif
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/grass/grass5.psd
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps/LightmapFar-3.exr
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps/LightmapFar-1.exr
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps/LightmapFar-7.exr
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/Terrains/rock1.jpg
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Prefabs/building_d3.prefab
+Assets/Decal System Demos/AngryBots Assets/Player/Textures/Weapon.tif
+Assets/Decal System Demos/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_right.tif
+Assets/Decal System Demos/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_down.tif
+Assets/Decal System Demos/Bootcamp Assets/Terrains/Textures/grass/grass7.psd
+Assets/Plugins/Decal System/Shader/Colored/Decal-Alpha-Bumped-Colored.shader
+Assets/Plugins/Decal System/Shader/Mobile/Mobile-Decal-Alpha-Diffuse.shader
+Assets/Decal System Demos/Bootcamp Assets/Decals/Decals B Cutout.mat
+Assets/Plugins/Editor/Decal System/Scripts/Decals/DS_DecalsEditor.cs
+Assets/Plugins/Decal System/Shader/Mobile/Colored/Mobile-Decal-Alpha-Diffuse-Colored.shader
+Assets/Plugins/Editor/Decal System/Scripts/Support/DecalsGizmos.cs
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Textures/buildings_a.tga
+Assets/Plugins/Decal System/Shader/Decal-AlphaTest-Bumped.shader
+Assets/Plugins/Decal System/Shader/Mobile/Mobile-Decal-AlphaTest-Bumped.shader
+Assets/Plugins/Editor/Decal System/Scripts/SkinnedDecals/DS_SkinnedDecalProjectorEditor.cs
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Meshes/Maps/buildings2.FBX
+Assets/Plugins/Decal System/Shader/Mobile/Mobile-Decal-Alpha-Bumped.shader
+Assets/Plugins/Editor/Decal System/Scripts/Support/DecalsMenu.cs
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Prefabs/building_b.prefab
+Assets/Plugins/Decal System/Scripts/Decals/SkinnedDecals/DS_SkinnedDecals.cs
+Assets/Plugins/Decal System/Shader/Decal-Alpha-Bumped.shader
+Assets/Plugins/Decal System/Shader/Mobile/Colored/Mobile-Decal-AlphaTest-Diffuse-Colored.shader
+Assets/Plugins/Decal System/Scripts/Decals/Decals/Renderer/DS_DecalsMeshRenderer.cs
+Assets/Plugins/Editor/Decal System/Scripts/Decals/DS_DecalProjectorGroupEditor.cs
+Assets/Plugins/Decal System/Shader/Mobile/Colored/Mobile-Decal-AlphaTest-Bumped-Colored.shader
+Assets/Plugins/Decal System/Shader/Mobile/Mobile-Decal-Alpha-TargetBumped.shader
+Assets/Plugins/Decal System/Scripts/Decals/SkinnedDecals/DS_SkinnedDecalProjectorGroup.cs
+Assets/Decal System Demos/Bootcamp Assets/Decals/Textures/decals_package_a.psd
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Textures/building_b_bump.jpg
+Assets/Plugins/Decal System/Scripts/Decals/Decals/DS_DecalProjectorGroup.cs
+Assets/Plugins/Decal System/Shader/Mobile/Colored/Mobile-Decal-AlphaTest-TargetBumped-Colored.shader
+Assets/Plugins/Decal System/Shader/Mobile/Colored/Mobile-Decal-Alpha-Bumped-Colored.shader
+Assets/Plugins/Decal System/Shader/Mobile/Colored/Mobile-Decal-Alpha-TargetBumped-Colored.shader
+Assets/Plugins/Editor/Decal System/Scripts/SkinnedDecals/DS_SkinnedDecalsEditor.cs
+Assets/Plugins/Decal System/Shader/Colored/Decal-Alpha-Diffuse-Colored.shader
+Assets/Plugins/Decal System/Shader/Mobile/Mobile-Decal-AlphaTest-Diffuse.shader
+Assets/Decal System Demos/Bootcamp Assets/Decals/Textures/decals_package_b.psd
+Assets/Plugins/Decal System/Shader/Decal-AlphaTest-VertexLit.shader
+Assets/Plugins/Decal System/Scripts/Decals/Decals/DS_DecalProjector.cs
+Assets/Plugins/Editor/Decal System/Scripts/Decals/DS_DecalProjectorEditor.cs
+Assets/Decal System Demos/Bootcamp Assets/Texture Atlas Assets/Decals Atlas A.asset
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Prefabs/wood_house.prefab
+Assets/Decal System Demos/Bootcamp Assets/Decals/Decals B.mat
+Assets/Plugins/Editor/Decal System/Scripts/Window/DS_UVRectangleEditorWindow.cs
+Assets/Plugins/Decal System/Scripts/Decals/SkinnedDecals/DS_SkinnedDecalProjector.cs
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Prefabs/bridge.prefab
+Assets/Decal System Demos/Bootcamp Assets/Decals/Decals A Cutout.mat
+Assets/Plugins/Decal System/Shader/Decal-AlphaTest-Diffuse.shader
+Assets/Plugins/Editor/Decal System/Scripts/SkinnedDecals/DS_SkinnedDecalProjectorGroupEditor.cs
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Meshes/Maps/buildings1.FBX
+Assets/Plugins/Decal System/Shader/Decal-Alpha-VertexLit.shader
+Assets/Plugins/Decal System/Shader/Colored/Decal-AlphaTest-Bumped-Colored.shader
+Assets/Plugins/Decal System/Shader/Decal-AlphaTest-TargetBumped.shader
+Assets/Plugins/Decal System/Shader/Colored/Decal-AlphaTest-Diffuse-Colored.shader
+Assets/Decal System Demos/AngryBots Assets/Player/Player.FBX
+Assets/Plugins/Decal System/Scripts/Decals/SkinnedDecals/Renderer/DS_SkinnedDecalsMeshRenderer.cs
+Assets/Plugins/Decal System/Shader/Colored/Decal-Alpha-TargetBumped-Colored.shader
+Assets/Plugins/Decal System/Shader/Mobile/Mobile-Decal-AlphaTest-TargetBumped.shader
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Textures/buildings_b.tga
+Assets/Plugins/Decal System/Shader/Colored/Decal-AlphaTest-TargetBumped-Colored.shader
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Textures/alphas1.tga
+Assets/Plugins/Decal System/Shader/Decal-Alpha-Diffuse.shader
+Assets/Decal System Demos/Scripts/ScreenLock.cs
+Assets/Plugins/Decal System/Shader/Decal-Alpha-TargetBumped.shader
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Textures/building_a_bump.jpg
+Assets/Plugins/Decal System/Shader/Colored/Experimental Shadow Receiver/Decal-Alpha-Bumped-Colored-Receive-Shadow.shader
+Assets/Decal System Demos/Prefabs/Bullet Decals.prefab
+Assets/Decal System Demos/Scripts/Bullet/Decal System Pro/ColoredSkinnedBulletExample.cs
+Assets/Plugins/Decal System/DecalSystem.Runtime.dll
+Assets/Decal System Demos/Scenes/Decal System Pro/Bootcamp Simple UV Rectangle Index Update (Decal System Pro).unity
+Assets/Decal System Demos/Scenes/Bootcamp Simple.unity
+Assets/Plugins/Editor/Decal System/DecalSystem.Editor.dll
+Assets/Plugins/Decal System/Shader/Colored/Decal-Alpha-Parallax-Diffuse-Colored.shader
+Assets/Decal System Demos/Scenes/Bootcamp Simple Skinning.unity
+Assets/Decal System Demos/Scenes/Bootcamp Simple Bullet Lightmaps.unity
+Assets/Decal System Demos/Scenes/Decal System Pro/Bootcamp Simple Vertex Color Update (Decal System Pro).unity
+Assets/Decal System Demos/Scripts/Bullet/Decal System Pro/BulletExampleUVUpdate.cs
+Assets/Decal System Demos/Scripts/Bullet/BulletExample.cs
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Dynamic Object.unity
+Assets/Plugins/Decal System/Documentation/DecalSystemAPI.zip
+Assets/Decal System Demos/Bootcamp Assets/Buildings/Materials/buildings_a.mat
+Assets/Decal System Demos/Bootcamp Assets/Decals/Decals A.mat
+Assets/Plugins/Decal System/Documentation/Reference.pdf
+Assets/Decal System Demos/Prefabs/Skinned Decals.prefab
+Assets/Plugins/Decal System/Scripts/Decals/Decals/DS_Decals.cs
+Assets/Plugins/Decal System/DecalSystem.Runtime.xml
+Assets/Plugins/Decal System/Shader/Colored/Experimental Shadow Receiver/Decal-Alpha-Parallax-Diffuse-Colored-Receive-Shadow.shader
+Assets/Decal System Demos/Scripts/Bullet/UnstretchedBulletExample.cs
+Assets/Plugins/Decal System/Release Notes.txt
+Assets/Decal System Demos/Scripts/Bullet/BulletLightmapExample.cs
+Assets/Plugins/Decal System/Shader/Colored/Experimental Shadow Receiver/Decal-Alpha-Diffuse-Colored-Receive-Shadow.shader
+Assets/Plugins/Decal System/Shader/Colored/Experimental Shadow Receiver/Decal-Alpha-TargetBumped-Colored-Receive-Shadow.shader
+Assets/Decal System Demos/Prefabs/Bullet Lightmap Decals.prefab
+Assets/Decal System Demos/Scripts/Bullet/BulletExampleDynamicObject.cs
+Assets/Decal System Demos/Scripts/Bullet/BulletExampleDynamic.cs
+Assets/Decal System Demos/Scripts/Bullet/Decal System Pro/ColoredBulletExample.cs
+Assets/Decal System Demos/Scripts/Bullet/Decal System Pro/BulletExampleVertexColorUpdate.cs
+Assets/Decal System Demos/Scenes/Bootcamp Simple Unstretched Bullet.unity
+Assets/Decal System Demos/Scenes/Bootcamp Simple With Lightmaps.unity
+Assets/Decal System Demos/Scripts/Bullet/SkinnedBulletExample.cs
+Assets/Decal System Demos/Scenes/Decal System Pro/Bootcamp Simple Colored (Decal System Pro).unity
+Assets/Decal System Demos/Scenes/Decal System Pro/Bootcamp Simple Skinning Colored (Decal System Pro).unity
+Assets/Decal System Demos/Bootcamp Assets/BulletMarks/BulletMarks.mat
