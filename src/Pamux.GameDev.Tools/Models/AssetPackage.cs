@@ -25,6 +25,7 @@ namespace Pamux.GameDev.Tools.Models
         public string assetFolder;
         public string assetFileName;
         public string fullPath;
+        public string metaDataFolder;
         public string metaDataPath;
         public string producerAssetVersion;
         public string url;
@@ -32,6 +33,8 @@ namespace Pamux.GameDev.Tools.Models
         public readonly List<string> Assets = new List<string>();
 
         public string AssetFolder => $"{assetsRootFolder}\\{companyFolder}\\{assetFolder}";
+        public string AssetMetaDataFolder => metaDataFolder;
+        public string AssetMetaDataPath => metaDataPath;
 
         private ISet<string> keywords = new HashSet<string>();
 
@@ -41,14 +44,14 @@ namespace Pamux.GameDev.Tools.Models
             this.companyFolder = companyFolder;
             this.assetFolder = assetFolder;
             this.fullPath = fullPath;
-            this.metaDataPath = $"{fullPath}.{Settings.MetadataExtension}";
             this.assetFileName = assetFileName;
 
             this.company = companyFolder;
             this.type = assetFolder;
             this.name = assetFileName.Substring(0, assetFileName.LastIndexOf('.'));
 
-            this.metaDataPath = $"{Settings.Unity3DAssetDatabaseFolderPath}\\{companyFolder}\\{assetFolder}\\{name}.{Settings.MetadataExtension}";
+            this.metaDataFolder = $"{Settings.Unity3DAssetDatabaseFolderPath}\\{companyFolder}\\{assetFolder}";
+            this.metaDataPath = $"{metaDataFolder}\\{name}.{Settings.MetadataExtension}";
 
             if (HaveFreshMetadataFile())
             {

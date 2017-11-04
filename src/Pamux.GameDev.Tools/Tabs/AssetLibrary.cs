@@ -12,6 +12,7 @@ namespace Pamux.GameDev.Tools.Tabs
     using System.Windows.Forms;
     using Pamux.GameDev.Tools.Models;
     using System.Diagnostics;
+    using System.Drawing;
 
     /// <summary>
     /// WindowsStore publishing and maintenance utilities
@@ -26,14 +27,40 @@ namespace Pamux.GameDev.Tools.Tabs
         private static readonly IList<AssetPackage> FilteredAssets_A = new List<AssetPackage>();
         private static readonly IList<AssetPackage> FilteredAssets_B = new List<AssetPackage>();
 
+        ToolStripMenuItem toolStripItemAssetStoreSearch = new ToolStripMenuItem();
+        ToolStripMenuItem toolStripItemOpenAssetFolder = new ToolStripMenuItem();
+        ToolStripMenuItem toolStripItemOpenAssetMetaDataFolder = new ToolStripMenuItem();
+        ToolStripMenuItem toolStripItemViewAssetMetaData = new ToolStripMenuItem();
         
+        ContextMenuStrip contextMenuStrip = new ContextMenuStrip();
+
 
         public AssetLibrary()
         {
             InitializeComponent();
+
+            contextMenuStrip.Items.Add(toolStripItemAssetStoreSearch);
+            contextMenuStrip.Items.Add("-");
+            contextMenuStrip.Items.Add(toolStripItemOpenAssetFolder);
+            contextMenuStrip.Items.Add(toolStripItemOpenAssetMetaDataFolder);
+            contextMenuStrip.Items.Add("-");
+            contextMenuStrip.Items.Add(toolStripItemViewAssetMetaData);
+            
+
+            toolStripItemAssetStoreSearch.Text = "Name search in Unity AssetStore";
+            toolStripItemAssetStoreSearch.Click += new EventHandler(toolStripItemAssetStoreSearch_Click);
+
+            toolStripItemOpenAssetFolder.Text = "Open Asset Folder in Explorer";
+            toolStripItemOpenAssetFolder.Click += new EventHandler(toolStripItemOpenAssetFolder_Click);
+
+            toolStripItemOpenAssetMetaDataFolder.Text = "Open Asset MetaData Folder in Explorer";
+            toolStripItemOpenAssetMetaDataFolder.Click += new EventHandler(toolStripItemOpenAssetMetaDataFolder_Click);
+
+            toolStripItemViewAssetMetaData.Text = "View  Asset MetaData";
+            toolStripItemViewAssetMetaData.Click += new EventHandler(toolStripItemViewAssetMetaData_Click);
         }
 
-        
+
 
         private void AssetLibrary_Load(object sender, EventArgs e)
         {
@@ -250,14 +277,76 @@ namespace Pamux.GameDev.Tools.Tabs
             //Process.Start(e.Link.LinkData as string);
         }
 
+
+        private void results_CellContextMenuStripNeeded(object sender, DataGridViewCellContextMenuStripNeededEventArgs e)
+        {
+            foreach (DataGridViewColumn column in results.Columns)
+            {
+                column.ContextMenuStrip = contextMenuStrip;
+                
+            }
+
+            e.ContextMenuStrip = contextMenuStrip;
+
+        }
+
+        private DataGridViewCellEventArgs mouseLocation;
+
+        private AssetPackage AssetAtMouseLocation => FilteredAssets[mouseLocation.RowIndex];
+        
+        
+        // Change the cell's color.
+        private void toolStripItemAssetStoreSearch_Click(object sender, EventArgs args)
+        {
+            DoAssetStoreSearch(AssetAtMouseLocation);
+            
+            //results.Rows[mouseLocation.RowIndex].Cells[mouseLocation.ColumnIndex]
+        }
+
+        private void toolStripItemOpenAssetMetaDataFolder_Click(object sender, EventArgs e)
+        {
+            Process.Start(AssetAtMouseLocation.AssetMetaDataFolder);
+        }
+
+        private void toolStripItemViewAssetMetaData_Click(object sender, EventArgs e)
+        {
+            Process.Start(AssetAtMouseLocation.AssetMetaDataPath);
+        }
+
+        private void toolStripItemOpenAssetFolder_Click(object sender, EventArgs e)
+        {
+            Process.Start(AssetAtMouseLocation.AssetFolder);
+        }
+
+        private void DoAssetStoreSearch(AssetPackage assetPackage)
+        {
+            var nameParts = assetPackage.name.Split(' ');
+            var query = "";
+            foreach (var namePart in nameParts)
+            {
+                query = $"{query}&q={namePart}";
+            }
+
+            Process.Start($"https://assetstore.unity.com/search?{query.TrimStart('&')}");
+        }
+
+        // Deal with hovering over a cell.
+        private void results_CellMouseEnter(object sender,
+            DataGridViewCellEventArgs location)
+        {
+            mouseLocation = location;
+        }
+
         private void results_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
         {
-            Process.Start(FilteredAssets[e.RowIndex].AssetFolder);
+            Process.Start(AssetAtMouseLocation.AssetFolder);
         }
 
         private void results_RowEnter(object sender, DataGridViewCellEventArgs e)
         {
             ShowMetaData(FilteredAssets[e.RowIndex]);
         }
+
+        
     }
 }

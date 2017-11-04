@@ -65,7 +65,9 @@
             this.results.Name = "results";
             this.results.Size = new System.Drawing.Size(597, 585);
             this.results.TabIndex = 12;
+            this.results.CellContextMenuStripNeeded += new System.Windows.Forms.DataGridViewCellContextMenuStripNeededEventHandler(this.results_CellContextMenuStripNeeded);
             this.results.CellMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.results_CellMouseDoubleClick);
+            this.results.CellMouseEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.results_CellMouseEnter);
             this.results.RowEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.results_RowEnter);
             // 
             // tvAssetContents
