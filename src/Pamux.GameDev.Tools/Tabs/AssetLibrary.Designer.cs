@@ -29,14 +29,14 @@
         private void InitializeComponent()
         {
             this.tableLayoutPanel = new System.Windows.Forms.TableLayoutPanel();
+            this.results = new System.Windows.Forms.DataGridView();
+            this.tvAssetContents = new System.Windows.Forms.TreeView();
             this.panelQuery = new System.Windows.Forms.Panel();
             this.textQuery = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.tvAssetContents = new System.Windows.Forms.TreeView();
-            this.results = new System.Windows.Forms.DataGridView();
             this.tableLayoutPanel.SuspendLayout();
-            this.panelQuery.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.results)).BeginInit();
+            this.panelQuery.SuspendLayout();
             this.SuspendLayout();
             // 
             // tableLayoutPanel
@@ -56,6 +56,25 @@
             this.tableLayoutPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
             this.tableLayoutPanel.Size = new System.Drawing.Size(976, 641);
             this.tableLayoutPanel.TabIndex = 3;
+            // 
+            // results
+            // 
+            this.results.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.results.Dock = System.Windows.Forms.DockStyle.Left;
+            this.results.Location = new System.Drawing.Point(3, 53);
+            this.results.Name = "results";
+            this.results.Size = new System.Drawing.Size(597, 585);
+            this.results.TabIndex = 12;
+            this.results.CellMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.results_CellMouseDoubleClick);
+            this.results.RowEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.results_RowEnter);
+            // 
+            // tvAssetContents
+            // 
+            this.tvAssetContents.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tvAssetContents.Location = new System.Drawing.Point(606, 53);
+            this.tvAssetContents.Name = "tvAssetContents";
+            this.tvAssetContents.Size = new System.Drawing.Size(367, 585);
+            this.tvAssetContents.TabIndex = 11;
             // 
             // panelQuery
             // 
@@ -86,23 +105,6 @@
             this.label1.TabIndex = 3;
             this.label1.Text = "Query";
             // 
-            // tvAssetContents
-            // 
-            this.tvAssetContents.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tvAssetContents.Location = new System.Drawing.Point(606, 53);
-            this.tvAssetContents.Name = "tvAssetContents";
-            this.tvAssetContents.Size = new System.Drawing.Size(367, 585);
-            this.tvAssetContents.TabIndex = 11;
-            // 
-            // results
-            // 
-            this.results.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.results.Dock = System.Windows.Forms.DockStyle.Left;
-            this.results.Location = new System.Drawing.Point(3, 53);
-            this.results.Name = "results";
-            this.results.Size = new System.Drawing.Size(597, 585);
-            this.results.TabIndex = 12;
-            // 
             // AssetLibrary
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -112,9 +114,9 @@
             this.Size = new System.Drawing.Size(976, 641);
             this.Load += new System.EventHandler(this.AssetLibrary_Load);
             this.tableLayoutPanel.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.results)).EndInit();
             this.panelQuery.ResumeLayout(false);
             this.panelQuery.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.results)).EndInit();
             this.ResumeLayout(false);
 
         }

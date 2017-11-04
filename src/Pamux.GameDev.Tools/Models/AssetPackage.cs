@@ -31,7 +31,7 @@ namespace Pamux.GameDev.Tools.Models
 
         public readonly List<string> Assets = new List<string>();
 
-        public string AssetFolder => $"{assetsRootFolder}{companyFolder}\\{assetFolder}";
+        public string AssetFolder => $"{assetsRootFolder}\\{companyFolder}\\{assetFolder}";
 
         private ISet<string> keywords = new HashSet<string>();
 

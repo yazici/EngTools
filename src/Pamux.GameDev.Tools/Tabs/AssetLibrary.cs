@@ -11,6 +11,7 @@ namespace Pamux.GameDev.Tools.Tabs
     using System.Collections.Generic;
     using System.Windows.Forms;
     using Pamux.GameDev.Tools.Models;
+    using System.Diagnostics;
 
     /// <summary>
     /// WindowsStore publishing and maintenance utilities
@@ -198,11 +199,6 @@ namespace Pamux.GameDev.Tools.Tabs
             FilterAssets();
         }
 
-        private void results_RowEnter(object sender, DataGridViewCellEventArgs e)
-        {
-            ShowMetaData(FilteredAssets[e.RowIndex]);
-        }
-
         private void ShowMetaData(AssetPackage ap)
         {
             tvAssetContents.Nodes.Clear();
@@ -252,27 +248,16 @@ namespace Pamux.GameDev.Tools.Tabs
         private void lbl_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             //Process.Start(e.Link.LinkData as string);
-
         }
 
-        private void results_MouseDoubleClick(object sender, MouseEventArgs e)
+        private void results_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
         {
-
+            Process.Start(FilteredAssets[e.RowIndex].AssetFolder);
         }
 
-        private void results_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        private void results_RowEnter(object sender, DataGridViewCellEventArgs e)
         {
-            //Process.Start(FilteredAssets[e.RowIndex].ASSET_FOLDER);
-        }
-
-        private void panelResult_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void panelQuery_Paint(object sender, PaintEventArgs e)
-        {
-
+            ShowMetaData(FilteredAssets[e.RowIndex]);
         }
     }
 }
