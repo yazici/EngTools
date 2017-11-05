@@ -1,13 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2005
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pamux.GameDev.Tools", "Pamux.GameDev.Tools\Pamux.GameDev.Tools.csproj", "{80F35D80-EE90-4670-97C1-EE270FA271EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pamux.GameDev.Lib", "Pamux.GameDev.Lib\Pamux.GameDev.Lib.csproj", "{8549CC66-3C70-4622-A5C3-707546463F9A}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Pamux.GameDev.Lib.Shared", "Pamux.GameDev.Lib.Shared\Pamux.GameDev.Lib.Shared.shproj", "{485E0869-4D5A-4470-85BD-7163B5CF42D2}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Pamux.GameDev.Tools.Shared", "Pamux.GameDev.Tools.Shared\Pamux.GameDev.Tools.Shared.shproj", "{D2958AE3-0039-4FDA-9CA8-BC4A5CA5D05C}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Pamux.GameDev.Lib.Shared\Pamux.GameDev.Lib.Shared.projitems*{485e0869-4d5a-4470-85bd-7163b5cf42d2}*SharedItemsImports = 13
+		Pamux.GameDev.Tools.Shared\Pamux.GameDev.Tools.Shared.projitems*{80f35d80-ee90-4670-97c1-ee270fa271ee}*SharedItemsImports = 4
+		Pamux.GameDev.Lib.Shared\Pamux.GameDev.Lib.Shared.projitems*{8549cc66-3c70-4622-a5c3-707546463f9a}*SharedItemsImports = 4
+		Pamux.GameDev.Tools.Shared\Pamux.GameDev.Tools.Shared.projitems*{d2958ae3-0039-4fda-9ca8-bc4a5ca5d05c}*SharedItemsImports = 13
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
 		Release|x64 = Release|x64
@@ -17,7 +27,6 @@ Global
 		{80F35D80-EE90-4670-97C1-EE270FA271EE}.Debug|x64.Build.0 = Debug|x64
 		{80F35D80-EE90-4670-97C1-EE270FA271EE}.Release|x64.ActiveCfg = Release|x64
 		{80F35D80-EE90-4670-97C1-EE270FA271EE}.Release|x64.Build.0 = Release|x64
-
 		{8549CC66-3C70-4622-A5C3-707546463F9A}.Debug|x64.ActiveCfg = Debug|x64
 		{8549CC66-3C70-4622-A5C3-707546463F9A}.Debug|x64.Build.0 = Debug|x64
 		{8549CC66-3C70-4622-A5C3-707546463F9A}.Release|x64.ActiveCfg = Release|x64

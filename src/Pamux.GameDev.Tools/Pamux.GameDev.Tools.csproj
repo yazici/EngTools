@@ -144,6 +144,7 @@
       <Name>Pamux.GameDev.Lib</Name>
     </ProjectReference>
   </ItemGroup>
+  <Import Project="..\Pamux.GameDev.Tools.Shared\Pamux.GameDev.Tools.Shared.projitems" Label="Shared" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
   <ProjectExtensions>
     <VisualStudio AllowExistingFolder="true" />
