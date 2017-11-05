@@ -4,8 +4,8 @@
 
 /3rdParty
 /OtherEngTools/Temp
-/src/Pamux.GameDev.Tools/obj/x86/Debug
-/src/Pamux.GameDev.Tools/bin/Debug
+/src/Pamux.GameDev.Tools/obj/
+/src/Pamux.GameDev.Tools/bin/
 /src/.vs/EngTools/v15
 /OtherEngTools
 /Data/Clipboard.txt
