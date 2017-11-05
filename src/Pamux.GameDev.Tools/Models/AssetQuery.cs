@@ -14,7 +14,7 @@ namespace Pamux.GameDev.Tools.Models
         {
             this.query = query.Trim().ToLower();
 
-            foreach (string token in this.query.Split(AssetPackage.Separators))
+            foreach (string token in this.query.Split(AssetMetaData.Separators))
             {
                 string t = token.Trim();
 

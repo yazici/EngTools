@@ -8,7 +8,11 @@ namespace Pamux.GameDev.Tools.Models
 {
     public static class Settings
     {
+
         public const string MetadataExtension = "gdometa";
+
+        public static string ProgramFiles = Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles);
+        public static string ProgramFilesX86 = Environment.GetFolderPath(Environment.SpecialFolder.ProgramFilesX86);
 
         private static readonly string LocalAppData = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
         private static readonly string RoamingAppData = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
@@ -17,6 +21,10 @@ namespace Pamux.GameDev.Tools.Models
 
         public static string EngTools => $"{WorkspaceRoot}\\EngTools";
         public static string EngData => $"{EngTools}\\Data";
+
+        
+        public static string EngTemp => $"{EngTools}\\Temp";
+        public static string EngContent => $"{EngTemp}\\Content";
 
         public static string LocalHtmlPath => $"{EngData}\\local.html";
 
@@ -47,9 +55,13 @@ namespace Pamux.GameDev.Tools.Models
         //link.LinkData = "https://onedrive.live.com/edit.aspx?cid=5F18BACBA5E0611C&resid=5F18BACBA5E0611C%212204&app=Excel&wdo=1";
         //lblCheckLists.Links.Add(link);
 
+        public static string Unity3DAppFolderPath = $"{ProgramFiles}\\Unity";
 
-        public static string Unity3DAppFolderPath = Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles) + @"\Unity";
-        
+        public static string SevenZipCli = $"{ProgramFiles}\\7-Zip\\7z.exe";
+
+        public static string AppsRoot = "c:\\Apps";
+        public static string GzipExe = $"{AppsRoot}\\gzip-1.3.12-1-bin\\bin\\gzip.exe";
+
         public static string Unity3DAssetsFolderPath = $"{RoamingAppData}\\Unity\\Asset Store-5.x";
 
         public static string Unity3DAssetDatabaseFolderPath => $"{EngData}\\UnityAssetStore";

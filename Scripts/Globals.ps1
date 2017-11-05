@@ -46,6 +46,7 @@ function Script:SetRootDirectories()
 {
 	# $global:WorkspaceRoot should be set at WindowsPowerShell\Microsoft.PowerShell_profile.ps1
 	$global:OutputRoot = $global:WorkspaceRoot
+	$global:AppsRoot = "c:\Apps"
 	
 	SetEngToolsPaths
 	
@@ -60,6 +61,7 @@ function Script:SetToolPaths()
 {
 	$global:GitRoot="${env:ProgramFiles(x86)}\Git\"
 
+	
 	$global:GitExe = "${global:GitRoot}git.exe"
 	$global:NuGetExe = "${global:EngTools_ToolsRoot}nuget.exe"
 	$global:PuttyExe = "${global:EngTools_ToolsRoot}putty.exe"
@@ -72,6 +74,12 @@ function Script:SetToolPaths()
 	$global:SketchUpExe="${env:ProgramFiles}\SketchUp\SketchUp 2015\SketchUp.exe"
 	$global:PaintDotNetExe="${env:ProgramFiles}\paint.net\PaintDotNet.exe"
 	$global:KDiffExe="${env:ProgramFiles}\KDiff3\kdiff3.exe"
+	
+	$global:SevenZExe ="${env:ProgramFiles}\7-Zip\7z.exe"
+	$global:GzipExe ="${global:AppsRoot}\gzip-1.3.12-1-bin\bin\gzip.exe"
+	$global:GzipExe ="${global:AppsRoot}\gnu\bin\gzip.exe"
+	$global:TarExe ="${global:AppsRoot}\gnu\bin\tar.exe"
+	
 }
 
 function Script:SetRaspberryPiGlobals()

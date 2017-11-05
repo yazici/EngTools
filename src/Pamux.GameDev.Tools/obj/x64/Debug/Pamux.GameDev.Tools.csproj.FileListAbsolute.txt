@@ -1,0 +1,17 @@
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\bin\x64\Debug\Pamux.GameDev.Tools.exe.config
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\bin\x64\Debug\Pamux.GameDev.Tools.exe
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\bin\x64\Debug\Pamux.GameDev.Tools.pdb
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\bin\x64\Debug\SharpCompress.dll
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\bin\x64\Debug\SharpCompress.pdb
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.MainForm.resources
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.Properties.Resources.resources
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.Tabs.Home.resources
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.Tabs.SettingsControl.resources
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.Tabs.Text2Speech.resources
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.Tabs.AssetLibrary.resources
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.Tabs.WindowsStore.resources
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.csproj.GenerateResource.Cache
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.csproj.CoreCompileInputs.cache
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.exe
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.pdb
+D:\Workspace\EngTools\src\Pamux.GameDev.Tools\obj\x64\Debug\Pamux.GameDev.Tools.csprojResolveAssemblyReference.cache

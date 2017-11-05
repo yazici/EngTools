@@ -30,7 +30,7 @@
         {
             this.tableLayoutPanel = new System.Windows.Forms.TableLayoutPanel();
             this.results = new System.Windows.Forms.DataGridView();
-            this.tvAssetContents = new System.Windows.Forms.TreeView();
+            this.treeAssetContents = new System.Windows.Forms.TreeView();
             this.panelQuery = new System.Windows.Forms.Panel();
             this.textQuery = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -45,7 +45,7 @@
             this.tableLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 61.78279F));
             this.tableLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 38.21721F));
             this.tableLayoutPanel.Controls.Add(this.results, 0, 1);
-            this.tableLayoutPanel.Controls.Add(this.tvAssetContents, 0, 1);
+            this.tableLayoutPanel.Controls.Add(this.treeAssetContents, 0, 1);
             this.tableLayoutPanel.Controls.Add(this.panelQuery, 0, 0);
             this.tableLayoutPanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel.Location = new System.Drawing.Point(0, 0);
@@ -70,13 +70,14 @@
             this.results.CellMouseEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.results_CellMouseEnter);
             this.results.RowEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.results_RowEnter);
             // 
-            // tvAssetContents
+            // treeAssetContents
             // 
-            this.tvAssetContents.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tvAssetContents.Location = new System.Drawing.Point(606, 53);
-            this.tvAssetContents.Name = "tvAssetContents";
-            this.tvAssetContents.Size = new System.Drawing.Size(367, 585);
-            this.tvAssetContents.TabIndex = 11;
+            this.treeAssetContents.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.treeAssetContents.Location = new System.Drawing.Point(606, 53);
+            this.treeAssetContents.Name = "treeAssetContents";
+            this.treeAssetContents.Size = new System.Drawing.Size(367, 585);
+            this.treeAssetContents.TabIndex = 11;
+            this.treeAssetContents.NodeMouseClick += new System.Windows.Forms.TreeNodeMouseClickEventHandler(this.treeAssetContents_NodeMouseClick);
             // 
             // panelQuery
             // 
@@ -130,6 +131,6 @@
         private System.Windows.Forms.TextBox textQuery;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DataGridView results;
-        private System.Windows.Forms.TreeView tvAssetContents;
+        private System.Windows.Forms.TreeView treeAssetContents;
     }
 }

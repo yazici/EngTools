@@ -13,6 +13,9 @@ namespace Pamux.GameDev.Tools.Tabs
     using Pamux.GameDev.Tools.Models;
     using System.Diagnostics;
     using System.Drawing;
+    using System.ComponentModel;
+    using Pamux.GameDev.Tools.AssetUtils;
+    using Pamux.GameDev.Tools.Extensions;
 
     /// <summary>
     /// WindowsStore publishing and maintenance utilities
@@ -21,32 +24,35 @@ namespace Pamux.GameDev.Tools.Tabs
     {
         public static AssetLibrary INSTANCE;
 
-        public static readonly IList<AssetPackage> AllAssets = new List<AssetPackage>();
-        public static IList<AssetPackage> FilteredAssets { get; private set; }
+        private TreeNode treeAssetContents_ContextMenuNode;
+        private string harvestPath;
 
-        private static readonly IList<AssetPackage> FilteredAssets_A = new List<AssetPackage>();
-        private static readonly IList<AssetPackage> FilteredAssets_B = new List<AssetPackage>();
+        public static readonly IList<AssetMetaData> AllAssets = new List<AssetMetaData>();
+        public static IList<AssetMetaData> FilteredAssets { get; private set; }
+
+        private static readonly IList<AssetMetaData> FilteredAssets_A = new List<AssetMetaData>();
+        private static readonly IList<AssetMetaData> FilteredAssets_B = new List<AssetMetaData>();
 
         ToolStripMenuItem toolStripItemAssetStoreSearch = new ToolStripMenuItem();
         ToolStripMenuItem toolStripItemOpenAssetFolder = new ToolStripMenuItem();
         ToolStripMenuItem toolStripItemOpenAssetMetaDataFolder = new ToolStripMenuItem();
         ToolStripMenuItem toolStripItemViewAssetMetaData = new ToolStripMenuItem();
-        
-        ContextMenuStrip contextMenuStrip = new ContextMenuStrip();
 
+        ToolStripMenuItem toolStripItemHarvestAsset = new ToolStripMenuItem();
+
+        ContextMenuStrip resultsContextMenuStrip;
+        ContextMenuStrip treeAssetContentsContextMenuStrip;
 
         public AssetLibrary()
         {
             InitializeComponent();
 
-            contextMenuStrip.Items.Add(toolStripItemAssetStoreSearch);
-            contextMenuStrip.Items.Add("-");
-            contextMenuStrip.Items.Add(toolStripItemOpenAssetFolder);
-            contextMenuStrip.Items.Add(toolStripItemOpenAssetMetaDataFolder);
-            contextMenuStrip.Items.Add("-");
-            contextMenuStrip.Items.Add(toolStripItemViewAssetMetaData);
-            
+            treeAssetContentsContextMenuStrip = new ContextMenuStrip();
+            treeAssetContentsContextMenuStrip.Opening += new CancelEventHandler(treeAssetContentsContextMenuStrip_Opening);
+            toolStripItemHarvestAsset.Click += new EventHandler(toolStripItemHarvestAsset_Click);
 
+
+            resultsContextMenuStrip = new ContextMenuStrip();
             toolStripItemAssetStoreSearch.Text = "Name search in Unity AssetStore";
             toolStripItemAssetStoreSearch.Click += new EventHandler(toolStripItemAssetStoreSearch_Click);
 
@@ -58,9 +64,57 @@ namespace Pamux.GameDev.Tools.Tabs
 
             toolStripItemViewAssetMetaData.Text = "View  Asset MetaData";
             toolStripItemViewAssetMetaData.Click += new EventHandler(toolStripItemViewAssetMetaData_Click);
+
+            resultsContextMenuStrip.Items.Add(toolStripItemAssetStoreSearch);
+            resultsContextMenuStrip.Items.Add("-");
+            resultsContextMenuStrip.Items.Add(toolStripItemOpenAssetFolder);
+            resultsContextMenuStrip.Items.Add(toolStripItemOpenAssetMetaDataFolder);
+            resultsContextMenuStrip.Items.Add("-");
+            resultsContextMenuStrip.Items.Add(toolStripItemViewAssetMetaData);
         }
 
+        private void treeAssetContents_NodeMouseClick(object sender, TreeNodeMouseClickEventArgs e)
+        {
+            treeAssetContents_ContextMenuNode = treeAssetContents.GetNodeAt(e.X, e.Y);
+        }
 
+        private void treeAssetContentsContextMenuStrip_Opening(object sender, CancelEventArgs e)
+        {
+            harvestPath = null;
+            treeAssetContentsContextMenuStrip.Items.Clear();
+
+            if (treeAssetContents_ContextMenuNode == null)
+            {
+                if (treeAssetContents == null || treeAssetContents.SelectedNode == null)
+                {
+                    e.Cancel = true;
+                    return;
+                }
+
+                treeAssetContents_ContextMenuNode = treeAssetContents.SelectedNode;
+            }
+
+            try
+            {
+                if (treeAssetContents_ContextMenuNode.Nodes.Count != 0)
+                {
+                    e.Cancel = true;
+                    return;
+                }
+
+                treeAssetContents.SelectedNode = treeAssetContents_ContextMenuNode;
+                
+               
+                toolStripItemHarvestAsset.Text = $"Harvest Asset: {treeAssetContents_ContextMenuNode.Text}";
+                harvestPath = treeAssetContents_ContextMenuNode.FullPath;
+                treeAssetContentsContextMenuStrip.Items.Add(toolStripItemHarvestAsset);
+                e.Cancel = false;
+            }
+            finally
+            {
+                treeAssetContents_ContextMenuNode = null;
+            }
+        }
 
         private void AssetLibrary_Load(object sender, EventArgs e)
         {
@@ -91,31 +145,46 @@ namespace Pamux.GameDev.Tools.Tabs
             }
         }
 
-
-        private void UpdateAssetLibraryDatabase()
+        private void EnumerateUnityPackageFiles()
         {
             AllAssets.Clear();
-            var rootFolderLength = Settings.Unity3DAssetsFolderPath.Length + 1;
-            foreach (var companyPath in Directory.EnumerateDirectories(Settings.Unity3DAssetsFolderPath))
+            EnumerateUnityPackageFiles(Settings.Unity3DAssetsFolderPath, new List<string>());
+            foreach (var asset in AllAssets)
             {
-                var companyFolder = companyPath.Substring(rootFolderLength);
-                var companyPathLength = companyPath.Length + 1;
-                foreach (var assetPath in Directory.EnumerateDirectories(companyPath))
-                {
-                    var assetFolder = assetPath.Substring(companyPathLength);
-                    var assetPathLength = assetPath.Length + 1;
-                    foreach (var assetFilePath in Directory.EnumerateFiles(assetPath, "*.unitypackage"))
-                    {
-                        var a = AssetPackage.CreateFromPath(assetFilePath,
-                                                            Settings.Unity3DAssetsFolderPath,
-                                                            companyFolder,
-                                                            assetFolder, assetFilePath.Substring(assetPathLength));
-                        AllAssets.Add(a);
-                    }
-
-                }
+                asset.Initialize();
             }
         }
+
+        private void EnumerateUnityPackageFiles(string directory, IList<string> nameStack)
+        {
+            if (nameStack.Count < 2)
+            {
+                var lastSubDirectoryIndex = directory.Length + 1;
+                foreach (var subDirectory in directory.EnumerateDirectories())
+                {
+                    nameStack.Add(subDirectory.Substring(lastSubDirectoryIndex));
+                    EnumerateUnityPackageFiles(subDirectory, nameStack);
+                }
+            }
+            else
+            {
+                foreach (var unityPackageFileFullPath in directory.EnumerateFiles("*.unitypackage"))
+                {
+                    AllAssets.Add(new AssetMetaData
+                    {
+                        FullPath = unityPackageFileFullPath,
+                        Company = nameStack[0],
+                        AssetSubFolder = nameStack[1],
+                    });
+                }
+            }
+
+            if (nameStack.Count > 0)
+            { 
+                nameStack.RemoveAt(nameStack.Count - 1);
+            }
+        }
+
         static bool isFirstTime = true;
 
         private void FilterAssets()
@@ -127,7 +196,7 @@ namespace Pamux.GameDev.Tools.Tabs
 
             if (ShouldUpdateAssetLibraryDatabase())
             {
-                UpdateAssetLibraryDatabase();
+                EnumerateUnityPackageFiles();
             }
 
             if (results.DataSource == FilteredAssets_B)
@@ -140,8 +209,8 @@ namespace Pamux.GameDev.Tools.Tabs
             }
 
             FilteredAssets.Clear();
-            var  query = new AssetQuery(textQuery.Text);
-            foreach (AssetPackage a in AllAssets)
+            var query = new AssetQuery(textQuery.Text);
+            foreach (AssetMetaData a in AllAssets)
             {
                 if (a.Match(query))
                 {
@@ -226,9 +295,10 @@ namespace Pamux.GameDev.Tools.Tabs
             FilterAssets();
         }
 
-        private void ShowMetaData(AssetPackage ap)
+        private void ShowMetaData(AssetMetaData ap)
         {
-            tvAssetContents.Nodes.Clear();
+            treeAssetContents.Tag = ap;
+            treeAssetContents.Nodes.Clear();
             var mappedNodes = new Dictionary<string, TreeNode>();
 
             foreach (string asset in ap.Assets)
@@ -236,13 +306,11 @@ namespace Pamux.GameDev.Tools.Tabs
                 var assetParts = asset.Split('/');
                 var path = "";
 
-
-
                 TreeNode currentNode = null;
                 for (int i = 0; i < assetParts.Length; ++i)
                 {
                     path += $"{assetParts[i]}/";
-                    
+
 
                     if (mappedNodes.ContainsKey(path))
                     {
@@ -252,20 +320,24 @@ namespace Pamux.GameDev.Tools.Tabs
                     {
                         if (currentNode == null)
                         {
-                            currentNode = mappedNodes[path] = tvAssetContents.Nodes.Add(assetParts[i]);
+                            currentNode = mappedNodes[path] = treeAssetContents.Nodes.Add(assetParts[i]);
                         }
                         else
                         {
                             currentNode = mappedNodes[path] = currentNode.Nodes.Add(assetParts[i]);
                         }
+
+                        currentNode.ContextMenuStrip = treeAssetContentsContextMenuStrip;
                     }
+
+
                 }
             }
 
-            if (tvAssetContents.Nodes.Count > 0)
+            if (treeAssetContents.Nodes.Count > 0)
             {
-                tvAssetContents.Nodes[0].Expand();
-                foreach (TreeNode n in tvAssetContents.Nodes[0].Nodes)
+                treeAssetContents.Nodes[0].Expand();
+                foreach (TreeNode n in treeAssetContents.Nodes[0].Nodes)
                 {
                     n.Expand();
                 }
@@ -282,45 +354,59 @@ namespace Pamux.GameDev.Tools.Tabs
         {
             foreach (DataGridViewColumn column in results.Columns)
             {
-                column.ContextMenuStrip = contextMenuStrip;
-                
+                column.ContextMenuStrip = resultsContextMenuStrip;
             }
 
-            e.ContextMenuStrip = contextMenuStrip;
+            e.ContextMenuStrip = resultsContextMenuStrip;
 
         }
 
         private DataGridViewCellEventArgs mouseLocation;
 
-        private AssetPackage AssetAtMouseLocation => FilteredAssets[mouseLocation.RowIndex];
-        
-        
-        // Change the cell's color.
+        private AssetMetaData AssetAtMouseLocation => FilteredAssets[mouseLocation.RowIndex];
+
+        private void toolStripItemHarvestAsset_Click(object sender, EventArgs args)
+        {
+            if (string.IsNullOrWhiteSpace(harvestPath))
+            {
+                return;
+            }
+
+            var assetMetaData = treeAssetContents.Tag as AssetMetaData;
+            if (assetMetaData == null)
+            {
+                return;
+            }
+
+            var unityAsset = new UnityAssetProxy(assetMetaData.UnityPackage, harvestPath);
+            unityAsset.Harvest();
+        }
+
         private void toolStripItemAssetStoreSearch_Click(object sender, EventArgs args)
         {
             DoAssetStoreSearch(AssetAtMouseLocation);
-            
+
             //results.Rows[mouseLocation.RowIndex].Cells[mouseLocation.ColumnIndex]
         }
 
         private void toolStripItemOpenAssetMetaDataFolder_Click(object sender, EventArgs e)
         {
-            Process.Start(AssetAtMouseLocation.AssetMetaDataFolder);
+            Process.Start(AssetAtMouseLocation.MetaDataFolder);
         }
 
         private void toolStripItemViewAssetMetaData_Click(object sender, EventArgs e)
         {
-            Process.Start(AssetAtMouseLocation.AssetMetaDataPath);
+            Process.Start(AssetAtMouseLocation.MetaDataPath);
         }
 
         private void toolStripItemOpenAssetFolder_Click(object sender, EventArgs e)
         {
-            Process.Start(AssetAtMouseLocation.AssetFolder);
+            Process.Start(AssetAtMouseLocation.UnityPackageFolder);
         }
 
-        private void DoAssetStoreSearch(AssetPackage assetPackage)
+        private void DoAssetStoreSearch(AssetMetaData assetPackage)
         {
-            var nameParts = assetPackage.name.Split(' ');
+            var nameParts = assetPackage.Name.Split(' ');
             var query = "";
             foreach (var namePart in nameParts)
             {
@@ -339,7 +425,7 @@ namespace Pamux.GameDev.Tools.Tabs
 
         private void results_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
         {
-            Process.Start(AssetAtMouseLocation.AssetFolder);
+            Process.Start(AssetAtMouseLocation.UnityPackageFolder);
         }
 
         private void results_RowEnter(object sender, DataGridViewCellEventArgs e)
@@ -347,6 +433,6 @@ namespace Pamux.GameDev.Tools.Tabs
             ShowMetaData(FilteredAssets[e.RowIndex]);
         }
 
-        
+
     }
 }

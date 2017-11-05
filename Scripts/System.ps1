@@ -137,3 +137,9 @@ function Global:GetMyEthernetIPv4Info()
 {
 	return GetMyEthernetAdapterInfo |  Get-NetIPAddress | ? AddressFamily -eq IPv4
 }
+
+function EnableLinuxSubsystem()
+{
+# Need elevated shell
+	Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+}
