@@ -13,3 +13,8 @@
 /src/Pamux.GameDev.Lib/bin
 /src/Pamux.GameDev.Lib/obj
 
+/src/Pamux.GameDev.Tools.Wpf/bin/Debug
+/src/Pamux.GameDev.Tools.Wpf/obj/Debug
+/src/Pamux.GameDev.Tools.Wpf/obj
+/src/Pamux.GameDev.UserControls/bin/Debug
+/src/Pamux.GameDev.UserControls/obj

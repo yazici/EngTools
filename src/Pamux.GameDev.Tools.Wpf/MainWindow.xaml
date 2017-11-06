@@ -1,0 +1,46 @@
+﻿<Window x:Class="Pamux.GameDev.Tools.Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pamux.GameDev.Tools.Wpf"
+        xmlns:uc="clr-namespace:Pamux.GameDev.UserControls;assembly=Pamux.GameDev.UserControls"
+        xmlns:tabs="clr-namespace:Pamux.GameDev.UserControls.Tabs;assembly=Pamux.GameDev.UserControls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+   
+    <Grid RenderTransformOrigin="0.342,0.485">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" x:Name="rowQuery"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TabControl Grid.Row="2" Grid.ColumnSpan="3" TabStripPlacement="Left" Margin="0, 0, 0, 10" Background="Aqua">
+            <TabItem Name="tabHome" Header="Home" >
+                <tabs:Home/>
+            </TabItem>
+
+            <TabItem Name="tabAssetLibrary" Header="AssetLibrary">
+                <tabs:AssetLibrary/>
+            </TabItem>
+            
+            <TabItem Name="tabText2Speech" Header="Text2Speech" >
+                <tabs:Text2Speech/>
+            </TabItem>
+            
+            <TabItem Name="tabWindowsStore" Header="WindowsStore" >
+                <tabs:Store/>
+            </TabItem>
+
+            <TabItem Name="tabSettings" Header="Settings" >
+                <tabs:SettingsPage/>
+            </TabItem>
+
+        </TabControl>
+
+    </Grid>
+</Window>

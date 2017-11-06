@@ -1,0 +1,70 @@
+﻿            <ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    xmlns:conv="clr-namespace:Pamux.GameDev.UserControls.Converters"
+    xmlns:local="clr-namespace:Pamux.GameDev.UserControls"
+    xmlns:iface="clr-namespace:Pamux.GameDev.Lib.Interfaces;assembly=Pamux.GameDev.Lib"
+    xmlns:tabs="clr-namespace:Pamux.GameDev.UserControls.Tabs">
+
+    <conv:MathConverter x:Key="MathConverter"/>
+    <sys:Int32 x:Key="ColumnSpacing">16</sys:Int32>
+    <sys:Int32 x:Key="RowSpacing">16</sys:Int32>
+    <sys:Int32 x:Key="Spacing">16</sys:Int32>
+    <sys:Int32 x:Key="LabelWidth">100</sys:Int32>
+    <sys:Int32 x:Key="SingleTextBoxBandHeight">30</sys:Int32>
+
+    <DataTemplate x:Key="AssetDetailsTemplate">
+        <StackPanel Background="#AAA" Orientation="Horizontal">
+            <StackPanel HorizontalAlignment="Left" Width="200" Orientation="Vertical">
+                <Button Content="Search in Asset Store"  Command="{x:Static tabs:AssetLibrary.SearchInAssetStoreCommand}" CommandParameter="{Binding}"/>
+                <Button Content="Open asset folder in Explorer"  Command="{x:Static tabs:AssetLibrary.OpenAssetFolderCommand}" CommandParameter="{Binding}"/>
+                <Button Content="Open metadata folder in Explorer"  Command="{x:Static tabs:AssetLibrary.OpenMetadataFolderCommand}" CommandParameter="{Binding}"/>
+                <Button Content="View metadata"  Command="{x:Static tabs:AssetLibrary.ViewMetadataCommand}" CommandParameter="{Binding}"/>
+                <Button Content="Unpack" Command="{x:Static tabs:AssetLibrary.UnpackUnityPackageCommand}" CommandParameter="{Binding}"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                    <TreeView ItemsSource="{Binding PackageContent}"  Margin="16" MinWidth="400" MinHeight="200" MaxHeight="400">
+                        <TreeView.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Header="Harvest"></MenuItem>
+                            </ContextMenu>
+                        </TreeView.ContextMenu>
+
+                        <TreeView.ItemContainerStyle>
+                            <Style TargetType="TreeViewItem">
+                                <Setter Property="IsExpanded" Value="{Binding IsExpanded}"/>
+                            </Style>
+                        </TreeView.ItemContainerStyle>
+                        
+                        <TreeView.ItemTemplate>
+                            <HierarchicalDataTemplate ItemsSource="{Binding Children}" DataType="{x:Type iface:IContentHierarchy}">
+                                <TreeViewItem Header="{Binding Name}" />
+                            </HierarchicalDataTemplate>
+                        </TreeView.ItemTemplate>
+                    </TreeView>
+            </StackPanel>
+            <StackPanel  Orientation="Vertical">
+                <TextBlock Text="{Binding Name}" Margin="10" />
+                <TextBlock Text="{Binding Type}" Margin="10" />
+                <TextBlock Text="{Binding Company}" Margin="10" />
+            </StackPanel>
+        </StackPanel>
+    </DataTemplate>
+
+    <Style TargetType="{x:Type DataGrid}">
+        <Setter Property="Background" Value="#FFF" />
+        <Setter Property="AlternationCount" Value="2" />
+    </Style>
+
+    <Style TargetType="{x:Type DataGridRow}">
+        <Style.Triggers>
+            <Trigger Property="ItemsControl.AlternationIndex" Value="0">
+                <Setter Property="Background" Value="#CCC"></Setter>
+            </Trigger>
+            <Trigger Property="ItemsControl.AlternationIndex" Value="1">
+                <Setter Property="Background" Value="#EEE"></Setter>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+</ResourceDictionary>

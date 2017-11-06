@@ -6,8 +6,47 @@
     <SharedGUID>d2958ae3-0039-4fda-9ca8-bc4a5ca5d05c</SharedGUID>
   </PropertyGroup>
   <PropertyGroup Label="Configuration">
-    <Import_RootNamespace>Pamux.GameDev.Tools.Shared</Import_RootNamespace>
+    <Import_RootNamespace>Pamux.GameDev.Tools</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)CommandLine.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\Text2Speech.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\Text2Speech.Designer.cs">
+      <DependentUpon>Text2Speech.cs</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\WindowsStore.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\WindowsStore.Designer.cs">
+      <DependentUpon>WindowsStore.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Tabs\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Tabs\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Tabs\Text2Speech.resx">
+      <DependentUpon>Text2Speech.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Tabs\WindowsStore.resx">
+      <DependentUpon>WindowsStore.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>
