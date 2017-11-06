@@ -2,19 +2,27 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+project.lock.json
+
 /3rdParty
-/OtherEngTools/Temp
-/src/Pamux.GameDev.Tools/obj/
-/src/Pamux.GameDev.Tools/bin/
-/src/.vs/EngTools/v15
 /OtherEngTools
 /Data/Clipboard.txt
 /Temp
-/src/Pamux.GameDev.Lib/bin
-/src/Pamux.GameDev.Lib/obj
 
-/src/Pamux.GameDev.Tools.Wpf/bin/Debug
-/src/Pamux.GameDev.Tools.Wpf/obj/Debug
-/src/Pamux.GameDev.Tools.Wpf/obj
-/src/Pamux.GameDev.UserControls/bin/Debug
-/src/Pamux.GameDev.UserControls/obj
+/src/Pamux.GameDev.Tools/TestAssets/scaled
+
