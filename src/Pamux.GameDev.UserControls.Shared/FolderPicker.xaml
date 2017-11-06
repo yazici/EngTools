@@ -17,7 +17,7 @@
     </UserControl.Resources>
     
     
-    <Grid Name="Panel" Background="AliceBlue">
+    <Grid Name="Panel" Background="#BBB">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="{Binding Mode=OneWay, Source={StaticResource ColumnSpacing}}"/>
             <ColumnDefinition Width="{Binding Mode=OneWay, Source={StaticResource LabelWidth}}"/>

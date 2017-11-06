@@ -19,7 +19,7 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <TabControl Grid.Row="2" Grid.ColumnSpan="3" TabStripPlacement="Left" Margin="0, 0, 0, 10" Background="Aqua">
+        <TabControl Grid.Row="2" Grid.ColumnSpan="3" TabStripPlacement="Left" Margin="0, 0, 0, 10" Background="#999">
             <TabItem Name="tabHome" Header="Home" >
                 <tabs:Home/>
             </TabItem>

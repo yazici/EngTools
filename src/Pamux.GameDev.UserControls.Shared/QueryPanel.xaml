@@ -16,7 +16,7 @@
         </ResourceDictionary>
     </UserControl.Resources>
 
-    <StackPanel Name="Panel" Height="{Binding Mode=OneWay, Source={StaticResource SingleTextBoxBandHeight}}" Orientation="Horizontal" Background="AliceBlue">
+    <StackPanel Name="Panel" Height="{Binding Mode=OneWay, Source={StaticResource SingleTextBoxBandHeight}}" Orientation="Horizontal" Background="#BBB">
         <Label Content="Query" VerticalAlignment="Center" Margin="16,0,0,0"/>   
 
         <TextBox Background="LightGray"  

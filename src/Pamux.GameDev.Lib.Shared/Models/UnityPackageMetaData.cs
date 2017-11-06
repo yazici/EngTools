@@ -297,9 +297,6 @@ namespace Pamux.GameDev.Lib.Models
         }
 
         string[] generics = new string[] { "the", "and", "but" };
-        private string unityPackageFileFullPath;
-        private string v1;
-        private string v2;
 
         bool IsGenericKeyword(bool extension, string keyword)
         {
