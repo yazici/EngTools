@@ -65,7 +65,9 @@ namespace Pamux.GameDev.UserControls.Tabs
         private DataTemplateSelector rowDetailsTemplateSelector = new AssetLibraryDetailsTemplateSelector();
         public DataTemplateSelector RowDetailsTemplateSelector => rowDetailsTemplateSelector;
 
+
         
+
 
 
 

@@ -31,6 +31,7 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="SharpCompress">
       <HintPath>..\..\..\3rdParty\sharpcompress\src\SharpCompress\bin\Debug\net461\SharpCompress.dll</HintPath>

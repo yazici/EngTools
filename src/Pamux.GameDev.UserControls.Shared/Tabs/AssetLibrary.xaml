@@ -5,6 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Pamux.GameDev.UserControls.Tabs"
              xmlns:uc="clr-namespace:Pamux.GameDev.UserControls"
+             xmlns:models="clr-namespace:Pamux.GameDev.Lib.Models;assembly=Pamux.GameDev.Lib"
              mc:Ignorable="d" 
              x:Name="UserControl"
              d:DesignHeight="300" d:DesignWidth="300">
@@ -35,6 +36,9 @@
         <CommandBinding Command="{x:Static local:AssetLibrary.UnpackUnityPackageCommand}"
                 Executed="UnpackUnityPackage"
                 CanExecute="CanExecuteCommand" />
+        <CommandBinding Command="{x:Static local:AssetLibrary.HarvestAssetCommand}"
+                Executed="HarvestAsset"
+                CanExecute="CanExecutePerAssetCommand" />
     </UserControl.CommandBindings>
 
     <Grid>

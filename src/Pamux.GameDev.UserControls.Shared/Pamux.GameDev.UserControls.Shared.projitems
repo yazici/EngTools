@@ -86,13 +86,15 @@
     <Compile Include="$(MSBuildThisFileDirectory)ResultDetails.xaml.cs">
       <DependentUpon>ResultDetails.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\AssetLibrary.Commands.cs">
+      <DependentUpon>AssetLibrary.xaml</DependentUpon>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Tabs\AssetLibrary.xaml.cs">
       <DependentUpon>AssetLibrary.xaml</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Tabs\AssetLibrary.Query.cs">
       <DependentUpon>AssetLibrary.xaml</DependentUpon>
     </Compile>
-	
     <Compile Include="$(MSBuildThisFileDirectory)Tabs\Text2Speech.xaml.cs">
       <DependentUpon>Text2Speech.xaml</DependentUpon>
     </Compile>

@@ -5,27 +5,15 @@ using System.Collections.Generic;
 using System.IO;
 using System.Windows;
 using System;
+using System.Windows.Input;
+using System.Diagnostics;
 
 namespace Pamux.GameDev.Lib.Models
 {
-    public class UnityPackageMetaData
+    public class UnityPackageMetaData : ContentHierarchy
     {
-
         public string Id;
-        public string Name {
-            get
-            {
-                return name;
-            }
-            set
-            {
-                if (name == value)
-                {
-                    return;
-                }
-                name = value;
-            }
-        }
+        
         public string Type { get; set; }
         public string Company { get; set; }
         public float Price { get; set; }
@@ -123,85 +111,22 @@ namespace Pamux.GameDev.Lib.Models
         {
         }
 
-        public class AssetOrFolder : IContentHierarchy
-        {
-            public AssetOrFolder(IContentHierarchy parent, string name)
-            {
-                
-                Parent = parent;
-
-                if (Parent == null)
-                {
-                    Depth = 1;
-                }
-                else
-                {
-                    Depth = Parent.Depth + 1;
-                    Parent.Children.Add(this);
-                }
-                Name = name;
-                IsExpanded = Depth <= 3;
-                Children = new List<IContentHierarchy>();
-            }
-
-
-            public int Depth { get; set; }
-            public string Name { get; set; }
-
-            public bool IsExpanded { get; set; }
-
-            public IContentHierarchy Parent { get; set; }
-            public IList<IContentHierarchy> Children { get; set; }
-
-            internal static void Add(IContentHierarchy packageRoot, string assetPath)
-            {
-                var node = packageRoot;
-                if (node == null)
-                {
-                    return;
-                }
-
-                var parts = assetPath.Split('/');
-                
-                for (int i = 0; i < parts.Length; ++i)
-                {
-                    node = node.EnsureChild(parts[i]);
-                }
-            }
-
-            public IContentHierarchy EnsureChild(string name)
-            {
-                foreach (var child in Children)
-                {
-                    if (child.Name.Equals(name, StringComparison.OrdinalIgnoreCase))
-                    {
-                        return child as AssetOrFolder;
-                    }
-                }
-
-                return new AssetOrFolder(this, name);
-            }
-        }
+        
 
         public UnityPackageMetaData(string unityPackageFileFullPath, string company, string assetSubFolder)
         {
             this.FullPath = unityPackageFileFullPath;
             this.Company = company;
             this.AssetSubFolder = assetSubFolder;
-
-            
+            Parent = null;
         }
 
         public void InitializePackageContent()
         {
-            var root = new AssetOrFolder(null, "Package Contents");
             foreach (string asset in Assets)
             {
-                AssetOrFolder.Add(root, asset);
+                Add(this, asset);
             }
-
-            PackageContent.Clear();
-            PackageContent.Add(root);
         }
 
         public void Initialize()

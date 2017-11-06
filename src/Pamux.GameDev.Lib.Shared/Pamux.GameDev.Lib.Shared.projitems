@@ -14,6 +14,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Interfaces\IQueryAndResults.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Interfaces\IUnityAssetProxy.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Interfaces\IUnityPackageProxy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ContentHierarchy.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\UnityPackageMetaData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\AssetQuery.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\QueryResult.cs" />

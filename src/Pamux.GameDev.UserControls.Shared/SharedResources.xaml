@@ -1,9 +1,10 @@
-﻿            <ResourceDictionary
+﻿<ResourceDictionary
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:sys="clr-namespace:System;assembly=mscorlib"
     xmlns:conv="clr-namespace:Pamux.GameDev.UserControls.Converters"
     xmlns:local="clr-namespace:Pamux.GameDev.UserControls"
+    xmlns:models="clr-namespace:Pamux.GameDev.Lib.Models;assembly=Pamux.GameDev.Lib"
     xmlns:iface="clr-namespace:Pamux.GameDev.Lib.Interfaces;assembly=Pamux.GameDev.Lib"
     xmlns:tabs="clr-namespace:Pamux.GameDev.UserControls.Tabs">
 
@@ -24,10 +25,10 @@
                 <Button Content="Unpack" Command="{x:Static tabs:AssetLibrary.UnpackUnityPackageCommand}" CommandParameter="{Binding}"/>
             </StackPanel>
             <StackPanel Orientation="Vertical">
-                    <TreeView ItemsSource="{Binding PackageContent}"  Margin="16" MinWidth="400" MinHeight="200" MaxHeight="400">
+                    <TreeView ItemsSource="{Binding Children}"  Margin="16" MinWidth="400" MinHeight="200" MaxHeight="400">
                         <TreeView.ContextMenu>
                             <ContextMenu>
-                                <MenuItem Header="Harvest"></MenuItem>
+                                <MenuItem Header="Harvest" Command="{x:Static tabs:AssetLibrary.HarvestAssetCommand}" CommandParameter="{Binding}"></MenuItem>
                             </ContextMenu>
                         </TreeView.ContextMenu>
 
@@ -39,7 +40,19 @@
                         
                         <TreeView.ItemTemplate>
                             <HierarchicalDataTemplate ItemsSource="{Binding Children}" DataType="{x:Type iface:IContentHierarchy}">
-                                <TreeViewItem Header="{Binding Name}" />
+
+                            <StackPanel Orientation="Horizontal">
+                                <!--<Image Width="16" Height="16" Margin=" 3,0" Source="{Binding PreviewImage}"/>-->
+                                <TextBlock Text="{Binding Name}"></TextBlock>
+                                <StackPanel.ContextMenu>
+                                    <ContextMenu>
+                                        <MenuItem Header="Harvest" Command="{x:Static tabs:AssetLibrary.HarvestAssetCommand}" CommandParameter="{Binding}"></MenuItem>
+                                    </ContextMenu>
+                                </StackPanel.ContextMenu>
+                            </StackPanel>
+
+                            
+                                
                             </HierarchicalDataTemplate>
                         </TreeView.ItemTemplate>
                     </TreeView>

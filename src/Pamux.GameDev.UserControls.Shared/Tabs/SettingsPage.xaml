@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Pamux.GameDev.UserControls.Tabs"
              xmlns:uc="clr-namespace:Pamux.GameDev.UserControls"
-             xmlns:model="clr-namespace:Pamux.GameDev.Lib.Models;assembly=Pamux.GameDev.Lib"
+             xmlns:models="clr-namespace:Pamux.GameDev.Lib.Models;assembly=Pamux.GameDev.Lib"
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
     
@@ -18,9 +18,9 @@
     </UserControl.Resources>
 
     <StackPanel>
-        <uc:FolderPicker x:Name="folderVoices" Header="Voices Folder" Folder="{x:Static model:Settings.VoiceSaveDirectory}"/>
-        <uc:FolderPicker x:Name="folderUnityPath" Header="Unity Editor"  Folder="{x:Static model:Settings.Unity3DAppFolderPath}"/>
-        <uc:FolderPicker x:Name="folderUnityAssets" Header="Assets" Folder="{x:Static model:Settings.Unity3DAssetsFolderPath}"/>
-        <uc:FolderPicker x:Name="folderUnityAssetsMetadata" Header="Asset Metadata" Folder="{x:Static model:Settings.Unity3DAssetDatabaseFolderPath}"/>
+        <uc:FolderPicker x:Name="folderVoices" Header="Voices Folder" Folder="{x:Static models:Settings.VoiceSaveDirectory}"/>
+        <uc:FolderPicker x:Name="folderUnityPath" Header="Unity Editor"  Folder="{x:Static models:Settings.Unity3DAppFolderPath}"/>
+        <uc:FolderPicker x:Name="folderUnityAssets" Header="Assets" Folder="{x:Static models:Settings.Unity3DAssetsFolderPath}"/>
+        <uc:FolderPicker x:Name="folderUnityAssetsMetadata" Header="Asset Metadata" Folder="{x:Static models:Settings.Unity3DAssetDatabaseFolderPath}"/>
     </StackPanel>
 </UserControl>
