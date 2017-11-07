@@ -17,9 +17,11 @@ namespace Pamux.GameDev.Lib.Interfaces
         string Name { get; set; }
         string RelativePath { get; set; }
 
-        
+        string Guid { get; set; }
 
         bool IsExpanded { get; set; }
+
+        bool IsLeaf { get; }
 
         bool IsHarvestable { get; }
         bool HasDependencies { get; }

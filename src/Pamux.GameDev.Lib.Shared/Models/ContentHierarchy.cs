@@ -36,6 +36,8 @@ namespace Pamux.GameDev.Lib.Models
         public IContentHierarchy Root { get; set; }
         public int Depth { get; set; }
         public string Name { get; set; }
+        public string Guid { get; set; }
+        public bool IsLeaf { get { return Children.Count == 0; } }
         public string RelativePath { get; set; }
 
         public bool IsExpanded { get; set; }
@@ -51,12 +53,12 @@ namespace Pamux.GameDev.Lib.Models
         public IContentHierarchy Parent { get; set; }
         public IList<IContentHierarchy> Children { get; set; }
 
-        internal static void Add(IContentHierarchy packageRoot, string assetPath)
+        internal static IContentHierarchy Add(IContentHierarchy packageRoot, string assetPath)
         {
             var node = packageRoot;
             if (node == null)
             {
-                return;
+                return null;
             }
 
             var parts = assetPath.Split('/');
@@ -67,6 +69,7 @@ namespace Pamux.GameDev.Lib.Models
             }
 
             node.RelativePath = assetPath;
+            return node;
         }
 
         protected virtual IContentHierarchy CreateChild(string name)

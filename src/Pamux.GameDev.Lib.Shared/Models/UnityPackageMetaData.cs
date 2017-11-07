@@ -62,7 +62,6 @@ namespace Pamux.GameDev.Lib.Models
         }
 
 
-        private string name;
         private string assetSubFolder;
         public string AssetSubFolder
         {
@@ -119,7 +118,12 @@ namespace Pamux.GameDev.Lib.Models
         {
             foreach (string asset in Assets)
             {
-                Add(this, asset);
+                var unityAssetMetaData = Add(this, asset) as UnityAssetMetaData;
+                if (unityAssetMetaData == null || !unityAssetMetaData.IsLeaf)
+                {
+                    continue;
+                }
+                unityAssetMetaData.ReadUnityMetaFile();
             }
         }
 
@@ -161,9 +165,6 @@ namespace Pamux.GameDev.Lib.Models
         {
             Assets.AddRange(File.ReadAllLines(this.MetaDataPath));
         }
-
-             
-        
 
         private void GenerateKeywords()
         {
