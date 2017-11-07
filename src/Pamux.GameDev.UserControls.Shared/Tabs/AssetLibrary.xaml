@@ -39,6 +39,11 @@
         <CommandBinding Command="{x:Static local:AssetLibrary.HarvestAssetCommand}"
                 Executed="HarvestAsset"
                 CanExecute="CanExecutePerAssetCommand" />
+        <CommandBinding Command="{x:Static local:AssetLibrary.HarvestAssetWithDependenciesCommand}"
+                Executed="HarvestAssetWithDependencies"
+                CanExecute="CanExecutePerAssetCommand" />
+
+        
     </UserControl.CommandBindings>
 
     <Grid>

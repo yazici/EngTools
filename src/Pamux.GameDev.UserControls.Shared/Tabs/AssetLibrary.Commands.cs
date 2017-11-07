@@ -3,6 +3,9 @@ using Pamux.GameDev.Lib.Models;
 using System.Diagnostics;
 using System.Windows.Controls;
 using System.Windows.Input;
+using System.IO;
+using System.Collections.Generic;
+using Pamux.GameDev.Lib.Extensions;
 
 namespace Pamux.GameDev.UserControls.Tabs
 {
@@ -15,16 +18,35 @@ namespace Pamux.GameDev.UserControls.Tabs
         }
 
         public static RoutedCommand HarvestAssetCommand = new RoutedCommand();
+        public static RoutedCommand HarvestAssetWithDependenciesCommand = new RoutedCommand();
 
         public void HarvestAsset(object sender, ExecutedRoutedEventArgs e)
         {
-            var content = e.Parameter as IContentHierarchy;
-            if (content == null)
+            HarvestAssetInternal(e.Parameter, false);
+        }
+
+        public void HarvestAssetWithDependencies(object sender, ExecutedRoutedEventArgs e)
+        {
+            HarvestAssetInternal(e.Parameter, true);
+        }
+
+        private void HarvestAssetInternal(object content, bool withDependencies)
+        {
+            var unityAssetMetaData = content as UnityAssetMetaData;
+            if (unityAssetMetaData == null)
             {
                 return;
             }
 
+            $"{Settings.EngHarvestRoot}\\{unityAssetMetaData.Root.Name}".EnsureDirectory();
+
+            ((UnityPackageMetaData) unityAssetMetaData.Root).EnsureUnpacked();
+
+            unityAssetMetaData.Harvest(withDependencies);
         }
+
+
+        
 
         public void CanExecutePerAssetCommand(object sender, CanExecuteRoutedEventArgs e)
         {
@@ -84,9 +106,9 @@ namespace Pamux.GameDev.UserControls.Tabs
             {
                 return;
             }
-            unityPackageMetaData.UnityPackage.EnsureUnpacked();
+            unityPackageMetaData.EnsureUnpacked();
 
-            Process.Start(unityPackageMetaData.UnityPackage.UnpackedContentDirectory);
+            Process.Start(unityPackageMetaData.UnpackedContentDirectory);
         }
 
     }

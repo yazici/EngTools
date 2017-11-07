@@ -15,6 +15,46 @@
     <sys:Int32 x:Key="LabelWidth">100</sys:Int32>
     <sys:Int32 x:Key="SingleTextBoxBandHeight">30</sys:Int32>
 
+    <DataTemplate x:Key="ItemWithContextMenu">
+        <StackPanel Orientation="Horizontal">
+            <!--<Image Width="16" Height="16" Margin=" 3,0" Source="{Binding PreviewImage}"/>-->
+            <TextBlock Text="{Binding Name}"></TextBlock>
+            <StackPanel.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Harvest" Command="{x:Static tabs:AssetLibrary.HarvestAssetCommand}" CommandParameter="{Binding}"></MenuItem>
+                </ContextMenu>
+            </StackPanel.ContextMenu>
+        </StackPanel>
+    </DataTemplate>
+
+    <DataTemplate x:Key="ItemAndDependenciesWithContextMenu">
+        <StackPanel Orientation="Horizontal">
+            <!--<Image Width="16" Height="16" Margin=" 3,0" Source="{Binding PreviewImage}"/>-->
+            <TextBlock Text="{Binding Name}"></TextBlock>
+            <StackPanel.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Harvest" Command="{x:Static tabs:AssetLibrary.HarvestAssetCommand}" CommandParameter="{Binding}"></MenuItem>
+                    <MenuItem Header="Harvest (with Dependencies)" Command="{x:Static tabs:AssetLibrary.HarvestAssetWithDependenciesCommand}" CommandParameter="{Binding}"></MenuItem>
+                </ContextMenu>
+            </StackPanel.ContextMenu>
+        </StackPanel>
+    </DataTemplate>
+
+    <DataTemplate x:Key="ItemWithNoContextMenu">
+        <StackPanel Orientation="Horizontal">
+            <!--<Image Width="16" Height="16" Margin=" 3,0" Source="{Binding PreviewImage}"/>-->
+            <TextBlock Text="{Binding Name}"></TextBlock>
+        </StackPanel>
+    </DataTemplate>
+    
+    
+    <conv:TreeItemTemplateSelector  x:Key="TreeItemTemplateSelector" 
+        ItemWithContextMenu="{StaticResource ItemWithContextMenu}"
+        ItemAndDependenciesWithContextMenu="{StaticResource ItemAndDependenciesWithContextMenu}"
+        ItemWithNoContextMenu="{StaticResource ItemWithNoContextMenu}">
+    </conv:TreeItemTemplateSelector>
+
+
     <DataTemplate x:Key="AssetDetailsTemplate">
         <StackPanel Background="#AAA" Orientation="Horizontal">
             <StackPanel HorizontalAlignment="Left" Width="200" Orientation="Vertical">
@@ -26,12 +66,6 @@
             </StackPanel>
             <StackPanel Orientation="Vertical">
                     <TreeView ItemsSource="{Binding Children}"  Margin="16" MinWidth="400" MinHeight="200" MaxHeight="400">
-                        <TreeView.ContextMenu>
-                            <ContextMenu>
-                                <MenuItem Header="Harvest" Command="{x:Static tabs:AssetLibrary.HarvestAssetCommand}" CommandParameter="{Binding}"></MenuItem>
-                            </ContextMenu>
-                        </TreeView.ContextMenu>
-
                         <TreeView.ItemContainerStyle>
                             <Style TargetType="TreeViewItem">
                                 <Setter Property="IsExpanded" Value="{Binding IsExpanded}"/>
@@ -39,20 +73,12 @@
                         </TreeView.ItemContainerStyle>
                         
                         <TreeView.ItemTemplate>
-                            <HierarchicalDataTemplate ItemsSource="{Binding Children}" DataType="{x:Type iface:IContentHierarchy}">
-
-                            <StackPanel Orientation="Horizontal">
-                                <!--<Image Width="16" Height="16" Margin=" 3,0" Source="{Binding PreviewImage}"/>-->
-                                <TextBlock Text="{Binding Name}"></TextBlock>
-                                <StackPanel.ContextMenu>
-                                    <ContextMenu>
-                                        <MenuItem Header="Harvest" Command="{x:Static tabs:AssetLibrary.HarvestAssetCommand}" CommandParameter="{Binding}"></MenuItem>
-                                    </ContextMenu>
-                                </StackPanel.ContextMenu>
-                            </StackPanel>
-
-                            
-                                
+                        <HierarchicalDataTemplate 
+                            ItemsSource="{Binding Children}" 
+                            DataType="{x:Type iface:IContentHierarchy}">
+                            <ContentControl 
+                                Content="{Binding}"
+                                ContentTemplateSelector="{StaticResource TreeItemTemplateSelector}" />
                             </HierarchicalDataTemplate>
                         </TreeView.ItemTemplate>
                     </TreeView>

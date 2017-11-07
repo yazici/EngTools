@@ -12,22 +12,16 @@
     <Compile Include="$(MSBuildThisFileDirectory)Extensions\StringExtensions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Interfaces\IContentHierarchy.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Interfaces\IQueryAndResults.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\IUnityAssetProxy.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Interfaces\IUnityPackageProxy.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\ContentHierarchy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\UnityAssetMetaData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\UnityPackageMetaData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\AssetQuery.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\QueryResult.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Models\Settings.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Proxies\UnityAssetProxy.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Proxies\UnityPackageProxy.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Utilities\AssetInfo.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Utilities\HtmlGen.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Utilities\ImageAssetScaler.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Utilities\Range.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Utilities\UnpackingContext.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory)Proxies\" />
   </ItemGroup>
 </Project>

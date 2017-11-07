@@ -34,7 +34,7 @@
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="SharpCompress">
-      <HintPath>..\..\..\3rdParty\sharpcompress\src\SharpCompress\bin\Debug\net461\SharpCompress.dll</HintPath>
+      <HintPath>..\Ref\SharpCompress.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

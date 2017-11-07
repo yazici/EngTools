@@ -74,6 +74,7 @@
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Converters\AssetLibraryDetailsTemplateSelector.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Converters\MathConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Converters\TreeItemTemplateSelector.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)FolderPicker.xaml.cs">
       <DependentUpon>FolderPicker.xaml</DependentUpon>
     </Compile>

@@ -20,8 +20,10 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Pamux.GameDev.Lib.Shared\Pamux.GameDev.Lib.Shared.projitems*{485e0869-4d5a-4470-85bd-7163b5cf42d2}*SharedItemsImports = 13
+		Pamux.GameDev.Tools.Shared\Pamux.GameDev.Tools.Shared.projitems*{80f35d80-ee90-4670-97c1-ee270fa271ee}*SharedItemsImports = 4
 		Pamux.GameDev.Lib.Shared\Pamux.GameDev.Lib.Shared.projitems*{8549cc66-3c70-4622-a5c3-707546463f9a}*SharedItemsImports = 4
 		Pamux.GameDev.UserControls.Shared\Pamux.GameDev.UserControls.Shared.projitems*{a66d01aa-149d-4d39-970d-7c200a9879a1}*SharedItemsImports = 13
+		Pamux.GameDev.Tools.Shared\Pamux.GameDev.Tools.Shared.projitems*{d2958ae3-0039-4fda-9ca8-bc4a5ca5d05c}*SharedItemsImports = 13
 		Pamux.GameDev.UserControls.Shared\Pamux.GameDev.UserControls.Shared.projitems*{d3550f25-3945-45ae-a224-2a97e30ab7b8}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -16,11 +16,11 @@
     <Compile Include="$(MSBuildThisFileDirectory)Tabs\Home.Designer.cs">
       <DependentUpon>Home.cs</DependentUpon>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)Tabs\Settings.cs">
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\SettingsControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)Tabs\Settings.Designer.cs">
-      <DependentUpon>Settings.cs</DependentUpon>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\SettingsControl.Designer.cs">
+      <DependentUpon>SettingsControl.cs</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Tabs\Text2Speech.cs">
       <SubType>UserControl</SubType>
@@ -39,8 +39,8 @@
     <EmbeddedResource Include="$(MSBuildThisFileDirectory)Tabs\Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Tabs\Settings.resx">
-      <DependentUpon>Settings.cs</DependentUpon>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Tabs\SettingsControl.resx">
+      <DependentUpon>SettingsControl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="$(MSBuildThisFileDirectory)Tabs\Text2Speech.resx">
       <DependentUpon>Text2Speech.cs</DependentUpon>

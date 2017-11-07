@@ -6,7 +6,7 @@
 
 namespace Pamux.GameDev.Tools.Tabs
 {
-    using Pamux.GameDev.Tools.Models;
+    using Pamux.GameDev.Lib.Models;
     using System.Windows.Forms;
 
     public partial class SettingsControl : UserControl

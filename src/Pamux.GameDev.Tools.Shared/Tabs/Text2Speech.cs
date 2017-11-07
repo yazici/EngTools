@@ -14,7 +14,7 @@ namespace Pamux.GameDev.Tools.Tabs
 
     using Timer = System.Windows.Forms.Timer;
     using System.Linq;
-    using Pamux.GameDev.Tools.Models;
+    using Pamux.GameDev.Lib.Models;
 
     /// <summary>
     /// WindowsStore publishing and maintenance utilities

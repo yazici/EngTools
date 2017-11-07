@@ -58,18 +58,8 @@ namespace Pamux.GameDev.UserControls.Tabs
         public static readonly DependencyProperty ResultsProperty =
             DependencyProperty.Register("Results", typeof(List<UnityPackageMetaData>), typeof(AssetLibrary), new UIPropertyMetadata(new List<UnityPackageMetaData>()));
 
-
-
-
-
         private DataTemplateSelector rowDetailsTemplateSelector = new AssetLibraryDetailsTemplateSelector();
         public DataTemplateSelector RowDetailsTemplateSelector => rowDetailsTemplateSelector;
-
-
-        
-
-
-
 
     }
 }
