@@ -31,9 +31,13 @@
             <TabItem Name="tabText2Speech" Header="Text2Speech" >
                 <tabs:Text2Speech/>
             </TabItem>
-            
+
             <TabItem Name="tabWindowsStore" Header="WindowsStore" >
                 <tabs:Store/>
+            </TabItem>
+            
+            <TabItem Name="tabGenerators" Header="Generators" >
+                <tabs:Generators/>
             </TabItem>
 
             <TabItem Name="tabSettings" Header="Settings" >

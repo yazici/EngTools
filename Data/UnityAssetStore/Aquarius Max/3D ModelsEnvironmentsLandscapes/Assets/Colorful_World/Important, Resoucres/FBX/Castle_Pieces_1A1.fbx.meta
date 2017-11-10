@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: e8ed22fc87d9da143a997f5ab29ba9d5
+timeCreated: 1486227536
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Castle_Floor_4M
+    100002: //RootNode
+    100004: Castle_Unique_Crenelations_Base_2M
+    100006: Castle_Unique_Crenelations_Base_2M_2
+    100008: Castle_Unique_Crenelations_Base_2M_3
+    100010: Castle_Unique_Crenelations_Base_2M_4
+    100012: Castle_Wall_1M
+    100014: Castle_Wall_2M
+    100016: Castle_Wall_4M
+    100018: Castle_Wall_Base_1M
+    100020: Castle_Wall_Base_2M
+    100022: Castle_Wall_Base_4M
+    100024: Castle_Wall_Crenelations_1M
+    100026: Castle_Wall_Crenelations_2M
+    100028: Castle_Wall_Crenelations_4M
+    100030: Castle_Wall_Crenelations_Base_1M
+    100032: Castle_Wall_Crenelations_Base_1M_2
+    100034: Castle_Wall_Crenelations_Base_2M
+    100036: Castle_Wall_Crenelations_Base_4M
+    100038: Castle_Wall_Crenelations_Extension_2M
+    100040: Castle_Wall_Crenelations_Extension_2M_2
+    400000: Castle_Floor_4M
+    400002: //RootNode
+    400004: Castle_Unique_Crenelations_Base_2M
+    400006: Castle_Unique_Crenelations_Base_2M_2
+    400008: Castle_Unique_Crenelations_Base_2M_3
+    400010: Castle_Unique_Crenelations_Base_2M_4
+    400012: Castle_Wall_1M
+    400014: Castle_Wall_2M
+    400016: Castle_Wall_4M
+    400018: Castle_Wall_Base_1M
+    400020: Castle_Wall_Base_2M
+    400022: Castle_Wall_Base_4M
+    400024: Castle_Wall_Crenelations_1M
+    400026: Castle_Wall_Crenelations_2M
+    400028: Castle_Wall_Crenelations_4M
+    400030: Castle_Wall_Crenelations_Base_1M
+    400032: Castle_Wall_Crenelations_Base_1M_2
+    400034: Castle_Wall_Crenelations_Base_2M
+    400036: Castle_Wall_Crenelations_Base_4M
+    400038: Castle_Wall_Crenelations_Extension_2M
+    400040: Castle_Wall_Crenelations_Extension_2M_2
+    2300000: Castle_Floor_4M
+    2300002: Castle_Unique_Crenelations_Base_2M
+    2300004: Castle_Unique_Crenelations_Base_2M_2
+    2300006: Castle_Unique_Crenelations_Base_2M_3
+    2300008: Castle_Unique_Crenelations_Base_2M_4
+    2300010: Castle_Wall_1M
+    2300012: Castle_Wall_2M
+    2300014: Castle_Wall_4M
+    2300016: Castle_Wall_Base_1M
+    2300018: Castle_Wall_Base_2M
+    2300020: Castle_Wall_Base_4M
+    2300022: Castle_Wall_Crenelations_1M
+    2300024: Castle_Wall_Crenelations_2M
+    2300026: Castle_Wall_Crenelations_4M
+    2300028: Castle_Wall_Crenelations_Base_1M
+    2300030: Castle_Wall_Crenelations_Base_1M_2
+    2300032: Castle_Wall_Crenelations_Base_2M
+    2300034: Castle_Wall_Crenelations_Base_4M
+    2300036: Castle_Wall_Crenelations_Extension_2M
+    2300038: Castle_Wall_Crenelations_Extension_2M_2
+    3300000: Castle_Floor_4M
+    3300002: Castle_Unique_Crenelations_Base_2M
+    3300004: Castle_Unique_Crenelations_Base_2M_2
+    3300006: Castle_Unique_Crenelations_Base_2M_3
+    3300008: Castle_Unique_Crenelations_Base_2M_4
+    3300010: Castle_Wall_1M
+    3300012: Castle_Wall_2M
+    3300014: Castle_Wall_4M
+    3300016: Castle_Wall_Base_1M
+    3300018: Castle_Wall_Base_2M
+    3300020: Castle_Wall_Base_4M
+    3300022: Castle_Wall_Crenelations_1M
+    3300024: Castle_Wall_Crenelations_2M
+    3300026: Castle_Wall_Crenelations_4M
+    3300028: Castle_Wall_Crenelations_Base_1M
+    3300030: Castle_Wall_Crenelations_Base_1M_2
+    3300032: Castle_Wall_Crenelations_Base_2M
+    3300034: Castle_Wall_Crenelations_Base_4M
+    3300036: Castle_Wall_Crenelations_Extension_2M
+    3300038: Castle_Wall_Crenelations_Extension_2M_2
+    4300000: Castle_Wall_Base_1M
+    4300002: Castle_Wall_Crenelations_Base_1M_2
+    4300004: Castle_Unique_Crenelations_Base_2M_4
+    4300006: Castle_Unique_Crenelations_Base_2M_3
+    4300008: Castle_Wall_Crenelations_Extension_2M_2
+    4300010: Castle_Wall_Base_4M
+    4300012: Castle_Wall_Base_2M
+    4300014: Castle_Wall_Crenelations_Extension_2M
+    4300016: Castle_Unique_Crenelations_Base_2M_2
+    4300018: Castle_Wall_Crenelations_Base_4M
+    4300020: Castle_Wall_Crenelations_Base_1M
+    4300022: Castle_Wall_Crenelations_Base_2M
+    4300024: Castle_Wall_Crenelations_2M
+    4300026: Castle_Unique_Crenelations_Base_2M
+    4300028: Castle_Floor_4M
+    4300030: Castle_Wall_Crenelations_1M
+    4300032: Castle_Wall_Crenelations_4M
+    4300034: Castle_Wall_4M
+    4300036: Castle_Wall_1M
+    4300038: Castle_Wall_2M
+    6400000: Castle_Floor_4M
+    6400002: Castle_Unique_Crenelations_Base_2M
+    6400004: Castle_Unique_Crenelations_Base_2M_2
+    6400006: Castle_Unique_Crenelations_Base_2M_3
+    6400008: Castle_Unique_Crenelations_Base_2M_4
+    6400010: Castle_Wall_1M
+    6400012: Castle_Wall_2M
+    6400014: Castle_Wall_4M
+    6400016: Castle_Wall_Base_1M
+    6400018: Castle_Wall_Base_2M
+    6400020: Castle_Wall_Base_4M
+    6400022: Castle_Wall_Crenelations_1M
+    6400024: Castle_Wall_Crenelations_2M
+    6400026: Castle_Wall_Crenelations_4M
+    6400028: Castle_Wall_Crenelations_Base_1M
+    6400030: Castle_Wall_Crenelations_Base_1M_2
+    6400032: Castle_Wall_Crenelations_Base_2M
+    6400034: Castle_Wall_Crenelations_Base_4M
+    6400036: Castle_Wall_Crenelations_Extension_2M
+    6400038: Castle_Wall_Crenelations_Extension_2M_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

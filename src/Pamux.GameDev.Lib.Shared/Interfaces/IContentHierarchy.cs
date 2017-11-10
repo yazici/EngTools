@@ -14,6 +14,7 @@ namespace Pamux.GameDev.Lib.Interfaces
 
         IContentHierarchy EnsureChild(string name);
 
+        string FileName { get; set; }
         string Name { get; set; }
         string RelativePath { get; set; }
 

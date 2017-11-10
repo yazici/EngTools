@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: bd0f13a8badfc574cb7cbd7988401b50
+timeCreated: 1480530126
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Amethyst_1A
+    100002: Amethyst_1A2
+    100004: Amethyst_1A3
+    100006: Amethyst_1A_Pickup
+    100008: Diamond_1A
+    100010: Diamond_1A2
+    100012: Diamond_1A3
+    100014: Diamond_1A_Pickup
+    100016: Emerald_1A
+    100018: Emerald_1A2
+    100020: Emerald_1A3
+    100022: Emerald_1A_Pickup
+    100024: //RootNode
+    100026: Ruby_1A
+    100028: Ruby_1A2
+    100030: Ruby_1A3
+    100032: Ruby_1A_Pickup
+    100034: Sapphire_1A
+    100036: Sapphire_1A2
+    100038: Sapphire_1A3
+    100040: Sapphire_1A_Pickup
+    400000: Amethyst_1A
+    400002: Amethyst_1A2
+    400004: Amethyst_1A3
+    400006: Amethyst_1A_Pickup
+    400008: Diamond_1A
+    400010: Diamond_1A2
+    400012: Diamond_1A3
+    400014: Diamond_1A_Pickup
+    400016: Emerald_1A
+    400018: Emerald_1A2
+    400020: Emerald_1A3
+    400022: Emerald_1A_Pickup
+    400024: //RootNode
+    400026: Ruby_1A
+    400028: Ruby_1A2
+    400030: Ruby_1A3
+    400032: Ruby_1A_Pickup
+    400034: Sapphire_1A
+    400036: Sapphire_1A2
+    400038: Sapphire_1A3
+    400040: Sapphire_1A_Pickup
+    2300000: Amethyst_1A
+    2300002: Amethyst_1A2
+    2300004: Amethyst_1A3
+    2300006: Amethyst_1A_Pickup
+    2300008: Diamond_1A
+    2300010: Diamond_1A2
+    2300012: Diamond_1A3
+    2300014: Diamond_1A_Pickup
+    2300016: Emerald_1A
+    2300018: Emerald_1A2
+    2300020: Emerald_1A3
+    2300022: Emerald_1A_Pickup
+    2300024: Ruby_1A
+    2300026: Ruby_1A2
+    2300028: Ruby_1A3
+    2300030: Ruby_1A_Pickup
+    2300032: Sapphire_1A
+    2300034: Sapphire_1A2
+    2300036: Sapphire_1A3
+    2300038: Sapphire_1A_Pickup
+    3300000: Amethyst_1A
+    3300002: Amethyst_1A2
+    3300004: Amethyst_1A3
+    3300006: Amethyst_1A_Pickup
+    3300008: Diamond_1A
+    3300010: Diamond_1A2
+    3300012: Diamond_1A3
+    3300014: Diamond_1A_Pickup
+    3300016: Emerald_1A
+    3300018: Emerald_1A2
+    3300020: Emerald_1A3
+    3300022: Emerald_1A_Pickup
+    3300024: Ruby_1A
+    3300026: Ruby_1A2
+    3300028: Ruby_1A3
+    3300030: Ruby_1A_Pickup
+    3300032: Sapphire_1A
+    3300034: Sapphire_1A2
+    3300036: Sapphire_1A3
+    3300038: Sapphire_1A_Pickup
+    4300000: Sapphire_1A_Pickup
+    4300002: Sapphire_1A
+    4300004: Sapphire_1A2
+    4300006: Sapphire_1A3
+    4300008: Amethyst_1A3
+    4300010: Amethyst_1A2
+    4300012: Amethyst_1A
+    4300014: Amethyst_1A_Pickup
+    4300016: Ruby_1A_Pickup
+    4300018: Ruby_1A
+    4300020: Ruby_1A2
+    4300022: Ruby_1A3
+    4300024: Emerald_1A3
+    4300026: Emerald_1A2
+    4300028: Emerald_1A
+    4300030: Emerald_1A_Pickup
+    4300032: Diamond_1A_Pickup
+    4300034: Diamond_1A
+    4300036: Diamond_1A3
+    4300038: Diamond_1A2
+    6400000: Amethyst_1A
+    6400002: Amethyst_1A2
+    6400004: Amethyst_1A3
+    6400006: Amethyst_1A_Pickup
+    6400008: Diamond_1A
+    6400010: Diamond_1A2
+    6400012: Diamond_1A3
+    6400014: Diamond_1A_Pickup
+    6400016: Emerald_1A
+    6400018: Emerald_1A2
+    6400020: Emerald_1A3
+    6400022: Emerald_1A_Pickup
+    6400024: Ruby_1A
+    6400026: Ruby_1A2
+    6400028: Ruby_1A3
+    6400030: Ruby_1A_Pickup
+    6400032: Sapphire_1A
+    6400034: Sapphire_1A2
+    6400036: Sapphire_1A3
+    6400038: Sapphire_1A_Pickup
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -16,8 +16,8 @@ namespace Pamux.GameDev.Lib.Models
         private static readonly string LocalAppData = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
         private static readonly string RoamingAppData = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
 
-        //public static string WorkspaceRoot = @"d:\Workspace";
-        public static string WorkspaceRoot = @"c:\MySrc";
+        public static string WorkspaceRoot = @"d:\Workspace";
+        //public static string WorkspaceRoot = @"c:\MySrc";
 
         public static string EngTools => $"{WorkspaceRoot}\\EngTools";
         public static string EngData => $"{EngTools}\\Data";

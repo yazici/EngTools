@@ -25,6 +25,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Panels\GeneratorResultsPanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Panels\GeneratorConfigPanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="$(MSBuildThisFileDirectory)QueryPanel.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -42,6 +50,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="$(MSBuildThisFileDirectory)Tabs\AssetLibrary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Tabs\Generators.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -63,9 +75,12 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)BitmapManipulationContext.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)BurgerMenu.xaml.cs">
       <DependentUpon>BurgerMenu.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Commands\CommandBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Commands\GenerateNow.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ContentDependencyTree.xaml.cs">
       <DependentUpon>ContentDependencyTree.xaml</DependentUpon>
     </Compile>
@@ -78,6 +93,20 @@
     <Compile Include="$(MSBuildThisFileDirectory)FolderPicker.xaml.cs">
       <DependentUpon>FolderPicker.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\Models\GeneratorConfigModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\Models\GeneratorResultsModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\IPamuxModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\PamuxModelBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\IPamuxMVVM.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\IPamuxViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\PamuxViewModelBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Panels\GeneratorResultsPanel.xaml.cs">
+      <DependentUpon>GeneratorResultsPanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Panels\GeneratorConfigPanel.xaml.cs">
+      <DependentUpon>GeneratorConfigPanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)PerlinNoise.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)QueryPanel.xaml.cs">
       <DependentUpon>QueryPanel.xaml</DependentUpon>
     </Compile>
@@ -96,6 +125,9 @@
     <Compile Include="$(MSBuildThisFileDirectory)Tabs\AssetLibrary.Query.cs">
       <DependentUpon>AssetLibrary.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\Generators.xaml.cs">
+      <DependentUpon>Generators.xaml</DependentUpon>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Tabs\Text2Speech.xaml.cs">
       <DependentUpon>Text2Speech.xaml</DependentUpon>
     </Compile>
@@ -108,6 +140,10 @@
     <Compile Include="$(MSBuildThisFileDirectory)Tabs\Home.xaml.cs">
       <DependentUpon>Home.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\ViewModels\GeneratorConfigViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\ViewModels\GeneratorResultsViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\IPamuxView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\ViewModelLocator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Utils\" />

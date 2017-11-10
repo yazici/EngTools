@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 1e2e222e57b06ed44be64937129670b2
+timeCreated: 1494091080
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plateau_Formation_1A1
+    100004: Plateau_Formation_1A2
+    100006: Plateau_Formation_1A3
+    100008: Plateau_Formation_1B1
+    100010: Plateau_Formation_1B2
+    100012: Plateau_Formation_1B3
+    100014: Plateau_Formation_1C1
+    100016: Plateau_Formation_1C2
+    100018: Plateau_Formation_1C3
+    100020: Scenery_Bones_1A1_A
+    100022: Scenery_Bones_1A1_B
+    100024: Small_Rocks_Formation_1A1
+    100026: Small_Rocks_Formation_1A2
+    100028: Small_Rocks_Formation_1A3
+    100030: Small_Rocks_Formation_1A4
+    100032: Small_Rocks_Formation_1A5
+    100034: Small_Rocks_Formation_1A6
+    100036: Small_Rocks_Formation_1A7
+    400000: //RootNode
+    400002: Plateau_Formation_1A1
+    400004: Plateau_Formation_1A2
+    400006: Plateau_Formation_1A3
+    400008: Plateau_Formation_1B1
+    400010: Plateau_Formation_1B2
+    400012: Plateau_Formation_1B3
+    400014: Plateau_Formation_1C1
+    400016: Plateau_Formation_1C2
+    400018: Plateau_Formation_1C3
+    400020: Scenery_Bones_1A1_A
+    400022: Scenery_Bones_1A1_B
+    400024: Small_Rocks_Formation_1A1
+    400026: Small_Rocks_Formation_1A2
+    400028: Small_Rocks_Formation_1A3
+    400030: Small_Rocks_Formation_1A4
+    400032: Small_Rocks_Formation_1A5
+    400034: Small_Rocks_Formation_1A6
+    400036: Small_Rocks_Formation_1A7
+    2300000: Plateau_Formation_1A1
+    2300002: Plateau_Formation_1A2
+    2300004: Plateau_Formation_1A3
+    2300006: Plateau_Formation_1B1
+    2300008: Plateau_Formation_1B2
+    2300010: Plateau_Formation_1B3
+    2300012: Plateau_Formation_1C1
+    2300014: Plateau_Formation_1C2
+    2300016: Plateau_Formation_1C3
+    2300018: Scenery_Bones_1A1_A
+    2300020: Scenery_Bones_1A1_B
+    2300022: Small_Rocks_Formation_1A1
+    2300024: Small_Rocks_Formation_1A2
+    2300026: Small_Rocks_Formation_1A3
+    2300028: Small_Rocks_Formation_1A4
+    2300030: Small_Rocks_Formation_1A5
+    2300032: Small_Rocks_Formation_1A6
+    2300034: Small_Rocks_Formation_1A7
+    3300000: Plateau_Formation_1A1
+    3300002: Plateau_Formation_1A2
+    3300004: Plateau_Formation_1A3
+    3300006: Plateau_Formation_1B1
+    3300008: Plateau_Formation_1B2
+    3300010: Plateau_Formation_1B3
+    3300012: Plateau_Formation_1C1
+    3300014: Plateau_Formation_1C2
+    3300016: Plateau_Formation_1C3
+    3300018: Scenery_Bones_1A1_A
+    3300020: Scenery_Bones_1A1_B
+    3300022: Small_Rocks_Formation_1A1
+    3300024: Small_Rocks_Formation_1A2
+    3300026: Small_Rocks_Formation_1A3
+    3300028: Small_Rocks_Formation_1A4
+    3300030: Small_Rocks_Formation_1A5
+    3300032: Small_Rocks_Formation_1A6
+    3300034: Small_Rocks_Formation_1A7
+    4300000: Plateau_Formation_1C3
+    4300002: Plateau_Formation_1C2
+    4300004: Plateau_Formation_1B3
+    4300006: Plateau_Formation_1B2
+    4300008: Plateau_Formation_1A3
+    4300010: Plateau_Formation_1A2
+    4300012: Plateau_Formation_1B1
+    4300014: Plateau_Formation_1A1
+    4300016: Plateau_Formation_1C1
+    4300018: Small_Rocks_Formation_1A2
+    4300020: Small_Rocks_Formation_1A1
+    4300022: Small_Rocks_Formation_1A7
+    4300024: Small_Rocks_Formation_1A4
+    4300026: Small_Rocks_Formation_1A3
+    4300028: Small_Rocks_Formation_1A5
+    4300030: Small_Rocks_Formation_1A6
+    4300032: Scenery_Bones_1A1_A
+    4300034: Scenery_Bones_1A1_B
+    6400000: Plateau_Formation_1A1
+    6400002: Plateau_Formation_1A2
+    6400004: Plateau_Formation_1A3
+    6400006: Plateau_Formation_1B1
+    6400008: Plateau_Formation_1B2
+    6400010: Plateau_Formation_1B3
+    6400012: Plateau_Formation_1C1
+    6400014: Plateau_Formation_1C2
+    6400016: Plateau_Formation_1C3
+    6400018: Scenery_Bones_1A1_A
+    6400020: Scenery_Bones_1A1_B
+    6400022: Small_Rocks_Formation_1A1
+    6400024: Small_Rocks_Formation_1A2
+    6400026: Small_Rocks_Formation_1A3
+    6400028: Small_Rocks_Formation_1A4
+    6400030: Small_Rocks_Formation_1A5
+    6400032: Small_Rocks_Formation_1A6
+    6400034: Small_Rocks_Formation_1A7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

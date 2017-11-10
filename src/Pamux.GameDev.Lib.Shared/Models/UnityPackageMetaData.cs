@@ -22,23 +22,23 @@ namespace Pamux.GameDev.Lib.Models
         public float Price { get; set; }
         public string Description { get; set; }
 
-        public string assetFileName;
-        public string AssetFileName
-        {
-            get
-            {
-                return assetFileName;
-            }
-            set
-            {
-                if (assetFileName == value)
-                {
-                    return;
-                }
-                assetFileName = value;
-                Name = Path.GetFileNameWithoutExtension(assetFileName);
-            }
-        }
+        //public string assetFileName;
+        //public string AssetFileName
+        //{
+        //    get
+        //    {
+        //        return assetFileName;
+        //    }
+        //    set
+        //    {
+        //        if (assetFileName == value)
+        //        {
+        //            return;
+        //        }
+        //        assetFileName = value;
+        //        Name = Path.GetFileNameWithoutExtension(assetFileName);
+        //    }
+        //}
 
         private IList<IContentHierarchy> packageContent = new List<IContentHierarchy>();
         public IList<IContentHierarchy> PackageContent => packageContent;
@@ -57,7 +57,7 @@ namespace Pamux.GameDev.Lib.Models
                     return;
                 }
                 fullPath = value;
-                AssetFileName = Path.GetFileName(fullPath);
+                //AssetFileName = Path.GetFileName(fullPath);
             }
         }
 
@@ -89,8 +89,8 @@ namespace Pamux.GameDev.Lib.Models
 
         public string UnityPackageFolder => $"{Settings.Unity3DAssetsFolderPath}\\{Company}\\{AssetSubFolder}";
 
-        public string MetaDataFolder => $"{Settings.Unity3DAssetDatabaseFolderPath}\\{Company}\\{AssetSubFolder}";
-        public string MetaDataPath => $"{MetaDataFolder}\\{Name}.{Settings.MetadataExtension}";
+        public string PamuxMetaDataDirectory => $"{Settings.Unity3DAssetDatabaseFolderPath}\\{Company}\\{AssetSubFolder}";
+        public string PamuxMetaDataPath => $"{PamuxMetaDataDirectory}\\{Name}.{Settings.MetadataExtension}";
 
         public string ProducerAssetVersion;
         public string Url;
@@ -107,6 +107,7 @@ namespace Pamux.GameDev.Lib.Models
         public string HarvestRoot => $"{Settings.EngHarvestRoot}\\{Name}";
 
         public UnityPackageMetaData(string unityPackageFileFullPath, string company, string assetSubFolder)
+            : base(null, Path.GetFileName(unityPackageFileFullPath))
         {
             this.FullPath = unityPackageFileFullPath;
             this.Company = company;
@@ -119,8 +120,14 @@ namespace Pamux.GameDev.Lib.Models
             foreach (string asset in Assets)
             {
                 var unityAssetMetaData = Add(this, asset) as UnityAssetMetaData;
-                if (unityAssetMetaData == null || !unityAssetMetaData.IsLeaf)
+                if (unityAssetMetaData == null)
                 {
+                    continue;
+                }
+
+                if (!unityAssetMetaData.IsLeaf)
+                {
+                    unityAssetMetaData.PreviewImage = null;
                     continue;
                 }
                 unityAssetMetaData.ReadUnityMetaFile();
@@ -146,24 +153,24 @@ namespace Pamux.GameDev.Lib.Models
         
         public void SaveMetaData()
         {
-            var dir = this.MetaDataPath.Substring(0, this.MetaDataPath.LastIndexOf('\\'));
+            var dir = this.PamuxMetaDataPath.Substring(0, this.PamuxMetaDataPath.LastIndexOf('\\'));
             if (!Directory.Exists(dir))
             {
                 Directory.CreateDirectory(dir);
             }
-            File.WriteAllLines(this.MetaDataPath, Assets);
+            File.WriteAllLines(this.PamuxMetaDataPath, Assets);
         }
 
 
 
         private bool HaveFreshMetadataFile()
         {
-            return File.Exists(this.MetaDataPath) && File.GetLastWriteTimeUtc(this.MetaDataPath) > File.GetLastWriteTimeUtc(this.FullPath);
+            return File.Exists(this.PamuxMetaDataPath) && File.GetLastWriteTimeUtc(this.PamuxMetaDataPath) > File.GetLastWriteTimeUtc(this.FullPath);
         }
 
         private void LoadMetaData()
         {
-            Assets.AddRange(File.ReadAllLines(this.MetaDataPath));
+            Assets.AddRange(File.ReadAllLines(this.PamuxMetaDataPath));
         }
 
         private void GenerateKeywords()
@@ -354,25 +361,26 @@ namespace Pamux.GameDev.Lib.Models
 
             var context = new UnpackingContext
             {
+                PamuxMetaDataDirectory = PamuxMetaDataDirectory,
                 OutputDirectory = TempUnpackRoot
             };
 
-            if (!SevenZip(FullPath, context.firstStepOutputDirectory))
+            if (!SevenZip(FullPath, context.FirstStepOutputDirectory))
             {
                 return false;
             }
 
-            foreach (var file in context.firstStepOutputDirectory.EnumerateFiles("*"))
+            foreach (var file in context.FirstStepOutputDirectory.EnumerateFiles("*"))
             {
-                if (!SevenZip(file, context.secondStepOutputDirectory))
+                if (!SevenZip(file, context.SecondStepOutputDirectory))
                 {
                     return false;
                 }
             }
 
-            context.firstStepOutputDirectory.RemoveDirectoryRecursively();
+            context.FirstStepOutputDirectory.RemoveDirectoryRecursively();
 
-            foreach (var hashedDirectory in context.secondStepOutputDirectory.EnumerateDirectories())
+            foreach (var hashedDirectory in context.SecondStepOutputDirectory.EnumerateDirectories())
             {
                 context.HashedDirectory = hashedDirectory;
                 if (!context.CopyAssetToItsPath())
@@ -381,7 +389,7 @@ namespace Pamux.GameDev.Lib.Models
                 }
             }
 
-            context.secondStepOutputDirectory.RemoveDirectoryRecursively();
+            context.SecondStepOutputDirectory.RemoveDirectoryRecursively();
 
             return true;
         }

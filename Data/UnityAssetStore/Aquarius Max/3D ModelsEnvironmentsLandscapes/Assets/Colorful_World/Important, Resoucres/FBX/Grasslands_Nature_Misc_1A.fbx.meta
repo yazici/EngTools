@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 061f53dfe247fb345bf2aa4723dc647a
+timeCreated: 1478196821
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Basic_Fence_1A
+    100002: Basic_Fence_1A2
+    100004: Basic_Fence_1A3
+    100006: //RootNode
+    100008: Grasslands_Plant_1A
+    100010: Grasslands_Plant_1A2
+    100012: Grasslands_Plant_1B
+    100014: Grasslands_Plant_1B2
+    100016: Rock_1A
+    100018: Rock_1A2
+    100020: Rock_1A3
+    100022: Rock_1A4
+    100024: Rock_1B
+    100026: Rock_1B2
+    100028: Rock_1B3
+    100030: Rock_1B4
+    100032: Rock_1C
+    100034: Rock_1C2
+    100036: Rock_1C3
+    100038: Rock_1C4
+    100040: Small_Tree_1A
+    100042: Small_Tree_1A2
+    100044: Small_Tree_1B
+    100046: Small_Tree_1B2
+    400000: Basic_Fence_1A
+    400002: Basic_Fence_1A2
+    400004: Basic_Fence_1A3
+    400006: //RootNode
+    400008: Grasslands_Plant_1A
+    400010: Grasslands_Plant_1A2
+    400012: Grasslands_Plant_1B
+    400014: Grasslands_Plant_1B2
+    400016: Rock_1A
+    400018: Rock_1A2
+    400020: Rock_1A3
+    400022: Rock_1A4
+    400024: Rock_1B
+    400026: Rock_1B2
+    400028: Rock_1B3
+    400030: Rock_1B4
+    400032: Rock_1C
+    400034: Rock_1C2
+    400036: Rock_1C3
+    400038: Rock_1C4
+    400040: Small_Tree_1A
+    400042: Small_Tree_1A2
+    400044: Small_Tree_1B
+    400046: Small_Tree_1B2
+    2300000: Basic_Fence_1A
+    2300002: Basic_Fence_1A2
+    2300004: Basic_Fence_1A3
+    2300006: Grasslands_Plant_1A
+    2300008: Grasslands_Plant_1A2
+    2300010: Grasslands_Plant_1B
+    2300012: Grasslands_Plant_1B2
+    2300014: Rock_1A
+    2300016: Rock_1A2
+    2300018: Rock_1A3
+    2300020: Rock_1A4
+    2300022: Rock_1B
+    2300024: Rock_1B2
+    2300026: Rock_1B3
+    2300028: Rock_1B4
+    2300030: Rock_1C
+    2300032: Rock_1C2
+    2300034: Rock_1C3
+    2300036: Rock_1C4
+    2300038: Small_Tree_1A
+    2300040: Small_Tree_1A2
+    2300042: Small_Tree_1B
+    2300044: Small_Tree_1B2
+    3300000: Basic_Fence_1A
+    3300002: Basic_Fence_1A2
+    3300004: Basic_Fence_1A3
+    3300006: Grasslands_Plant_1A
+    3300008: Grasslands_Plant_1A2
+    3300010: Grasslands_Plant_1B
+    3300012: Grasslands_Plant_1B2
+    3300014: Rock_1A
+    3300016: Rock_1A2
+    3300018: Rock_1A3
+    3300020: Rock_1A4
+    3300022: Rock_1B
+    3300024: Rock_1B2
+    3300026: Rock_1B3
+    3300028: Rock_1B4
+    3300030: Rock_1C
+    3300032: Rock_1C2
+    3300034: Rock_1C3
+    3300036: Rock_1C4
+    3300038: Small_Tree_1A
+    3300040: Small_Tree_1A2
+    3300042: Small_Tree_1B
+    3300044: Small_Tree_1B2
+    4300000: Grasslands_Plant_1B2
+    4300002: Grasslands_Plant_1B
+    4300004: Grasslands_Plant_1A2
+    4300006: Grasslands_Plant_1A
+    4300008: Small_Tree_1A2
+    4300010: Small_Tree_1B2
+    4300012: Rock_1C
+    4300014: Rock_1C2
+    4300016: Rock_1C3
+    4300018: Rock_1C4
+    4300020: Basic_Fence_1A3
+    4300022: Basic_Fence_1A2
+    4300024: Basic_Fence_1A
+    4300026: Rock_1B4
+    4300028: Rock_1B3
+    4300030: Rock_1B2
+    4300032: Rock_1B
+    4300034: Rock_1A
+    4300036: Rock_1A2
+    4300038: Rock_1A3
+    4300040: Rock_1A4
+    4300042: Small_Tree_1B
+    4300044: Small_Tree_1A
+    6400000: Basic_Fence_1A
+    6400002: Basic_Fence_1A2
+    6400004: Basic_Fence_1A3
+    6400006: Grasslands_Plant_1A
+    6400008: Grasslands_Plant_1A2
+    6400010: Grasslands_Plant_1B
+    6400012: Grasslands_Plant_1B2
+    6400014: Rock_1A
+    6400016: Rock_1A2
+    6400018: Rock_1A3
+    6400020: Rock_1A4
+    6400022: Rock_1B
+    6400024: Rock_1B2
+    6400026: Rock_1B3
+    6400028: Rock_1B4
+    6400030: Rock_1C
+    6400032: Rock_1C2
+    6400034: Rock_1C3
+    6400036: Rock_1C4
+    6400038: Small_Tree_1A
+    6400040: Small_Tree_1A2
+    6400042: Small_Tree_1B
+    6400044: Small_Tree_1B2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

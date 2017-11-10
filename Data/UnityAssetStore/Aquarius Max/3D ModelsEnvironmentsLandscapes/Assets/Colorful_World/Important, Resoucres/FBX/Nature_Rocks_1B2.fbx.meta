@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 352d4b913a0a18c49a1e782d2950c0b4
+timeCreated: 1478100612
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Grassy_Rock_Platform_3A
+    100002: Grassy_Rock_Platform_3A2
+    100004: Grassy_Rock_Platform_3A3
+    100006: Grassy_Rock_Platform_3B
+    100008: Grassy_Rock_Platform_3B2
+    100010: Grassy_Rock_Platform_3B3
+    100012: //RootNode
+    100014: Rock_Large_2A
+    100016: Rock_Large_2A2
+    100018: Rock_Large_2A3
+    100020: Rock_Large_2A4
+    100022: Rock_Large_2B
+    100024: Rock_Large_2B2
+    100026: Rock_Large_2B3
+    100028: Rock_Large_2B4
+    400000: Grassy_Rock_Platform_3A
+    400002: Grassy_Rock_Platform_3A2
+    400004: Grassy_Rock_Platform_3A3
+    400006: Grassy_Rock_Platform_3B
+    400008: Grassy_Rock_Platform_3B2
+    400010: Grassy_Rock_Platform_3B3
+    400012: //RootNode
+    400014: Rock_Large_2A
+    400016: Rock_Large_2A2
+    400018: Rock_Large_2A3
+    400020: Rock_Large_2A4
+    400022: Rock_Large_2B
+    400024: Rock_Large_2B2
+    400026: Rock_Large_2B3
+    400028: Rock_Large_2B4
+    2300000: Grassy_Rock_Platform_3A
+    2300002: Grassy_Rock_Platform_3A2
+    2300004: Grassy_Rock_Platform_3A3
+    2300006: Grassy_Rock_Platform_3B
+    2300008: Grassy_Rock_Platform_3B2
+    2300010: Grassy_Rock_Platform_3B3
+    2300012: Rock_Large_2A
+    2300014: Rock_Large_2A2
+    2300016: Rock_Large_2A3
+    2300018: Rock_Large_2A4
+    2300020: Rock_Large_2B
+    2300022: Rock_Large_2B2
+    2300024: Rock_Large_2B3
+    2300026: Rock_Large_2B4
+    3300000: Grassy_Rock_Platform_3A
+    3300002: Grassy_Rock_Platform_3A2
+    3300004: Grassy_Rock_Platform_3A3
+    3300006: Grassy_Rock_Platform_3B
+    3300008: Grassy_Rock_Platform_3B2
+    3300010: Grassy_Rock_Platform_3B3
+    3300012: Rock_Large_2A
+    3300014: Rock_Large_2A2
+    3300016: Rock_Large_2A3
+    3300018: Rock_Large_2A4
+    3300020: Rock_Large_2B
+    3300022: Rock_Large_2B2
+    3300024: Rock_Large_2B3
+    3300026: Rock_Large_2B4
+    4300000: Grassy_Rock_Platform_3B3
+    4300002: Grassy_Rock_Platform_3A3
+    4300004: Grassy_Rock_Platform_3A2
+    4300006: Grassy_Rock_Platform_3B2
+    4300008: Grassy_Rock_Platform_3B
+    4300010: Rock_Large_2B
+    4300012: Rock_Large_2B3
+    4300014: Rock_Large_2B2
+    4300016: Rock_Large_2B4
+    4300018: Rock_Large_2A4
+    4300020: Rock_Large_2A2
+    4300022: Rock_Large_2A3
+    4300024: Rock_Large_2A
+    4300026: Grassy_Rock_Platform_3A
+    6400000: Grassy_Rock_Platform_3A
+    6400002: Grassy_Rock_Platform_3A2
+    6400004: Grassy_Rock_Platform_3A3
+    6400006: Grassy_Rock_Platform_3B
+    6400008: Grassy_Rock_Platform_3B2
+    6400010: Grassy_Rock_Platform_3B3
+    6400012: Rock_Large_2A
+    6400014: Rock_Large_2A2
+    6400016: Rock_Large_2A3
+    6400018: Rock_Large_2A4
+    6400020: Rock_Large_2B
+    6400022: Rock_Large_2B2
+    6400024: Rock_Large_2B3
+    6400026: Rock_Large_2B4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

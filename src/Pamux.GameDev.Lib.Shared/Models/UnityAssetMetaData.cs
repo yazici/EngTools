@@ -16,13 +16,42 @@ namespace Pamux.GameDev.Lib.Models
 
         public string TempUnpackUnityMetaFilePath => $"{TempUnpackPath}.meta";
 
-        
+        public override string PreviewImage
+        {
+            get
+            {
+                var previewImagePath = $"{UnityPackage.PamuxMetaDataDirectory}\\{RelativePath}.preview.png";
+                if (File.Exists(previewImagePath))
+                {
+                    return previewImagePath;
+                }
+                else
+                {
+                    return $"{Settings.Unity3DAssetDatabaseFolderPath}\\PreviewPlaceholder.png";
+                }
+            }
+            set
+            {
+            }
+        }
+
         public string HarvestRoot => $"{UnityPackage.HarvestRoot}\\{Parent.RelativePath}";
         public string HarvestPath => $"{UnityPackage.HarvestRoot}\\{RelativePath}";
 
-        public UnityAssetMetaData(IContentHierarchy parent, string name) 
-            : base(parent, name)
+        public UnityAssetMetaData(IContentHierarchy parent, string fileName) 
+            : base(parent, fileName)
         {
+            //PreviewImage = @"file://D:\Workspace\EngTools\Data\UnityAssetStore\3dJeebs\3D Models\Assets\simple_low_poly_village_buildings\materials\farms.mat.preview.png";
+                                    //d:\Workspace\EngTools\Data\UnityAssetStore\3dJeebs\3D Models\                                                    farm_house_lvl3.prefab.preview.png
+            //PreviewImage = $"file://{PreviewImagePath}\\{FileName}.preview.png";
+
+        }
+
+        public string UnityPackageHarvestRoot => $"{Settings.EngHarvestRoot}\\{UnityPackage.FileName}";
+
+        public void EnsureUnpacked()
+        {
+            UnityPackage.EnsureUnpacked();
         }
 
         public void Harvest(bool withDependencies)
@@ -33,7 +62,7 @@ namespace Pamux.GameDev.Lib.Models
             {
                 File.Copy(TempUnpackPath, HarvestPath, true);
             }
-            catch (Exception ex)
+            catch (Exception )
             {
                 return;
             }
@@ -51,7 +80,7 @@ namespace Pamux.GameDev.Lib.Models
         {
             get
             {
-                if (Name.EndsWith(".prefab"))
+                if (IsPrefab)
                 {
                     return GetPrefabDependencies();
                 }

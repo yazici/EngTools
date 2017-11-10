@@ -64,8 +64,11 @@
                 <Button Content="View metadata"  Command="{x:Static tabs:AssetLibrary.ViewMetadataCommand}" CommandParameter="{Binding}"/>
                 <Button Content="Unpack" Command="{x:Static tabs:AssetLibrary.UnpackUnityPackageCommand}" CommandParameter="{Binding}"/>
             </StackPanel>
+            <StackPanel Margin="16" DataContext="{Binding ElementName=assetsTree, Path=SelectedItem}">
+                <Image Width="128" Height="128" Source="{Binding PreviewImage}"/>
+            </StackPanel>
             <StackPanel Orientation="Vertical">
-                    <TreeView ItemsSource="{Binding Children}"  Margin="16" MinWidth="400" MinHeight="200" MaxHeight="400">
+                    <TreeView Name="assetsTree" ItemsSource="{Binding Children}"  Margin="16" MinWidth="400" MinHeight="200" MaxHeight="400">
                         <TreeView.ItemContainerStyle>
                             <Style TargetType="TreeViewItem">
                                 <Setter Property="IsExpanded" Value="{Binding IsExpanded}"/>

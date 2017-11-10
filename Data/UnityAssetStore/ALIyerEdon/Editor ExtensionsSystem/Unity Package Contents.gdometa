@@ -1,0 +1,900 @@
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Linear to Unity Log r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Linear to Unity Log r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_28.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_28.png
+Assets/LightingBox2/Scripts/Profiles/[Filmic]Post_Profile_Desert.asset
+Assets/LightingBox2/Scripts/Profiles/[Filmic]Post_Profile_Desert.asset
+Assets/LightingBox2/Sample/ArchModels/Materials/Glass2.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/Glass2.mat
+Assets/LightingBox2/Scripts/LB_LightingBox.cs
+Assets/LightingBox2/Scripts/LB_LightingBox.cs
+Assets/LightingBox2/Scripts/PostEffects/Common/RenderTextureUtility.cs
+Assets/LightingBox2/Scripts/PostEffects/Common/RenderTextureUtility.cs
+Assets/LightingBox2/VolumetricLight/Models/Terrain
+Assets/LightingBox2/Textures/Flares/Textures
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/sRGB to Unity Log r1.cube
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/sRGB to Unity Log r1.cube
+Assets/LightingBox2/Scripts/Terrain
+Assets/LightingBox2/VolumetricLight/Models/Terrain/Cliffs
+Assets/LightingBox2/Scripts/LB_LightingProfile.cs
+Assets/LightingBox2/Scripts/LB_LightingProfile.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils/EditorUtilities.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils/EditorUtilities.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_26.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_26.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Linear to sRGB r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Linear to sRGB r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_35.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_35.png
+Assets/LightingBox2/Sample/Scene/Arch_1/LightingData.asset
+Assets/LightingBox2/Sample/Scene/Arch_1/LightingData.asset
+Assets/LightingBox2/Sample/Scene/Arch_1
+Assets/LightingBox2/Sample/ArchModels/Materials/LightBody.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/LightBody.mat
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/GrainBaker.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/GrainBaker.shader
+Assets/LightingBox2/Scripts/Profiles/[Default_UE]Post_Profile_Desert.asset
+Assets/LightingBox2/Scripts/Profiles/[Default_UE]Post_Profile_Desert.asset
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/DepthOfField.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/DepthOfField.shader
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/VolumeFactory.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/VolumeFactory.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_1.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_1.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_30.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_30.png
+Assets/LightingBox2/PostProcessing2beta3/Editor
+Assets/LightingBox2/Scripts/PostEffects/Effects
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_61.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_61.png
+Assets/LightingBox2/Sample/ArchModels/Materials/Steel.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/Steel.mat
+Assets/LightingBox2/Textures/Flares/FrontLight.flare
+Assets/LightingBox2/Textures/Flares/FrontLight.flare
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_47.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_47.png
+Assets/LightingBox2/Scripts/LB_Snow_Controller.cs
+Assets/LightingBox2/Scripts/LB_Snow_Controller.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/ConvertDepth.shader
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/ConvertDepth.shader
+Assets/LightingBox2/Sample/Scene
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_16.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_16.png
+Assets/LightingBox2/Scripts/Terrain/LB_LightingBoxTerrain.cs
+Assets/LightingBox2/Scripts/Terrain/LB_LightingBoxTerrain.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_44.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_44.png
+Assets/LightingBox2/Sample/TreeModels/Textures
+Assets/LightingBox2/Scripts/Resources/DefaultSettings.asset
+Assets/LightingBox2/Scripts/Resources/DefaultSettings.asset
+Assets/LightingBox2/Shaders/Nature/Amplify_Source.zip
+Assets/LightingBox2/Shaders/Nature/Amplify_Source.zip
+Assets/LightingBox2/Scripts/LB_AutoFocus.cs
+Assets/LightingBox2/Scripts/LB_AutoFocus.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Histogram.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Histogram.compute
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/Triangles.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/Triangles.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessManager.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessManager.cs
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Editor
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_40.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_40.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_2.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_2.png
+Assets/LightingBox2/Resources/LightingBox_1_Profiles/Extreme.asset
+Assets/LightingBox2/Resources/LightingBox_1_Profiles/Extreme.asset
+Assets/LightingBox2/PostProcessing2beta3/Runtime
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/MinMaxAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/MinMaxAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_37.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_37.png
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects
+Assets/LightingBox2/VolumetricLight/Scripts/VolumetricLightRenderer.cs
+Assets/LightingBox2/VolumetricLight/Scripts/VolumetricLightRenderer.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessProfileEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessProfileEditor.cs
+Assets/LightingBox2/Sample/TreeModels/Textures/Leave.mat
+Assets/LightingBox2/Sample/TreeModels/Textures/Leave.mat
+Assets/LightingBox2/PostProcessing2beta3/Shaders/StdLib.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/StdLib.hlsl
+Assets/LightingBox2/Shaders/Particle_Tranculent.shader
+Assets/LightingBox2/Shaders/Particle_Tranculent.shader
+Assets/LightingBox2/PostProcessing2beta3/Editor/Decorators
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/DefineSetter.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/DefineSetter.cs
+Assets/LightingBox2/Sample/Profiles
+Assets/LightingBox2/Scripts/PostEffects/Editor/ImageEffects
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/PSSL.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/PSSL.hlsl
+Assets/LightingBox2/Scripts/PostEffects
+Assets/LightingBox2/VolumetricLight/Shaders
+Assets/LightingBox2/PostProcessing2beta3/Editor/Decorators/TrackballDecorator.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Decorators/TrackballDecorator.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/ContrastComposite.shader
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/ContrastComposite.shader
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors/VectorscopeMonitor.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors/VectorscopeMonitor.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/PostProcessAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/PostProcessAttribute.cs
+Assets/LightingBox2/VolumetricLight/Resources
+Assets/LightingBox2/Prefabs/Light Probe Group.prefab
+Assets/LightingBox2/Prefabs/Light Probe Group.prefab
+Assets/LightingBox2/Textures/Flares/Textures/cheap plastic 1.psd
+Assets/LightingBox2/Textures/Flares/Textures/cheap plastic 1.psd
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MotionBlur.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MotionBlur.shader
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessLayerEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessLayerEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessEffectSettings.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessEffectSettings.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_15.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_15.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Waveform.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Waveform.shader
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Unity Log to sRGB r1.cube
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Unity Log to sRGB r1.cube
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/AutoExposureEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/AutoExposureEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessResources.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessResources.cs
+Assets/LightingBox2/Scripts/SharpConfig
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessDebugLayer.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessDebugLayer.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Spectral LUTs/SpectralLut_BlueRed.tga
+Assets/LightingBox2/PostProcessing2beta3/Textures/Spectral LUTs/SpectralLut_BlueRed.tga
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_34.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_34.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Texture3DLerp.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Texture3DLerp.compute
+Assets/LightingBox2/Resources/DefaultSettings_LB.asset
+Assets/LightingBox2/Resources/DefaultSettings_LB.asset
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors/LightMeterMonitor.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors/LightMeterMonitor.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes
+Assets/LightingBox2/Resources/Config/LightingBox_Config.txt
+Assets/LightingBox2/Resources/Config/LightingBox_Config.txt
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_24.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_24.png
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MultiScaleVORender.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MultiScaleVORender.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Texture2DLerp.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Texture2DLerp.shader
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_36.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_36.png
+Assets/LightingBox2/Textures/Grass/Materials
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_3.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_3.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Uber.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Uber.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/Metal.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/Metal.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/VignetteEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/VignetteEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Lens Dirt/LensDirt01.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Lens Dirt/LensDirt01.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/SMAA
+Assets/LightingBox2/Scripts/PostEffects/Common/Editor/FieldFinder.cs
+Assets/LightingBox2/Scripts/PostEffects/Common/Editor/FieldFinder.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_7.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_7.png
+Assets/LightingBox2/VolumetricLight/Standard Assets/Effects/ImageEffects
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/TargetPool.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/TargetPool.cs
+Assets/LightingBox2/Textures/Flares/BackLight.flare
+Assets/LightingBox2/Textures/Flares/BackLight.flare
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_1.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_1.png
+Assets/LightingBox2/Sample/TreeModels/Textures/0_Atlas.tga
+Assets/LightingBox2/Sample/TreeModels/Textures/0_Atlas.tga
+Assets/LightingBox2/Resources/LightingBox_1_Profiles
+Assets/LightingBox2/Sample/TreeModels/Textures/ConiferBark_Normal.tga
+Assets/LightingBox2/Sample/TreeModels/Textures/ConiferBark_Normal.tga
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/CubeLutAssetImporter.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/CubeLutAssetImporter.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/SubpixelMorphologicalAntialiasing.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/SubpixelMorphologicalAntialiasing.hlsl
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Editor/DepthOfFieldEditor.cs
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Editor/DepthOfFieldEditor.cs
+Assets/LightingBox2/Sample/ArchModels/TexturesCom_AsphaltCloseups0021_1_seamless_S.psd
+Assets/LightingBox2/Sample/ArchModels/TexturesCom_AsphaltCloseups0021_1_seamless_S.psd
+Assets/LightingBox2/Resources/LightingBox_1_Profiles/Filmic.asset
+Assets/LightingBox2/Resources/LightingBox_1_Profiles/Filmic.asset
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_49.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_49.png
+Assets/LightingBox2/Textures/Grass/Materials/GrassAlbedoAlpha.mat
+Assets/LightingBox2/Textures/Grass/Materials/GrassAlbedoAlpha.mat
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_60.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_60.png
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/Vignette.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/Vignette.cs
+Assets/LightingBox2/VolumetricLight/Models
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/DeferredFog.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/DeferredFog.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug
+Assets/LightingBox2/Prefabs/RenderBox.prefab
+Assets/LightingBox2/Prefabs/RenderBox.prefab
+Assets/LightingBox2/PostProcessing2beta3/Textures/Spectral LUTs/SpectralLut_PurpleGreen.tga
+Assets/LightingBox2/PostProcessing2beta3/Textures/Spectral LUTs/SpectralLut_PurpleGreen.tga
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Lut3DBaker.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Lut3DBaker.compute
+Assets/LightingBox2/Sample/TreeModels/Materials/2_LOD0_2Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/2_LOD0_2Mat.mat
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/TrackballAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/TrackballAttribute.cs
+Assets/LightingBox2/Sample/TreeModels/1_LOD0.obj
+Assets/LightingBox2/Sample/TreeModels/1_LOD0.obj
+Assets/LightingBox2/Scripts/Profiles/[Default_UE]Lighting_Profile_Desert.asset
+Assets/LightingBox2/Scripts/Profiles/[Default_UE]Lighting_Profile_Desert.asset
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/BloomEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/BloomEditor.cs
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection/Editor
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/Bloom.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/Bloom.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/LUTs
+Assets/LightingBox2/VolumetricLight/Standard Assets/Effects
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_63.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_63.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Spectral LUTs/SpectralLut_GreenPurple.tga
+Assets/LightingBox2/PostProcessing2beta3/Textures/Spectral LUTs/SpectralLut_GreenPurple.tga
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/DepthOfField.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/DepthOfField.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/DefaultPostProcessEffectEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/DefaultPostProcessEffectEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/MeshUtilities.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/MeshUtilities.cs
+Assets/LightingBox2/Sample/TreeModels/Textures/ConiferBark.tga
+Assets/LightingBox2/Sample/TreeModels/Textures/ConiferBark.tga
+Assets/LightingBox2/Shaders
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/CopyStd.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/CopyStd.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MultiScaleVODownsample1.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MultiScaleVODownsample1.compute
+Assets/LightingBox2/Sample/Textures/Skybox/Skybox_Night__.mat
+Assets/LightingBox2/Sample/Textures/Skybox/Skybox_Night__.mat
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/CubeLutAssetFactory.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/CubeLutAssetFactory.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/PropertySheet.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/PropertySheet.cs
+Assets/LightingBox2/VolumetricLight/Models/Terrain/MountainPeaks/Materials/MountainPeak_01.mat
+Assets/LightingBox2/VolumetricLight/Models/Terrain/MountainPeaks/Materials/MountainPeak_01.mat
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessVolumeEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessVolumeEditor.cs
+Assets/LightingBox2/Shaders/Snow
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/Vulkan.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/Vulkan.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Textures/LUTs/NeutralLdrLut.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/LUTs/NeutralLdrLut.png
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/PostEffectsHelper.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/PostEffectsHelper.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_0.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_0.png
+Assets/LightingBox2/VolumetricLight/Resources/spot_Cookie_.png
+Assets/LightingBox2/VolumetricLight/Resources/spot_Cookie_.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/TemporalAntialiasing.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/TemporalAntialiasing.shader
+Assets/LightingBox2/Sample/ArchModels/Materials/NightSky.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/NightSky.mat
+Assets/LightingBox2/Sample/Profiles/Post_Profile_Arch_1.asset
+Assets/LightingBox2/Sample/Profiles/Post_Profile_Arch_1.asset
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Helpers
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_39.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_39.png
+Assets/LightingBox2/Scripts/PostEffects/Editor/ImageEffects/SunShaftsEditor.cs
+Assets/LightingBox2/Scripts/PostEffects/Editor/ImageEffects/SunShaftsEditor.cs
+Assets/LightingBox2/Shaders/Snow/Snow_Standard_AMplify__Source.zip
+Assets/LightingBox2/Shaders/Snow/Snow_Standard_AMplify__Source.zip
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/DepthOfField.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/DepthOfField.cs
+Assets/LightingBox2/Sample/Textures/Skybox/san_francisco_night_city_panorama_112626_3840x2160.jpg
+Assets/LightingBox2/Sample/Textures/Skybox/san_francisco_night_city_panorama_112626_3840x2160.jpg
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/HableCurve.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/HableCurve.cs
+Assets/LightingBox2/VolumetricLight/Models/Terrain/MountainPeaks/Materials
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessEffectBaseEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessEffectBaseEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/TemporalAntialiasing.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/TemporalAntialiasing.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/DiscardAlpha.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/DiscardAlpha.shader
+Assets/LightingBox/Standard Assets/ParticleSystems/Textures/ParticleCloudWhite.png
+Assets/LightingBox/Standard Assets/ParticleSystems/Textures/ParticleCloudWhite.png
+Assets/LightingBox2/Scripts/PostEffects/Common/Editor/EditorGUIHelper.cs
+Assets/LightingBox2/Scripts/PostEffects/Common/Editor/EditorGUIHelper.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Editor/CurveGrid.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Editor/CurveGrid.shader
+Assets/LightingBox2/Resources
+Assets/LightingBox2/Textures
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Editor
+Assets/LightingBox2/Sample/ArchModels/Materials/Glass.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/Glass.mat
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessEffectRenderer.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessEffectRenderer.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors/Monitor.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors/Monitor.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_55.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_55.png
+Assets/LightingBox2/PostProcessing2beta3/Gizmos/PostProcessLayer.png
+Assets/LightingBox2/PostProcessing2beta3/Gizmos/PostProcessLayer.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MultiScaleVOUpsample.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MultiScaleVOUpsample.compute
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_0.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_0.png
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/ChromaticAberration.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/ChromaticAberration.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/SunShafts.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/SunShafts.cs
+Assets/LightingBox2/Sample/ArchModels/Materials/Floor.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/Floor.mat
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/HaltonSeq.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/HaltonSeq.cs
+Assets/LightingBox2/VolumetricLight/Models/Terrain/Cliffs/TiledCliffs_01_Diff.png
+Assets/LightingBox2/VolumetricLight/Models/Terrain/Cliffs/TiledCliffs_01_Diff.png
+Assets/LightingBox2/Sample/Textures
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures/NoiseEffectScratch.png
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures/NoiseEffectScratch.png
+Assets/LightingBox2/PostProcessing2beta3/Gizmos
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/Fog.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/Fog.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/MinAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/MinAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders
+Assets/LightingBox2/Doc
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/AmbientOcclusionEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/AmbientOcclusionEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Spectral LUTs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MultiScaleVO.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MultiScaleVO.shader
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_13.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_13.png
+Assets/LightingBox2/Textures/Flares
+Assets/LightingBox2/PostProcessing2beta3/Editor/BaseEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/BaseEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Lens Dirt/LensDirt00.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Lens Dirt/LensDirt00.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/OpenGL.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/OpenGL.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_31.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_31.png
+Assets/LightingBox2/PostProcessing2beta3/Editor/Decorators/AttributeDecorator.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Decorators/AttributeDecorator.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Fog.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Fog.hlsl
+Assets/LightingBox2/Scripts/Terrain/Editor/LB_LightingBoxTerrainEditor.cs
+Assets/LightingBox2/Scripts/Terrain/Editor/LB_LightingBoxTerrainEditor.cs
+Assets/LightingBox2/Resources/Default_Post_Profile.asset
+Assets/LightingBox2/Resources/Default_Post_Profile.asset
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/GaussianDownsample.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/GaussianDownsample.compute
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_20.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_20.png
+Assets/LightingBox2/Sample/TreeModels/Textures/0_Atlas_Billboards_Normal.tga
+Assets/LightingBox2/Sample/TreeModels/Textures/0_Atlas_Billboards_Normal.tga
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection/Resources/ScreenSpaceRaytrace.cginc
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection/Resources/ScreenSpaceRaytrace.cginc
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_4.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_4.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Lens Dirt
+Assets/LightingBox2/Scripts/LB_RenderBox.cs
+Assets/LightingBox2/Scripts/LB_RenderBox.cs
+Assets/LightingBox2/PostProcessing2beta3
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_7.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_7.png
+Assets/LightingBox2/PostProcessing2beta3/Editor/Attributes/PostProcessEditorAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Attributes/PostProcessEditorAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_56.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_56.png
+Assets/LightingBox2/Prefabs/BF1_Sun.flare
+Assets/LightingBox2/Prefabs/BF1_Sun.flare
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_9.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_9.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_43.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_43.png
+Assets/LightingBox2/Sample/ArchModels/LightBpdy.fbx
+Assets/LightingBox2/Sample/ArchModels/LightBpdy.fbx
+Assets/LightingBox2/Sample/TreeModels/Materials/2_LOD0_0Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/2_LOD0_0Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials
+Assets/LightingBox2/Scripts/Terrain/Terrain_5_Layer.shader
+Assets/LightingBox2/Scripts/Terrain/Terrain_5_Layer.shader
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_19.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_19.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/SMAA/AreaTex.tga
+Assets/LightingBox2/PostProcessing2beta3/Textures/SMAA/AreaTex.tga
+Assets/LightingBox2/VolumetricLight/Models/Terrain/MountainPeaks/MountainPeak_01_NM.png
+Assets/LightingBox2/VolumetricLight/Models/Terrain/MountainPeaks/MountainPeak_01_NM.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_18.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_18.png
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/Dithering.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/Dithering.cs
+Assets/LightingBox2/Shaders/Snow/Snow_Standard.shader
+Assets/LightingBox2/Shaders/Snow/Snow_Standard.shader
+Assets/LightingBox2/Scripts/LB_LightingBoxHelper.cs
+Assets/LightingBox2/Scripts/LB_LightingBoxHelper.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessDebugEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessDebugEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_11.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_11.png
+Assets/LightingBox2/Doc/Update 2
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessBundle.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessBundle.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_6.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_6.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Lens Dirt/LensDirt03.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Lens Dirt/LensDirt03.png
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/ScreenSpaceReflections.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/ScreenSpaceReflections.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures/NoiseAndGrain.png
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures/NoiseAndGrain.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Lut2DBaker.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Lut2DBaker.shader
+Assets/LightingBox2/Sample/ArchModels/Materials/Street.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/Street.mat
+Assets/LightingBox2/Sample/Textures/Skybox/perth-CBD-at-night-2015.jpg
+Assets/LightingBox2/Sample/Textures/Skybox/perth-CBD-at-night-2015.jpg
+Assets/LightingBox2/Scripts/Profiles
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/sRGB to Linear r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/sRGB to Linear r1.asset
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection/Resources/ScreenSpaceReflection.shader
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection/Resources/ScreenSpaceReflection.shader
+Assets/LightingBox2/Sample/TreeModels/Materials/0_LOD0_2Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/0_LOD0_2Mat.mat
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Colors.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Colors.hlsl
+Assets/LightingBox2/Sample/TreeModels
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/FastApproximateAntialiasing.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/FastApproximateAntialiasing.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/SubpixelMorphologicalAntialiasing.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/SubpixelMorphologicalAntialiasing.shader
+Assets/LightingBox2/Sample/TreeModels/Materials/0_LOD0_1Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/0_LOD0_1Mat.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/Wall2.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/Wall2.mat
+Assets/LightingBox2/Resources/Config/LightingBox_Update.txt
+Assets/LightingBox2/Resources/Config/LightingBox_Update.txt
+Assets/LightingBox2/Sample/ArchModels/Materials/TexturesCom_FloorsMarble0035_3_S.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/TexturesCom_FloorsMarble0035_3_S.mat
+Assets/LightingBox2/Scripts/Weather
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_58.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_58.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_32.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_32.png
+Assets/LightingBox2/Textures/Flares/Textures/flare2.png
+Assets/LightingBox2/Textures/Flares/Textures/flare2.png
+Assets/LightingBox2/Resources/Global Volume.prefab
+Assets/LightingBox2/Resources/Global Volume.prefab
+Assets/LightingBox2/Scripts/PostEffects/Common
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/ImageEffects.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/ImageEffects.cs
+Assets/LightingBox2/Textures/Flares/Textures/flare1.png
+Assets/LightingBox2/Textures/Flares/Textures/flare1.png
+Assets/LightingBox2/Scripts/PostEffects/Editor
+Assets/LightingBox2/Sample
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/DepthOfField.cs
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/DepthOfField.cs
+Assets/LightingBox2/VolumetricLight/Standard Assets
+Assets/LightingBox2/Sample/ArchModels/Modewrn___House.fbx
+Assets/LightingBox2/Sample/ArchModels/Modewrn___House.fbx
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessVolume.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessVolume.cs
+Assets/LightingBox2/Doc/Old_Updates.rar
+Assets/LightingBox2/Doc/Old_Updates.rar
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Unity Log to Linear r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Unity Log to Linear r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ExposureHistogram.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ExposureHistogram.compute
+Assets/LightingBox2/Textures/Flares/Light.flare
+Assets/LightingBox2/Textures/Flares/Light.flare
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/MaxAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/MaxAttribute.cs
+Assets/LightingBox2/Sample/Textures/TexturesCom_FloorsMarble0035_3_S.psd
+Assets/LightingBox2/Sample/Textures/TexturesCom_FloorsMarble0035_3_S.psd
+Assets/LightingBox2/Scripts/PostEffects/GlobalFog/GlobalFog.shader
+Assets/LightingBox2/Scripts/PostEffects/GlobalFog/GlobalFog.shader
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessProfile.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessProfile.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_46.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_46.png
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Helpers/RoundedHexShape.tif
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Helpers/RoundedHexShape.tif
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/DisplayNameAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Attributes/DisplayNameAttribute.cs
+Assets/LightingBox2/Sample/ArchModels/Materials/Grass.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/Grass.mat
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Waveform.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Waveform.compute
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_54.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_54.png
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessLayer.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessLayer.cs
+Assets/LightingBox2/Sample/TreeModels/Textures/0_Atlas_Specular.tga
+Assets/LightingBox2/Sample/TreeModels/Textures/0_Atlas_Specular.tga
+Assets/LightingBox2/Textures/Grass/GrassAlbedoAlpha.tif
+Assets/LightingBox2/Textures/Grass/GrassAlbedoAlpha.tif
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Unity Log to sRGB r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Unity Log to sRGB r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_38.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_38.png
+Assets/LightingBox2/PostProcessing2beta3/Editor/Attributes/DecoratorAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Attributes/DecoratorAttribute.cs
+Assets/LightingBox2/VolumetricLight/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs
+Assets/LightingBox2/VolumetricLight/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_12.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_12.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/xRLib.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/xRLib.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_6.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_6.png
+Assets/LightingBox2/VolumetricLight/Scripts
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Unity Log to Linear r1.cube
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Unity Log to Linear r1.cube
+Assets/LightingBox2/Scripts/PostEffects/Common/Editor/MinDrawer.cs
+Assets/LightingBox2/Scripts/PostEffects/Common/Editor/MinDrawer.cs
+Assets/LightingBox2/Sample/Scene/Arch_1/ReflectionProbe-0.exr
+Assets/LightingBox2/Sample/Scene/Arch_1/ReflectionProbe-0.exr
+Assets/LightingBox2/Textures/Grass
+Assets/LightingBox2/Sample/TreeModels/Materials/2_LOD0_3Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/2_LOD0_3Mat.mat
+Assets/LightingBox2/PostProcessing2beta3/Editor/EffectListEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/EffectListEditor.cs
+Assets/LightingBox2/VolumetricLight/Standard Assets/Effects/ImageEffects/Scripts
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_62.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_62.png
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Resources/MedianFilter.shader
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Resources/MedianFilter.shader
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures/RandomVectors.png
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures/RandomVectors.png
+Assets/LightingBox2/Sample/Textures/TexturesCom_FloorsMarble0035_3_S.png
+Assets/LightingBox2/Sample/Textures/TexturesCom_FloorsMarble0035_3_S.png
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection/Resources
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_5.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_5.png
+Assets/LightingBox2/Prefabs/In_Game_Settings_Canvas.prefab
+Assets/LightingBox2/Prefabs/In_Game_Settings_Canvas.prefab
+Assets/LightingBox2/Sample/TreeModels/Materials/1_LOD0_1Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/1_LOD0_1Mat.mat
+Assets/LightingBox2/PostProcessing2beta3/Textures/Lens Dirt/LensDirt02.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Lens Dirt/LensDirt02.png
+Assets/LightingBox2/Scripts/LB_SettingsMenu.cs
+Assets/LightingBox2/Scripts/LB_SettingsMenu.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/RuntimeUtilities.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/RuntimeUtilities.cs
+Assets/LightingBox2/Sample/Sound
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_2.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_2.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/DiskKernels.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/DiskKernels.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/LogHistogram.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/LogHistogram.cs
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Helpers/HexShape.psd
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Helpers/HexShape.psd
+Assets/LightingBox2/Scripts/Profiles/[Filmic]Lighting_Profile_Desert.asset
+Assets/LightingBox2/Scripts/Profiles/[Filmic]Lighting_Profile_Desert.asset
+Assets/LightingBox2/Sample/TreeModels/Materials/1_LOD0_2Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/1_LOD0_2Mat.mat
+Assets/LightingBox2/Scripts/BillboardLighting
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Vectorscope.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Vectorscope.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/D3D9.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/D3D9.hlsl
+Assets/LightingBox2/Shaders/StandardDoubleSided.shader
+Assets/LightingBox2/Shaders/StandardDoubleSided.shader
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Resources
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_29.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_29.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Linear to Unity Log r1.cube
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Linear to Unity Log r1.cube
+Assets/LightingBox2/Scripts/SharpConfig/SharpConfig.dll
+Assets/LightingBox2/Scripts/SharpConfig/SharpConfig.dll
+Assets/LightingBox2/Scripts/PostEffects/Common/ImageEffectHelper.cs
+Assets/LightingBox2/Scripts/PostEffects/Common/ImageEffectHelper.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/ProfileFactory.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/ProfileFactory.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_5.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_5.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ScreenSpaceReflections.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ScreenSpaceReflections.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/ColorGrading.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/ColorGrading.cs
+Assets/LightingBox2/Scripts/PlayerPrefsX.cs
+Assets/LightingBox2/Scripts/PlayerPrefsX.cs
+Assets/LightingBox2/Prefabs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_10.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_10.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_48.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_48.png
+Assets/LightingBox2/Sample/TreeModels/Textures/0_Atlas_Normal.tga
+Assets/LightingBox2/Sample/TreeModels/Textures/0_Atlas_Normal.tga
+Assets/LightingBox2/Scripts/PostEffects/Common/MinAttribute.cs
+Assets/LightingBox2/Scripts/PostEffects/Common/MinAttribute.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Dithering.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Dithering.hlsl
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders
+Assets/LightingBox2/Shaders/Nature/Leave_Standard.shader
+Assets/LightingBox2/Shaders/Nature/Leave_Standard.shader
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_42.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_42.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/LightMeter.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/LightMeter.shader
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/AutoExposure.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/AutoExposure.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_4.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_4.png
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/PostEffectsBase.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/PostEffectsBase.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_33.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_33.png
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessRenderContext.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessRenderContext.cs
+Assets/LightingBox2/Scripts/BillboardLighting/LB_LightingBoxBillboard.cs
+Assets/LightingBox2/Scripts/BillboardLighting/LB_LightingBoxBillboard.cs
+Assets/LightingBox2/Sample/Sound/Soft_Peaceful_Inspiring_Backgrou.mp3
+Assets/LightingBox2/Sample/Sound/Soft_Peaceful_Inspiring_Backgrou.mp3
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_21.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_21.png
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/MotionBlur.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/MotionBlur.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Overlays.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Overlays.shader
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_45.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_45.png
+Assets/LightingBox2/Sample/TreeModels/Textures/Bark.mat
+Assets/LightingBox2/Sample/TreeModels/Textures/Bark.mat
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/sRGB to Linear r1.cube
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/sRGB to Linear r1.cube
+Assets/LightingBox2/PostProcessing2beta3/Runtime/ParameterOverride.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/ParameterOverride.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_27.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_27.png
+Assets/LightingBox2/VolumetricLight
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_17.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_17.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_23.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_23.png
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Resources/DepthOfField.shader
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Resources/DepthOfField.shader
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_3.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 256px/LDR_LLL1_3.png
+Assets/LightingBox2/Doc/Update 2/Quick_Start.txt
+Assets/LightingBox2/Doc/Update 2/Quick_Start.txt
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/AutoExposure.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/AutoExposure.shader
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/AmbientOcclusion.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/AmbientOcclusion.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Bloom.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Bloom.shader
+Assets/LightingBox2/VolumetricLight/Shaders/BlitAdd.shader
+Assets/LightingBox2/VolumetricLight/Shaders/BlitAdd.shader
+Assets/LightingBox2/Doc/Licence.txt
+Assets/LightingBox2/Doc/Licence.txt
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/ColorUtilities.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/ColorUtilities.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessDebug.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessDebug.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_8.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_8.png
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/ScalableAO.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/ScalableAO.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/Spline.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/Spline.cs
+Assets/LightingBox2/Sample/Scene/Arch_1.unity
+Assets/LightingBox2/Sample/Scene/Arch_1.unity
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/sRGB to Unity Log r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/sRGB to Unity Log r1.asset
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils/Styling.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils/Styling.cs
+Assets/LightingBox2/Sample/TreeModels/Materials/0_LOD0_0Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/0_LOD0_0Mat.mat
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_53.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_53.png
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Resources/BokehSplatting.shader
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Resources/BokehSplatting.shader
+Assets/LightingBox2/Shaders/Particle_Fade_Color.shader
+Assets/LightingBox2/Shaders/Particle_Fade_Color.shader
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors/HistogramMonitor.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors/HistogramMonitor.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/XboxOne.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/XboxOne.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_41.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_41.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Copy.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/Copy.shader
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils/CurveEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils/CurveEditor.cs
+Assets/LightingBox2/Sample/Textures/Skybox
+Assets/LightingBox2/Shaders/Nature
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects
+Assets/LightingBox2/VolumetricLight/Shaders/BilateralBlur.shader
+Assets/LightingBox2/VolumetricLight/Shaders/BilateralBlur.shader
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_52.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_52.png
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/SunShaftsComposite.shader
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/SunShaftsComposite.shader
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/ResourceAssetFactory.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools/ResourceAssetFactory.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/D3D11.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/D3D11.hlsl
+Assets/LightingBox2/VolumetricLight/Prefabs/Mountains.prefab
+Assets/LightingBox2/VolumetricLight/Prefabs/Mountains.prefab
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors/WaveformMonitor.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Monitors/WaveformMonitor.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_51.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_51.png
+Assets/LightingBox2/Sample/TreeModels/Materials/1_LOD0_3Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/1_LOD0_3Mat.mat
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/Grain.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/Grain.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Decorators/Decorators.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Decorators/Decorators.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ScalableAO.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ScalableAO.shader
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/ScreenSpaceReflectionsEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/ScreenSpaceReflectionsEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/ACES.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/ACES.hlsl
+Assets/LightingBox2/PostProcessing2beta3/PostProcessResources.asset
+Assets/LightingBox2/PostProcessing2beta3/PostProcessResources.asset
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_50.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_50.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_59.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_59.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/SMAA/SearchTex.tga
+Assets/LightingBox2/PostProcessing2beta3/Textures/SMAA/SearchTex.tga
+Assets/LightingBox2/Sample/ArchModels
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection/ScreenSpaceReflection.cs
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection/ScreenSpaceReflection.cs
+Assets/LightingBox2/VolumetricLight/Scripts/VolumetricLight.cs
+Assets/LightingBox2/VolumetricLight/Scripts/VolumetricLight.cs
+Assets/LightingBox2/Sample/TreeModels/0_LOD0.obj
+Assets/LightingBox2/Sample/TreeModels/0_LOD0.obj
+Assets/LightingBox2/Sample/ArchModels/Materials
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Editor/Trackball.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Editor/Trackball.shader
+Assets/LightingBox2/Scripts/LB_CheckforUpdates.cs
+Assets/LightingBox2/Scripts/LB_CheckforUpdates.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_22.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_22.png
+Assets/LightingBox2/Scripts/PostEffects/GlobalFog/GlobalFog.cs
+Assets/LightingBox2/Scripts/PostEffects/GlobalFog/GlobalFog.cs
+Assets/LightingBox2/Scripts/PostEffects/GlobalFog
+Assets/LightingBox2/Scripts/SharpConfig/SharpConfig.xml
+Assets/LightingBox2/Scripts/SharpConfig/SharpConfig.xml
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ExposureHistogram.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ExposureHistogram.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/PropertySheetFactory.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/PropertySheetFactory.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_57.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_57.png
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Vectorscope.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Vectorscope.compute
+Assets/LightingBox2/Sample/TreeModels/Textures/0_Atlas_Billboards.tga
+Assets/LightingBox2/Sample/TreeModels/Textures/0_Atlas_Billboards.tga
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/ShaderIDs.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/ShaderIDs.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/LUTs/NeutralLUT_16.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/LUTs/NeutralLUT_16.png
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessEvent.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/PostProcessEvent.cs
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ScalableAO.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ScalableAO.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MultiScaleVODownsample2.compute
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/MultiScaleVODownsample2.compute
+Assets/LightingBox2/Sample/TreeModels/Materials/1_LOD0_0Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/1_LOD0_0Mat.mat
+Assets/LightingBox2/Shaders/Particle_Tranculent_NoShadow.shader
+Assets/LightingBox2/Shaders/Particle_Tranculent_NoShadow.shader
+Assets/LightingBox2/PostProcessing2beta3/Editor/Tools
+Assets/LightingBox2/Scripts/LB_CameraMove.cs
+Assets/LightingBox2/Scripts/LB_CameraMove.cs
+Assets/LightingBox2/Sample/Profiles/Lighting_Profile_Arch_1.asset
+Assets/LightingBox2/Sample/Profiles/Lighting_Profile_Arch_1.asset
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures/Noise.png
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures/Noise.png
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessEffectEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/PostProcessEffectEditor.cs
+Assets/LightingBox2/Scripts/PostEffects/Common/Editor
+Assets/LightingBox2/Scripts/Terrain/Editor
+Assets/LightingBox2/Scripts/Resources
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection/Editor/ScreenSpaceReflectionEditor.cs
+Assets/LightingBox2/Scripts/PostEffects/ScreenSpaceReflection/Editor/ScreenSpaceReflectionEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Linear to sRGB r1.cube
+Assets/LightingBox2/PostProcessing2beta3/Textures/Cubes/Linear to sRGB r1.cube
+Assets/LightingBox2/Prefabs/Terrain.prefab
+Assets/LightingBox2/Prefabs/Terrain.prefab
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/D3D12.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API/D3D12.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px
+Assets/LightingBox2/Doc/Update 2/LightingBox2.2_Help.rtf
+Assets/LightingBox2/Doc/Update 2/LightingBox2.2_Help.rtf
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/FastApproximateAntialiasing.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/FastApproximateAntialiasing.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils/GlobalSettings.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils/GlobalSettings.cs
+Assets/LightingBox2/VolumetricLight/Shaders/VolumetricLight.shader
+Assets/LightingBox2/VolumetricLight/Shaders/VolumetricLight.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Sampling.hlsl
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Sampling.hlsl
+Assets/LightingBox2/Scripts
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/SubpixelMorphologicalAntialiasing.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/SubpixelMorphologicalAntialiasing.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils/SerializedParameterOverride.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Utils/SerializedParameterOverride.cs
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_25.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_25.png
+Assets/LightingBox2/Resources/LightingBox Update.asset
+Assets/LightingBox2/Resources/LightingBox Update.asset
+Assets/LightingBox2/PostProcessing2beta3/Editor/Attributes
+Assets/LightingBox2/VolumetricLight/Models/Terrain/MountainPeaks
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/MultiScaleVO.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Effects/MultiScaleVO.cs
+Assets/LightingBox2/Sample/ArchModels/Materials/Wall.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/Wall.mat
+Assets/LightingBox2/VolumetricLight/Prefabs
+Assets/LightingBox2/VolumetricLight/Resources/NoiseVolume.bytes
+Assets/LightingBox2/VolumetricLight/Resources/NoiseVolume.bytes
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_14.png
+Assets/LightingBox2/PostProcessing2beta3/Textures/Blue Noise 64px/LDR_LLL1_14.png
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/ImageEffectBase.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Scripts/ImageEffectBase.cs
+Assets/LightingBox2/Sample/TreeModels/Materials/0_LOD0_3Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/0_LOD0_3Mat.mat
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/SimpleClear.shader
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Shaders/SimpleClear.shader
+Assets/LightingBox2/Textures/Flares/Textures/1.jpg
+Assets/LightingBox2/Textures/Flares/Textures/1.jpg
+Assets/LightingBox2/Prefabs/Snow_Example_Canvas.prefab
+Assets/LightingBox2/Prefabs/Snow_Example_Canvas.prefab
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/FinalPass.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/FinalPass.shader
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/ColorGradingEditor.cs
+Assets/LightingBox2/PostProcessing2beta3/Editor/Effects/ColorGradingEditor.cs
+Assets/LightingBox2/Sample/TreeModels/2_LOD0.obj
+Assets/LightingBox2/Sample/TreeModels/2_LOD0.obj
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Histogram.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Debug/Histogram.shader
+Assets/LightingBox2/Scripts/EditorHotkeysTracker.cs
+Assets/LightingBox2/Scripts/EditorHotkeysTracker.cs
+Assets/LightingBox2/Shaders/Nature/Snow_Leave_Standard.shader
+Assets/LightingBox2/Shaders/Nature/Snow_Leave_Standard.shader
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/TextureLerper.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/TextureLerper.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/TextureFormatUtilities.cs
+Assets/LightingBox2/PostProcessing2beta3/Runtime/Utils/TextureFormatUtilities.cs
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ScreenSpaceReflections.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Builtins/ScreenSpaceReflections.shader
+Assets/LightingBox2/Resources/Config
+Assets/LightingBox2/Scripts/Weather/Snow_Trigger.cs
+Assets/LightingBox2/Scripts/Weather/Snow_Trigger.cs
+Assets/LightingBox2/Sample/ArchModels/Materials/TexturesCom_AsphaltCloseups0021_1_seamless_S.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/TexturesCom_AsphaltCloseups0021_1_seamless_S.mat
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Helpers/SphereShape.psd
+Assets/LightingBox2/Scripts/PostEffects/DepthOfField/Helpers/SphereShape.psd
+Assets/LightingBox2/PostProcessing2beta3/Shaders/API
+Assets/LightingBox2/Shaders/Tessellation.shader
+Assets/LightingBox2/Shaders/Tessellation.shader
+Assets/LightingBox2/Sample/ArchModels/Materials/Light.mat
+Assets/LightingBox2/Sample/ArchModels/Materials/Light.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/2_LOD0_1Mat.mat
+Assets/LightingBox2/Sample/TreeModels/Materials/2_LOD0_1Mat.mat
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Editor/ConvertToLog.shader
+Assets/LightingBox2/PostProcessing2beta3/Shaders/Editor/ConvertToLog.shader
+Assets/LightingBox2/PostProcessing2beta3/Textures/Spectral LUTs/SpectralLut_RedBlue.tga
+Assets/LightingBox2/PostProcessing2beta3/Textures/Spectral LUTs/SpectralLut_RedBlue.tga
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures/NoiseEffectGrain.png
+Assets/LightingBox2/Scripts/PostEffects/Effects/ImageEffects/Textures/NoiseEffectGrain.png

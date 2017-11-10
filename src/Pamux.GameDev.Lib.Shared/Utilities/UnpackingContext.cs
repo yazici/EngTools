@@ -1,4 +1,5 @@
 ﻿using Pamux.GameDev.Lib.Extensions;
+using Pamux.GameDev.Lib.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -25,25 +26,42 @@ namespace Pamux.GameDev.Lib.Utilities
                 {
                     return;
                 }
+
+                if (string.IsNullOrWhiteSpace(OutputDirectory))
+                {
+                    throw new ArgumentNullException(nameof(OutputDirectory));
+                }
+                if (string.IsNullOrWhiteSpace(PamuxMetaDataDirectory))
+                {
+                    throw new ArgumentNullException(nameof(PamuxMetaDataDirectory));
+                }
+
                 hashedDirectory = value;
 
                 hash = Path.GetFileName(hashedDirectory);
 
                 pathNameFileContent = File.ReadAllLines($"{hashedDirectory}\\pathname");
 
-                realAssetPath = $"{outputDirectory}\\{pathNameFileContent[0]}";
-                realAssetDirectory = Path.GetDirectoryName(realAssetPath);
-                realAssetName = Path.GetFileName(realAssetPath);
-
-                realAssetDirectory.EnsureDirectory();
+                RealAssetRelativePath = $"{pathNameFileContent[0]}";
+                
+                RealAssetDirectory.EnsureDirectory();
+                PamuxMetaDataAssetDirectory.EnsureDirectory();
             }
         }
-        public string realAssetPath;
-        public string realAssetDirectory;
-        public string realAssetName;
+        public string RealAssetRelativePath;
+        public string RealAssetRelativeDirectory => Path.GetDirectoryName(RealAssetRelativePath);
 
-        public string firstStepOutputDirectory;
-        public string secondStepOutputDirectory;
+        public string RealAssetFullPath => $"{outputDirectory}\\{RealAssetRelativePath}";
+        public string RealAssetDirectory => $"{outputDirectory}\\{RealAssetRelativeDirectory}";
+
+
+        public string RealAssetFileName => Path.GetFileName(RealAssetRelativePath);
+
+        public string PamuxMetaDataDirectory;
+        public string PamuxMetaDataAssetDirectory => $"{PamuxMetaDataDirectory}\\{RealAssetRelativeDirectory}";
+
+        public string FirstStepOutputDirectory;
+        public string SecondStepOutputDirectory;
 
         private string outputDirectory;
         public string OutputDirectory
@@ -60,8 +78,8 @@ namespace Pamux.GameDev.Lib.Utilities
                     return;
                 }
                 outputDirectory = value;
-                firstStepOutputDirectory = $"{outputDirectory}\\1";
-                secondStepOutputDirectory = $"{outputDirectory}\\2";
+                FirstStepOutputDirectory = $"{outputDirectory}\\1";
+                SecondStepOutputDirectory = $"{outputDirectory}\\2";
             }
         }
 
@@ -101,19 +119,26 @@ namespace Pamux.GameDev.Lib.Utilities
                 throw new Exception($"Unknown filename@ {filePath}");
             }
 
-            CopyArchivedAssetFile("asset", $"{realAssetName}");
-            CopyArchivedAssetFile("asset.meta", $"{realAssetName}.meta");
-            CopyArchivedAssetFile("metaData", $"{realAssetName}.meta");
-            CopyArchivedAssetFile("preview.png", $"{realAssetName}.preview.png");
+            CopyArchivedAssetFile("asset", $"{RealAssetFileName}", false);
+
+            CopyArchivedAssetFile("asset.meta", ".meta", true);
+            CopyArchivedAssetFile("metaData", ".metaData", true);
+            CopyArchivedAssetFile("preview.png", ".preview.png", true);
+
             return true;
         }
 
-        private void CopyArchivedAssetFile(string archivedFileName, string realFileName)
+        private void CopyArchivedAssetFile(string archivedFileName, string extension, bool alsoCopyToPamuxMetaDataDirectory)
         {
+            
             var archivedFilePath = $"{hashedDirectory}\\{archivedFileName}";
             if (File.Exists(archivedFilePath))
             {
-                File.Copy(archivedFilePath, $"{realAssetDirectory}\\{realFileName}");
+                File.Copy(archivedFilePath, $"{RealAssetDirectory}\\{RealAssetFileName}{extension}", true);
+                if (alsoCopyToPamuxMetaDataDirectory)
+                {
+                    File.Copy(archivedFilePath, $"{PamuxMetaDataAssetDirectory}\\{RealAssetFileName}{extension}", true);
+                }
             }
 
         }

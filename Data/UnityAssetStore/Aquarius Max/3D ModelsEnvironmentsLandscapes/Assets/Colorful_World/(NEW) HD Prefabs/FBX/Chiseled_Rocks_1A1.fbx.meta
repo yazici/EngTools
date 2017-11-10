@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: aa97b3528d16030478738dfac513406f
+timeCreated: 1500047536
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Rock_1A1
+    100004: Rock_Big_1A1
+    100006: Rock_Chiseled_1A1
+    100008: Rock_Chiseled_1A1_Tall
+    100010: Rock_Chiseled_1A1_Tall_Wide
+    100012: Rock_Chiseled_1A2
+    100014: Rock_Chiseled_1A2_Tall
+    100016: Rock_Chiseled_1A2_Tall_Wide
+    100018: Rock_Chiseled_1A3
+    100020: Rock_Chiseled_1A3_Tall
+    100022: Rock_Chiseled_1A3_Tall_Wide
+    100024: Rock_Chiseled_1A4
+    100026: Rock_Chiseled_1A4_Flat
+    100028: Rock_Chiseled_Group_1A1
+    100030: Rock_Chiseled_Group_1A2
+    100032: Rock_Flat_1A1
+    100034: Rock_Flat_Small_1A1
+    100036: Rock_Small_1A1
+    100038: Rock_Tall_1A1
+    400000: //RootNode
+    400002: Rock_1A1
+    400004: Rock_Big_1A1
+    400006: Rock_Chiseled_1A1
+    400008: Rock_Chiseled_1A1_Tall
+    400010: Rock_Chiseled_1A1_Tall_Wide
+    400012: Rock_Chiseled_1A2
+    400014: Rock_Chiseled_1A2_Tall
+    400016: Rock_Chiseled_1A2_Tall_Wide
+    400018: Rock_Chiseled_1A3
+    400020: Rock_Chiseled_1A3_Tall
+    400022: Rock_Chiseled_1A3_Tall_Wide
+    400024: Rock_Chiseled_1A4
+    400026: Rock_Chiseled_1A4_Flat
+    400028: Rock_Chiseled_Group_1A1
+    400030: Rock_Chiseled_Group_1A2
+    400032: Rock_Flat_1A1
+    400034: Rock_Flat_Small_1A1
+    400036: Rock_Small_1A1
+    400038: Rock_Tall_1A1
+    2300000: Rock_1A1
+    2300002: Rock_Big_1A1
+    2300004: Rock_Chiseled_1A1
+    2300006: Rock_Chiseled_1A1_Tall
+    2300008: Rock_Chiseled_1A1_Tall_Wide
+    2300010: Rock_Chiseled_1A2
+    2300012: Rock_Chiseled_1A2_Tall
+    2300014: Rock_Chiseled_1A2_Tall_Wide
+    2300016: Rock_Chiseled_1A3
+    2300018: Rock_Chiseled_1A3_Tall
+    2300020: Rock_Chiseled_1A3_Tall_Wide
+    2300022: Rock_Chiseled_1A4
+    2300024: Rock_Chiseled_1A4_Flat
+    2300026: Rock_Chiseled_Group_1A1
+    2300028: Rock_Chiseled_Group_1A2
+    2300030: Rock_Flat_1A1
+    2300032: Rock_Flat_Small_1A1
+    2300034: Rock_Small_1A1
+    2300036: Rock_Tall_1A1
+    3300000: Rock_1A1
+    3300002: Rock_Big_1A1
+    3300004: Rock_Chiseled_1A1
+    3300006: Rock_Chiseled_1A1_Tall
+    3300008: Rock_Chiseled_1A1_Tall_Wide
+    3300010: Rock_Chiseled_1A2
+    3300012: Rock_Chiseled_1A2_Tall
+    3300014: Rock_Chiseled_1A2_Tall_Wide
+    3300016: Rock_Chiseled_1A3
+    3300018: Rock_Chiseled_1A3_Tall
+    3300020: Rock_Chiseled_1A3_Tall_Wide
+    3300022: Rock_Chiseled_1A4
+    3300024: Rock_Chiseled_1A4_Flat
+    3300026: Rock_Chiseled_Group_1A1
+    3300028: Rock_Chiseled_Group_1A2
+    3300030: Rock_Flat_1A1
+    3300032: Rock_Flat_Small_1A1
+    3300034: Rock_Small_1A1
+    3300036: Rock_Tall_1A1
+    4300000: Rock_Chiseled_Group_1A2
+    4300002: Rock_Chiseled_Group_1A1
+    4300004: Rock_Chiseled_1A1_Tall_Wide
+    4300006: Rock_Chiseled_1A2_Tall_Wide
+    4300008: Rock_Chiseled_1A3_Tall_Wide
+    4300010: Rock_Chiseled_1A4_Flat
+    4300012: Rock_Chiseled_1A4
+    4300014: Rock_Chiseled_1A3_Tall
+    4300016: Rock_Chiseled_1A2_Tall
+    4300018: Rock_Chiseled_1A1_Tall
+    4300020: Rock_Chiseled_1A3
+    4300022: Rock_Chiseled_1A2
+    4300024: Rock_Chiseled_1A1
+    4300026: Rock_Flat_Small_1A1
+    4300028: Rock_Small_1A1
+    4300030: Rock_Big_1A1
+    4300032: Rock_Tall_1A1
+    4300034: Rock_Flat_1A1
+    4300036: Rock_1A1
+    6400000: Rock_1A1
+    6400002: Rock_Big_1A1
+    6400004: Rock_Chiseled_1A1
+    6400006: Rock_Chiseled_1A1_Tall
+    6400008: Rock_Chiseled_1A1_Tall_Wide
+    6400010: Rock_Chiseled_1A2
+    6400012: Rock_Chiseled_1A2_Tall
+    6400014: Rock_Chiseled_1A2_Tall_Wide
+    6400016: Rock_Chiseled_1A3
+    6400018: Rock_Chiseled_1A3_Tall
+    6400020: Rock_Chiseled_1A3_Tall_Wide
+    6400022: Rock_Chiseled_1A4
+    6400024: Rock_Chiseled_1A4_Flat
+    6400026: Rock_Chiseled_Group_1A1
+    6400028: Rock_Chiseled_Group_1A2
+    6400030: Rock_Flat_1A1
+    6400032: Rock_Flat_Small_1A1
+    6400034: Rock_Small_1A1
+    6400036: Rock_Tall_1A1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

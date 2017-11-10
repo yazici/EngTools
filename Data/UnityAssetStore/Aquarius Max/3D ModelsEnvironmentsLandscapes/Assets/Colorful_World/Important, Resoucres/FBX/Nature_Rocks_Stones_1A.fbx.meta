@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 784c07c655b95b34e8c4e732973b7496
+timeCreated: 1478048039
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Rock_1A
+    100004: Rock_1A2
+    100006: Rock_1A3
+    100008: Rock_2A
+    100010: Rock_2A2
+    100012: Rock_2A3
+    100014: Rock_Flat_1A
+    100016: Rock_Flat_1A2
+    100018: Rock_Flat_2A
+    100020: Rock_Flat_2A2
+    100022: Stone_Large_1A
+    100024: Stone_Large_1A2
+    100026: Stone_Large_2A
+    100028: Stone_Large_2A2
+    100030: Stone_Medium_1A
+    100032: Stone_Medium_1A2
+    100034: Stone_Medium_2A
+    100036: Stone_Medium_2A2
+    100038: Stone_Small_1A
+    100040: Stone_Small_1A2
+    100042: Stone_Small_1A3
+    100044: Stone_Small_2A
+    100046: Stone_Small_2A2
+    100048: Stone_Small_2A3
+    400000: //RootNode
+    400002: Rock_1A
+    400004: Rock_1A2
+    400006: Rock_1A3
+    400008: Rock_2A
+    400010: Rock_2A2
+    400012: Rock_2A3
+    400014: Rock_Flat_1A
+    400016: Rock_Flat_1A2
+    400018: Rock_Flat_2A
+    400020: Rock_Flat_2A2
+    400022: Stone_Large_1A
+    400024: Stone_Large_1A2
+    400026: Stone_Large_2A
+    400028: Stone_Large_2A2
+    400030: Stone_Medium_1A
+    400032: Stone_Medium_1A2
+    400034: Stone_Medium_2A
+    400036: Stone_Medium_2A2
+    400038: Stone_Small_1A
+    400040: Stone_Small_1A2
+    400042: Stone_Small_1A3
+    400044: Stone_Small_2A
+    400046: Stone_Small_2A2
+    400048: Stone_Small_2A3
+    2300000: Rock_1A
+    2300002: Rock_1A2
+    2300004: Rock_1A3
+    2300006: Rock_2A
+    2300008: Rock_2A2
+    2300010: Rock_2A3
+    2300012: Rock_Flat_1A
+    2300014: Rock_Flat_1A2
+    2300016: Rock_Flat_2A
+    2300018: Rock_Flat_2A2
+    2300020: Stone_Large_1A
+    2300022: Stone_Large_1A2
+    2300024: Stone_Large_2A
+    2300026: Stone_Large_2A2
+    2300028: Stone_Medium_1A
+    2300030: Stone_Medium_1A2
+    2300032: Stone_Medium_2A
+    2300034: Stone_Medium_2A2
+    2300036: Stone_Small_1A
+    2300038: Stone_Small_1A2
+    2300040: Stone_Small_1A3
+    2300042: Stone_Small_2A
+    2300044: Stone_Small_2A2
+    2300046: Stone_Small_2A3
+    3300000: Rock_1A
+    3300002: Rock_1A2
+    3300004: Rock_1A3
+    3300006: Rock_2A
+    3300008: Rock_2A2
+    3300010: Rock_2A3
+    3300012: Rock_Flat_1A
+    3300014: Rock_Flat_1A2
+    3300016: Rock_Flat_2A
+    3300018: Rock_Flat_2A2
+    3300020: Stone_Large_1A
+    3300022: Stone_Large_1A2
+    3300024: Stone_Large_2A
+    3300026: Stone_Large_2A2
+    3300028: Stone_Medium_1A
+    3300030: Stone_Medium_1A2
+    3300032: Stone_Medium_2A
+    3300034: Stone_Medium_2A2
+    3300036: Stone_Small_1A
+    3300038: Stone_Small_1A2
+    3300040: Stone_Small_1A3
+    3300042: Stone_Small_2A
+    3300044: Stone_Small_2A2
+    3300046: Stone_Small_2A3
+    4300000: Rock_2A
+    4300002: Stone_Large_2A
+    4300004: Stone_Small_2A2
+    4300006: Rock_2A3
+    4300008: Stone_Medium_2A
+    4300010: Rock_Flat_2A
+    4300012: Rock_2A2
+    4300014: Stone_Small_2A
+    4300016: Stone_Small_2A3
+    4300018: Stone_Large_2A2
+    4300020: Stone_Medium_2A2
+    4300022: Rock_Flat_2A2
+    4300024: Rock_Flat_1A2
+    4300026: Stone_Medium_1A2
+    4300028: Stone_Large_1A2
+    4300030: Stone_Small_1A3
+    4300032: Stone_Small_1A
+    4300034: Rock_1A2
+    4300036: Rock_Flat_1A
+    4300038: Stone_Medium_1A
+    4300040: Rock_1A3
+    4300042: Stone_Small_1A2
+    4300044: Stone_Large_1A
+    4300046: Rock_1A
+    6400000: Rock_1A
+    6400002: Rock_1A2
+    6400004: Rock_1A3
+    6400006: Rock_2A
+    6400008: Rock_2A2
+    6400010: Rock_2A3
+    6400012: Rock_Flat_1A
+    6400014: Rock_Flat_1A2
+    6400016: Rock_Flat_2A
+    6400018: Rock_Flat_2A2
+    6400020: Stone_Large_1A
+    6400022: Stone_Large_1A2
+    6400024: Stone_Large_2A
+    6400026: Stone_Large_2A2
+    6400028: Stone_Medium_1A
+    6400030: Stone_Medium_1A2
+    6400032: Stone_Medium_2A
+    6400034: Stone_Medium_2A2
+    6400036: Stone_Small_1A
+    6400038: Stone_Small_1A2
+    6400040: Stone_Small_1A3
+    6400042: Stone_Small_2A
+    6400044: Stone_Small_2A2
+    6400046: Stone_Small_2A3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

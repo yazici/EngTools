@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 4787a356d5c59944884c325a4b63f5b9
+timeCreated: 1478050893
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Grass_Mesh_1A
+    100002: Grass_Mesh_1A2
+    100004: Grass_Mesh_1A2_Short
+    100006: Grass_Mesh_1A2_Tall
+    100008: Grass_Mesh_1A3
+    100010: Grass_Mesh_1A3_Short
+    100012: Grass_Mesh_1A3_Tall
+    100014: Grass_Mesh_1A_Short
+    100016: Grass_Mesh_1A_Tall
+    100018: //RootNode
+    400000: Grass_Mesh_1A
+    400002: Grass_Mesh_1A2
+    400004: Grass_Mesh_1A2_Short
+    400006: Grass_Mesh_1A2_Tall
+    400008: Grass_Mesh_1A3
+    400010: Grass_Mesh_1A3_Short
+    400012: Grass_Mesh_1A3_Tall
+    400014: Grass_Mesh_1A_Short
+    400016: Grass_Mesh_1A_Tall
+    400018: //RootNode
+    2300000: Grass_Mesh_1A
+    2300002: Grass_Mesh_1A2
+    2300004: Grass_Mesh_1A2_Short
+    2300006: Grass_Mesh_1A2_Tall
+    2300008: Grass_Mesh_1A3
+    2300010: Grass_Mesh_1A3_Short
+    2300012: Grass_Mesh_1A3_Tall
+    2300014: Grass_Mesh_1A_Short
+    2300016: Grass_Mesh_1A_Tall
+    3300000: Grass_Mesh_1A
+    3300002: Grass_Mesh_1A2
+    3300004: Grass_Mesh_1A2_Short
+    3300006: Grass_Mesh_1A2_Tall
+    3300008: Grass_Mesh_1A3
+    3300010: Grass_Mesh_1A3_Short
+    3300012: Grass_Mesh_1A3_Tall
+    3300014: Grass_Mesh_1A_Short
+    3300016: Grass_Mesh_1A_Tall
+    4300000: Grass_Mesh_1A_Tall
+    4300002: Grass_Mesh_1A2_Tall
+    4300004: Grass_Mesh_1A3_Tall
+    4300006: Grass_Mesh_1A_Short
+    4300008: Grass_Mesh_1A2_Short
+    4300010: Grass_Mesh_1A3_Short
+    4300012: Grass_Mesh_1A3
+    4300014: Grass_Mesh_1A2
+    4300016: Grass_Mesh_1A
+    6400000: Grass_Mesh_1A
+    6400002: Grass_Mesh_1A2
+    6400004: Grass_Mesh_1A2_Short
+    6400006: Grass_Mesh_1A2_Tall
+    6400008: Grass_Mesh_1A3
+    6400010: Grass_Mesh_1A3_Short
+    6400012: Grass_Mesh_1A3_Tall
+    6400014: Grass_Mesh_1A_Short
+    6400016: Grass_Mesh_1A_Tall
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

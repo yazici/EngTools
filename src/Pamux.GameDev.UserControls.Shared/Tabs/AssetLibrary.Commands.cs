@@ -38,9 +38,8 @@ namespace Pamux.GameDev.UserControls.Tabs
                 return;
             }
 
-            $"{Settings.EngHarvestRoot}\\{unityAssetMetaData.Root.Name}".EnsureDirectory();
-
-            ((UnityPackageMetaData) unityAssetMetaData.Root).EnsureUnpacked();
+            unityAssetMetaData.UnityPackageHarvestRoot.EnsureDirectory();
+            unityAssetMetaData.EnsureUnpacked();
 
             unityAssetMetaData.Harvest(withDependencies);
         }
@@ -85,7 +84,7 @@ namespace Pamux.GameDev.UserControls.Tabs
             {
                 return;
             }
-            Process.Start(unityPackageMetaData.MetaDataFolder);
+            Process.Start(unityPackageMetaData.PamuxMetaDataDirectory);
         }
         public static RoutedCommand ViewMetadataCommand = new RoutedCommand();
         public void ViewMetadata(object sender, ExecutedRoutedEventArgs e)
@@ -95,7 +94,7 @@ namespace Pamux.GameDev.UserControls.Tabs
             {
                 return;
             }
-            Process.Start(unityPackageMetaData.MetaDataPath);
+            Process.Start(unityPackageMetaData.PamuxMetaDataPath);
         }
         public static RoutedCommand UnpackUnityPackageCommand = new RoutedCommand();
 

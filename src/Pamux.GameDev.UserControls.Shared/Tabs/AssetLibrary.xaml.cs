@@ -17,8 +17,6 @@ namespace Pamux.GameDev.UserControls.Tabs
     {
         public static AssetLibrary INSTANCE;
 
-        private string harvestPath;
-
         public static readonly IList<UnityPackageMetaData> AllAssets = new List<UnityPackageMetaData>();
         public static IList<UnityPackageMetaData> FilteredAssets { get; private set; }
 
