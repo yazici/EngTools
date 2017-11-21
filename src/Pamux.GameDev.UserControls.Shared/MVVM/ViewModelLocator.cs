@@ -31,8 +31,6 @@ namespace Pamux.GameDev.UserControls.ViewModels
         public static T FindChild<T>(DependencyObject uieSearchStart)
             where T : DependencyObject
         {
-
-
             for (int i = 0; i < VisualTreeHelper.GetChildrenCount(uieSearchStart); ++i)
             {
                 var child = VisualTreeHelper.GetChild(uieSearchStart, i);

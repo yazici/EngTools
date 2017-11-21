@@ -1,0 +1,79 @@
+﻿<UserControl
+    x:Class="Pamux.GameDev.UserControls.Controls.Node"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:controls="clr-namespace:Pamux.GameDev.UserControls.Controls"
+    mc:Ignorable="d"
+    d:DesignHeight="80"
+    d:DesignWidth="120">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../SharedResources.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid x:Name="grid" Width="{Binding Width}" Height="{Binding Height}" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="{Binding Mode=OneWay, Source={StaticResource NodePortRadius}}"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="{Binding Mode=OneWay, Source={StaticResource NodePortRadius}}"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="{Binding Mode=OneWay, Source={StaticResource NodeTitleAreaHeight}}"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Rectangle Grid.Row="0" Grid.Column ="1" 
+            Height="{Binding Mode=OneWay, Source={StaticResource NodeTitleAreaHeight}}"
+            Name="titleArea" 
+            Fill="{Binding Mode=OneWay, Source={StaticResource NodeTitleAreaFill}}" 
+            Stroke="{Binding Mode=OneWay, Source={StaticResource NodeStroke}}"/>
+
+        <Label Grid.Row="0" Grid.Column="1" Content="{Binding Title}" />
+
+        <Grid Grid.Row="1" Grid.Column="1" OpacityMask="Black">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="10"/>
+            </Grid.RowDefinitions>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="10"/>
+            </Grid.ColumnDefinitions>
+            
+            <Rectangle  
+                Grid.Row="0"         
+                Grid.Column="0" 
+                Grid.ColumnSpan="2" 
+                Grid.RowSpan="2"
+                Name="MainArea" 
+                Fill="{Binding Fill}"
+                Stroke="{Binding Mode=OneWay, Source={StaticResource NodeStroke}}"/>
+            
+            <Polygon 
+                Name="ResizeCorner"
+                Grid.Row="1" 
+                Grid.Column="1" 
+                Points="0,10, 10,0, 10,10"
+                Fill="DarkGray"
+                Stroke="Green"/>
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="0"  Grid.ColumnSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <ItemsControl Grid.Column="0" ItemsSource="{Binding LeftEdgePorts}" ItemTemplate="{Binding Mode=OneWay, Source={StaticResource LeftEdgePorts}}" />
+            <ItemsControl Grid.Column="1" ItemsSource="{Binding RightEdgePorts}" ItemTemplate="{Binding Mode=OneWay, Source={StaticResource RightEdgePorts}}" />
+        </Grid>
+    </Grid>
+</UserControl>

@@ -7,6 +7,13 @@
              xmlns:tabs="clr-namespace:Pamux.GameDev.UserControls.Tabs"
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../SharedResources.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
     <Grid>
         <Button Grid.Row="0" Content="Generate!" Command="{Binding GenerateNowCommand}" CommandParameter="{Binding}"/>
     </Grid>

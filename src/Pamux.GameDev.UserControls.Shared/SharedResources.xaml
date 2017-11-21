@@ -4,9 +4,12 @@
     xmlns:sys="clr-namespace:System;assembly=mscorlib"
     xmlns:conv="clr-namespace:Pamux.GameDev.UserControls.Converters"
     xmlns:local="clr-namespace:Pamux.GameDev.UserControls"
+    xmlns:ucm="clr-namespace:Pamux.GameDev.UserControls.Models"
+    xmlns:ucmv="clr-namespace:Pamux.GameDev.UserControls.ViewModels"
     xmlns:models="clr-namespace:Pamux.GameDev.Lib.Models;assembly=Pamux.GameDev.Lib"
     xmlns:iface="clr-namespace:Pamux.GameDev.Lib.Interfaces;assembly=Pamux.GameDev.Lib"
-    xmlns:tabs="clr-namespace:Pamux.GameDev.UserControls.Tabs">
+    xmlns:tabs="clr-namespace:Pamux.GameDev.UserControls.Tabs"
+    xmlns:controls="clr-namespace:Pamux.GameDev.UserControls.Controls">
 
     <conv:MathConverter x:Key="MathConverter"/>
     <sys:Int32 x:Key="ColumnSpacing">16</sys:Int32>
@@ -14,6 +17,64 @@
     <sys:Int32 x:Key="Spacing">16</sys:Int32>
     <sys:Int32 x:Key="LabelWidth">100</sys:Int32>
     <sys:Int32 x:Key="SingleTextBoxBandHeight">30</sys:Int32>
+    <sys:Int32 x:Key="ToolBarBandHeight">30</sys:Int32>
+    <sys:Int32 x:Key="ToolButtonHeight">28</sys:Int32>
+    <sys:Int32 x:Key="ToolButtonWidth">28</sys:Int32>
+    
+    <sys:Int32 x:Key="NodeTitleAreaHeight">24</sys:Int32>
+    <SolidColorBrush x:Key="NodeTitleAreaFill" Color="Gray" />
+    <SolidColorBrush x:Key="NodeStroke" Color="Black" />
+    
+    <SolidColorBrush x:Key="NodePortFill" Color="Yellow" />
+    <SolidColorBrush x:Key="NodePortStroke" Color="Green" />
+    <SolidColorBrush x:Key="NodePortForeground" Color="Black" />
+    <sys:Int32 x:Key="NodePortDiameter">8</sys:Int32>
+    <sys:Int32 x:Key="NodePortRadius">4</sys:Int32>
+    <sys:Int32 x:Key="NodePortFontSize">8</sys:Int32>
+
+    <DataTemplate x:Key="PortConnectorItemTemplate"  DataType="{x:Type ucm:NodePortConnectorModel}">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+        </StackPanel>
+    </DataTemplate>
+
+
+    <DataTemplate x:Key="NodeItemTemplate"  DataType="{x:Type ucm:NodeBaseModel}">
+        <StackPanel Canvas.Left="{Binding Left}" Canvas.Top="{Binding Top}" >
+            <controls:Node   />
+        </StackPanel>
+        <!--MouseMove="OnMouseMove" MouseLeftButtonDown="OnMouseLeftButtonDown" MouseLeftButtonUp="OnMouseLeftButtonUp"-->
+        
+    </DataTemplate>
+    
+    <DataTemplate x:Key="LeftEdgePorts"  DataType="{x:Type ucm:NodePortModel}">
+        <StackPanel  Orientation="Horizontal" HorizontalAlignment="Left">
+            <Ellipse 
+                Name="NodePort"
+                Tag="{Binding PortId}"
+                Width="{Binding Mode=OneWay, Source={StaticResource NodePortDiameter}}"
+                Height="{Binding Mode=OneWay, Source={StaticResource NodePortDiameter}}"
+                Fill="{Binding Mode=OneWay, Source={StaticResource NodePortFill}}" 
+                Stroke="{Binding Mode=OneWay, Source={StaticResource NodePortStroke}}" />
+            <Label Foreground="{Binding Mode=OneWay, Source={StaticResource NodePortForeground}}" 
+                   FontSize="{Binding Mode=OneWay, Source={StaticResource NodePortFontSize}}" Content="{Binding Label}" />
+        </StackPanel>
+    </DataTemplate>
+
+    <DataTemplate x:Key="RightEdgePorts"  DataType="{x:Type ucm:NodePortModel}">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Label Foreground="{Binding Mode=OneWay, Source={StaticResource NodePortForeground}}" 
+                   FontSize="{Binding Mode=OneWay, Source={StaticResource NodePortFontSize}}" 
+                   Content="{Binding Label}" />
+            <Ellipse 
+                Name="NodePort"
+                Tag="{Binding PortId}"
+                Width="{Binding Mode=OneWay, Source={StaticResource NodePortDiameter}}"
+                Height="{Binding Mode=OneWay, Source={StaticResource NodePortDiameter}}"
+                Fill="{Binding Mode=OneWay, Source={StaticResource NodePortFill}}" 
+                Stroke="{Binding Mode=OneWay, Source={StaticResource NodePortStroke}}" />
+            
+        </StackPanel>
+    </DataTemplate>
 
     <DataTemplate x:Key="ItemWithContextMenu">
         <StackPanel Orientation="Horizontal">

@@ -21,7 +21,23 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Controls\Node.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Controls\NodePortConnector.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="$(MSBuildThisFileDirectory)FolderPicker.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Panels\NodeEditorToolBarPanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Panels\NodeEditorPanel.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -57,6 +73,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Tabs\NodeEditor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="$(MSBuildThisFileDirectory)Tabs\Text2Speech.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -80,6 +100,7 @@
       <DependentUpon>BurgerMenu.xaml</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Commands\CommandBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Commands\AddNode.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Commands\GenerateNow.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ContentDependencyTree.xaml.cs">
       <DependentUpon>ContentDependencyTree.xaml</DependentUpon>
@@ -87,12 +108,25 @@
     <Compile Include="$(MSBuildThisFileDirectory)ContentDetailsGrid.xaml.cs">
       <DependentUpon>ContentDetailsGrid.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\CanvasItemsControl.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\Node.xaml.cs">
+      <DependentUpon>Node.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\NodePortConnector.xaml.cs">
+      <DependentUpon>NodePortConnector.xaml</DependentUpon>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Converters\AssetLibraryDetailsTemplateSelector.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Converters\MathConverter.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Converters\TreeItemTemplateSelector.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)FolderPicker.xaml.cs">
       <DependentUpon>FolderPicker.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Enums\NodeEdges.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\Models\NodePortConnectorModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\Models\NodePortModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\Models\NodeBaseModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\Models\NodeEditorModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\Models\NodeEditorToolBarModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MVVM\Models\GeneratorConfigModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MVVM\Models\GeneratorResultsModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MVVM\IPamuxModel.cs" />
@@ -100,8 +134,19 @@
     <Compile Include="$(MSBuildThisFileDirectory)MVVM\IPamuxMVVM.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MVVM\IPamuxViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MVVM\PamuxViewModelBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\ViewModels\NodePortConnectorViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\ViewModels\NodePortViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\ViewModels\NodeBaseViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\ViewModels\NodeEditorViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MVVM\ViewModels\NodeEditorToolBarViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Panels\GeneratorResultsPanel.xaml.cs">
       <DependentUpon>GeneratorResultsPanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Panels\NodeEditorToolBarPanel.xaml.cs">
+      <DependentUpon>NodeEditorToolBarPanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Panels\NodeEditorPanel.xaml.cs">
+      <DependentUpon>NodeEditorPanel.xaml</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Panels\GeneratorConfigPanel.xaml.cs">
       <DependentUpon>GeneratorConfigPanel.xaml</DependentUpon>
@@ -128,6 +173,9 @@
     <Compile Include="$(MSBuildThisFileDirectory)Tabs\Generators.xaml.cs">
       <DependentUpon>Generators.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Tabs\NodeEditor.xaml.cs">
+      <DependentUpon>NodeEditor.xaml</DependentUpon>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Tabs\Text2Speech.xaml.cs">
       <DependentUpon>Text2Speech.xaml</DependentUpon>
     </Compile>
@@ -146,6 +194,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)MVVM\ViewModelLocator.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Enums\" />
     <Folder Include="$(MSBuildThisFileDirectory)Utils\" />
   </ItemGroup>
 </Project>

@@ -40,6 +40,10 @@
                 <tabs:Generators/>
             </TabItem>
 
+            <TabItem Name="tabNodeEditor" Header="Node Editor" >
+                <tabs:NodeEditor/>
+            </TabItem>
+
             <TabItem Name="tabSettings" Header="Settings" >
                 <tabs:SettingsPage/>
             </TabItem>
